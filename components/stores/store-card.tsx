@@ -1,6 +1,6 @@
 "use client";
 
-import { Star, MapPin } from "lucide-react";
+import { Star, MapPin, Phone, Map, Globe, Facebook, Instagram, Link as LinkIcon } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import Image from "next/image";
 import { motion } from "framer-motion";
@@ -11,9 +11,31 @@ interface StoreProps {
   rating: number;
   image: string;
   tags: string[];
+  address: string;
+  phone: string;
+  reviewCount: number;
+  status: string;
+  website?: string;
+  facebook?: string;
+  instagram?: string;
+  yelp?: string;
 }
 
-export function Store({ name, location, rating, image, tags }: StoreProps) {
+export function Store({
+  name,
+  location,
+  rating,
+  image,
+  tags,
+  address,
+  phone,
+  reviewCount,
+  status,
+  website,
+  facebook,
+  instagram,
+  yelp
+}: StoreProps) {
   return (
     <motion.div
       initial={{ opacity: 0, scale: 0.95 }}
@@ -33,7 +55,15 @@ export function Store({ name, location, rating, image, tags }: StoreProps) {
         <CardHeader className="p-4">
           <div className="flex justify-between items-start">
             <div>
-              <h3 className="font-semibold text-lg">{name}</h3>
+              <h3 className="font-semibold text-lg">
+                {website ? (
+                  <a href={website} target="_blank" rel="noopener noreferrer" className="hover:underline">
+                    {name}
+                  </a>
+                ) : (
+                  name
+                )}
+              </h3>
               <p className="text-sm text-muted-foreground flex items-center">
                 <MapPin className="h-4 w-4 mr-1" />
                 {location}
@@ -49,7 +79,21 @@ export function Store({ name, location, rating, image, tags }: StoreProps) {
           </div>
         </CardHeader>
         <CardContent className="p-4 pt-0">
-          <div className="flex gap-2">
+          <p className="text-sm text-muted-foreground flex items-center">
+            <Map className="h-4 w-4 mr-1" />
+            {address}
+          </p>
+          <p className="text-sm text-muted-foreground flex items-center">
+            <Phone className="h-4 w-4 mr-1" />
+            {phone}
+          </p>
+          <p className="text-sm text-muted-foreground">
+            Reviews: {reviewCount}
+          </p>
+          <p className="text-sm text-muted-foreground">
+            Status: {status}
+          </p>
+          <div className="flex gap-2 mt-2">
             {tags.map((tag, index) => (
               <motion.span
                 key={tag}
@@ -61,6 +105,26 @@ export function Store({ name, location, rating, image, tags }: StoreProps) {
                 {tag}
               </motion.span>
             ))}
+          </div>
+          <div className="flex gap-2 mt-4">
+            {facebook && (
+              <a href={facebook} target="_blank" rel="noopener noreferrer" className="flex items-center text-blue-700 hover:underline">
+                <Facebook className="h-5 w-5 mr-1" />
+                Facebook
+              </a>
+            )}
+            {instagram && (
+              <a href={instagram} target="_blank" rel="noopener noreferrer" className="flex items-center text-pink-500 hover:underline">
+                <Instagram className="h-5 w-5 mr-1" />
+                Instagram
+              </a>
+            )}
+            {yelp && (
+              <a href={yelp} target="_blank" rel="noopener noreferrer" className="flex items-center text-red-700 hover:underline">
+                <LinkIcon className="h-5 w-5 mr-1" />
+                Yelp
+              </a>
+            )}
           </div>
         </CardContent>
       </Card>

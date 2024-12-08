@@ -1,9 +1,9 @@
-import { client } from '@/tina/__generated__/client'; // Adjust the path as necessary
 import StateClientComponent from './StateClientComponent';
 
 export default async function StatePage({ params }: { params: { state: string } }) {
-  // Fetch the data here if needed
-  return <StateClientComponent state={params.state} />;
+  const { state } = await params;
+
+  return <StateClientComponent state={state} />;
 }
 
 export async function generateStaticParams() {
