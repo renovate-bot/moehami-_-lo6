@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
+
 import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -98,6 +99,7 @@ export default function StateClientComponent({ state }: { state: string }) {
 
 
   return (
+    
     <div className="container mx-auto px-4 py-12">
       <div className="flex items-center gap-4 mb-8">
         <Link href="/">

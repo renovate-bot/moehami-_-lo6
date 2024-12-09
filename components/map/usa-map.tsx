@@ -9,7 +9,9 @@ export function USAMap() {
   const [activeState, setActiveState] = useState<string | null>(null);
 
   return (
+
     <div className="relative w-full aspect-[4/3] md:aspect-[16/9] bg-gradient-to-br from-background to-muted rounded-lg p-4 shadow-lg">
+      <span className="text-lg  justify-center">Find Bin Stores Near You</span>
       <USAStatesMap
         onStateHover={setActiveState}
         className="w-full h-full"
