@@ -1,0 +1,2233 @@
+{
+    "status": "OK",
+    "request_id": "737982c2-7008-497b-8cf0-760775aff98c",
+    "parameters": {
+        "query": "bin stores in virginia",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x89ba979490f1b289:0xcc95c55043069b68",
+            "google_id": "0x89ba979490f1b289:0xcc95c55043069b68",
+            "place_id": "ChIJibLxkJSXuokRaJsGQ1DFlcw",
+            "google_mid": "/g/11pwycj7lq",
+            "phone_number": "+17578723127",
+            "name": "Kool Bins",
+            "latitude": 36.9161417,
+            "longitude": -76.2181482,
+            "full_address": "Kool Bins, 2340 E Little Creek Rd, Norfolk, VA 23518",
+            "review_count": 348,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "https://www.koolbins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89ba979490f1b289:0xcc95c55043069b68",
+            "cid": "14741905903779748712",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJibLxkJSXuokRaJsGQ1DFlcw&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "108061241277278446241",
+            "owner_link": "https://maps.google.com/maps/contrib/108061241277278446241",
+            "owner_name": "Kool Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPwtlUP2QlIzFRTI_6zq6bfec9ALefrQd5iP3n8",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPwtlUP2QlIzFRTI_6zq6bfec9ALefrQd5iP3n8",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPwtlUP2QlIzFRTI_6zq6bfec9ALefrQd5iP3n8=w1440-h1800-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 36.915965199999995,
+                    "longitude": -76.2180578,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-03-01T00:00:00.000Z",
+                    "photo_timestamp": 1646092800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 603,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2340 E Little Creek Rd, Norfolk, VA 23518",
+            "order_link": null,
+            "price_level": null,
+            "district": "Roosevelt Gardens Area",
+            "street_address": "2340 E Little Creek Rd",
+            "city": "Norfolk",
+            "zipcode": "23518",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "koolbinsva@gmail.com",
+                    "swati.kool@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/kool_bins",
+                "yelp": "https://www.yelp.com/biz/kool-bins-norfolk",
+                "tiktok": "https://www.tiktok.com/@koolbins",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89ba9750670ac09d:0xc64c8e3b4b317e9d",
+            "google_id": "0x89ba9750670ac09d:0xc64c8e3b4b317e9d",
+            "place_id": "ChIJncAKZ1CXuokRnX4xSzuOTMY",
+            "google_mid": "/g/11tnw5xqml",
+            "phone_number": "+17579043806",
+            "name": "Treasure Hunt Liquidators Bin Mega Store",
+            "latitude": 36.8537719,
+            "longitude": -76.20092439999999,
+            "full_address": "Treasure Hunt Liquidators Bin Mega Store, 5957 E Virginia Beach Blvd #11, Norfolk, VA 23502",
+            "review_count": 146,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://treasurehuntliquidators.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89ba9750670ac09d:0xc64c8e3b4b317e9d",
+            "cid": "14288952103055490717",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJncAKZ1CXuokRnX4xSzuOTMY&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "114402597359195320571",
+            "owner_link": "https://maps.google.com/maps/contrib/114402597359195320571",
+            "owner_name": "Treasure Hunt Liquidators Bin Mega Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Clothing store",
+                "Craft store",
+                "Furniture store",
+                "General store",
+                "Home goods store",
+                "Kitchen supply store",
+                "Liquidator",
+                "Party store",
+                "Store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOw42Xi_PSCbJ6v-fBosIuDbJUnKGMNNvs71djV",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOw42Xi_PSCbJ6v-fBosIuDbJUnKGMNNvs71djV",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOw42Xi_PSCbJ6v-fBosIuDbJUnKGMNNvs71djV=w1351-h916-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 36.853882899999995,
+                    "longitude": -76.2009231,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-11T00:00:00.000Z",
+                    "photo_timestamp": 1686441600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 406,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "5957 E Virginia Beach Blvd #11, Norfolk, VA 23502",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5957 E Virginia Beach Blvd #11",
+            "city": "Norfolk",
+            "zipcode": "23502",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/TreasureHuntLiquidators",
+                "instagram": "https://www.instagram.com/treasurehuntliquidators",
+                "yelp": "https://www.yelp.com/biz/treasure-hunt-liquidators-norfolk",
+                "tiktok": "https://www.tiktok.com/@treasurehuntliquidators",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/treasure-hunt-liquidators",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b6c3aab2844977:0xbc344d473d16dad0",
+            "google_id": "0x89b6c3aab2844977:0xbc344d473d16dad0",
+            "place_id": "ChIJd0mEsqrDtokR0NoWPUdNNLw",
+            "google_mid": "/g/11t7l2yy9m",
+            "phone_number": "+15409406429",
+            "name": "Fred-Vegas Bins",
+            "latitude": 38.306159699999995,
+            "longitude": -77.4824829,
+            "full_address": "Fred-Vegas Bins, 1255 Emancipation Hwy A, Fredericksburg, VA 22401",
+            "review_count": 75,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "http://fred-vegasbins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b6c3aab2844977:0xbc344d473d16dad0",
+            "cid": "13561549346282330832",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd0mEsqrDtokR0NoWPUdNNLw&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "101657917326905024307",
+            "owner_link": "https://maps.google.com/maps/contrib/101657917326905024307",
+            "owner_name": "Fred-Vegas Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNZDgb36XJLRFWOn1YyYjT1vHZ-zcmxlsr_1rFD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNZDgb36XJLRFWOn1YyYjT1vHZ-zcmxlsr_1rFD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNZDgb36XJLRFWOn1YyYjT1vHZ-zcmxlsr_1rFD=w1406-h937-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.3059953,
+                    "longitude": -77.4821394,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-22T00:00:00.000Z",
+                    "photo_timestamp": 1716336000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 49,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1255 Emancipation Hwy A, Fredericksburg, VA 22401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1255 Emancipation Hwy A",
+            "city": "Fredericksburg",
+            "zipcode": "22401",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "fredvegasbins@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/FredVegasBins",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@fredvegasbin",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b07fd51fa35465:0x866ad97203a8b94b",
+            "google_id": "0x89b07fd51fa35465:0x866ad97203a8b94b",
+            "place_id": "ChIJZVSjH9V_sIkRS7moA3LZaoY",
+            "google_mid": "/g/11s9dmckfd",
+            "phone_number": "+15405723135",
+            "name": "DaaBIN Store - Newport News, VA",
+            "latitude": 37.1356239,
+            "longitude": -76.5149058,
+            "full_address": "DaaBIN Store - Newport News, VA, 12638 Jefferson Ave, Newport News, VA 23603",
+            "review_count": 63,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u201312 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "https://daabinstore.com/newport-news",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b07fd51fa35465:0x866ad97203a8b94b",
+            "cid": "9685793032324561227",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZVSjH9V_sIkRS7moA3LZaoY&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "103019690570137277159",
+            "owner_link": "https://maps.google.com/maps/contrib/103019690570137277159",
+            "owner_name": "DaaBIN Store - Newport News, VA",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOUW_d-cmQjIS5so104waL7f8X1mtiq8_4ppLDx",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOUW_d-cmQjIS5so104waL7f8X1mtiq8_4ppLDx",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOUW_d-cmQjIS5so104waL7f8X1mtiq8_4ppLDx=w640-h480-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.135549,
+                    "longitude": -76.5150521,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-05-28T00:00:00.000Z",
+                    "photo_timestamp": 1685232000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "12638 Jefferson Ave, Newport News, VA 23603",
+            "order_link": null,
+            "price_level": null,
+            "district": "Central Newport News",
+            "street_address": "12638 Jefferson Ave",
+            "city": "Newport News",
+            "zipcode": "23603",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "google_id": "0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "place_id": "ChIJh_C4GRTvtYkRgUylR38W1pA",
+            "google_mid": "/g/11sctptcrc",
+            "phone_number": null,
+            "name": "jackpot bins",
+            "latitude": 39.162798699999996,
+            "longitude": -78.1727403,
+            "full_address": "jackpot bins, 2012 S Loudoun St, Winchester, VA 22601",
+            "review_count": 56,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "cid": "10436553922396376193",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh_C4GRTvtYkRgUylR38W1pA&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "108897718231750671746",
+            "owner_link": "https://maps.google.com/maps/contrib/108897718231750671746",
+            "owner_name": "jackpot bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNDE7BnnVjHLqUojbkhK78Qh4gKeGQs9uizQBzp",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNDE7BnnVjHLqUojbkhK78Qh4gKeGQs9uizQBzp",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNDE7BnnVjHLqUojbkhK78Qh4gKeGQs9uizQBzp=w1536-h2048-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.163063,
+                    "longitude": -78.1735633,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-08T00:00:00.000Z",
+                    "photo_timestamp": 1673136000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2012 S Loudoun St, Winchester, VA 22601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2012 S Loudoun St",
+            "city": "Winchester",
+            "zipcode": "22601",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "google_id": "0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "place_id": "ChIJA6AZlWnBtokRvZkZjsFs1wM",
+            "google_mid": "/g/11h6t726x0",
+            "phone_number": null,
+            "name": "BIN CITY",
+            "latitude": 46.423669,
+            "longitude": -129.9427086,
+            "full_address": null,
+            "review_count": 49,
+            "rating": 3.9,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20137 PM"
+                ],
+                "Monday": [
+                    "12\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://m.facebook.com/BinCityUSA",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "cid": "276809480675105213",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA6AZlWnBtokRvZkZjsFs1wM&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "115228686235952794926",
+            "owner_link": "https://maps.google.com/maps/contrib/115228686235952794926",
+            "owner_name": "BIN CITY",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Appliance store",
+                "Camping store",
+                "Clothing store",
+                "Service establishment",
+                "Furniture store",
+                "Shoe store",
+                "Sporting goods store",
+                "Thrift store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu=w1280-h720-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.25485038445636,
+                    "longitude": -77.48611663912713,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-06-11T00:00:00.000Z",
+                    "photo_timestamp": 1560211200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Payments": {
+                        "Debit cards": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": null,
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": null,
+            "city": null,
+            "zipcode": null,
+            "state": null,
+            "country": null,
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x8852b336143e3e4f:0x41cecb5ef54fb35e",
+            "google_id": "0x8852b336143e3e4f:0x41cecb5ef54fb35e",
+            "place_id": "ChIJTz4-FDazUogRXrNP9V7LzkE",
+            "google_mid": "/g/11pp_66m8_",
+            "phone_number": "+14348064643",
+            "name": "ToteBoys Bin Store",
+            "latitude": 36.5858535,
+            "longitude": -79.4258651,
+            "full_address": "ToteBoys Bin Store, 3248 Riverside Dr, Danville, VA 24541",
+            "review_count": 53,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://toteboys.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8852b336143e3e4f:0x41cecb5ef54fb35e",
+            "cid": "4741951066370716510",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTz4-FDazUogRXrNP9V7LzkE&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "100802640714730805008",
+            "owner_link": "https://maps.google.com/maps/contrib/100802640714730805008",
+            "owner_name": "ToteBoys Bin Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNp6eyVZVBbpAx7rBlRMK00DBtGj8PpFnmlUxfL",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNp6eyVZVBbpAx7rBlRMK00DBtGj8PpFnmlUxfL",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNp6eyVZVBbpAx7rBlRMK00DBtGj8PpFnmlUxfL=w4000-h3000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 36.5859199,
+                    "longitude": -79.42593420000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-10-01T00:00:00.000Z",
+                    "photo_timestamp": 1664582400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 507,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "3248 Riverside Dr, Danville, VA 24541",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "3248 Riverside Dr",
+            "city": "Danville",
+            "zipcode": "24541",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "9292426868"
+                ],
+                "facebook": "https://www.facebook.com/fbtoteboys",
+                "instagram": "https://www.instagram.com/toteboys",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "google_id": "0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "place_id": "ChIJp8gnzq3vtYkRMqSKWXYBu7E",
+            "google_mid": "/g/11twwgy1h6",
+            "phone_number": "+15715698902",
+            "name": "Bin Royal- bin store",
+            "latitude": 39.187866299999996,
+            "longitude": -78.14621679999999,
+            "full_address": "Bin Royal- bin store, 822 Berryville Ave, Winchester, VA 22601",
+            "review_count": 16,
+            "rating": 3.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "cid": "12806831573178164274",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp8gnzq3vtYkRMqSKWXYBu7E&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "116835336796247778671",
+            "owner_link": "https://maps.google.com/maps/contrib/116835336796247778671",
+            "owner_name": "Bin Royal- bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Warehouse store",
+            "subtypes": [
+                "Warehouse store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_=w2160-h3840-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.1879025,
+                    "longitude": -78.1461221,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-15T00:00:00.000Z",
+                    "photo_timestamp": 1681516800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "822 Berryville Ave, Winchester, VA 22601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "822 Berryville Ave",
+            "city": "Winchester",
+            "zipcode": "22601",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b493352dcf294d:0xbfd844fcd9db0a07",
+            "google_id": "0x89b493352dcf294d:0xbfd844fcd9db0a07",
+            "place_id": "ChIJTSnPLTWTtIkRBwrb2fxE2L8",
+            "google_mid": "/g/11sjhmbptm",
+            "phone_number": "+15402172156",
+            "name": "BinTastic",
+            "latitude": 38.4332023,
+            "longitude": -78.84369629999999,
+            "full_address": "BinTastic, 1740 E Market St, Harrisonburg, VA 22802",
+            "review_count": 46,
+            "rating": 3.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100089814198561",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b493352dcf294d:0xbfd844fcd9db0a07",
+            "cid": "13823874908991195655",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTSnPLTWTtIkRBwrb2fxE2L8&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "105563702997977528838",
+            "owner_link": "https://maps.google.com/maps/contrib/105563702997977528838",
+            "owner_name": "BinTastic",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquidator",
+            "subtypes": [
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMcvH-sB3k0qf90UL2UXQOvq0ww2DwdgeyJhY4F",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMcvH-sB3k0qf90UL2UXQOvq0ww2DwdgeyJhY4F",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMcvH-sB3k0qf90UL2UXQOvq0ww2DwdgeyJhY4F=w2448-h2389-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.4331653,
+                    "longitude": -78.8438595,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-03T00:00:00.000Z",
+                    "photo_timestamp": 1685750400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "1740 E Market St, Harrisonburg, VA 22802",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1740 E Market St",
+            "city": "Harrisonburg",
+            "zipcode": "22802",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b7ad74d29a830b:0x26527f0ee43ad105",
+            "google_id": "0x89b7ad74d29a830b:0x26527f0ee43ad105",
+            "place_id": "ChIJC4Oa0nStt4kRBdE65A5_UiY",
+            "google_mid": "/g/11ngh7_fvc",
+            "phone_number": "+17036398744",
+            "name": "Black Friday daily deals",
+            "latitude": 38.724467,
+            "longitude": -77.12110559999999,
+            "full_address": "Black Friday daily deals, 8644 Richmond Hwy, Alexandria, VA 22309",
+            "review_count": 431,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/Black.Friday.daily.gifts",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b7ad74d29a830b:0x26527f0ee43ad105",
+            "cid": "2761409223466864901",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJC4Oa0nStt4kRBdE65A5_UiY&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "104320851678857900247",
+            "owner_link": "https://maps.google.com/maps/contrib/104320851678857900247",
+            "owner_name": "Black Friday daily deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Electrician"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMoYnv624fTwj5CdImdWquIQg_bAACgRJxOPBBK",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMoYnv624fTwj5CdImdWquIQg_bAACgRJxOPBBK",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMoYnv624fTwj5CdImdWquIQg_bAACgRJxOPBBK=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.7241937,
+                    "longitude": -77.1208843,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-06-21T00:00:00.000Z",
+                    "photo_timestamp": 1624233600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 457,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "8644 Richmond Hwy, Alexandria, VA 22309",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "8644 Richmond Hwy",
+            "city": "Alexandria",
+            "zipcode": "22309",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b65beccaf282b3:0xccab3f2de39c4184",
+            "google_id": "0x89b65beccaf282b3:0xccab3f2de39c4184",
+            "place_id": "ChIJs4LyyuxbtokRhEGc4y0_q8w",
+            "google_mid": "/g/11rmnlrwm7",
+            "phone_number": null,
+            "name": "Bin Deals of Manassas",
+            "latitude": 38.7574721,
+            "longitude": -77.465715,
+            "full_address": "Bin Deals of Manassas, 9107 Mathis Ave, Manassas, VA 20110",
+            "review_count": 73,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b65beccaf282b3:0xccab3f2de39c4184",
+            "cid": "14747950871079567748",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs4LyyuxbtokRhEGc4y0_q8w&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "111271420984780751180",
+            "owner_link": "https://maps.google.com/maps/contrib/111271420984780751180",
+            "owner_name": "Bin Deals of Manassas",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "CLOSED_TEMPORARILY",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPVUIFruNePBWVLXymqwtKEd-plB3VKdhYjBva6",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPVUIFruNePBWVLXymqwtKEd-plB3VKdhYjBva6",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPVUIFruNePBWVLXymqwtKEd-plB3VKdhYjBva6=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.757444899999996,
+                    "longitude": -77.46586620000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-10-12T00:00:00.000Z",
+                    "photo_timestamp": 1665532800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 57,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "9107 Mathis Ave, Manassas, VA 20110",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "9107 Mathis Ave",
+            "city": "Manassas",
+            "zipcode": "20110",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x884d95d492e8bf13:0x849b68c197da5835",
+            "google_id": "0x884d95d492e8bf13:0x849b68c197da5835",
+            "place_id": "ChIJE7_oktSVTYgRNVjal8Fom4Q",
+            "google_mid": "/g/11sw0gjwg9",
+            "phone_number": "+15403550859",
+            "name": "The Valley Overstock",
+            "latitude": 37.1804402,
+            "longitude": -80.41201269999999,
+            "full_address": "The Valley Overstock, 130 Jennelle Rd, Christiansburg, VA 24073",
+            "review_count": 57,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20131 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://thevalleyoverstock.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884d95d492e8bf13:0x849b68c197da5835",
+            "cid": "9555346215082285109",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE7_oktSVTYgRNVjal8Fom4Q&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "110039977694425699764",
+            "owner_link": "https://maps.google.com/maps/contrib/110039977694425699764",
+            "owner_name": "The Valley Overstock",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOCBAUbyiznqErmL4Byuvjo1v8Ij2bcrHxzy-7m",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOCBAUbyiznqErmL4Byuvjo1v8Ij2bcrHxzy-7m",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOCBAUbyiznqErmL4Byuvjo1v8Ij2bcrHxzy-7m=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.180244699999996,
+                    "longitude": -80.41194039999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-08-20T00:00:00.000Z",
+                    "photo_timestamp": 1692489600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "130 Jennelle Rd, Christiansburg, VA 24073",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "130 Jennelle Rd",
+            "city": "Christiansburg",
+            "zipcode": "24073",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/thevalleyoverstock",
+                "instagram": "https://www.instagram.com/thevalleyoverstock",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b10d4f66d225fb:0xa4a946e2620396d7",
+            "google_id": "0x89b10d4f66d225fb:0xa4a946e2620396d7",
+            "place_id": "ChIJ-yXSZk8NsYkR15YDYuJGqaQ",
+            "google_mid": "/g/11mvr9jjg5",
+            "phone_number": "+18049181551",
+            "name": "Blue streak liquidation",
+            "latitude": 37.5087231,
+            "longitude": -77.5870923,
+            "full_address": "Blue streak liquidation, 10364 Midlothian Tpke, Bon Air, VA 23235",
+            "review_count": 221,
+            "rating": 3.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20131 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20139 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b10d4f66d225fb:0xa4a946e2620396d7",
+            "cid": "11865092631405237975",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-yXSZk8NsYkR15YDYuJGqaQ&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "105114318380328321642",
+            "owner_link": "https://maps.google.com/maps/contrib/105114318380328321642",
+            "owner_name": "Blue streak liquidation",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMRUN802DrYz_ouiTKkIgALeVz_CW_2_ebldSHm",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMRUN802DrYz_ouiTKkIgALeVz_CW_2_ebldSHm",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMRUN802DrYz_ouiTKkIgALeVz_CW_2_ebldSHm=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.5085231,
+                    "longitude": -77.5868164,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-12-07T00:00:00.000Z",
+                    "photo_timestamp": 1607299200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "10364 Midlothian Tpke, Bon Air, VA 23235",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "10364 Midlothian Tpke",
+            "city": "Bon Air",
+            "zipcode": "23235",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b2219835aae2b1:0xce1e7a2f0f294917",
+            "google_id": "0x89b2219835aae2b1:0xce1e7a2f0f294917",
+            "place_id": "ChIJseKqNZghsokRF0kpDy96Hs4",
+            "google_mid": "/g/11ny4hdkrf",
+            "phone_number": "+14342984045",
+            "name": "The Deco Den & More",
+            "latitude": 37.0639428,
+            "longitude": -78.0068288,
+            "full_address": "The Deco Den & More, 1312 S Main St, Blackstone, VA 23824",
+            "review_count": 28,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://m.facebook.com/pg/thebargainbinva/about",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b2219835aae2b1:0xce1e7a2f0f294917",
+            "cid": "14852442963650890007",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJseKqNZghsokRF0kpDy96Hs4&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "115499777345573708145",
+            "owner_link": "https://maps.google.com/maps/contrib/115499777345573708145",
+            "owner_name": "The Deco Den & More",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMcvjkz4aKUGuS-aySQmASj0RGRRx2TAyzoDs2-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMcvjkz4aKUGuS-aySQmASj0RGRRx2TAyzoDs2-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMcvjkz4aKUGuS-aySQmASj0RGRRx2TAyzoDs2-=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.0638952,
+                    "longitude": -78.00653969999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-11-18T00:00:00.000Z",
+                    "photo_timestamp": 1637193600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1312 S Main St, Blackstone, VA 23824",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1312 S Main St",
+            "city": "Blackstone",
+            "zipcode": "23824",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x2849adbcef0b094f:0x1a060b045b166e96",
+            "google_id": "0x2849adbcef0b094f:0x1a060b045b166e96",
+            "place_id": "ChIJTwkL77ytSSgRlm4WWwQLBho",
+            "google_mid": "/g/11rdbgsf4g",
+            "phone_number": "+14343008353",
+            "name": "Lynchburg Treasure Hunt",
+            "latitude": 37.3695259,
+            "longitude": -79.18154229999999,
+            "full_address": "Lynchburg Treasure Hunt, 2819 Candlers Mountain Rd, Lynchburg, VA 24502",
+            "review_count": 156,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20133 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100075515124565&mibextid=LQQJ4d",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x2849adbcef0b094f:0x1a060b045b166e96",
+            "cid": "1875198408182361750",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTwkL77ytSSgRlm4WWwQLBho&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "102178542488683460982",
+            "owner_link": "https://maps.google.com/maps/contrib/102178542488683460982",
+            "owner_name": "Lynchburg Treasure Hunt",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMwuKTrrUAnQZsd2avqS_wnktm-8z7RUthflPDV",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMwuKTrrUAnQZsd2avqS_wnktm-8z7RUthflPDV",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMwuKTrrUAnQZsd2avqS_wnktm-8z7RUthflPDV=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.369475099999995,
+                    "longitude": -79.1811891,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-22T00:00:00.000Z",
+                    "photo_timestamp": 1669075200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 151,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "2819 Candlers Mountain Rd, Lynchburg, VA 24502",
+            "order_link": null,
+            "price_level": null,
+            "district": "Montview",
+            "street_address": "2819 Candlers Mountain Rd",
+            "city": "Lynchburg",
+            "zipcode": "24502",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x8852b3f159b5a4d3:0xcf1592070445c4f3",
+            "google_id": "0x8852b3f159b5a4d3:0xcf1592070445c4f3",
+            "place_id": "ChIJ06S1WfGzUogR88RFBAeSFc8",
+            "google_mid": "/g/11p6jh50s5",
+            "phone_number": null,
+            "name": "Circle Back In",
+            "latitude": 36.5723784,
+            "longitude": -79.4190076,
+            "full_address": "Circle Back In, 625 W Main St, Danville, VA 24541",
+            "review_count": 5,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20135:30 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8852b3f159b5a4d3:0xcf1592070445c4f3",
+            "cid": "14921993499196114163",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ06S1WfGzUogR88RFBAeSFc8&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "115449869647577596429",
+            "owner_link": "https://maps.google.com/maps/contrib/115449869647577596429",
+            "owner_name": "Circle Back In",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "MhGoivWFxQROLLEJ0sJ2gQ",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MhGoivWFxQROLLEJ0sJ2gQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=154.74078&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 36.57244224811365,
+                    "longitude": -79.4190451110235,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "625 W Main St, Danville, VA 24541",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "625 W Main St",
+            "city": "Danville",
+            "zipcode": "24541",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b1139eeb9a0ecf:0x769ccc0f6192de2",
+            "google_id": "0x89b1139eeb9a0ecf:0x769ccc0f6192de2",
+            "place_id": "ChIJzw6a654TsYkR4i0Z9sDMaQc",
+            "google_mid": "/g/11tk94t42d",
+            "phone_number": "+18046054677",
+            "name": "EZ DEALZ",
+            "latitude": 37.504864999999995,
+            "longitude": -77.47373639999999,
+            "full_address": "EZ DEALZ, 449 E Belt Blvd Ste A, Richmond, VA 23224",
+            "review_count": 32,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b1139eeb9a0ecf:0x769ccc0f6192de2",
+            "cid": "534183159954746850",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzw6a654TsYkR4i0Z9sDMaQc&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "113176827115536816197",
+            "owner_link": "https://maps.google.com/maps/contrib/113176827115536816197",
+            "owner_name": "EZ DEALZ",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP4ZKsfoOiITfr4YtJnGeooqDtiUg5qReb3d2Hh",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP4ZKsfoOiITfr4YtJnGeooqDtiUg5qReb3d2Hh",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP4ZKsfoOiITfr4YtJnGeooqDtiUg5qReb3d2Hh=w1080-h1440-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.504308699999996,
+                    "longitude": -77.473568,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-23T00:00:00.000Z",
+                    "photo_timestamp": 1671753600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 92,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "449 E Belt Blvd Ste A, Richmond, VA 23224",
+            "order_link": null,
+            "price_level": null,
+            "district": "South Richmond",
+            "street_address": "449 E Belt Blvd Ste A",
+            "city": "Richmond",
+            "zipcode": "23224",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "google_id": "0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "place_id": "ChIJvzQuLCoDyokRFedp-U1LPTs",
+            "google_mid": "/g/11qplhy75l",
+            "phone_number": "+13049012431",
+            "name": "10 To 1 Bins",
+            "latitude": 39.4582426,
+            "longitude": -77.9628451,
+            "full_address": "10 To 1 Bins, 137 N Queen St, Martinsburg, WV 25401",
+            "review_count": 25,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "cid": "4268650820086130453",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvzQuLCoDyokRFedp-U1LPTs&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "117317659362011197317",
+            "owner_link": "https://maps.google.com/maps/contrib/117317659362011197317",
+            "owner_name": "10 To 1 Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM=w4080-h3072-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.4583364,
+                    "longitude": -77.963303,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-12-15T00:00:00.000Z",
+                    "photo_timestamp": 1702598400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": false,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "137 N Queen St, Martinsburg, WV 25401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "137 N Queen St",
+            "city": "Martinsburg",
+            "zipcode": "25401",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b655d94148127b:0xdd142ffcbf2bfdd1",
+            "google_id": "0x89b655d94148127b:0xdd142ffcbf2bfdd1",
+            "place_id": "ChIJexJIQdlVtokR0f0rv_wvFN0",
+            "google_mid": "/g/11tjgp5c1s",
+            "phone_number": "+17034904400",
+            "name": "Black Friday daily deals",
+            "latitude": 38.6347534,
+            "longitude": -77.2702604,
+            "full_address": "Black Friday daily deals, 14647 Richmond Hwy, Woodbridge, VA 22191",
+            "review_count": 62,
+            "rating": 3.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b655d94148127b:0xdd142ffcbf2bfdd1",
+            "cid": "15930410544501882321",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJexJIQdlVtokR0f0rv_wvFN0&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "103290502264980737313",
+            "owner_link": "https://maps.google.com/maps/contrib/103290502264980737313",
+            "owner_name": "Black Friday daily deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOF1dcrDIQUZkFWaMHnahIK11VwnMXvNrVoyRTK",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOF1dcrDIQUZkFWaMHnahIK11VwnMXvNrVoyRTK",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOF1dcrDIQUZkFWaMHnahIK11VwnMXvNrVoyRTK=w768-h1024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.6350212,
+                    "longitude": -77.27005910000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-20T00:00:00.000Z",
+                    "photo_timestamp": 1671494400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "14647 Richmond Hwy, Woodbridge, VA 22191",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "14647 Richmond Hwy",
+            "city": "Woodbridge",
+            "zipcode": "22191",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        },
+        {
+            "business_id": "0x89b4610833540cd3:0x9facff438ec54d8d",
+            "google_id": "0x89b4610833540cd3:0x9facff438ec54d8d",
+            "place_id": "ChIJ0wxUMwhhtIkRjU3FjkP_rJ8",
+            "google_mid": "/g/11v5vhjfmq",
+            "phone_number": "+15402466158",
+            "name": "Elkton Bins & Bargains",
+            "latitude": 38.407365,
+            "longitude": -78.623977,
+            "full_address": "Elkton Bins & Bargains, 315 W Spotswood Trail, Elkton, VA 22827",
+            "review_count": 2,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b4610833540cd3:0x9facff438ec54d8d",
+            "cid": "11505851813647961485",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0wxUMwhhtIkRjU3FjkP_rJ8&q=bin+stores+in+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "107514730826858776567",
+            "owner_link": "https://maps.google.com/maps/contrib/107514730826858776567",
+            "owner_name": "Elkton Bins & Bargains",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "CLOSED_TEMPORARILY",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMSG8OCIb5qNayKBAFd3DkIkDzCgc2wR9FkQKwd",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMSG8OCIb5qNayKBAFd3DkIkDzCgc2wR9FkQKwd",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMSG8OCIb5qNayKBAFd3DkIkDzCgc2wR9FkQKwd=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.4076915,
+                    "longitude": -78.6239006,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-08-20T00:00:00.000Z",
+                    "photo_timestamp": 1692489600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    }
+                }
+            },
+            "address": "315 W Spotswood Trail, Elkton, VA 22827",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "315 W Spotswood Trail",
+            "city": "Elkton",
+            "zipcode": "22827",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 70
+        }
+    ]
+}

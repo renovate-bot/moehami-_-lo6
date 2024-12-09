@@ -1,0 +1,2394 @@
+{
+    "status": "OK",
+    "request_id": "1e2273eb-e50e-4b3d-ad6b-cf84b9c937d0",
+    "parameters": {
+        "query": "bin stores in new_hampshire",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x89e3b0640a2aa791:0x45eecb910bb141d8",
+            "google_id": "0x89e3b0640a2aa791:0x45eecb910bb141d8",
+            "place_id": "ChIJkacqCmSw44kR2EGxC5HL7kU",
+            "google_mid": "/g/11b6sr2ksd",
+            "phone_number": "+16037186111",
+            "name": "Goodwill Store and Buy the Pound Outlet",
+            "latitude": 42.730706999999995,
+            "longitude": -71.423817,
+            "full_address": "Goodwill Store and Buy the Pound Outlet, 9 Wason Rd, Hudson, NH 03051",
+            "review_count": 410,
+            "rating": 3.9,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 7\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "7 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u20134 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e3b0640a2aa791:0x45eecb910bb141d8",
+            "cid": "5039188856901026264",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkacqCmSw44kR2EGxC5HL7kU&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "102017387824737930424",
+            "owner_link": "https://maps.google.com/maps/contrib/102017387824737930424",
+            "owner_name": "Goodwill Store and Buy the Pound Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Store",
+                "Warehouse"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMHrlefRu8291-vTUEegEsnYdvo0kErh-FXuwfo",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMHrlefRu8291-vTUEegEsnYdvo0kErh-FXuwfo",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMHrlefRu8291-vTUEegEsnYdvo0kErh-FXuwfo=w1932-h2576-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.7309902,
+                    "longitude": -71.42409669999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-07-15T00:00:00.000Z",
+                    "photo_timestamp": 1500076800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 117,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false,
+                        "Language assistance": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true,
+                        "Electronics": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "9 Wason Rd, Hudson, NH 03051",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "9 Wason Rd",
+            "city": "Hudson",
+            "zipcode": "03051",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@goodwillnne.org"
+                ],
+                "phone_numbers": [
+                    "0403820777463",
+                    "0303160355482",
+                    "3612641467"
+                ],
+                "facebook": "https://www.facebook.com/goodwillnne",
+                "instagram": "https://www.instagram.com/goodwillnne",
+                "yelp": "https://www.yelp.com/biz/goodwill-store-bangor",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillnne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e26a8dc740bc41:0xb9c3d6ddef92f232",
+            "google_id": "0x89e26a8dc740bc41:0xb9c3d6ddef92f232",
+            "place_id": "ChIJQbxAx41q4okRMvKS793Ww7k",
+            "google_mid": "/g/1thkspzf",
+            "phone_number": "+16032249700",
+            "name": "Bona Fide | General Store + Refill Shop",
+            "latitude": 43.2048838,
+            "longitude": -71.5360977,
+            "full_address": "Bona Fide | General Store + Refill Shop, 25 N Main St, Concord, NH 03301",
+            "review_count": 104,
+            "rating": 4.9,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 12\u202fPM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "12\u20136 PM"
+                ],
+                "Tuesday": [
+                    "12\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.bonafide.eco",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e26a8dc740bc41:0xb9c3d6ddef92f232",
+            "cid": "13385778766170747442",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQbxAx41q4okRMvKS793Ww7k&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "105021591926544147412",
+            "owner_link": "https://maps.google.com/maps/contrib/105021591926544147412",
+            "owner_name": "Bona Fide | General Store + Refill Shop",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Baby store",
+                "Boutique",
+                "Children's store",
+                "Gift shop",
+                "Organic shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNl_Pd61BDkUtiHl3p2BoqGpjT8djEXwKO6lVAt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNl_Pd61BDkUtiHl3p2BoqGpjT8djEXwKO6lVAt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNl_Pd61BDkUtiHl3p2BoqGpjT8djEXwKO6lVAt=w1200-h1600-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.204921999999996,
+                    "longitude": -71.53589939999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-03-27T00:00:00.000Z",
+                    "photo_timestamp": 1616803200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "25 N Main St, Concord, NH 03301",
+            "order_link": "https://www.google.com/maps/reserve/m/i6-8gp844S0?source=pa&opi=79508299&hl=en-US&gei=uqf5ZsfcMv2S9u8P9Z2joAY&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26q%3Dbin%2Bstores%2Bin%2Bnew_hampshire%26hl%3Den%26gl%3Dus%26pb%3D!4m12!1m3!1d66304.68279353352!2d-95.712891!3d37.09024!2m3!1f0!2f0!3f0!3m2!1i1000!1i1000!4f13.1!7i20!10b1!12m18!1m2!18b1!30b1!2m3!5m1!6e2!20e3!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!94b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1s9YG0ZpUlnY7Fzw-t059I:2!2s1i:0,t:11886,p:9YG0ZpUlnY7Fzw-t059I:2!7e81!12e5!17s9YG0ZpUlnY7Fzw-t059I:32!18e15!24m95!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!12b1!13b1!14b1!17b1!20b1!21b1!22b1!25b1!27m1!1b0!28b0!31b0!32b0!33m1!1b0!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m19!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!6m1!1e1!9b1!89b1!103b1!113b1!117b1!122m1!1b1!125b0!126b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i269!1m6!1m2!1i1462!2i0!2m2!1i1512!2i269!1m6!1m2!1i0!2i0!2m2!1i1512!2i20!1m6!1m2!1i0!2i249!2m2!1i1512!2i269!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!47m0!49m9!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!50m4!2e2!3m2!1b1!3b1!61b1!67m2!7b1!10b1!69i701",
+            "price_level": null,
+            "district": null,
+            "street_address": "25 N Main St",
+            "city": "Concord",
+            "zipcode": "03301",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "team@bonafide.eco"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/bonafide.eco",
+                "instagram": "https://www.instagram.com/bonafide.eco",
+                "yelp": "https://www.yelp.com/biz/bona-fide-concord-3",
+                "tiktok": "https://www.tiktok.com/@bonafide.eco",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bona-fide-eco",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/bonafideeco"
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e3c97d3c4feb89:0x4dfc78dba2b3b21d",
+            "google_id": "0x89e3c97d3c4feb89:0x4dfc78dba2b3b21d",
+            "place_id": "ChIJietPPH3J44kRHbKzott4_E0",
+            "google_mid": "/g/1td9x43s",
+            "phone_number": "+16036720010",
+            "name": "Linen & Shade Bin",
+            "latitude": 42.8176942,
+            "longitude": -71.6012556,
+            "full_address": "Linen & Shade Bin, 28-2 NH-101A, Amherst, NH 03031",
+            "review_count": 134,
+            "rating": 4.9,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": "http://www.linenandshade.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e3c97d3c4feb89:0x4dfc78dba2b3b21d",
+            "cid": "5619499319774392861",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJietPPH3J44kRHbKzott4_E0&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "109334095692115898054",
+            "owner_link": "https://maps.google.com/maps/contrib/109334095692115898054",
+            "owner_name": "Linen & Shade Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Window treatment store",
+            "subtypes": [
+                "Window treatment store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPqo4QPzY4dvdxFlM7PA622XYybA3yHyZNkaoJm",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPqo4QPzY4dvdxFlM7PA622XYybA3yHyZNkaoJm",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPqo4QPzY4dvdxFlM7PA622XYybA3yHyZNkaoJm=w860-h331-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.8175467,
+                    "longitude": -71.6015453,
+                    "type": "photo",
+                    "photo_datetime_utc": "2014-08-22T00:00:00.000Z",
+                    "photo_timestamp": 1408665600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "28-2 NH-101A, Amherst, NH 03031",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "28-2 NH-101A",
+            "city": "Amherst",
+            "zipcode": "03031",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/LinenAndShadeBin",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2bf0b77236d4b:0xe923076162d4741",
+            "google_id": "0x89e2bf0b77236d4b:0xe923076162d4741",
+            "place_id": "ChIJS20jdwu_4okRQUctFnYwkg4",
+            "google_mid": "/g/1tf71yq6",
+            "phone_number": "+16034229525",
+            "name": "Bull Moose",
+            "latitude": 43.0938568,
+            "longitude": -70.79282189999999,
+            "full_address": "Bull Moose, 1981 Woodbury Ave, Portsmouth, NH 03801",
+            "review_count": 738,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20139 PM"
+                ]
+            },
+            "website": "http://www.bullmoose.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2bf0b77236d4b:0xe923076162d4741",
+            "cid": "1049954946867087169",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS20jdwu_4okRQUctFnYwkg4&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "102006567918767445308",
+            "owner_link": "https://maps.google.com/maps/contrib/102006567918767445308",
+            "owner_name": "Bull Moose",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store",
+                "CD store",
+                "DVD store",
+                "Used CD store",
+                "Video game store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMmmVXRg8qBzze9VQXrUUWTPj_PfDzzfp9IDLhI",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMmmVXRg8qBzze9VQXrUUWTPj_PfDzzfp9IDLhI",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMmmVXRg8qBzze9VQXrUUWTPj_PfDzzfp9IDLhI=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.07609423426833,
+                    "longitude": -70.75933710608848,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-02-12T00:00:00.000Z",
+                    "photo_timestamp": 1581465600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 120,
+            "about": {
+                "summary": "Retail chain carrying music, movies & video games in a variety of formats, plus books & gifts.",
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1981 Woodbury Ave, Portsmouth, NH 03801",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1981 Woodbury Ave",
+            "city": "Portsmouth",
+            "zipcode": "03801",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "customersupport@bullmoose.com",
+                    "ghostofpaulrevere@gmail.com",
+                    "spencer.albee@gmail.com",
+                    "jefferson.beamplane@gmail.com",
+                    "maxwellmetayer@gmail.com"
+                ],
+                "phone_numbers": [
+                    "793447394312",
+                    "0020015081644",
+                    "602438667062",
+                    "602438667079",
+                    "814131012739"
+                ],
+                "facebook": "https://www.facebook.com/BullMooseStores",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@bullmoosestores",
+                "snapchat": null,
+                "twitter": "https://twitter.com/bullmoose",
+                "linkedin": "https://www.linkedin.com/company/bull-moose",
+                "github": null,
+                "youtube": "https://www.youtube.com/bullmoosestore",
+                "pinterest": "https://www.pinterest.com/bullmoosestores"
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x4cb335f46b8436ed:0xb22e8c0d10de10c1",
+            "google_id": "0x4cb335f46b8436ed:0xb22e8c0d10de10c1",
+            "place_id": "ChIJ7TaEa_Q1s0wRwRDeEA2MLrI",
+            "google_mid": "/g/11t60brk5b",
+            "phone_number": "+16035278124",
+            "name": "NH Vintage Vinyl",
+            "latitude": 43.52859,
+            "longitude": -71.47026199999999,
+            "full_address": "NH Vintage Vinyl, 633 Main St, Laconia, NH 03246",
+            "review_count": 90,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://nhvintagevinyl.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cb335f46b8436ed:0xb22e8c0d10de10c1",
+            "cid": "12839353575425315009",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7TaEa_Q1s0wRwRDeEA2MLrI&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "101115598497020323848",
+            "owner_link": "https://maps.google.com/maps/contrib/101115598497020323848",
+            "owner_name": "NH Vintage Vinyl",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNBNlKwbFwxwcbQo19DkF7GAiz1gTPJC0A1pHO4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNBNlKwbFwxwcbQo19DkF7GAiz1gTPJC0A1pHO4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNBNlKwbFwxwcbQo19DkF7GAiz1gTPJC0A1pHO4=w1170-h854-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.528526799999995,
+                    "longitude": -71.4701537,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-11T00:00:00.000Z",
+                    "photo_timestamp": 1723334400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "633 Main St, Laconia, NH 03246",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "633 Main St",
+            "city": "Laconia",
+            "zipcode": "03246",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/nhvintagevinyl",
+                "instagram": "https://www.instagram.com/nhvintagevinyl",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@nhvintagevinyl603",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/c/AaronWhited",
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e1738b61cade21:0xe1940fc0c5f63ce7",
+            "google_id": "0x89e1738b61cade21:0xe1940fc0c5f63ce7",
+            "place_id": "ChIJId7KYYtz4YkR5zz2xcAPlOE",
+            "google_mid": "/g/11j0t8r2jb",
+            "phone_number": null,
+            "name": "Mr.G's",
+            "latitude": 42.933464199999996,
+            "longitude": -72.2916599,
+            "full_address": "Mr.G's, 371 West St, Keene, NH 03431",
+            "review_count": 16,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.mrgssuperstores.com",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e1738b61cade21:0xe1940fc0c5f63ce7",
+            "cid": "16254634275716349159",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJId7KYYtz4YkR5zz2xcAPlOE&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "109537652678732747860",
+            "owner_link": "https://maps.google.com/maps/contrib/109537652678732747860",
+            "owner_name": "Mr.G's",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquidator",
+            "subtypes": [
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP4QtVayA261vna65XyAgQNmik0L-Bs82ekp_hk",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP4QtVayA261vna65XyAgQNmik0L-Bs82ekp_hk",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP4QtVayA261vna65XyAgQNmik0L-Bs82ekp_hk=w1468-h3264-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.9330697,
+                    "longitude": -72.2918095,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-12-05T00:00:00.000Z",
+                    "photo_timestamp": 1638662400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "371 West St, Keene, NH 03431",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "371 West St",
+            "city": "Keene",
+            "zipcode": "03431",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "mrgsoffice@yahoo.com",
+                    "ebaymrgs@yahoo.com"
+                ],
+                "phone_numbers": [
+                    "6034455022",
+                    "8024639547"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e245af11402f13:0xd584ea6c4e0a80ff",
+            "google_id": "0x89e245af11402f13:0xd584ea6c4e0a80ff",
+            "place_id": "ChIJEy9AEa9F4okR_4AKTmzqhNU",
+            "google_mid": "/g/1tdfjpmq",
+            "phone_number": "+16036236141",
+            "name": "Goodwill Store & Donation Center",
+            "latitude": 43.055478099999995,
+            "longitude": -71.4434548,
+            "full_address": "Goodwill Store & Donation Center, 1328 Hooksett Rd, Hooksett, NH 03106",
+            "review_count": 330,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e245af11402f13:0xd584ea6c4e0a80ff",
+            "cid": "15385679977891135743",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEy9AEa9F4okR_4AKTmzqhNU&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "109339731583652782075",
+            "owner_link": "https://maps.google.com/maps/contrib/109339731583652782075",
+            "owner_name": "Goodwill Store & Donation Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMBJr42IvSjPyvBBPa9TN3ziGhxX-AlMec5rLzR",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMBJr42IvSjPyvBBPa9TN3ziGhxX-AlMec5rLzR",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMBJr42IvSjPyvBBPa9TN3ziGhxX-AlMec5rLzR=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.05547812967787,
+                    "longitude": -71.44345481109855,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-02-17T00:00:00.000Z",
+                    "photo_timestamp": 1487289600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 74,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1328 Hooksett Rd, Hooksett, NH 03106",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1328 Hooksett Rd",
+            "city": "Hooksett",
+            "zipcode": "03106",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@goodwillnne.org"
+                ],
+                "phone_numbers": [
+                    "0403820777463",
+                    "0303160355482",
+                    "3612641467"
+                ],
+                "facebook": "https://www.facebook.com/goodwillnne",
+                "instagram": "https://www.instagram.com/goodwillnne",
+                "yelp": "https://www.yelp.com/biz/goodwill-store-bangor",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillnne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e6e72d3e390301:0x3709545503af8976",
+            "google_id": "0x89e6e72d3e390301:0x3709545503af8976",
+            "place_id": "ChIJAQM5Pi3n5okRdomvA1VUCTc",
+            "google_mid": "/g/11vbwhpj_n",
+            "phone_number": "+14132414425",
+            "name": "BLACK FRIDAY BIN STORE",
+            "latitude": 42.101959099999995,
+            "longitude": -72.60957479999999,
+            "full_address": "BLACK FRIDAY BIN STORE, 520 Main St, West Springfield, MA 01089",
+            "review_count": 5,
+            "rating": 2.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e6e72d3e390301:0x3709545503af8976",
+            "cid": "3965793670987221366",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQM5Pi3n5okRdomvA1VUCTc&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "108323186853299664039",
+            "owner_link": "https://maps.google.com/maps/contrib/108323186853299664039",
+            "owner_name": "BLACK FRIDAY BIN STORE",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.1021274,
+                    "longitude": -72.60943560000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-12-11T00:00:00.000Z",
+                    "photo_timestamp": 1702252800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "520 Main St, West Springfield, MA 01089",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "520 Main St",
+            "city": "West Springfield",
+            "zipcode": "01089",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2c0466898c32b:0xc0c40134a230bac8",
+            "google_id": "0x89e2c0466898c32b:0xc0c40134a230bac8",
+            "place_id": "ChIJK8OYaEbA4okRyLowojQBxMA",
+            "google_mid": "/g/12j88dypl",
+            "phone_number": "+16034302040",
+            "name": "Goodwill Store",
+            "latitude": 43.0547435,
+            "longitude": -70.77048479999999,
+            "full_address": "Goodwill Store, 720 Lafayette Rd, Portsmouth, NH 03801",
+            "review_count": 306,
+            "rating": 3.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2c0466898c32b:0xc0c40134a230bac8",
+            "cid": "13890228476288481992",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJK8OYaEbA4okRyLowojQBxMA&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "118119500608221151859",
+            "owner_link": "https://maps.google.com/maps/contrib/118119500608221151859",
+            "owner_name": "Goodwill Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Second hand store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMaW5Y9_DW81CO---dh-nkNvdZ0yJ-Ojr1wrv-L",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMaW5Y9_DW81CO---dh-nkNvdZ0yJ-Ojr1wrv-L",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMaW5Y9_DW81CO---dh-nkNvdZ0yJ-Ojr1wrv-L=w3120-h4160-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.05475329461173,
+                    "longitude": -70.77051360693606,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-08-13T00:00:00.000Z",
+                    "photo_timestamp": 1660348800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 64,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false,
+                        "Language assistance": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "720 Lafayette Rd, Portsmouth, NH 03801",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "720 Lafayette Rd",
+            "city": "Portsmouth",
+            "zipcode": "03801",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@goodwillnne.org"
+                ],
+                "phone_numbers": [
+                    "0403820777463",
+                    "0303160355482",
+                    "3612641467"
+                ],
+                "facebook": "https://www.facebook.com/goodwillnne",
+                "instagram": "https://www.instagram.com/goodwillnne",
+                "yelp": "https://www.yelp.com/biz/goodwill-store-bangor",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillnne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2e650cb7154d9:0x3cdb7be4f20a9986",
+            "google_id": "0x89e2e650cb7154d9:0x3cdb7be4f20a9986",
+            "place_id": "ChIJ2VRxy1Dm4okRhpkK8uR72zw",
+            "google_mid": "/g/11b8v9q0td",
+            "phone_number": "+16034740980",
+            "name": "Goodwill Store: Seabrook",
+            "latitude": 42.8914652,
+            "longitude": -70.8701308,
+            "full_address": "Goodwill Store: Seabrook, 21 Chevy Chase Rd, Seabrook, NH 03874",
+            "review_count": 194,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2e650cb7154d9:0x3cdb7be4f20a9986",
+            "cid": "4385234885418850694",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2VRxy1Dm4okRhpkK8uR72zw&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "107540222462942617993",
+            "owner_link": "https://maps.google.com/maps/contrib/107540222462942617993",
+            "owner_name": "Goodwill Store: Seabrook",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOq-xHDF0qwjp5bgFdjjuqAt5AOEn4aqVpwhbND",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOq-xHDF0qwjp5bgFdjjuqAt5AOEn4aqVpwhbND",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOq-xHDF0qwjp5bgFdjjuqAt5AOEn4aqVpwhbND=w1400-h933-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.8916544,
+                    "longitude": -70.8700975,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-05-29T00:00:00.000Z",
+                    "photo_timestamp": 1559088000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 75,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false,
+                        "Language assistance": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "21 Chevy Chase Rd, Seabrook, NH 03874",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "21 Chevy Chase Rd",
+            "city": "Seabrook",
+            "zipcode": "03874",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@goodwillnne.org"
+                ],
+                "phone_numbers": [
+                    "0403820777463",
+                    "0303160355482",
+                    "3612641467"
+                ],
+                "facebook": "https://www.facebook.com/goodwillnne",
+                "instagram": "https://www.instagram.com/goodwillnne",
+                "yelp": "https://www.yelp.com/biz/goodwill-store-bangor",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillnne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e3ab846f4ee3b9:0x3f4a1b479e63ad9d",
+            "google_id": "0x89e3ab846f4ee3b9:0x3f4a1b479e63ad9d",
+            "place_id": "ChIJueNOb4Sr44kRna1jnkcbSj8",
+            "google_mid": "/g/11fjbx0bs6",
+            "phone_number": "+16038983800",
+            "name": "Goodwill Store: Salem",
+            "latitude": 42.779568399999995,
+            "longitude": -71.2265499,
+            "full_address": "Goodwill Store: Salem, 23 S Broadway, Salem, NH 03079",
+            "review_count": 309,
+            "rating": 3.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org/locations/goodwill-store-salem-nh",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e3ab846f4ee3b9:0x3f4a1b479e63ad9d",
+            "cid": "4560487567080009117",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJueNOb4Sr44kRna1jnkcbSj8&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "102599134347744132706",
+            "owner_link": "https://maps.google.com/maps/contrib/102599134347744132706",
+            "owner_name": "Goodwill Store: Salem",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP1SDoJ7zE-AgdtffJJxDhqgxS6YSN1gHARfC4k",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP1SDoJ7zE-AgdtffJJxDhqgxS6YSN1gHARfC4k",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP1SDoJ7zE-AgdtffJJxDhqgxS6YSN1gHARfC4k=w2016-h1512-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.7793754,
+                    "longitude": -71.2265831,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-05-04T00:00:00.000Z",
+                    "photo_timestamp": 1556928000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 53,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "23 S Broadway, Salem, NH 03079",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "23 S Broadway",
+            "city": "Salem",
+            "zipcode": "03079",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2ee4552c3088d:0xb6a40236aba833d8",
+            "google_id": "0x89e2ee4552c3088d:0xb6a40236aba833d8",
+            "place_id": "ChIJjQjDUkXu4okR2DOoqzYCpLY",
+            "google_mid": "/g/11bc96jqdc",
+            "phone_number": "+16037783000",
+            "name": "Exeter Community Thrift Shop",
+            "latitude": 42.9888693,
+            "longitude": -70.9677014,
+            "full_address": "Exeter Community Thrift Shop, 104 Epping Rd, Exeter, NH 03833",
+            "review_count": 83,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100042236318370",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2ee4552c3088d:0xb6a40236aba833d8",
+            "cid": "13160646444914848728",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjQjDUkXu4okR2DOoqzYCpLY&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "100701457596546722176",
+            "owner_link": "https://maps.google.com/maps/contrib/100701457596546722176",
+            "owner_name": "Exeter Community Thrift Shop",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO1U_VFzCX3p41piOEjQ14jh17XDaECB7m_dg4K",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO1U_VFzCX3p41piOEjQ14jh17XDaECB7m_dg4K",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO1U_VFzCX3p41piOEjQ14jh17XDaECB7m_dg4K=w2048-h1536-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.9891661,
+                    "longitude": -70.9675793,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-12T00:00:00.000Z",
+                    "photo_timestamp": 1597190400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 43,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "104 Epping Rd, Exeter, NH 03833",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "104 Epping Rd",
+            "city": "Exeter",
+            "zipcode": "03833",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e3a5e4e0f57a95:0x5fedcc696af6fa84",
+            "google_id": "0x89e3a5e4e0f57a95:0x5fedcc696af6fa84",
+            "place_id": "ChIJlXr14OSl44kRhPr2amnM7V8",
+            "google_mid": "/g/11rx49tyqq",
+            "phone_number": "+13392213860",
+            "name": "Smallquest Liquidation Ste 9",
+            "latitude": 42.678739799999995,
+            "longitude": -71.34282639999999,
+            "full_address": "Smallquest Liquidation Ste 9, 1734 Lakeview Ave, Dracut, MA 01826",
+            "review_count": 5,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/smallquestliquidation/?ref=pages_you_manage",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e3a5e4e0f57a95:0x5fedcc696af6fa84",
+            "cid": "6912405756221782660",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlXr14OSl44kRhPr2amnM7V8&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "112769655033648521075",
+            "owner_link": "https://maps.google.com/maps/contrib/112769655033648521075",
+            "owner_name": "Smallquest Liquidation Ste 9",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOaQzvZ3yfLpvJWAt57nwdh_nOWk0aeYBeKCUAt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOaQzvZ3yfLpvJWAt57nwdh_nOWk0aeYBeKCUAt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOaQzvZ3yfLpvJWAt57nwdh_nOWk0aeYBeKCUAt=w1024-h776-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.6786989,
+                    "longitude": -71.342719,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-07-22T00:00:00.000Z",
+                    "photo_timestamp": 1658448000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1734 Lakeview Ave, Dracut, MA 01826",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1734 Lakeview Ave",
+            "city": "Dracut",
+            "zipcode": "01826",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e38af10ffa8c61:0x6351f0870888f1f",
+            "google_id": "0x89e38af10ffa8c61:0x6351f0870888f1f",
+            "place_id": "ChIJYYz6D_GK44kRH4-IcAgfNQY",
+            "google_mid": "/g/11jlz_pvhf",
+            "phone_number": null,
+            "name": "Bargain Box",
+            "latitude": 42.305684899999996,
+            "longitude": -71.5330978,
+            "full_address": "Bargain Box, 27 Main St, Southborough, MA 01772",
+            "review_count": 5,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e38af10ffa8c61:0x6351f0870888f1f",
+            "cid": "447297859101429535",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYYz6D_GK44kRH4-IcAgfNQY&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "117799692937638208494",
+            "owner_link": "https://maps.google.com/maps/contrib/117799692937638208494",
+            "owner_name": "Bargain Box",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "H9Cny7nLtMKAaw7dI0V1uQ",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H9Cny7nLtMKAaw7dI0V1uQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=338.61813&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 42.305431950469476,
+                    "longitude": -71.53296388695722,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-29T00:00:00.000Z",
+                    "photo_timestamp": 1730160000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    }
+                }
+            },
+            "address": "27 Main St, Southborough, MA 01772",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "27 Main St",
+            "city": "Southborough",
+            "zipcode": "01772",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e252e11b6a1083:0xf372eb9115b35f4d",
+            "google_id": "0x89e252e11b6a1083:0xf372eb9115b35f4d",
+            "place_id": "ChIJgxBqG-FS4okRTV-zFZHrcvM",
+            "google_mid": "/g/1tg_bh92",
+            "phone_number": "+16034375571",
+            "name": "Deja Vu Furniture & More",
+            "latitude": 42.876041699999995,
+            "longitude": -71.3390629,
+            "full_address": "Deja Vu Furniture & More, 113 Hillside Ave, Londonderry, NH 03053",
+            "review_count": 365,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134 PM"
+                ]
+            },
+            "website": "https://dejavufurniture.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e252e11b6a1083:0xf372eb9115b35f4d",
+            "cid": "17542342506928365389",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgxBqG-FS4okRTV-zFZHrcvM&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "116001688707533153699",
+            "owner_link": "https://maps.google.com/maps/contrib/116001688707533153699",
+            "owner_name": "Deja Vu Furniture & More",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Furniture store",
+            "subtypes": [
+                "Furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNhe7tFAytP-00Mp_yjamO5fJyPEOjfBTNyYIXE",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNhe7tFAytP-00Mp_yjamO5fJyPEOjfBTNyYIXE",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNhe7tFAytP-00Mp_yjamO5fJyPEOjfBTNyYIXE=w1500-h1125-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.8757345,
+                    "longitude": -71.3386451,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-12-07T00:00:00.000Z",
+                    "photo_timestamp": 1607299200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 753,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "113 Hillside Ave, Londonderry, NH 03053",
+            "order_link": null,
+            "price_level": null,
+            "district": "Londonderry",
+            "street_address": "113 Hillside Ave",
+            "city": "Londonderry",
+            "zipcode": "03053",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "6034375571"
+                ],
+                "facebook": "https://www.facebook.com/dejavufurnitureNH",
+                "instagram": "https://www.instagram.com/dejavufurnitureandmore",
+                "yelp": "https://www.yelp.com/biz/deja-vu-furniture-and-more-londonderry",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e26a8d7409ea79:0xb1f14a994c81a050",
+            "google_id": "0x89e26a8d7409ea79:0xb1f14a994c81a050",
+            "place_id": "ChIJeeoJdI1q4okRUKCBTJlK8bE",
+            "google_mid": "/g/1th0nxjt",
+            "phone_number": "+16032246700",
+            "name": "Pitchfork Records & Stereo",
+            "latitude": 43.204017199999996,
+            "longitude": -71.5359458,
+            "full_address": "Pitchfork Records & Stereo, 2 S Main St, Concord, NH 03301",
+            "review_count": 320,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.pitchforkrecordsconcord.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e26a8d7409ea79:0xb1f14a994c81a050",
+            "cid": "12822111636374528080",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeeoJdI1q4okRUKCBTJlK8bE&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "108754612678649513098",
+            "owner_link": "https://maps.google.com/maps/contrib/108754612678649513098",
+            "owner_name": "Pitchfork Records & Stereo",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Music store",
+            "subtypes": [
+                "Music store",
+                "Record store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMLe8v7GBWn0hwI9gdrJIJYPCfzJrXfFzi_UTZD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMLe8v7GBWn0hwI9gdrJIJYPCfzJrXfFzi_UTZD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMLe8v7GBWn0hwI9gdrJIJYPCfzJrXfFzi_UTZD=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.20401720665494,
+                    "longitude": -71.53594581008619,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-10-30T00:00:00.000Z",
+                    "photo_timestamp": 1540857600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2 S Main St, Concord, NH 03301",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2 S Main St",
+            "city": "Concord",
+            "zipcode": "03301",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "6032246700"
+                ],
+                "facebook": "https://www.facebook.com/pitchforkrecordsconcord",
+                "instagram": "https://www.instagram.com/pitchforkrecordsconcord",
+                "yelp": "https://www.yelp.com/biz/pitchfork-records-stereo-concord",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2fe016a9f873b:0xbef708d8ccce4b7a",
+            "google_id": "0x89e2fe016a9f873b:0xbef708d8ccce4b7a",
+            "place_id": "ChIJO4efagH-4okRekvOzNgI974",
+            "google_mid": "/g/11bymw3_zx",
+            "phone_number": "+16033780368",
+            "name": "Savers",
+            "latitude": 42.81764,
+            "longitude": -71.100892,
+            "full_address": "Savers, 9 Plaistow Rd Unit 9-A, Plaistow, NH 03865",
+            "review_count": 376,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20139 PM"
+                ]
+            },
+            "website": "https://stores.savers.com/nh/plaistow/savers-thrift-store-1219.html",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2fe016a9f873b:0xbef708d8ccce4b7a",
+            "cid": "13760476913695869818",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO4efagH-4okRekvOzNgI974&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "112524030924208824990",
+            "owner_link": "https://maps.google.com/maps/contrib/112524030924208824990",
+            "owner_name": "Savers",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Costume store",
+                "Donations center",
+                "Second hand store",
+                "Used book store",
+                "Used CD store",
+                "Used clothing store",
+                "Used furniture store",
+                "Vintage clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPPys_cdr5PqNhlWSe0zO4g27ZHU0uL5J7Bxy49",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPPys_cdr5PqNhlWSe0zO4g27ZHU0uL5J7Bxy49",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPPys_cdr5PqNhlWSe0zO4g27ZHU0uL5J7Bxy49=w1080-h1920-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.81764000876907,
+                    "longitude": -71.10089197038776,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-10-21T00:00:00.000Z",
+                    "photo_timestamp": 1508544000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 58,
+            "about": {
+                "summary": "Thrift store chain offering secondhand clothing, footwear, furniture, books & household items.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "9 Plaistow Rd Unit 9-A, Plaistow, NH 03865",
+            "order_link": null,
+            "price_level": "$",
+            "district": null,
+            "street_address": "9 Plaistow Rd Unit 9-A",
+            "city": "Plaistow",
+            "zipcode": "03865",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89c51b415288cf77:0x8851af11989d4f0c",
+            "google_id": "0x89c51b415288cf77:0x8851af11989d4f0c",
+            "place_id": "ChIJd8-IUkEbxYkRDE-dmBGvUYg",
+            "google_mid": "/g/11k46j34lg",
+            "phone_number": "+15705002637",
+            "name": "Prime Bins",
+            "latitude": 41.2388148,
+            "longitude": -75.892853,
+            "full_address": "Prime Bins, 400 S Main St, Wilkes-Barre, PA 18701",
+            "review_count": 520,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://primebins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c51b415288cf77:0x8851af11989d4f0c",
+            "cid": "9822824752381513484",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd8-IUkEbxYkRDE-dmBGvUYg&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "116702224352451218168",
+            "owner_link": "https://maps.google.com/maps/contrib/116702224352451218168",
+            "owner_name": "Prime Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Clothing store",
+                "Store",
+                "Electronics store",
+                "Flea market",
+                "Gift shop",
+                "Shoe store",
+                "Thrift store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.2390673,
+                    "longitude": -75.8929308,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-29T00:00:00.000Z",
+                    "photo_timestamp": 1674950400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 72,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "400 S Main St, Wilkes-Barre, PA 18701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "400 S Main St",
+            "city": "Wilkes-Barre",
+            "zipcode": "18701",
+            "state": "Pennsylvania",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "primebinspa@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5705002637"
+                ],
+                "facebook": "https://www.facebook.com/PrimeBins",
+                "instagram": "https://www.instagram.com/primebins",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@primebins",
+                "snapchat": null,
+                "twitter": "https://twitter.com/PrimeBins",
+                "linkedin": "https://www.linkedin.com/in/prime-bins-buns-b28a08302",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e2f5c1d90b9915:0x35544e49e58bbd8",
+            "google_id": "0x89e2f5c1d90b9915:0x35544e49e58bbd8",
+            "place_id": "ChIJFZkL2cH14okR2LtYnuREVQM",
+            "google_mid": "/g/1td9x3ts",
+            "phone_number": "+16038953501",
+            "name": "Mountain Road Trading Post",
+            "latitude": 43.0663601,
+            "longitude": -71.1692539,
+            "full_address": "Mountain Road Trading Post, 68 Mountain Rd, Raymond, NH 03077",
+            "review_count": 83,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "http://www.facebook.com/mountainroadtradingpost",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e2f5c1d90b9915:0x35544e49e58bbd8",
+            "cid": "240173903834037208",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFZkL2cH14okR2LtYnuREVQM&q=bin+stores+in+new+hampshire&authuser=0&hl=en&gl=US",
+            "owner_id": "115129300090468840644",
+            "owner_link": "https://maps.google.com/maps/contrib/115129300090468840644",
+            "owner_name": "Mountain Road Trading Post",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Sporting goods store",
+            "subtypes": [
+                "Sporting goods store",
+                "Canoe & kayak store",
+                "Outdoor sports store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOh5bxzXrPJFvZye-2iNlzmW3Ex_-RtK0sGr-9O",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOh5bxzXrPJFvZye-2iNlzmW3Ex_-RtK0sGr-9O",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOh5bxzXrPJFvZye-2iNlzmW3Ex_-RtK0sGr-9O=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.066517999999995,
+                    "longitude": -71.1683473,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-04-24T00:00:00.000Z",
+                    "photo_timestamp": 1619222400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true,
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "68 Mountain Rd, Raymond, NH 03077",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "68 Mountain Rd",
+            "city": "Raymond",
+            "zipcode": "03077",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        },
+        {
+            "business_id": "0x89e24fcf00570c11:0x7ffa73c633be2d0",
+            "google_id": "0x89e24fcf00570c11:0x7ffa73c633be2d0",
+            "place_id": "ChIJEQxXAM9P4okR0OI7Yzyn_wc",
+            "google_mid": "/g/11fhypk5gk",
+            "phone_number": "+18663199291",
+            "name": "WayBeyond Rewards",
+            "latitude": 42.9924368,
+            "longitude": -71.4626874,
+            "full_address": "WayBeyond Rewards, 1001 Elm St Unit 202, Manchester, NH 03101",
+            "review_count": 0,
+            "rating": null,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 8\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8 AM\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20136:30 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e24fcf00570c11:0x7ffa73c633be2d0",
+            "cid": "576363155131458256",
+            "reviews_link": null,
+            "owner_id": "108872365578988553821",
+            "owner_link": "https://maps.google.com/maps/contrib/108872365578988553821",
+            "owner_name": "WayBeyond Rewards",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNZisRVqWSoIKA-5MAj6IU6ZzudtzwULRKW_4y0",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNZisRVqWSoIKA-5MAj6IU6ZzudtzwULRKW_4y0",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNZisRVqWSoIKA-5MAj6IU6ZzudtzwULRKW_4y0=w3264-h2448-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.992434499999995,
+                    "longitude": -71.46310489999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-01-11T00:00:00.000Z",
+                    "photo_timestamp": 1547164800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1001 Elm St Unit 202, Manchester, NH 03101",
+            "order_link": null,
+            "price_level": null,
+            "district": "Downtown",
+            "street_address": "1001 Elm St Unit 202",
+            "city": "Manchester",
+            "zipcode": "03101",
+            "state": "New Hampshire",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 168
+        }
+    ]
+}

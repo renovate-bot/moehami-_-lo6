@@ -1,0 +1,2388 @@
+{
+    "status": "OK",
+    "request_id": "3222c30a-8b34-48b5-8245-5cd02f552604",
+    "parameters": {
+        "query": "bin stores in nebraska",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x8793f33148b58973:0x55a4a964630c73cc",
+            "google_id": "0x8793f33148b58973:0x55a4a964630c73cc",
+            "place_id": "ChIJc4m1SDHzk4cRzHMMY2SppFU",
+            "google_mid": "/g/11w3ztjc5s",
+            "phone_number": "+14028007378",
+            "name": "Big Bin Liquidations",
+            "latitude": 41.2356258,
+            "longitude": -96.1423811,
+            "full_address": "Big Bin Liquidations, 14606 W Center Rd, Omaha, NE 68144",
+            "review_count": 4,
+            "rating": 5,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://bigbinliquidations.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8793f33148b58973:0x55a4a964630c73cc",
+            "cid": "6171243638028006348",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc4m1SDHzk4cRzHMMY2SppFU&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "100662371769621258035",
+            "owner_link": "https://maps.google.com/maps/contrib/100662371769621258035",
+            "owner_name": "Big Bin Liquidations",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOSrBUQNPvR7HTPATGW_iRLVgb7W46s0Ndb0lOE",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOSrBUQNPvR7HTPATGW_iRLVgb7W46s0Ndb0lOE",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOSrBUQNPvR7HTPATGW_iRLVgb7W46s0Ndb0lOE=w1080-h634-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.235543,
+                    "longitude": -96.1421201,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-10-11T00:00:00.000Z",
+                    "photo_timestamp": 1728604800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "14606 W Center Rd, Omaha, NE 68144",
+            "order_link": null,
+            "price_level": null,
+            "district": "Harvey Oaks",
+            "street_address": "14606 W Center Rd",
+            "city": "Omaha",
+            "zipcode": "68144",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/BigBinLiquidations",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@big.bin.liquidations",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x879161004c8071c9:0x4f8aa6af90d92048",
+            "google_id": "0x879161004c8071c9:0x4f8aa6af90d92048",
+            "place_id": "ChIJyXGATABhkYcRSCDZkK-mik8",
+            "google_mid": "/g/11w3g9lrtk",
+            "phone_number": "+14024592507",
+            "name": "Deals 4 Days",
+            "latitude": 41.451980899999995,
+            "longitude": -96.4678691,
+            "full_address": "Deals 4 Days, 2300 E 23rd St, Fremont, NE 68025",
+            "review_count": 28,
+            "rating": 5,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x879161004c8071c9:0x4f8aa6af90d92048",
+            "cid": "5731576748762013768",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyXGATABhkYcRSCDZkK-mik8&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "118091098927530602248",
+            "owner_link": "https://maps.google.com/maps/contrib/118091098927530602248",
+            "owner_name": "Deals 4 Days",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN_FsVrD0w8XAlIPfCoH5BFVEXRI6by0GnmPgly",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN_FsVrD0w8XAlIPfCoH5BFVEXRI6by0GnmPgly",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN_FsVrD0w8XAlIPfCoH5BFVEXRI6by0GnmPgly=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.451489599999995,
+                    "longitude": -96.4678364,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-10T00:00:00.000Z",
+                    "photo_timestamp": 1723248000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as veteran-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "2300 E 23rd St, Fremont, NE 68025",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2300 E 23rd St",
+            "city": "Fremont",
+            "zipcode": "68025",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87761eb3dda60333:0x91b8382953303bdb",
+            "google_id": "0x87761eb3dda60333:0x91b8382953303bdb",
+            "place_id": "ChIJMwOm3bMedocR2zswUyk4uJE",
+            "google_mid": "/g/12hkn19nb",
+            "phone_number": "+13085397401",
+            "name": "Grain Bin Antique Town",
+            "latitude": 41.03899,
+            "longitude": -100.70150749999999,
+            "full_address": "Grain Bin Antique Town, 10641 South, Old Hwy 83 Rd, North Platte, NE 69101",
+            "review_count": 173,
+            "rating": 4.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 10:30\u202fAM Wed",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10:30 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10:30 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10:30 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10:30 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87761eb3dda60333:0x91b8382953303bdb",
+            "cid": "10500204281354795995",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMwOm3bMedocR2zswUyk4uJE&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "100959060344149635859",
+            "owner_link": "https://maps.google.com/maps/contrib/100959060344149635859",
+            "owner_name": "Grain Bin Antique Town",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Antique store",
+            "subtypes": [
+                "Antique store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOKwaOUe72ZmRG7blTg-j2kgjzgTS56C7-Jr_1x",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOKwaOUe72ZmRG7blTg-j2kgjzgTS56C7-Jr_1x",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOKwaOUe72ZmRG7blTg-j2kgjzgTS56C7-Jr_1x=w4000-h3000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.0389529639429,
+                    "longitude": -100.70140002494738,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-22T00:00:00.000Z",
+                    "photo_timestamp": 1598054400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 480,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Buys used goods": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "10641 South, Old Hwy 83 Rd, North Platte, NE 69101",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "10641 South, Old Hwy 83 Rd",
+            "city": "North Platte",
+            "zipcode": "69101",
+            "state": "NE",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8796bf9b3b3df275:0x99f2cf3fd0a8939b",
+            "google_id": "0x8796bf9b3b3df275:0x99f2cf3fd0a8939b",
+            "place_id": "ChIJdfI9O5u_locRm5Oo0D_P8pk",
+            "google_mid": "/g/11tmfkn5rv",
+            "phone_number": "+14024132828",
+            "name": "PrimeTime Clearance",
+            "latitude": 40.8395289,
+            "longitude": -96.7070093,
+            "full_address": "PrimeTime Clearance, 2541 N 11th St #1, Lincoln, NE 68521",
+            "review_count": 8,
+            "rating": 3.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://primetimeclearance.net",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8796bf9b3b3df275:0x99f2cf3fd0a8939b",
+            "cid": "11093156705157551003",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdfI9O5u_locRm5Oo0D_P8pk&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "117618546947231852787",
+            "owner_link": "https://maps.google.com/maps/contrib/117618546947231852787",
+            "owner_name": "PrimeTime Clearance",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOlbVNzicfnly8noh1mzHScFfp6VN8OacXo4Emi",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOlbVNzicfnly8noh1mzHScFfp6VN8OacXo4Emi",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOlbVNzicfnly8noh1mzHScFfp6VN8OacXo4Emi=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.8392999,
+                    "longitude": -96.7070148,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-03-20T00:00:00.000Z",
+                    "photo_timestamp": 1679270400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 98,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "2541 N 11th St #1, Lincoln, NE 68521",
+            "order_link": null,
+            "price_level": null,
+            "district": "Belmont",
+            "street_address": "2541 N 11th St #1",
+            "city": "Lincoln",
+            "zipcode": "68521",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/primetimeclearance",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8796c1952554fbef:0x65185b463d3b89f3",
+            "google_id": "0x8796c1952554fbef:0x65185b463d3b89f3",
+            "place_id": "ChIJ7_tUJZXBlocR84k7PUZbGGU",
+            "google_mid": "/g/11sfp6048d",
+            "phone_number": null,
+            "name": "Wholesale Logistics",
+            "latitude": 40.8136222,
+            "longitude": -96.76047539999999,
+            "full_address": "Wholesale Logistics, 2811 W O St, Lincoln, NE 68528",
+            "review_count": 90,
+            "rating": 3.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/WholesaleLogisticsLLC",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8796c1952554fbef:0x65185b463d3b89f3",
+            "cid": "7284672754504927731",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7_tUJZXBlocR84k7PUZbGGU&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "106997979148955763446",
+            "owner_link": "https://maps.google.com/maps/contrib/106997979148955763446",
+            "owner_name": "Wholesale Logistics",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMeDYc_yRWCKUMtUlamaOp8dEBml_kHVWJvIRv1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMeDYc_yRWCKUMtUlamaOp8dEBml_kHVWJvIRv1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMeDYc_yRWCKUMtUlamaOp8dEBml_kHVWJvIRv1=w4000-h3000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.8137119,
+                    "longitude": -96.7604743,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-03-04T00:00:00.000Z",
+                    "photo_timestamp": 1646352000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "2811 W O St, Lincoln, NE 68528",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2811 W O St",
+            "city": "Lincoln",
+            "zipcode": "68528",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87998783bc80c5b5:0xd0d550e72d99a3b0",
+            "google_id": "0x87998783bc80c5b5:0xd0d550e72d99a3b0",
+            "place_id": "ChIJtcWAvIOHmYcRsKOZLedQ1dA",
+            "google_mid": "/g/11td085tp7",
+            "phone_number": "+13086752920",
+            "name": "Bargain Barn GI LLC",
+            "latitude": 40.9297572,
+            "longitude": -98.38034119999999,
+            "full_address": "Bargain Barn GI LLC, 1211 Allen Dr, Grand Island, NE 68803",
+            "review_count": 81,
+            "rating": 4.4,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.bargainbarngi.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87998783bc80c5b5:0xd0d550e72d99a3b0",
+            "cid": "15048022683761091504",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtcWAvIOHmYcRsKOZLedQ1dA&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "117387864643986844810",
+            "owner_link": "https://maps.google.com/maps/contrib/117387864643986844810",
+            "owner_name": "Bargain Barn GI LLC",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Appliance store",
+                "Baby clothing store",
+                "Baby store",
+                "Clothing store",
+                "Home goods store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN09bvP_DtDzFDFeWJ_NGP0CTNCowLixzAdy0QG",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN09bvP_DtDzFDFeWJ_NGP0CTNCowLixzAdy0QG",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN09bvP_DtDzFDFeWJ_NGP0CTNCowLixzAdy0QG=w3412-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.9298505,
+                    "longitude": -98.3805002,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-08-13T00:00:00.000Z",
+                    "photo_timestamp": 1691884800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1211 Allen Dr, Grand Island, NE 68803",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1211 Allen Dr",
+            "city": "Grand Island",
+            "zipcode": "68803",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/BargainbarnGI",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8795afa76cefde01:0x7d9005b2d71ad6c0",
+            "google_id": "0x8795afa76cefde01:0x7d9005b2d71ad6c0",
+            "place_id": "ChIJAd7vbKevlYcRwNYa17IFkH0",
+            "google_mid": "/g/11l21g1dvl",
+            "phone_number": null,
+            "name": "Bulldog Bins",
+            "latitude": 40.392704099999996,
+            "longitude": -95.83677519999999,
+            "full_address": "Bulldog Bins, 809 Central Ave, Auburn, NE 68305",
+            "review_count": 3,
+            "rating": 3.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20131 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100085998032430",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8795afa76cefde01:0x7d9005b2d71ad6c0",
+            "cid": "9047737917058504384",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAd7vbKevlYcRwNYa17IFkH0&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "117697780848004093143",
+            "owner_link": "https://maps.google.com/maps/contrib/117697780848004093143",
+            "owner_name": "Bulldog Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wholesale market",
+            "subtypes": [
+                "Wholesale market"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOvShQWSUqRkCad3JyQkmrdv2ObLIq9cnE9IkDY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOvShQWSUqRkCad3JyQkmrdv2ObLIq9cnE9IkDY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOvShQWSUqRkCad3JyQkmrdv2ObLIq9cnE9IkDY=w692-h975-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.3927891,
+                    "longitude": -95.8367267,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-10-02T00:00:00.000Z",
+                    "photo_timestamp": 1696204800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "809 Central Ave, Auburn, NE 68305",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "809 Central Ave",
+            "city": "Auburn",
+            "zipcode": "68305",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x877622fe5db47f19:0x7ee53dddb5b0475f",
+            "google_id": "0x877622fe5db47f19:0x7ee53dddb5b0475f",
+            "place_id": "ChIJGX-0Xf4idocRX0ewtd095X4",
+            "google_mid": "/g/1tj7fk9b",
+            "phone_number": "+13082212665",
+            "name": "Bargain Bin",
+            "latitude": 41.1350981,
+            "longitude": -100.7589201,
+            "full_address": "Bargain Bin, 421 1/2, 421 E 3rd St, North Platte, NE 69101",
+            "review_count": 16,
+            "rating": 4.1,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 8:30\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8:30 AM\u201312 PM"
+                ],
+                "Tuesday": [
+                    "8:30 AM\u201312 PM"
+                ],
+                "Wednesday": [
+                    "8:30 AM\u201312 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20133 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20133 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20133 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x877622fe5db47f19:0x7ee53dddb5b0475f",
+            "cid": "9143782640890955615",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGX-0Xf4idocRX0ewtd095X4&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "108287830041358585886",
+            "owner_link": "https://maps.google.com/maps/contrib/108287830041358585886",
+            "owner_name": "Bargain Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "exzIfMQ122TFRFXNYfdS6A",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=exzIfMQ122TFRFXNYfdS6A&cb_client=search.gws-prod.gps&w=86&h=86&yaw=331.53317&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 41.13494114599264,
+                    "longitude": -100.75880710776607,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "421 1/2, 421 E 3rd St, North Platte, NE 69101",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "421 1/2, 421 E 3rd St",
+            "city": "North Platte",
+            "zipcode": "69101",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87994ff427e37fff:0x3ecc9e8752093aa9",
+            "google_id": "0x87994ff427e37fff:0x3ecc9e8752093aa9",
+            "place_id": "ChIJ_3_jJ_RPmYcRqToJUoeezD4",
+            "google_mid": "/g/11s7jwqrm7",
+            "phone_number": "+13082243430",
+            "name": "Second Chance Super Store",
+            "latitude": 40.7289123,
+            "longitude": -99.0842165,
+            "full_address": "Second Chance Super Store, 5615 2nd Ave W, Kearney, NE 68845",
+            "review_count": 5,
+            "rating": 4.2,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "12\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/2CSS.KRNY",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87994ff427e37fff:0x3ecc9e8752093aa9",
+            "cid": "4525166029634615977",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_3_jJ_RPmYcRqToJUoeezD4&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "106130658131914923709",
+            "owner_link": "https://maps.google.com/maps/contrib/106130658131914923709",
+            "owner_name": "Second Chance Super Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP_M3w3PvVk16C7WPYZ6tbdCWCbSo5GA1SU8297",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP_M3w3PvVk16C7WPYZ6tbdCWCbSo5GA1SU8297",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP_M3w3PvVk16C7WPYZ6tbdCWCbSo5GA1SU8297=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.728907799999995,
+                    "longitude": -99.0844163,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-09-20T00:00:00.000Z",
+                    "photo_timestamp": 1726790400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5615 2nd Ave W, Kearney, NE 68845",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5615 2nd Ave W",
+            "city": "Kearney",
+            "zipcode": "68845",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8799a3aa9cae9fdb:0xec0b38ae1b1f0391",
+            "google_id": "0x8799a3aa9cae9fdb:0xec0b38ae1b1f0391",
+            "place_id": "ChIJ25-unKqjmYcRkQMfG644C-w",
+            "google_mid": "/g/11k4jpnyn2",
+            "phone_number": null,
+            "name": "The Bargain Basement",
+            "latitude": 40.5854821,
+            "longitude": -98.39182629999999,
+            "full_address": "The Bargain Basement, 828 W 2nd St Unit C, Hastings, NE 68901",
+            "review_count": 16,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100089079069198&mibextid=LQQJ4d",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8799a3aa9cae9fdb:0xec0b38ae1b1f0391",
+            "cid": "17008750738125292433",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ25-unKqjmYcRkQMfG644C-w&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "105581567586537105281",
+            "owner_link": "https://maps.google.com/maps/contrib/105581567586537105281",
+            "owner_name": "The Bargain Basement",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP0tvdw6zLVKrZDQw9b6DpLZD3RM66Ekn5OpS70",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP0tvdw6zLVKrZDQw9b6DpLZD3RM66Ekn5OpS70",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP0tvdw6zLVKrZDQw9b6DpLZD3RM66Ekn5OpS70=w4096-h3276-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.5852218,
+                    "longitude": -98.3918295,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-28T00:00:00.000Z",
+                    "photo_timestamp": 1674864000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "828 W 2nd St Unit C, Hastings, NE 68901",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "828 W 2nd St Unit C",
+            "city": "Hastings",
+            "zipcode": "68901",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8796bf0333d466bf:0x7bc92b1fcbad9a55",
+            "google_id": "0x8796bf0333d466bf:0x7bc92b1fcbad9a55",
+            "place_id": "ChIJv2bUMwO_locRVZqtyx8ryXs",
+            "google_mid": "/g/1xg5t5b5",
+            "phone_number": "+14022614868",
+            "name": "Bin 105 Quality Wines",
+            "latitude": 40.8138486,
+            "longitude": -96.7102281,
+            "full_address": "Bin 105 Quality Wines, 105 N 8th St #100, Lincoln, NE 68508",
+            "review_count": 81,
+            "rating": 4.8,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 1\u202fPM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "1\u20139 PM"
+                ],
+                "Wednesday": [
+                    "1\u20139 PM"
+                ],
+                "Thursday": [
+                    "1\u20139 PM"
+                ],
+                "Friday": [
+                    "1\u201310 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u201310 PM"
+                ]
+            },
+            "website": "https://www.bin105.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8796bf0333d466bf:0x7bc92b1fcbad9a55",
+            "cid": "8919707952545110613",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv2bUMwO_locRVZqtyx8ryXs&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "108710087327325820876",
+            "owner_link": "https://maps.google.com/maps/contrib/108710087327325820876",
+            "owner_name": "Bin 105 Quality Wines",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wine store",
+            "subtypes": [
+                "Wine store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMT8txNM8k9NChDXjoRMPqxPc2D0uiSOZhrbkdx",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMT8txNM8k9NChDXjoRMPqxPc2D0uiSOZhrbkdx",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMT8txNM8k9NChDXjoRMPqxPc2D0uiSOZhrbkdx=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.81384863345192,
+                    "longitude": -96.71022809414431,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-10-02T00:00:00.000Z",
+                    "photo_timestamp": 1506902400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Paid parking garage": true,
+                        "Paid street parking": true
+                    }
+                }
+            },
+            "address": "105 N 8th St #100, Lincoln, NE 68508",
+            "order_link": null,
+            "price_level": null,
+            "district": "Downtown",
+            "street_address": "105 N 8th St #100",
+            "city": "Lincoln",
+            "zipcode": "68508",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/bin105wines",
+                "instagram": "https://www.instagram.com/bin105wines",
+                "yelp": "https://www.yelp.com/biz/bin-105-quality-wines-lincoln",
+                "tiktok": "https://www.tiktok.com/@t.bin105",
+                "snapchat": null,
+                "twitter": "https://twitter.com/bin105",
+                "linkedin": "https://www.linkedin.com/company/bin-105-inc",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87945af71c97d615:0x8b546e3919b14d60",
+            "google_id": "0x87945af71c97d615:0x8b546e3919b14d60",
+            "place_id": "ChIJFdaXHPdalIcRYE2xGTluVIs",
+            "google_mid": "/g/11l295b9ys",
+            "phone_number": null,
+            "name": "Sale Bargain Bin",
+            "latitude": 40.6765026,
+            "longitude": -95.8598143,
+            "full_address": "Sale Bargain Bin, 1119 Central Ave, Nebraska City, NE 68410",
+            "review_count": 0,
+            "rating": null,
+            "timezone": "America/Chicago",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87945af71c97d615:0x8b546e3919b14d60",
+            "cid": "10039770660838919520",
+            "reviews_link": null,
+            "owner_id": "106759225418298580773",
+            "owner_link": "https://maps.google.com/maps/contrib/106759225418298580773",
+            "owner_name": "Sale Bargain Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "_bSJE2Cmc8-EMwVC-0jOkg",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_bSJE2Cmc8-EMwVC-0jOkg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=193.35757&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 40.67668357055591,
+                    "longitude": -95.85975763906558,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-27T00:00:00.000Z",
+                    "photo_timestamp": 1729987200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1119 Central Ave, Nebraska City, NE 68410",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1119 Central Ave",
+            "city": "Nebraska City",
+            "zipcode": "68410",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x879abe50c94bd529:0x23e27e153b1a2749",
+            "google_id": "0x879abe50c94bd529:0x23e27e153b1a2749",
+            "place_id": "ChIJKdVLyVC-mocRSScaOxV-4iM",
+            "google_mid": "/g/11dfj21xmt",
+            "phone_number": "+14028432354",
+            "name": "Bargain Box",
+            "latitude": 41.983589599999995,
+            "longitude": -98.0842122,
+            "full_address": "Bargain Box, 103 N 2nd St, Elgin, NE 68636",
+            "review_count": 48,
+            "rating": 4.8,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20131 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x879abe50c94bd529:0x23e27e153b1a2749",
+            "cid": "2585767765715068745",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKdVLyVC-mocRSScaOxV-4iM&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "112886810912379402216",
+            "owner_link": "https://maps.google.com/maps/contrib/112886810912379402216",
+            "owner_name": "Bargain Box",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP0FjjrBs35M8Quy1VJLxrx7-NOppzj5mXvpCiT",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP0FjjrBs35M8Quy1VJLxrx7-NOppzj5mXvpCiT",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP0FjjrBs35M8Quy1VJLxrx7-NOppzj5mXvpCiT=w4284-h5712-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.9835876,
+                    "longitude": -98.0845926,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-09-21T00:00:00.000Z",
+                    "photo_timestamp": 1726876800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    }
+                }
+            },
+            "address": "103 N 2nd St, Elgin, NE 68636",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "103 N 2nd St",
+            "city": "Elgin",
+            "zipcode": "68636",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8799867a05b908f3:0x7839c2c115449334",
+            "google_id": "0x8799867a05b908f3:0x7839c2c115449334",
+            "place_id": "ChIJ8wi5BXqGmYcRNJNEFcHCOXg",
+            "google_mid": "/g/11gcx_yk41",
+            "phone_number": "+13083847896",
+            "name": "Goodwill Outlet Store",
+            "latitude": 40.9041061,
+            "longitude": -98.3415832,
+            "full_address": "Goodwill Outlet Store, 1729 S Lincoln Ave, Grand Island, NE 68801",
+            "review_count": 49,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "9 AM\u201312 PM",
+                    "12:30\u20134 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://www.goodwillne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8799867a05b908f3:0x7839c2c115449334",
+            "cid": "8663169492765152052",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8wi5BXqGmYcRNJNEFcHCOXg&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "112187882892824859153",
+            "owner_link": "https://maps.google.com/maps/contrib/112187882892824859153",
+            "owner_name": "Goodwill Outlet Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOZ635JLPtcmTqxVBts9fsj8PC54YdbKORWeDpn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOZ635JLPtcmTqxVBts9fsj8PC54YdbKORWeDpn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOZ635JLPtcmTqxVBts9fsj8PC54YdbKORWeDpn=w1536-h2048-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.904103899999996,
+                    "longitude": -98.34216049999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-11-27T00:00:00.000Z",
+                    "photo_timestamp": 1511740800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1729 S Lincoln Ave, Grand Island, NE 68801",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1729 S Lincoln Ave",
+            "city": "Grand Island",
+            "zipcode": "68801",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "3083847896",
+                    "4024692999"
+                ],
+                "facebook": "https://www.facebook.com/goodwillgreatne",
+                "instagram": "https://www.instagram.com/goodwillofgreaternebraska",
+                "yelp": "https://www.yelp.com/biz/goodwill-north-platte",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillgreatne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/goodwillne"
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87938d30364d0fa3:0x83acf762e9e26652",
+            "google_id": "0x87938d30364d0fa3:0x83acf762e9e26652",
+            "place_id": "ChIJow9NNjCNk4cRUmbi6WL3rIM",
+            "google_mid": "/g/1trplq2v",
+            "phone_number": "+14023976100",
+            "name": "Mrs B's Clearance & Factory Outlet Center",
+            "latitude": 41.2549324,
+            "longitude": -96.0261306,
+            "full_address": "Mrs B's Clearance & Factory Outlet Center, 7312 Jones St, Omaha, NE 68114",
+            "review_count": 8547,
+            "rating": 4.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.nfm.com/mrs-bs-clearance-store",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87938d30364d0fa3:0x83acf762e9e26652",
+            "cid": "9488230519165576786",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJow9NNjCNk4cRUmbi6WL3rIM&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "115895786374352740782",
+            "owner_link": "https://maps.google.com/maps/contrib/115895786374352740782",
+            "owner_name": "Mrs B's Clearance & Factory Outlet Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Furniture store",
+            "subtypes": [
+                "Furniture store",
+                "Carpet store",
+                "Flooring store",
+                "Grill store",
+                "Home goods store",
+                "Mattress store",
+                "Outdoor furniture store",
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO0krvel8bRMuRTMsgrdh_xDIsWS22CTEDBoRL4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO0krvel8bRMuRTMsgrdh_xDIsWS22CTEDBoRL4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO0krvel8bRMuRTMsgrdh_xDIsWS22CTEDBoRL4=w5344-h4008-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.25493238978675,
+                    "longitude": -96.02613063155714,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-02-14T00:00:00.000Z",
+                    "photo_timestamp": 1518566400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 517,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "7312 Jones St, Omaha, NE 68114",
+            "order_link": null,
+            "price_level": null,
+            "district": "Central Omaha",
+            "street_address": "7312 Jones St",
+            "city": "Omaha",
+            "zipcode": "68114",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8793f2b3561a8fad:0x7bcc53ada480f924",
+            "google_id": "0x8793f2b3561a8fad:0x7bcc53ada480f924",
+            "place_id": "ChIJrY8aVrPyk4cRJPmApK1TzHs",
+            "google_mid": "/g/11c5bjffh6",
+            "phone_number": "+14023787520",
+            "name": "The Container Store",
+            "latitude": 41.265709,
+            "longitude": -96.0686066,
+            "full_address": "The Container Store, 10000 California St Suite 2675, Omaha, NE 68114",
+            "review_count": 642,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.containerstore.com/stores/ne/omaha/10000-california-st?cid=ns:maps:google:main-store:98-OMH",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8793f2b3561a8fad:0x7bcc53ada480f924",
+            "cid": "8920596967168473380",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrY8aVrPyk4cRJPmApK1TzHs&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "100707950946198738836",
+            "owner_link": "https://maps.google.com/maps/contrib/100707950946198738836",
+            "owner_name": "The Container Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Contractor",
+                "Furniture store",
+                "Kitchen supply store",
+                "Office supply store",
+                "Shelving store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOlCuyG-KRdW19D7ztmIotWk4nJfw9kt1O9obsJ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOlCuyG-KRdW19D7ztmIotWk4nJfw9kt1O9obsJ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOlCuyG-KRdW19D7ztmIotWk4nJfw9kt1O9obsJ=w4160-h3088-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.26570901880061,
+                    "longitude": -96.06860659108894,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-08-05T00:00:00.000Z",
+                    "photo_timestamp": 1501891200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 253,
+            "about": {
+                "summary": "Chain retailer specializing in storage & organization supplies, including closet & shelving systems.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "10000 California St Suite 2675, Omaha, NE 68114",
+            "order_link": null,
+            "price_level": null,
+            "district": "Central Omaha",
+            "street_address": "10000 California St Suite 2675",
+            "city": "Omaha",
+            "zipcode": "68114",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8795cf00319a94a7:0x7dc6731fc57d6a6e",
+            "google_id": "0x8795cf00319a94a7:0x7dc6731fc57d6a6e",
+            "place_id": "ChIJp5SaMQDPlYcRbmp9xR9zxn0",
+            "google_mid": "/g/11vqtc6x6v",
+            "phone_number": "+14023353290",
+            "name": "The Grain Bin",
+            "latitude": 40.367348,
+            "longitude": -96.1961455,
+            "full_address": "The Grain Bin, 155 S 3rd St, Tecumseh, NE 68450",
+            "review_count": 19,
+            "rating": 4.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://squareup.com/customer-programs/enroll/6ZovcNVeN55U",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8795cf00319a94a7:0x7dc6731fc57d6a6e",
+            "cid": "9063057880424213102",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp5SaMQDPlYcRbmp9xR9zxn0&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "116792377389222289232",
+            "owner_link": "https://maps.google.com/maps/contrib/116792377389222289232",
+            "owner_name": "The Grain Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "American restaurant",
+            "subtypes": [
+                "American restaurant",
+                "Bar",
+                "Brunch restaurant",
+                "Coffee shop",
+                "Diner",
+                "Ice cream shop",
+                "Lunch restaurant",
+                "Museum",
+                "Sandwich shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMgNe5CIdYE45bAQKQj9s-mla2ygYvRV5G-IsOD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMgNe5CIdYE45bAQKQj9s-mla2ygYvRV5G-IsOD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMgNe5CIdYE45bAQKQj9s-mla2ygYvRV5G-IsOD=w4160-h3120-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.3674203,
+                    "longitude": -96.19574440000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-16T00:00:00.000Z",
+                    "photo_timestamp": 1715817600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Takeout": true,
+                        "Dine-in": true,
+                        "Delivery": false
+                    },
+                    "Highlights": {
+                        "Fast service": true
+                    },
+                    "Popular for": {
+                        "Lunch": true,
+                        "Dinner": true,
+                        "Solo dining": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Alcohol": true,
+                        "Coffee": true,
+                        "Comfort food": true,
+                        "Quick bite": true,
+                        "Small plates": true
+                    },
+                    "Dining options": {
+                        "Brunch": true,
+                        "Lunch": true,
+                        "Dinner": true,
+                        "Dessert": true,
+                        "Seating": true
+                    },
+                    "Amenities": {
+                        "Bar onsite": true,
+                        "Gender-neutral restroom": true,
+                        "Restroom": true,
+                        "Wi-Fi": true
+                    },
+                    "Atmosphere": {
+                        "Casual": true,
+                        "Cozy": true
+                    },
+                    "Crowd": {
+                        "Groups": true,
+                        "Tourists": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Children": {
+                        "Good for kids": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true,
+                        "Free street parking": true,
+                        "Parking": true
+                    }
+                }
+            },
+            "address": "155 S 3rd St, Tecumseh, NE 68450",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "155 S 3rd St",
+            "city": "Tecumseh",
+            "zipcode": "68450",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8776228d22b1af5f:0x83ca64c2a4cffd96",
+            "google_id": "0x8776228d22b1af5f:0x83ca64c2a4cffd96",
+            "place_id": "ChIJX6-xIo0idocRlv3PpMJkyoM",
+            "google_mid": "/g/1tdwff2_",
+            "phone_number": "+13085328081",
+            "name": "Fort Cody Trading Post",
+            "latitude": 41.113552,
+            "longitude": -100.7626629,
+            "full_address": "Fort Cody Trading Post, 221 Halligan Dr, North Platte, NE 69101",
+            "review_count": 1531,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.fortcody.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8776228d22b1af5f:0x83ca64c2a4cffd96",
+            "cid": "9496513551415639446",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJX6-xIo0idocRlv3PpMJkyoM&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "114440731224049821266",
+            "owner_link": "https://maps.google.com/maps/contrib/114440731224049821266",
+            "owner_name": "Fort Cody Trading Post",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Gift shop",
+            "subtypes": [
+                "Gift shop",
+                "Exhibit",
+                "Souvenir store",
+                "Tourist attraction"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPszkXd8wq_JqiaYM5hE_nbYQ3PtBBVJ8bZ_2eW",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPszkXd8wq_JqiaYM5hE_nbYQ3PtBBVJ8bZ_2eW",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPszkXd8wq_JqiaYM5hE_nbYQ3PtBBVJ8bZ_2eW=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.11346106250358,
+                    "longitude": -100.76266550933804,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-08-06T00:00:00.000Z",
+                    "photo_timestamp": 1628208000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2917,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "221 Halligan Dr, North Platte, NE 69101",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "221 Halligan Dr",
+            "city": "North Platte",
+            "zipcode": "69101",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "fortcodytradingpost@gmail.com"
+                ],
+                "phone_numbers": [
+                    "6910130853280"
+                ],
+                "facebook": "https://www.facebook.com/fortcody",
+                "instagram": "https://www.instagram.com/fortcodytradingpost",
+                "yelp": "https://www.yelp.com/biz/fort-cody-trading-post-north-platte",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/codyfortphx",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x87938eb4a11b6335:0xc98fb05f946ce24",
+            "google_id": "0x87938eb4a11b6335:0xc98fb05f946ce24",
+            "place_id": "ChIJNWMbobSOk4cRJM5G-QX7mAw",
+            "google_mid": "/g/113g848c8",
+            "phone_number": "+14027314888",
+            "name": "The Goodwill Outlet",
+            "latitude": 41.218865799999996,
+            "longitude": -96.0234098,
+            "full_address": "The Goodwill Outlet, 4115 S 72nd St, Omaha, NE 68127",
+            "review_count": 297,
+            "rating": 3.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.goodwillomaha.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87938eb4a11b6335:0xc98fb05f946ce24",
+            "cid": "907751327990730276",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNWMbobSOk4cRJM5G-QX7mAw&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "110582574953712339213",
+            "owner_link": "https://maps.google.com/maps/contrib/110582574953712339213",
+            "owner_name": "The Goodwill Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity",
+                "Non-profit organization"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN4-rBLes2oT3mEhpCxjyleyu50lhLhXKIXJvm7",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN4-rBLes2oT3mEhpCxjyleyu50lhLhXKIXJvm7",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN4-rBLes2oT3mEhpCxjyleyu50lhLhXKIXJvm7=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.21878749823913,
+                    "longitude": -96.02258057682386,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-07-27T00:00:00.000Z",
+                    "photo_timestamp": 1532649600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 48,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "4115 S 72nd St, Omaha, NE 68127",
+            "order_link": null,
+            "price_level": null,
+            "district": "South Omaha",
+            "street_address": "4115 S 72nd St",
+            "city": "Omaha",
+            "zipcode": "68127",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/goodwillomaha",
+                "instagram": "https://www.instagram.com/goodwillomaha",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillomaha",
+                "linkedin": "https://www.linkedin.com/company/goodwill-omaha",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/goodwillomaha"
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x8796681d4b2fdd7f:0x9cbb28efa56a9167",
+            "google_id": "0x8796681d4b2fdd7f:0x9cbb28efa56a9167",
+            "place_id": "ChIJf90vSx1olocRZ5Fqpe8ou5w",
+            "google_mid": "/g/1tdywwb_",
+            "phone_number": "+14022283134",
+            "name": "Bargain Box",
+            "latitude": 40.266037499999996,
+            "longitude": -96.7477091,
+            "full_address": "Bargain Box, 506 Court St, Beatrice, NE 68310",
+            "review_count": 32,
+            "rating": 4.8,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9:30\u202fAM Thu",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "9:30 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "9:30 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "9:30 AM\u201312 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8796681d4b2fdd7f:0x9cbb28efa56a9167",
+            "cid": "11293665500299170151",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf90vSx1olocRZ5Fqpe8ou5w&q=bin+stores+in+nebraska&authuser=0&hl=en&gl=US",
+            "owner_id": "103481552287723559693",
+            "owner_link": "https://maps.google.com/maps/contrib/103481552287723559693",
+            "owner_name": "Bargain Box",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "mFLBvvsgVdrdMRBN3xYLwg",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mFLBvvsgVdrdMRBN3xYLwg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=354.4325&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 40.26585987031258,
+                    "longitude": -96.74768640819043,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-29T00:00:00.000Z",
+                    "photo_timestamp": 1730160000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    }
+                }
+            },
+            "address": "506 Court St, Beatrice, NE 68310",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "506 Court St",
+            "city": "Beatrice",
+            "zipcode": "68310",
+            "state": "Nebraska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        }
+    ]
+}

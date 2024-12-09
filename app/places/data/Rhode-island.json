@@ -1,0 +1,2392 @@
+{
+    "status": "OK",
+    "request_id": "d2232982-6fee-4e53-8544-2def2a6022ef",
+    "parameters": {
+        "query": "bin stores in rhode_island",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x89e44ec32b948ab7:0x632dbdab84e1ab15",
+            "google_id": "0x89e44ec32b948ab7:0x632dbdab84e1ab15",
+            "place_id": "ChIJt4qUK8NO5IkRFavhhKu9LWM",
+            "google_mid": "/g/11bbrltl_q",
+            "phone_number": "+14018684140",
+            "name": "The Container Store",
+            "latitude": 41.7603187,
+            "longitude": -71.4575079,
+            "full_address": "The Container Store, 150 Hillside Rd, Cranston, RI 02920",
+            "review_count": 349,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.containerstore.com/stores/ri/cranston/150-hillside-rd?cid=ns:maps:google:main-store:75-PRI",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e44ec32b948ab7:0x632dbdab84e1ab15",
+            "cid": "7146576728073284373",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt4qUK8NO5IkRFavhhKu9LWM&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "104966612266032142351",
+            "owner_link": "https://maps.google.com/maps/contrib/104966612266032142351",
+            "owner_name": "The Container Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Contractor",
+                "Furniture store",
+                "Kitchen supply store",
+                "Office supply store",
+                "Shelving store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO0ME6OiONJcIQVzLwrddFWVXEa3RQTsJtWHJhA",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO0ME6OiONJcIQVzLwrddFWVXEa3RQTsJtWHJhA",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO0ME6OiONJcIQVzLwrddFWVXEa3RQTsJtWHJhA=w1728-h972-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.7604089,
+                    "longitude": -71.45791129999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-11-12T00:00:00.000Z",
+                    "photo_timestamp": 1510444800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 156,
+            "about": {
+                "summary": "Chain retailer specializing in storage & organization supplies, including closet & shelving systems.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "150 Hillside Rd, Cranston, RI 02920",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "150 Hillside Rd",
+            "city": "Cranston",
+            "zipcode": "02920",
+            "state": "Rhode Island",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x89e44edc42f7efc1:0xf6e1cb348d259fb",
+                "name": "Garden City Center"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e44350df9cb309:0x29381ff31d8e8f79",
+            "google_id": "0x89e44350df9cb309:0x29381ff31d8e8f79",
+            "place_id": "ChIJCbOc31BD5IkReY-OHfMfOCk",
+            "google_mid": "/g/1tgh3_dh",
+            "phone_number": "+14017269246",
+            "name": "Providence Discount Inc",
+            "latitude": 41.87966,
+            "longitude": -71.391391,
+            "full_address": "Providence Discount Inc, 300 Barton St, Pawtucket, RI 02860",
+            "review_count": 3,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e44350df9cb309:0x29381ff31d8e8f79",
+            "cid": "2970159083284238201",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCbOc31BD5IkReY-OHfMfOCk&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "108725396999462244608",
+            "owner_link": "https://maps.google.com/maps/contrib/108725396999462244608",
+            "owner_name": "Providence Discount Inc",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP0kycNR7P5xntjurl3LIWx3wMsAQuoNV1NvyDj",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP0kycNR7P5xntjurl3LIWx3wMsAQuoNV1NvyDj",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP0kycNR7P5xntjurl3LIWx3wMsAQuoNV1NvyDj=w640-h480-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8799109,
+                    "longitude": -71.3916644,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-09-30T00:00:00.000Z",
+                    "photo_timestamp": 1538265600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "300 Barton St, Pawtucket, RI 02860",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "300 Barton St",
+            "city": "Pawtucket",
+            "zipcode": "02860",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e445732d46dcf9:0x427504db42bcc097",
+            "google_id": "0x89e445732d46dcf9:0x427504db42bcc097",
+            "place_id": "ChIJ-dxGLXNF5IkRl8C8QtsEdUI",
+            "google_mid": "/g/11bbrhdcw2",
+            "phone_number": null,
+            "name": "White Buffalo Ri",
+            "latitude": 41.8177172,
+            "longitude": -71.4258572,
+            "full_address": "White Buffalo Ri, 498 Washington St, Providence, RI 02903",
+            "review_count": 19,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "1\u20134 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "12\u20136 PM"
+                ],
+                "Friday": [
+                    "12\u20136 PM"
+                ],
+                "Saturday": [
+                    "12\u20136 PM"
+                ]
+            },
+            "website": "https://instagram.com/whitebuffalori",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e445732d46dcf9:0x427504db42bcc097",
+            "cid": "4788739118542405783",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-dxGLXNF5IkRl8C8QtsEdUI&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "100302999698702893026",
+            "owner_link": "https://maps.google.com/maps/contrib/100302999698702893026",
+            "owner_name": "White Buffalo Ri",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Gift shop",
+            "subtypes": [
+                "Gift shop",
+                "Vintage clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNuIVigEXCt47j5Ua-Lqlfs65jCRZDlVFlyPtk",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNuIVigEXCt47j5Ua-Lqlfs65jCRZDlVFlyPtk",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNuIVigEXCt47j5Ua-Lqlfs65jCRZDlVFlyPtk=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.817873999999996,
+                    "longitude": -71.4258772,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-12-14T00:00:00.000Z",
+                    "photo_timestamp": 1639440000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as LGBTQ+ owned": true,
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "498 Washington St, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Ward 13",
+            "street_address": "498 Washington St",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e45cb9b75494b7:0x3f034815097364b8",
+            "google_id": "0x89e45cb9b75494b7:0x3f034815097364b8",
+            "place_id": "ChIJt5RUt7lc5IkRuGRzCRVIAz8",
+            "google_mid": "/g/1262z0xr3",
+            "phone_number": "+14013053324",
+            "name": "A Little Bit of Everything",
+            "latitude": 41.886122,
+            "longitude": -71.3685874,
+            "full_address": "A Little Bit of Everything, 340 Cottage St., Pawtucket, RI 02860",
+            "review_count": 609,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e45cb9b75494b7:0x3f034815097364b8",
+            "cid": "4540552104509662392",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt5RUt7lc5IkRuGRzCRVIAz8&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "103216619341700940254",
+            "owner_link": "https://maps.google.com/maps/contrib/103216619341700940254",
+            "owner_name": "A Little Bit of Everything",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Discount supermarket"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMTM2ELnAgIce_ahv7P42LjesvuAHB1rMJeLrQ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMTM2ELnAgIce_ahv7P42LjesvuAHB1rMJeLrQ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMTM2ELnAgIce_ahv7P42LjesvuAHB1rMJeLrQ=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.886121997515986,
+                    "longitude": -71.36858738034849,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-01-15T00:00:00.000Z",
+                    "photo_timestamp": 1515974400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 102,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "340 Cottage St., Pawtucket, RI 02860",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "340 Cottage St.",
+            "city": "Pawtucket",
+            "zipcode": "02860",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4459114e830cd:0x33ff1c5c920b67f3",
+            "google_id": "0x89e4459114e830cd:0x33ff1c5c920b67f3",
+            "place_id": "ChIJzTDoFJFF5IkR82cLklwc_zM",
+            "google_mid": "/g/1tfbd57n",
+            "phone_number": null,
+            "name": "Big Top Flea Market",
+            "latitude": 41.818683799999995,
+            "longitude": -71.4466801,
+            "full_address": "Big Top Flea Market, 120 Manton Ave, Providence, RI 02909",
+            "review_count": 821,
+            "rating": 4.1,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4459114e830cd:0x33ff1c5c920b67f3",
+            "cid": "3746744598908332019",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzTDoFJFF5IkR82cLklwc_zM&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "102776126926655610853",
+            "owner_link": "https://maps.google.com/maps/contrib/102776126926655610853",
+            "owner_name": "Big Top Flea Market",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Flea market",
+            "subtypes": [
+                "Flea market",
+                "Junk store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPuVqVMzrUQaS_rB2IGfeP4Z7qn-xWaVg3orMLk",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPuVqVMzrUQaS_rB2IGfeP4Z7qn-xWaVg3orMLk",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPuVqVMzrUQaS_rB2IGfeP4Z7qn-xWaVg3orMLk=w4000-h1800-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.818931899999995,
+                    "longitude": -71.4466568,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-04-27T00:00:00.000Z",
+                    "photo_timestamp": 1651017600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 233,
+            "about": {
+                "summary": "Weekend event featuring many vendors of diverse new & used items in a warehouse-like space.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Children": {
+                        "Good for kids": true
+                    }
+                }
+            },
+            "address": "120 Manton Ave, Providence, RI 02909",
+            "order_link": null,
+            "price_level": null,
+            "district": "Olneyville",
+            "street_address": "120 Manton Ave",
+            "city": "Providence",
+            "zipcode": "02909",
+            "state": "Rhode Island",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x89e4459170c2dfb9:0xadd6e04c187b2645",
+                "name": "Atlantic Mills"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4450ccd103165:0xb952f1031794c31e",
+            "google_id": "0x89e4450ccd103165:0xb952f1031794c31e",
+            "place_id": "ChIJZTEQzQxF5IkRHsOUFwPxUrk",
+            "google_mid": "/g/1tfx5xtx",
+            "phone_number": "+14012740905",
+            "name": "Rocket to Mars",
+            "latitude": 41.821364599999995,
+            "longitude": -71.42191439999999,
+            "full_address": "Rocket to Mars, 144 Broadway, Providence, RI 02903",
+            "review_count": 76,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.instagram.com/rocket_to_mars_vintage?igsh=c3B6Z2pvOGF1MnIx",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4450ccd103165:0xb952f1031794c31e",
+            "cid": "13354000840689763102",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZTEQzQxF5IkRHsOUFwPxUrk&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "111895959374833720916",
+            "owner_link": "https://maps.google.com/maps/contrib/111895959374833720916",
+            "owner_name": "Rocket to Mars",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Antique store",
+            "subtypes": [
+                "Antique store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMyXA4_2nnlQIC73z_GXKydqc8ar8fgonZX1mI7",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMyXA4_2nnlQIC73z_GXKydqc8ar8fgonZX1mI7",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMyXA4_2nnlQIC73z_GXKydqc8ar8fgonZX1mI7=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.82136461270108,
+                    "longitude": -71.42191438204415,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-11-15T00:00:00.000Z",
+                    "photo_timestamp": 1636934400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": true
+                    },
+                    "Offerings": {
+                        "Buys used goods": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "144 Broadway, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Ward 13",
+            "street_address": "144 Broadway",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e445d3ee62e4bf:0xfcdccb6f349db1ed",
+            "google_id": "0x89e445d3ee62e4bf:0xfcdccb6f349db1ed",
+            "place_id": "ChIJv-Ri7tNF5IkR7bGdNG_L3Pw",
+            "google_mid": "/g/11nnv4wv4t",
+            "phone_number": "+14016546935",
+            "name": "Urban Thread",
+            "latitude": 41.8197571,
+            "longitude": -71.3981086,
+            "full_address": "Urban Thread, 117 Brook St, Providence, RI 02906",
+            "review_count": 29,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "12\u20135 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "http://urbanthreadpvd.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e445d3ee62e4bf:0xfcdccb6f349db1ed",
+            "cid": "18220661870918742509",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv-Ri7tNF5IkR7bGdNG_L3Pw&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "117795531451008145046",
+            "owner_link": "https://maps.google.com/maps/contrib/117795531451008145046",
+            "owner_name": "Urban Thread",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Consignment shop",
+            "subtypes": [
+                "Consignment shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMii-oJRSzpGRIUlK5H8j4aLUWT9yNXCncdWc0Z",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMii-oJRSzpGRIUlK5H8j4aLUWT9yNXCncdWc0Z",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMii-oJRSzpGRIUlK5H8j4aLUWT9yNXCncdWc0Z=w960-h1280-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8197482,
+                    "longitude": -71.39828229999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-09-10T00:00:00.000Z",
+                    "photo_timestamp": 1662768000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as Black-owned": true,
+                        "Identifies as LGBTQ+ owned": true,
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": false,
+                        "Wheelchair accessible parking lot": false,
+                        "Wheelchair accessible restroom": false,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Appointment required": true,
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "117 Brook St, Providence, RI 02906",
+            "order_link": null,
+            "price_level": null,
+            "district": "Fox Point",
+            "street_address": "117 Brook St",
+            "city": "Providence",
+            "zipcode": "02906",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "urbanthreadpvd@gmail.com"
+                ],
+                "phone_numbers": [
+                    "4016546935"
+                ],
+                "facebook": "https://www.facebook.com/urbanthreadpvd",
+                "instagram": "https://www.instagram.com/urbanthreadpvd",
+                "yelp": "https://www.yelp.com/biz/urban-thread-providence",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/urbanthreadpvd",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4436d037e051f:0x2a21bbdcffe063b8",
+            "google_id": "0x89e4436d037e051f:0x2a21bbdcffe063b8",
+            "place_id": "ChIJHwV-A21D5IkRuGPg_9y7ISo",
+            "google_mid": "/g/11ckqhs2mb",
+            "phone_number": "+15613409355",
+            "name": "Top Shelf Vintage Co.",
+            "latitude": 41.8797366,
+            "longitude": -71.3852872,
+            "full_address": "Top Shelf Vintage Co., 35 Exchange St, Pawtucket, RI 02860",
+            "review_count": 121,
+            "rating": 4.9,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "http://topshelfvintageco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4436d037e051f:0x2a21bbdcffe063b8",
+            "cid": "3035914181684519864",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHwV-A21D5IkRuGPg_9y7ISo&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "115574275514870443278",
+            "owner_link": "https://maps.google.com/maps/contrib/115574275514870443278",
+            "owner_name": "Top Shelf Vintage Co.",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Vintage clothing store",
+            "subtypes": [
+                "Vintage clothing store",
+                "Clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNIDpu0FLnVMPXOaLGbzfyy1DJyAE4_WFCKElyT",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNIDpu0FLnVMPXOaLGbzfyy1DJyAE4_WFCKElyT",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNIDpu0FLnVMPXOaLGbzfyy1DJyAE4_WFCKElyT=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.879853000000004,
+                    "longitude": -71.3853634,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-02-27T00:00:00.000Z",
+                    "photo_timestamp": 1677456000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 61,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "35 Exchange St, Pawtucket, RI 02860",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "35 Exchange St",
+            "city": "Pawtucket",
+            "zipcode": "02860",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/topshelfvntgco",
+                "instagram": "https://www.instagram.com/topshelfvintageco",
+                "yelp": "https://www.yelp.com/biz/top-shelf-vintage-pawtucket",
+                "tiktok": "https://www.tiktok.com/@topshelfvintageco",
+                "snapchat": null,
+                "twitter": "https://twitter.com/topshelfvntgco",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4452378d67791:0xf4eaee085d4197b",
+            "google_id": "0x89e4452378d67791:0xf4eaee085d4197b",
+            "place_id": "ChIJkXfWeCNF5IkRexnUheCuTg8",
+            "google_mid": "/g/1trpm6nr",
+            "phone_number": "+14014536282",
+            "name": "NAVA",
+            "latitude": 41.819245699999996,
+            "longitude": -71.3992176,
+            "full_address": "NAVA, 197 Wickenden St, Providence, RI 02903",
+            "review_count": 35,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 11\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.shopnava.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4452378d67791:0xf4eaee085d4197b",
+            "cid": "1103011238093527419",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkXfWeCNF5IkRexnUheCuTg8&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "117653123611347827387",
+            "owner_link": "https://maps.google.com/maps/contrib/117653123611347827387",
+            "owner_name": "NAVA",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Boutique",
+            "subtypes": [
+                "Boutique"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN_EvQ1m5U0uHfGFx-a790SVmPPsffEf0Bqih11",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN_EvQ1m5U0uHfGFx-a790SVmPPsffEf0Bqih11",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN_EvQ1m5U0uHfGFx-a790SVmPPsffEf0Bqih11=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.819239270259324,
+                    "longitude": -71.39920665889325,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-10-25T00:00:00.000Z",
+                    "photo_timestamp": 1540425600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible restroom": false,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "197 Wickenden St, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Fox Point",
+            "street_address": "197 Wickenden St",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "nava.pvd@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/shopnava",
+                "instagram": "https://www.instagram.com/navagirl",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@shopnava",
+                "snapchat": null,
+                "twitter": "https://twitter.com/shopnava",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/shopnava"
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e44767951ab82f:0xa991dcd3fe609953",
+            "google_id": "0x89e44767951ab82f:0xa991dcd3fe609953",
+            "place_id": "ChIJL7galWdH5IkRU5lg_tPckak",
+            "google_mid": "/g/11fpg1ql22",
+            "phone_number": "+14012411298",
+            "name": "SCD Sales and Liquidation, LLC",
+            "latitude": 41.8201478,
+            "longitude": -71.4721899,
+            "full_address": "SCD Sales and Liquidation, LLC, 807 Hartford Ave, Johnston, RI 02919",
+            "review_count": 53,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "12\u20135 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "6\u20138 PM"
+                ],
+                "Thursday": [
+                    "12\u20135 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20132 PM"
+                ]
+            },
+            "website": "https://www.scdliquidation.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e44767951ab82f:0xa991dcd3fe609953",
+            "cid": "12218790067096820051",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL7galWdH5IkRU5lg_tPckak&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "115515565405909116518",
+            "owner_link": "https://maps.google.com/maps/contrib/115515565405909116518",
+            "owner_name": "SCD Sales and Liquidation, LLC",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wholesaler",
+            "subtypes": [
+                "Wholesaler",
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipM5HG351q8hMETdM0V7Gs2LnR55VCxcgKjYZBv5",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM5HG351q8hMETdM0V7Gs2LnR55VCxcgKjYZBv5",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM5HG351q8hMETdM0V7Gs2LnR55VCxcgKjYZBv5=w4192-h3144-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.820095599999995,
+                    "longitude": -71.4714461,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-02-09T00:00:00.000Z",
+                    "photo_timestamp": 1581206400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "807 Hartford Ave, Johnston, RI 02919",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "807 Hartford Ave",
+            "city": "Johnston",
+            "zipcode": "02919",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "4012411298"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/scd.sales",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCJCkhdpYGTMws-1NpJi1pKg",
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4459e6458a33b:0xab53e797ca0e6c8f",
+            "google_id": "0x89e4459e6458a33b:0xab53e797ca0e6c8f",
+            "place_id": "ChIJO6NYZJ5F5IkRj2wOypfnU6s",
+            "google_mid": "/g/1tfp_vw0",
+            "phone_number": "+14015216667",
+            "name": "Armageddon Shop",
+            "latitude": 41.8189239,
+            "longitude": -71.4323718,
+            "full_address": "Armageddon Shop, 436 Broadway, Providence, RI 02909",
+            "review_count": 216,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "12\u20136 PM"
+                ],
+                "Tuesday": [
+                    "12\u20136 PM"
+                ],
+                "Wednesday": [
+                    "12\u20136 PM"
+                ],
+                "Thursday": [
+                    "12\u20136 PM"
+                ],
+                "Friday": [
+                    "12\u20136 PM"
+                ],
+                "Saturday": [
+                    "12\u20136 PM"
+                ]
+            },
+            "website": "http://www.armageddonshop.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4459e6458a33b:0xab53e797ca0e6c8f",
+            "cid": "12345465642668682383",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO6NYZJ5F5IkRj2wOypfnU6s&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "112886642350777793076",
+            "owner_link": "https://maps.google.com/maps/contrib/112886642350777793076",
+            "owner_name": "Armageddon Shop",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store",
+                "Music store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPHJmwb2-UketV8E9PYwwBU0KYO9TagkPWY0GXj",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPHJmwb2-UketV8E9PYwwBU0KYO9TagkPWY0GXj",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPHJmwb2-UketV8E9PYwwBU0KYO9TagkPWY0GXj=w2252-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8190101,
+                    "longitude": -71.43222039999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-05-13T00:00:00.000Z",
+                    "photo_timestamp": 1683936000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 71,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "436 Broadway, Providence, RI 02909",
+            "order_link": null,
+            "price_level": null,
+            "district": "Ward 13",
+            "street_address": "436 Broadway",
+            "city": "Providence",
+            "zipcode": "02909",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/armageddon-shop-cambridge",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/armageddon-shop",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4450cc9e545e1:0x25c31c86bd66e86b",
+            "google_id": "0x89e4450cc9e545e1:0x25c31c86bd66e86b",
+            "place_id": "ChIJ4UXlyQxF5IkRa-hmvYYcwyU",
+            "google_mid": "/g/1tmpw_cl",
+            "phone_number": "+14012720000",
+            "name": "Hall's on Broadway",
+            "latitude": 41.821731199999995,
+            "longitude": -71.42220879999999,
+            "full_address": "Hall's on Broadway, 145 Broadway, Providence, RI 02903",
+            "review_count": 17,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 12\u202fPM Fri",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "12\u20135 PM"
+                ],
+                "Saturday": [
+                    "12\u20135 PM"
+                ]
+            },
+            "website": "http://facebook.com/hallsonbroadway",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4450cc9e545e1:0x25c31c86bd66e86b",
+            "cid": "2721049964890744939",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4UXlyQxF5IkRa-hmvYYcwyU&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "113501275743502704481",
+            "owner_link": "https://maps.google.com/maps/contrib/113501275743502704481",
+            "owner_name": "Hall's on Broadway",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Antique store",
+            "subtypes": [
+                "Antique store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPc6-3pT2BBzQm1cNn-m62PyJlG7zsgsM-Bvlsp",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPc6-3pT2BBzQm1cNn-m62PyJlG7zsgsM-Bvlsp",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPc6-3pT2BBzQm1cNn-m62PyJlG7zsgsM-Bvlsp=w4000-h1800-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.82162985636248,
+                    "longitude": -71.42216405687103,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-04-27T00:00:00.000Z",
+                    "photo_timestamp": 1651017600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "145 Broadway, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Ward 13",
+            "street_address": "145 Broadway",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e445299c30e301:0x7efda5f0f70d3771",
+            "google_id": "0x89e445299c30e301:0x7efda5f0f70d3771",
+            "place_id": "ChIJAeMwnClF5IkRcTcN9_Cl_X4",
+            "google_mid": "/g/11gwjycqx8",
+            "phone_number": "+14018313434",
+            "name": "Frog & Toad - West",
+            "latitude": 41.8185554,
+            "longitude": -71.4200791,
+            "full_address": "Frog & Toad - West, 713 Westminster St, Providence, RI 02903",
+            "review_count": 29,
+            "rating": 4.9,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.frogandtoadstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e445299c30e301:0x7efda5f0f70d3771",
+            "cid": "9150652472242288497",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAeMwnClF5IkRcTcN9_Cl_X4&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "112745797352970555379",
+            "owner_link": "https://maps.google.com/maps/contrib/112745797352970555379",
+            "owner_name": "Frog & Toad - West",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Gift shop",
+            "subtypes": [
+                "Gift shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPlLVwlIuZXL3yKKlqr7fGDIrQinqHdurCPysS8",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPlLVwlIuZXL3yKKlqr7fGDIrQinqHdurCPysS8",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPlLVwlIuZXL3yKKlqr7fGDIrQinqHdurCPysS8=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8183663,
+                    "longitude": -71.4199249,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-02-11T00:00:00.000Z",
+                    "photo_timestamp": 1676073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "713 Westminster St, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Ward 13",
+            "street_address": "713 Westminster St",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "shop@frogandtoadstore.com"
+                ],
+                "phone_numbers": [
+                    "4018313434"
+                ],
+                "facebook": "https://www.facebook.com/frogandtoadstore",
+                "instagram": "https://www.instagram.com/frogandtoadstore",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UC73o8KUgt8a-RRK0YJ7DTQA",
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e4517aca5b6611:0xba7cae5360002cb9",
+            "google_id": "0x89e4517aca5b6611:0xba7cae5360002cb9",
+            "place_id": "ChIJEWZbynpR5IkRuSwAYFOufLo",
+            "google_mid": "/g/11q43q6zk1",
+            "phone_number": "+14019032869",
+            "name": "Tall Tumbleweed Modern + Vintage",
+            "latitude": 41.7706571,
+            "longitude": -71.3616619,
+            "full_address": "Tall Tumbleweed Modern + Vintage, 279 Bullocks Point Ave, Riverside, RI 02915",
+            "review_count": 45,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 11\u202fAM Wed",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20134 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e4517aca5b6611:0xba7cae5360002cb9",
+            "cid": "13437807061282860217",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEWZbynpR5IkRuSwAYFOufLo&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "101743233270539049361",
+            "owner_link": "https://maps.google.com/maps/contrib/101743233270539049361",
+            "owner_name": "Tall Tumbleweed Modern + Vintage",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Women's clothing store",
+            "subtypes": [
+                "Women's clothing store",
+                "Gift shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNVtgJqWxAjk51O-V_8jGNDsy6J3fVJcCyX_-X1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNVtgJqWxAjk51O-V_8jGNDsy6J3fVJcCyX_-X1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNVtgJqWxAjk51O-V_8jGNDsy6J3fVJcCyX_-X1=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.7707134,
+                    "longitude": -71.36151319999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-30T00:00:00.000Z",
+                    "photo_timestamp": 1672358400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Women's clothing": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "279 Bullocks Point Ave, Riverside, RI 02915",
+            "order_link": null,
+            "price_level": null,
+            "district": "Riverside",
+            "street_address": "279 Bullocks Point Ave",
+            "city": "Riverside",
+            "zipcode": "02915",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e44459588508d3:0xaaac97fee3955a71",
+            "google_id": "0x89e44459588508d3:0xaaac97fee3955a71",
+            "place_id": "ChIJ0wiFWFlE5IkRcVqV4_6XrKo",
+            "google_mid": "/g/1vqmkcy4",
+            "phone_number": "+14018612080",
+            "name": "Goodwill of Southern New England - Rhode Island Campus",
+            "latitude": 41.8567505,
+            "longitude": -71.4358941,
+            "full_address": "Goodwill of Southern New England - Rhode Island Campus, 100 Houghton St, Providence, RI 02904",
+            "review_count": 46,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 8\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8 AM\u20134 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://www.goodwillsne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e44459588508d3:0xaaac97fee3955a71",
+            "cid": "12298371803437685361",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0wiFWFlE5IkRcVqV4_6XrKo&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "108704651754100959801",
+            "owner_link": "https://maps.google.com/maps/contrib/108704651754100959801",
+            "owner_name": "Goodwill of Southern New England - Rhode Island Campus",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Non-profit organization",
+            "subtypes": [
+                "Non-profit organization"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNjI4esO7nKns_5VN_GSnmtlmV0TlUj3JxUVIMQ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNjI4esO7nKns_5VN_GSnmtlmV0TlUj3JxUVIMQ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNjI4esO7nKns_5VN_GSnmtlmV0TlUj3JxUVIMQ=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.85675050210276,
+                    "longitude": -71.43589409366326,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-12-09T00:00:00.000Z",
+                    "photo_timestamp": 1512777600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    }
+                }
+            },
+            "address": "100 Houghton St, Providence, RI 02904",
+            "order_link": null,
+            "price_level": null,
+            "district": "Wanskuck",
+            "street_address": "100 Houghton St",
+            "city": "Providence",
+            "zipcode": "02904",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "hr@goodwillsne.org",
+                    "smccall@goodwillsne.org",
+                    "rborer@goodwillsne.org",
+                    "sbarba@goodwillsne.org"
+                ],
+                "phone_numbers": [
+                    "2037772000",
+                    "2034956108"
+                ],
+                "facebook": "https://www.facebook.com/goodwillsne",
+                "instagram": "https://www.instagram.com/goodwill_sne",
+                "yelp": "https://www.yelp.com/biz/goodwill-plainville",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillsne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/goodwillsne"
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e444e5e0ecc9c9:0xaf9fb339c06d698d",
+            "google_id": "0x89e444e5e0ecc9c9:0xaf9fb339c06d698d",
+            "place_id": "ChIJycns4OVE5IkRjWltwDmzn68",
+            "google_mid": "/g/1vp74syj",
+            "phone_number": "+14012731085",
+            "name": "Savers",
+            "latitude": 41.8473737,
+            "longitude": -71.4124035,
+            "full_address": "Savers, 201 Branch Ave, Providence, RI 02904",
+            "review_count": 659,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20139 PM"
+                ]
+            },
+            "website": "https://stores.savers.com/ri/providence/savers-thrift-store-1165.html",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e444e5e0ecc9c9:0xaf9fb339c06d698d",
+            "cid": "12655030538557286797",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJycns4OVE5IkRjWltwDmzn68&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "106025925617367841986",
+            "owner_link": "https://maps.google.com/maps/contrib/106025925617367841986",
+            "owner_name": "Savers",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Costume store",
+                "Donations center",
+                "Second hand store",
+                "Used book store",
+                "Used CD store",
+                "Used clothing store",
+                "Used furniture store",
+                "Vintage clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNAVkt5wYpAfbax8ymjKbMk4KY-Rd01LSLXNSDs",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNAVkt5wYpAfbax8ymjKbMk4KY-Rd01LSLXNSDs",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNAVkt5wYpAfbax8ymjKbMk4KY-Rd01LSLXNSDs=w4160-h2340-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.84737371792096,
+                    "longitude": -71.41240350865394,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-02-19T00:00:00.000Z",
+                    "photo_timestamp": 1487462400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 145,
+            "about": {
+                "summary": "Thrift store chain offering secondhand clothing, footwear, furniture, books & household items.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Buys used goods": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true,
+                        "Electronics": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "201 Branch Ave, Providence, RI 02904",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Mount Hope",
+            "street_address": "201 Branch Ave",
+            "city": "Providence",
+            "zipcode": "02904",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e44517ada44d07:0xa3907021417ddb20",
+            "google_id": "0x89e44517ada44d07:0xa3907021417ddb20",
+            "place_id": "ChIJB02krRdF5IkRINt9QSFwkKM",
+            "google_mid": "/g/1tywyz73",
+            "phone_number": "+14014546464",
+            "name": "risd:store",
+            "latitude": 41.8263386,
+            "longitude": -71.4086071,
+            "full_address": "risd:store, 30 N Main St, Providence, RI 02903",
+            "review_count": 77,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "8:30 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "8:30 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "8:30 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "8:30 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "8:30 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.risdstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e44517ada44d07:0xa3907021417ddb20",
+            "cid": "11786043512963586848",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB02krRdF5IkRINt9QSFwkKM&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "115126234094236284800",
+            "owner_link": "https://maps.google.com/maps/contrib/115126234094236284800",
+            "owner_name": "risd:store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Art supply store",
+            "subtypes": [
+                "Art supply store",
+                "ATM",
+                "Book store",
+                "Clothing store",
+                "Convenience store",
+                "Craft store",
+                "Gift shop",
+                "Paper store",
+                "School supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP5MG2-hN4scx0KfydAZ3k2zoBfq3CLYWme1D-S",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP5MG2-hN4scx0KfydAZ3k2zoBfq3CLYWme1D-S",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP5MG2-hN4scx0KfydAZ3k2zoBfq3CLYWme1D-S=w1600-h1067-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8264048,
+                    "longitude": -71.4084086,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-04-05T00:00:00.000Z",
+                    "photo_timestamp": 1554422400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 49,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "30 N Main St, Providence, RI 02903",
+            "order_link": null,
+            "price_level": null,
+            "district": "Downtown Providence",
+            "street_address": "30 N Main St",
+            "city": "Providence",
+            "zipcode": "02903",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "risdring@gmail.com",
+                    "fourfieldsjewelry@gmail.com"
+                ],
+                "phone_numbers": [
+                    "4014546464"
+                ],
+                "facebook": "https://www.facebook.com/risd.store",
+                "instagram": "https://www.instagram.com/risdstore",
+                "yelp": "https://www.yelp.com/biz/risd-store-providence-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e48d86052a7c67:0x7e47109f0117e7cb",
+            "google_id": "0x89e48d86052a7c67:0x7e47109f0117e7cb",
+            "place_id": "ChIJZ3wqBYaN5IkRy-cXAZ8QR34",
+            "google_mid": "/g/11v0hgvt_g",
+            "phone_number": "+17747128412",
+            "name": "Taunton Bins",
+            "latitude": 41.9010104,
+            "longitude": -71.0922392,
+            "full_address": "Taunton Bins, 24 Weir St, Taunton, MA 02780",
+            "review_count": 9,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": "http://facebook.com/tauntonbins",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e48d86052a7c67:0x7e47109f0117e7cb",
+            "cid": "9099259847229564875",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ3wqBYaN5IkRy-cXAZ8QR34&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "108407259885880886751",
+            "owner_link": "https://maps.google.com/maps/contrib/108407259885880886751",
+            "owner_name": "Taunton Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipM6zOSVGgQPH5-x8cnP_nOMGEqIu3BHaf2OMKpt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM6zOSVGgQPH5-x8cnP_nOMGEqIu3BHaf2OMKpt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM6zOSVGgQPH5-x8cnP_nOMGEqIu3BHaf2OMKpt=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.9009831,
+                    "longitude": -71.0924746,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-07-02T00:00:00.000Z",
+                    "photo_timestamp": 1688256000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "24 Weir St, Taunton, MA 02780",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "24 Weir St",
+            "city": "Taunton",
+            "zipcode": "02780",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89e447740ed0fb0b:0xbc92bdff23216277",
+            "google_id": "0x89e447740ed0fb0b:0xbc92bdff23216277",
+            "place_id": "ChIJC_vQDnRH5IkRd2IhI_-9krw",
+            "google_mid": "/g/11gwmh5y8z",
+            "phone_number": "+14014245390",
+            "name": "Providence Brick Exchange",
+            "latitude": 41.8723215,
+            "longitude": -71.5305765,
+            "full_address": "Providence Brick Exchange, 9 Cedar Swamp Rd unit 8, Smithfield, RI 02917",
+            "review_count": 98,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "12\u20136 PM"
+                ],
+                "Tuesday": [
+                    "12\u20136 PM"
+                ],
+                "Wednesday": [
+                    "12\u20136 PM"
+                ],
+                "Thursday": [
+                    "12\u20136 PM"
+                ],
+                "Friday": [
+                    "12\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/ProvidenceBrickExchange",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e447740ed0fb0b:0xbc92bdff23216277",
+            "cid": "13588131929233908343",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJC_vQDnRH5IkRd2IhI_-9krw&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "112899254555033974666",
+            "owner_link": "https://maps.google.com/maps/contrib/112899254555033974666",
+            "owner_name": "Providence Brick Exchange",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Toy store",
+            "subtypes": [
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMHG1OEjIErQlC4ElwYlu4Xp_jADpAlCbQNcJ89",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMHG1OEjIErQlC4ElwYlu4Xp_jADpAlCbQNcJ89",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMHG1OEjIErQlC4ElwYlu4Xp_jADpAlCbQNcJ89=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.8723057,
+                    "longitude": -71.5307828,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-11-30T00:00:00.000Z",
+                    "photo_timestamp": 1543536000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 74,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "9 Cedar Swamp Rd unit 8, Smithfield, RI 02917",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "9 Cedar Swamp Rd unit 8",
+            "city": "Smithfield",
+            "zipcode": "02917",
+            "state": "Rhode Island",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x88f8bd11c38734c3:0xb4c5f753e75dca9b",
+            "google_id": "0x88f8bd11c38734c3:0xb4c5f753e75dca9b",
+            "place_id": "ChIJwzSHwxG9-IgRm8pd51P3xbQ",
+            "google_mid": "/g/11s38lv3_7",
+            "phone_number": "+18037285699",
+            "name": "The Bin Store Columbia",
+            "latitude": 33.980812199999995,
+            "longitude": -81.1111738,
+            "full_address": "The Bin Store Columbia, 2814 Augusta Rd, West Columbia, SC 29170",
+            "review_count": 190,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://shopbinstores.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f8bd11c38734c3:0xb4c5f753e75dca9b",
+            "cid": "13026089436975057563",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwzSHwxG9-IgRm8pd51P3xbQ&q=bin+stores+in+rhode+island&authuser=0&hl=en&gl=US",
+            "owner_id": "105432690565972704949",
+            "owner_link": "https://maps.google.com/maps/contrib/105432690565972704949",
+            "owner_name": "The Bin Store Columbia",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Discount supermarket",
+                "Dollar store",
+                "Flea market",
+                "Home goods store",
+                "Liquidator",
+                "Outlet store",
+                "Store",
+                "Warehouse store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO1FtmReigWO49X6OLBXZNNlrHNAewvr16jHxrI",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO1FtmReigWO49X6OLBXZNNlrHNAewvr16jHxrI",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO1FtmReigWO49X6OLBXZNNlrHNAewvr16jHxrI=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.980747,
+                    "longitude": -81.1112622,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-24T00:00:00.000Z",
+                    "photo_timestamp": 1669248000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 141,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2814 Augusta Rd, West Columbia, SC 29170",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2814 Augusta Rd",
+            "city": "West Columbia",
+            "zipcode": "29170",
+            "state": "South Carolina",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "michael@shopbinstores.com"
+                ],
+                "phone_numbers": [
+                    "1302608943697"
+                ],
+                "facebook": "https://www.facebook.com/TheBinStores",
+                "instagram": "https://www.instagram.com/shopbinstores",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@shopbinstores",
+                "snapchat": null,
+                "twitter": "https://twitter.com/shopbinstores",
+                "linkedin": "https://www.linkedin.com/company/the-bin-store",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        }
+    ]
+}

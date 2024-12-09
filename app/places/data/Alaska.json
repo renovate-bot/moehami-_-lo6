@@ -1,0 +1,2438 @@
+{
+    "status": "OK",
+    "request_id": "3423b120-1f5a-4036-9f39-c31c35faa5c6",
+    "parameters": {
+        "query": "bin stores in alaska",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x56c8eb695be27a07:0x607eb0dda22dd21f",
+            "google_id": "0x56c8eb695be27a07:0x607eb0dda22dd21f",
+            "place_id": "ChIJB3riW2nryFYRH9Itot2wfmA",
+            "google_mid": "/g/1trxj_y1",
+            "phone_number": "+19076222100",
+            "name": "The Storage Bin",
+            "latitude": 61.318252799999996,
+            "longitude": -149.5777925,
+            "full_address": "The Storage Bin, 16330 Artillery Rd, Eagle River, AK 99577",
+            "review_count": 7,
+            "rating": 4.4,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open 24 hours",
+            "working_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "website": "http://www.thestoragebinak.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c8eb695be27a07:0x607eb0dda22dd21f",
+            "cid": "6953189340661797407",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB3riW2nryFYRH9Itot2wfmA&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "106583080910121915031",
+            "owner_link": "https://maps.google.com/maps/contrib/106583080910121915031",
+            "owner_name": "The Storage Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Self-storage facility",
+            "subtypes": [
+                "Self-storage facility",
+                "Automobile storage facility",
+                "Boat storage facility",
+                "RV storage facility"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOqhf7pudYRyh-4M2WSVrur5QxzaefY5azb9iCG",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOqhf7pudYRyh-4M2WSVrur5QxzaefY5azb9iCG",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOqhf7pudYRyh-4M2WSVrur5QxzaefY5azb9iCG=w2048-h1365-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.318795099999996,
+                    "longitude": -149.57817699999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-09-30T00:00:00.000Z",
+                    "photo_timestamp": 1727654400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "16330 Artillery Rd, Eagle River, AK 99577",
+            "order_link": null,
+            "price_level": null,
+            "district": "Eagle River",
+            "street_address": "16330 Artillery Rd",
+            "city": "Eagle River",
+            "zipcode": "99577",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "storagebinak@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9076222100"
+                ],
+                "facebook": "https://www.facebook.com/thestoragebinak",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/the-storage-bin-eagle-river",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/the-storage-bin-llc",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x51325aad24e6c871:0x19b59600972c4748",
+            "google_id": "0x51325aad24e6c871:0x19b59600972c4748",
+            "place_id": "ChIJccjmJK1aMlERSEcslwCWtRk",
+            "google_mid": "/g/11c5g_tvhj",
+            "phone_number": "+19074519780",
+            "name": "907 Army Surplus - Fairbanks",
+            "latitude": 64.8293613,
+            "longitude": -147.7143728,
+            "full_address": "907 Army Surplus - Fairbanks, 1917 S Cushman St, Fairbanks, AK 99701",
+            "review_count": 145,
+            "rating": 4.4,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.907surplusak.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x51325aad24e6c871:0x19b59600972c4748",
+            "cid": "1852551751013254984",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJccjmJK1aMlERSEcslwCWtRk&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "100791965486386640194",
+            "owner_link": "https://maps.google.com/maps/contrib/100791965486386640194",
+            "owner_name": "907 Army Surplus - Fairbanks",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Army & navy surplus shop",
+            "subtypes": [
+                "Army & navy surplus shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN27e1vt8Qh1A4a_EKawMcP4qMs6BHflcsotTiD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN27e1vt8Qh1A4a_EKawMcP4qMs6BHflcsotTiD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN27e1vt8Qh1A4a_EKawMcP4qMs6BHflcsotTiD=w1798-h1200-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 64.82930309999999,
+                    "longitude": -147.71510809999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-05-15T00:00:00.000Z",
+                    "photo_timestamp": 1589500800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 148,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1917 S Cushman St, Fairbanks, AK 99701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1917 S Cushman St",
+            "city": "Fairbanks",
+            "zipcode": "99701",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "907surplus@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9074519780",
+                    "9076779780"
+                ],
+                "facebook": "https://www.facebook.com/907Surplus",
+                "instagram": "https://www.instagram.com/907surplusak",
+                "yelp": "https://www.yelp.com/biz/907-surplus-fairbanks-3",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/907SurplusAK",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56b5855cf4e6bf99:0x3353f074b76661a5",
+            "google_id": "0x56b5855cf4e6bf99:0x3353f074b76661a5",
+            "place_id": "ChIJmb_m9FyFtVYRpWFmt3TwUzM",
+            "google_mid": "/g/1tdl5v_x",
+            "phone_number": "+19078223968",
+            "name": "Frontier Country Stores - Glennallen",
+            "latitude": 62.133691999999996,
+            "longitude": -145.47694439999998,
+            "full_address": "Frontier Country Stores - Glennallen, Mile, 116.5 Richardson Hwy, Glennallen, AK 99588",
+            "review_count": 65,
+            "rating": 4.7,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u201311 PM"
+                ],
+                "Friday": [
+                    "9 AM\u201311 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u201311 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56b5855cf4e6bf99:0x3353f074b76661a5",
+            "cid": "3698564103085121957",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmb_m9FyFtVYRpWFmt3TwUzM&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "110815970425665477046",
+            "owner_link": "https://maps.google.com/maps/contrib/110815970425665477046",
+            "owner_name": "Frontier Country Stores - Glennallen",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquor store",
+            "subtypes": [
+                "Liquor store",
+                "Convenience store",
+                "Grocery store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOnsvs-p7S58wzsNeJkv01l2zF9OFyG_qSViYiZ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOnsvs-p7S58wzsNeJkv01l2zF9OFyG_qSViYiZ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOnsvs-p7S58wzsNeJkv01l2zF9OFyG_qSViYiZ=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 62.133747799999995,
+                    "longitude": -145.4772119,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-09-20T00:00:00.000Z",
+                    "photo_timestamp": 1695168000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "Mile, 116.5 Richardson Hwy, Glennallen, AK 99588",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "Mile, 116.5 Richardson Hwy",
+            "city": "Glennallen",
+            "zipcode": "99588",
+            "state": "AK",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c897a7a7bfaf73:0x70ca1f61d0d1f6b3",
+            "google_id": "0x56c897a7a7bfaf73:0x70ca1f61d0d1f6b3",
+            "place_id": "ChIJc6-_p6eXyFYRs_bR0GEfynA",
+            "google_mid": "/g/11b7dwhyyg",
+            "phone_number": "+19075620031",
+            "name": "Obsession Records",
+            "latitude": 61.1815402,
+            "longitude": -149.8398585,
+            "full_address": "Obsession Records, 2217 E Tudor Rd #14, Anchorage, AK 99507",
+            "review_count": 263,
+            "rating": 4.9,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.obsessionrecords.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c897a7a7bfaf73:0x70ca1f61d0d1f6b3",
+            "cid": "8127342982519191219",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc6-_p6eXyFYRs_bR0GEfynA&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "107919083077288233147",
+            "owner_link": "https://maps.google.com/maps/contrib/107919083077288233147",
+            "owner_name": "Obsession Records",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNz9R2p9PGrMYqzmKifDFtxb43InUwGCCBriaLu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNz9R2p9PGrMYqzmKifDFtxb43InUwGCCBriaLu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNz9R2p9PGrMYqzmKifDFtxb43InUwGCCBriaLu=w13312-h6656-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.181399199999994,
+                    "longitude": -149.8398579,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-12-06T00:00:00.000Z",
+                    "photo_timestamp": 1607212800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 74,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Onsite services": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2217 E Tudor Rd #14, Anchorage, AK 99507",
+            "order_link": null,
+            "price_level": null,
+            "district": "Tudor Area",
+            "street_address": "2217 E Tudor Rd #14",
+            "city": "Anchorage",
+            "zipcode": "99507",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "8043530930"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/obsession-records-anchorage",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/obsessionrecord",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56f9880f6c258a07:0x55f870bb05558e9c",
+            "google_id": "0x56f9880f6c258a07:0x55f870bb05558e9c",
+            "place_id": "ChIJB4olbA-I-VYRnI5VBbtw-FU",
+            "google_mid": "/g/11csp_ftxr",
+            "phone_number": "+19073833111",
+            "name": "Alaska Commercial Company",
+            "latitude": 55.342152999999996,
+            "longitude": -160.4961002,
+            "full_address": "Alaska Commercial Company, 100 Main St, Sand Point, AK 99661",
+            "review_count": 22,
+            "rating": 4.6,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 3\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20133 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.alaskacommercial.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56f9880f6c258a07:0x55f870bb05558e9c",
+            "cid": "6194825235998805660",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB4olbA-I-VYRnI5VBbtw-FU&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "100589272765939768253",
+            "owner_link": "https://maps.google.com/maps/contrib/100589272765939768253",
+            "owner_name": "Alaska Commercial Company",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Grocery store",
+            "subtypes": [
+                "Grocery store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP5g1XYAcyKnmaL-tno8xnr2NB6oFOz_K-d2MqL",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP5g1XYAcyKnmaL-tno8xnr2NB6oFOz_K-d2MqL",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP5g1XYAcyKnmaL-tno8xnr2NB6oFOz_K-d2MqL=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 55.341961100000006,
+                    "longitude": -160.4961787,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-11-15T00:00:00.000Z",
+                    "photo_timestamp": 1510704000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Highlights": {
+                        "Great produce": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "100 Main St, Sand Point, AK 99661",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "100 Main St",
+            "city": "Sand Point",
+            "zipcode": "99661",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "acfinancial@alaskacommercial.com"
+                ],
+                "phone_numbers": [
+                    "9078863000",
+                    "18005630002",
+                    "18669632477"
+                ],
+                "facebook": "https://www.facebook.com/AlaskaCommercialCompany",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@alaskansalmoncompany",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/alaska-commercial-company",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c8ddc52c2df589:0xe4dc3362a3af8e7",
+            "google_id": "0x56c8ddc52c2df589:0xe4dc3362a3af8e7",
+            "place_id": "ChIJifUtLMXdyFYR5_g6KjbDTQ4",
+            "google_mid": "/g/11fv3gf35w",
+            "phone_number": "+19073570755",
+            "name": "Green Raven",
+            "latitude": 61.579920699999995,
+            "longitude": -149.5831197,
+            "full_address": "Green Raven, 5320 W Parks Hwy, Wasilla, AK 99654",
+            "review_count": 82,
+            "rating": 4.6,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20138 PM"
+                ]
+            },
+            "website": "https://greenravenak.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c8ddc52c2df589:0xe4dc3362a3af8e7",
+            "cid": "1030694527141869799",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJifUtLMXdyFYR5_g6KjbDTQ4&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "115046258947727273350",
+            "owner_link": "https://maps.google.com/maps/contrib/115046258947727273350",
+            "owner_name": "Green Raven",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Cannabis store",
+            "subtypes": [
+                "Cannabis store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNfvQ_m0gjWt4V-r4phU5l7Sia-VQyhp9JCYMLn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNfvQ_m0gjWt4V-r4phU5l7Sia-VQyhp9JCYMLn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNfvQ_m0gjWt4V-r4phU5l7Sia-VQyhp9JCYMLn=w2511-h1436-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.57992061430222,
+                    "longitude": -149.58311968749982,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-09-08T00:00:00.000Z",
+                    "photo_timestamp": 1631059200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 83,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    }
+                }
+            },
+            "address": "5320 W Parks Hwy, Wasilla, AK 99654",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5320 W Parks Hwy",
+            "city": "Wasilla",
+            "zipcode": "99654",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "greenravenak@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9073570755"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/greenraven.ak",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x50d3f22968d1aca7:0x9de6a3361ab0398d",
+            "google_id": "0x50d3f22968d1aca7:0x9de6a3361ab0398d",
+            "place_id": "ChIJp6zRaCny01ARjTmwGjaj5p0",
+            "google_mid": "/g/1wnf0pnn",
+            "phone_number": "+19074452188",
+            "name": "Ron's Sales",
+            "latitude": 67.08454429999999,
+            "longitude": -157.8634842,
+            "full_address": "Ron's Sales, 15 Ambler Ave, Ambler, AK 99786",
+            "review_count": 11,
+            "rating": 5,
+            "timezone": "America/Anchorage",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x50d3f22968d1aca7:0x9de6a3361ab0398d",
+            "cid": "11377960961369454989",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp6zRaCny01ARjTmwGjaj5p0&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "117672591352868404645",
+            "owner_link": "https://maps.google.com/maps/contrib/117672591352868404645",
+            "owner_name": "Ron's Sales",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO0TI98Q0E48c5wNaIDvsK6DK_q2JcthcjEzA39",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO0TI98Q0E48c5wNaIDvsK6DK_q2JcthcjEzA39",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO0TI98Q0E48c5wNaIDvsK6DK_q2JcthcjEzA39=w1362-h2560-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 67.08454429999999,
+                    "longitude": -157.86348429999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-03-17T00:00:00.000Z",
+                    "photo_timestamp": 1584403200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": null,
+            "address": "15 Ambler Ave, Ambler, AK 99786",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "15 Ambler Ave",
+            "city": "Ambler",
+            "zipcode": "99786",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c8976512747ba3:0xf898843a6a787990",
+            "google_id": "0x56c8976512747ba3:0xf898843a6a787990",
+            "place_id": "ChIJo3t0EmWXyFYRkHl4ajqEmPg",
+            "google_mid": "/g/11qn64rpc5",
+            "phone_number": "+19072585648",
+            "name": "Far North Yarn Co.",
+            "latitude": 61.1885635,
+            "longitude": -149.8694051,
+            "full_address": "Far North Yarn Co., 751 E 36th Ave #112, Anchorage, AK 99503",
+            "review_count": 82,
+            "rating": 5,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "12\u20136 PM"
+                ],
+                "Wednesday": [
+                    "12\u20136 PM"
+                ],
+                "Thursday": [
+                    "12\u20136 PM"
+                ],
+                "Friday": [
+                    "12\u20136 PM"
+                ],
+                "Saturday": [
+                    "12\u20136 PM"
+                ]
+            },
+            "website": "http://www.akfnyc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c8976512747ba3:0xf898843a6a787990",
+            "cid": "17913212904295397776",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo3t0EmWXyFYRkHl4ajqEmPg&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "114804387497245479674",
+            "owner_link": "https://maps.google.com/maps/contrib/114804387497245479674",
+            "owner_name": "Far North Yarn Co.",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Yarn store",
+            "subtypes": [
+                "Yarn store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP-AUIyFm2O4DclTEH8-JWhQfbpjOn98QYsaaB7",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP-AUIyFm2O4DclTEH8-JWhQfbpjOn98QYsaaB7",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP-AUIyFm2O4DclTEH8-JWhQfbpjOn98QYsaaB7=w1242-h699-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.18862809999999,
+                    "longitude": -149.8696858,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-09-27T00:00:00.000Z",
+                    "photo_timestamp": 1632700800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "751 E 36th Ave #112, Anchorage, AK 99503",
+            "order_link": null,
+            "price_level": null,
+            "district": "Midtown",
+            "street_address": "751 E 36th Ave #112",
+            "city": "Anchorage",
+            "zipcode": "99503",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "annie@akfnyc.com",
+                    "info@akfnyc.com"
+                ],
+                "phone_numbers": [
+                    "9072585648"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/farnorthyarnco",
+                "yelp": "https://www.yelp.com/biz/far-north-yarn-co-anchorage",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/akfnyc",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/akfnyc"
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c899b01ab62009:0x8e63cf08c1966516",
+            "google_id": "0x56c899b01ab62009:0x8e63cf08c1966516",
+            "place_id": "ChIJCSC2GrCZyFYRFmWWwQjPY44",
+            "google_mid": "/g/11g0gmk3h7",
+            "phone_number": "+19079293331",
+            "name": "Hollyweed 907",
+            "latitude": 61.141395499999994,
+            "longitude": -149.8361378,
+            "full_address": "Hollyweed 907, 2429 E 88th Ave, Anchorage, AK 99507",
+            "review_count": 186,
+            "rating": 4.5,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 12\u202fAM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Monday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Tuesday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Wednesday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Thursday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Friday": [
+                    "9 AM\u201312 AM"
+                ],
+                "Saturday": [
+                    "9 AM\u201312 AM"
+                ]
+            },
+            "website": "http://akhollyweed907.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c899b01ab62009:0x8e63cf08c1966516",
+            "cid": "10260272012594668822",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCSC2GrCZyFYRFmWWwQjPY44&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "117997654284590166045",
+            "owner_link": "https://maps.google.com/maps/contrib/117997654284590166045",
+            "owner_name": "Hollyweed 907",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Cannabis store",
+            "subtypes": [
+                "Cannabis store",
+                "Glass shop"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPuii5qicXLsqMf4lFNygFtr6C4qD5_JwAR8wJn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPuii5qicXLsqMf4lFNygFtr6C4qD5_JwAR8wJn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPuii5qicXLsqMf4lFNygFtr6C4qD5_JwAR8wJn=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.141284199999994,
+                    "longitude": -149.8361342,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-02-08T00:00:00.000Z",
+                    "photo_timestamp": 1581120000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Cash-only": true
+                    }
+                }
+            },
+            "address": "2429 E 88th Ave, Anchorage, AK 99507",
+            "order_link": null,
+            "price_level": null,
+            "district": "Abbott Loop",
+            "street_address": "2429 E 88th Ave",
+            "city": "Anchorage",
+            "zipcode": "99507",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/hollyweed907",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c89629b0861579:0x69e3824712e5e26b",
+            "google_id": "0x56c89629b0861579:0x69e3824712e5e26b",
+            "place_id": "ChIJeRWGsCmWyFYRa-LlEkeC42k",
+            "google_mid": "/g/11bwfkgq37",
+            "phone_number": "+19072791480",
+            "name": "The North Face Anchorage",
+            "latitude": 61.217805,
+            "longitude": -149.88764799999998,
+            "full_address": "The North Face Anchorage, 305 W 5th Ave, Anchorage, AK 99501",
+            "review_count": 124,
+            "rating": 4.5,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://thenorthface.com/en-us/stores/ak/anchorage/USA511",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c89629b0861579:0x69e3824712e5e26b",
+            "cid": "7630085435467096683",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeRWGsCmWyFYRa-LlEkeC42k&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "104711312866600498777",
+            "owner_link": "https://maps.google.com/maps/contrib/104711312866600498777",
+            "owner_name": "The North Face Anchorage",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Clothing store",
+            "subtypes": [
+                "Clothing store",
+                "Camping store",
+                "Outdoor sports store",
+                "Sportswear store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN8iISY1HhqXiqHUfDqFoBKl63YQHMMurKgBOdt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN8iISY1HhqXiqHUfDqFoBKl63YQHMMurKgBOdt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN8iISY1HhqXiqHUfDqFoBKl63YQHMMurKgBOdt=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.21767894311782,
+                    "longitude": -149.88764678072422,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-06-18T00:00:00.000Z",
+                    "photo_timestamp": 1623974400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 76,
+            "about": {
+                "summary": "Chain retailer known for outerwear, apparel & gear for outdoor recreation & fitness.",
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "305 W 5th Ave, Anchorage, AK 99501",
+            "order_link": null,
+            "price_level": null,
+            "district": "Downtown",
+            "street_address": "305 W 5th Ave",
+            "city": "Anchorage",
+            "zipcode": "99501",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x51324543ada36a41:0x1ef13c08583f33f9",
+            "google_id": "0x51324543ada36a41:0x1ef13c08583f33f9",
+            "place_id": "ChIJQWqjrUNFMlER-TM_WAg88R4",
+            "google_mid": "/g/11b6x85jc3",
+            "phone_number": "+19073741330",
+            "name": "Fatboy Vapors Fairbanks",
+            "latitude": 64.8493028,
+            "longitude": -147.697295,
+            "full_address": "Fatboy Vapors Fairbanks, 505 Old Steese Hwy #126, Fairbanks, AK 99701",
+            "review_count": 198,
+            "rating": 4.3,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20139 PM"
+                ]
+            },
+            "website": "http://www.fatboyvapors.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x51324543ada36a41:0x1ef13c08583f33f9",
+            "cid": "2229629297063048185",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQWqjrUNFMlER-TM_WAg88R4&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "110722436295856655335",
+            "owner_link": "https://maps.google.com/maps/contrib/110722436295856655335",
+            "owner_name": "Fatboy Vapors Fairbanks",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Vaporizer store",
+            "subtypes": [
+                "Vaporizer store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMMG7n9O867E1Zp38vdgSRVAkCZNoicDOtACGjU",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMMG7n9O867E1Zp38vdgSRVAkCZNoicDOtACGjU",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMMG7n9O867E1Zp38vdgSRVAkCZNoicDOtACGjU=w1600-h900-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 64.84921059999999,
+                    "longitude": -147.6970962,
+                    "type": "photo",
+                    "photo_datetime_utc": "2015-03-03T00:00:00.000Z",
+                    "photo_timestamp": 1425340800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 54,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "505 Old Steese Hwy #126, Fairbanks, AK 99701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "505 Old Steese Hwy #126",
+            "city": "Fairbanks",
+            "zipcode": "99701",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "5039123365"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/fatboyvaporsalaska",
+                "yelp": "https://www.yelp.com/biz/fatboy-vapors-battle-ground",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/fatboyvapors",
+                "linkedin": "https://www.linkedin.com/company/fatboy-vapors",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c897c4b5bdef39:0xf3f8c7a422c43d08",
+            "google_id": "0x56c897c4b5bdef39:0xf3f8c7a422c43d08",
+            "place_id": "ChIJOe-9tcSXyFYRCD3EIqTH-PM",
+            "google_mid": "/g/1tgxht08",
+            "phone_number": "+19075623636",
+            "name": "Alaska Sausage & Seafood",
+            "latitude": 61.1934153,
+            "longitude": -149.8984137,
+            "full_address": "Alaska Sausage & Seafood, 2914 Arctic Blvd, Anchorage, AK 99503",
+            "review_count": 132,
+            "rating": 4.7,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "http://www.alaskasausage.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c897c4b5bdef39:0xf3f8c7a422c43d08",
+            "cid": "17580020653212581128",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOe-9tcSXyFYRCD3EIqTH-PM&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "105342162929501291151",
+            "owner_link": "https://maps.google.com/maps/contrib/105342162929501291151",
+            "owner_name": "Alaska Sausage & Seafood",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Gourmet grocery store",
+            "subtypes": [
+                "Gourmet grocery store",
+                "Butcher shop",
+                "Meat products store",
+                "Meat wholesaler",
+                "Seafood market"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNKvmPMTrYg9AGA7BB7a3iJp9HsWVg5291pRc2r",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNKvmPMTrYg9AGA7BB7a3iJp9HsWVg5291pRc2r",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNKvmPMTrYg9AGA7BB7a3iJp9HsWVg5291pRc2r=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.1933203,
+                    "longitude": -149.8983726,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-03-27T00:00:00.000Z",
+                    "photo_timestamp": 1648339200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 61,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2914 Arctic Blvd, Anchorage, AK 99503",
+            "order_link": null,
+            "price_level": null,
+            "district": "Spenard",
+            "street_address": "2914 Arctic Blvd",
+            "city": "Anchorage",
+            "zipcode": "99503",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@alaskasausage.com",
+                    "mike.westbay@alaskasausage.com"
+                ],
+                "phone_numbers": [
+                    "9075623636"
+                ],
+                "facebook": "https://www.facebook.com/AlaskaSausageSeafood",
+                "instagram": "https://www.instagram.com/aksausage",
+                "yelp": "https://www.yelp.com/biz/alaska-sausage-and-seafood-anchorage",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/aksausage",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56b58566855d0d8b:0xbfa0334b73931d97",
+            "google_id": "0x56b58566855d0d8b:0xbfa0334b73931d97",
+            "place_id": "ChIJiw1dhWaFtVYRlx2Tc0szoL8",
+            "google_mid": "/g/1td0sm65",
+            "phone_number": "+19078225990",
+            "name": "Sparks General Store",
+            "latitude": 62.106924,
+            "longitude": -145.486321,
+            "full_address": "Sparks General Store, 189 Glenn Hwy, Glennallen, AK 99588",
+            "review_count": 114,
+            "rating": 4.2,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://sparksgeneralstore.wixsite.com/sparks",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56b58566855d0d8b:0xbfa0334b73931d97",
+            "cid": "13808092856672525719",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJiw1dhWaFtVYRlx2Tc0szoL8&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "107889557217880193136",
+            "owner_link": "https://maps.google.com/maps/contrib/107889557217880193136",
+            "owner_name": "Sparks General Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Pizza Takeout",
+            "subtypes": [
+                "Pizza Takeout",
+                "Cell phone accessory store",
+                "Electronics store",
+                "Gas station",
+                "Gift shop",
+                "Grocery store",
+                "Truck rental agency"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPoJDGLs82ajcqLJp_PC4xlkG-FuR2lWx0RlAk",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPoJDGLs82ajcqLJp_PC4xlkG-FuR2lWx0RlAk",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPoJDGLs82ajcqLJp_PC4xlkG-FuR2lWx0RlAk=w5312-h2988-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 62.10692399906406,
+                    "longitude": -145.48632100812026,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-10-24T00:00:00.000Z",
+                    "photo_timestamp": 1477267200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Takeout": true,
+                        "Delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Offerings": {
+                        "Coffee": true,
+                        "Comfort food": true,
+                        "Quick bite": true
+                    },
+                    "Dining options": {
+                        "Lunch": true
+                    },
+                    "Amenities": {
+                        "Restroom": true
+                    },
+                    "Atmosphere": {
+                        "Casual": true
+                    },
+                    "Crowd": {
+                        "Tourists": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    },
+                    "Children": {
+                        "Good for kids": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true,
+                        "Free street parking": true
+                    }
+                }
+            },
+            "address": "189 Glenn Hwy, Glennallen, AK 99588",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "189 Glenn Hwy",
+            "city": "Glennallen",
+            "zipcode": "99588",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c899d058920487:0x12882cc9133f2f54",
+            "google_id": "0x56c899d058920487:0x12882cc9133f2f54",
+            "place_id": "ChIJhwSSWNCZyFYRVC8_E8ksiBI",
+            "google_mid": "/m/08kstj",
+            "phone_number": "+19073442581",
+            "name": "Dimond Center",
+            "latitude": 61.143238499999995,
+            "longitude": -149.8683978,
+            "full_address": "Dimond Center, 800 E Dimond Blvd, Anchorage, AK 99515",
+            "review_count": 4384,
+            "rating": 4.2,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20139 PM"
+                ]
+            },
+            "website": "http://www.dimondcenter.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c899d058920487:0x12882cc9133f2f54",
+            "cid": "1335366531638308692",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJhwSSWNCZyFYRVC8_E8ksiBI&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "101955296926607472459",
+            "owner_link": "https://maps.google.com/maps/contrib/101955296926607472459",
+            "owner_name": "Dimond Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Shopping mall",
+            "subtypes": [
+                "Shopping mall"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO-5RVqFiz6d_BZDLxVJ9ndfbBYN4Y1LABkwf7q",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO-5RVqFiz6d_BZDLxVJ9ndfbBYN4Y1LABkwf7q",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO-5RVqFiz6d_BZDLxVJ9ndfbBYN4Y1LABkwf7q=w3120-h4160-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.142701800000005,
+                    "longitude": -149.86840809999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-02T00:00:00.000Z",
+                    "photo_timestamp": 1669939200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3062,
+            "about": {
+                "summary": "Family-owned shopping center since 1977, with a bowling alley, food court, ice rink & movie theater.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Arcade games": true
+                    },
+                    "Amenities": {
+                        "Restroom": true
+                    },
+                    "Payments": {
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "800 E Dimond Blvd, Anchorage, AK 99515",
+            "order_link": null,
+            "price_level": null,
+            "district": "Bayshore / Klatt",
+            "street_address": "800 E Dimond Blvd",
+            "city": "Anchorage",
+            "zipcode": "99515",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "lburt@dimondcenter.com",
+                    "rforbes@dimondcenter.com",
+                    "akicelessons@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9073442581",
+                    "9078021942",
+                    "9073441212",
+                    "9073441544"
+                ],
+                "facebook": "https://www.facebook.com/dimondcenter",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/dimond-center-anchorage-5",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/dimond-center-llc",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c897c82598d177:0x455b91ccc97988fb",
+            "google_id": "0x56c897c82598d177:0x455b91ccc97988fb",
+            "place_id": "ChIJd9GYJciXyFYR-4h5ycyRW0U",
+            "google_mid": "/g/1tfr04pc",
+            "phone_number": "+19074168989",
+            "name": "Midtown Mall",
+            "latitude": 61.195129599999994,
+            "longitude": -149.8744054,
+            "full_address": "Midtown Mall, 600 E Northern Lights Blvd, Anchorage, AK 99503",
+            "review_count": 1563,
+            "rating": 3.8,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 12\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.midtownmall.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c897c82598d177:0x455b91ccc97988fb",
+            "cid": "4997748520237238523",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd9GYJciXyFYR-4h5ycyRW0U&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "104754488251055502536",
+            "owner_link": "https://maps.google.com/maps/contrib/104754488251055502536",
+            "owner_name": "Midtown Mall",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Clothing store",
+                "Gift shop",
+                "Grocery store",
+                "Music store",
+                "Restaurant",
+                "Shopping mall"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN0xJcLFnukNaPHfcZzGByN4G9nPgkEvNLxmovY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN0xJcLFnukNaPHfcZzGByN4G9nPgkEvNLxmovY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN0xJcLFnukNaPHfcZzGByN4G9nPgkEvNLxmovY=w1200-h800-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.19456340000001,
+                    "longitude": -149.8734598,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-03-06T00:00:00.000Z",
+                    "photo_timestamp": 1520294400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 620,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Restroom": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true,
+                        "Free street parking": true
+                    }
+                }
+            },
+            "address": "600 E Northern Lights Blvd, Anchorage, AK 99503",
+            "order_link": null,
+            "price_level": null,
+            "district": "Midtown",
+            "street_address": "600 E Northern Lights Blvd",
+            "city": "Anchorage",
+            "zipcode": "99503",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "amber@midtownmall.com"
+                ],
+                "phone_numbers": [
+                    "9074168989",
+                    "9079293355",
+                    "9074400048"
+                ],
+                "facebook": "https://www.facebook.com/MidtownMallAK",
+                "instagram": "https://www.instagram.com/midtown.mall",
+                "yelp": "https://www.yelp.com/biz/midtown-mall-anchorage",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/midtown-mall",
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UC9529k0PZY0--J3mHOao7uA",
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x87ce616c81cfa0df:0xcbb2bb7d43f510d1",
+            "google_id": "0x87ce616c81cfa0df:0xcbb2bb7d43f510d1",
+            "place_id": "ChIJ36DPgWxhzocR0RD1Q327sss",
+            "google_mid": "/g/11r_gm4y05",
+            "phone_number": "+18705175029",
+            "name": "Discount Bins",
+            "latitude": 36.219019599999996,
+            "longitude": -93.0786559,
+            "full_address": "Discount Bins, 701 US-65 Suite A, Harrison, AR 72601",
+            "review_count": 250,
+            "rating": 4.2,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://facebook.com/100785362380633",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87ce616c81cfa0df:0xcbb2bb7d43f510d1",
+            "cid": "14678000282239307985",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ36DPgWxhzocR0RD1Q327sss&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "111188300753852353473",
+            "owner_link": "https://maps.google.com/maps/contrib/111188300753852353473",
+            "owner_name": "Discount Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipObEMtkZY9f_PyjuzAjpAAcvGRTrGVeKikFs2Dr",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipObEMtkZY9f_PyjuzAjpAAcvGRTrGVeKikFs2Dr",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipObEMtkZY9f_PyjuzAjpAAcvGRTrGVeKikFs2Dr=w3574-h1696-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 36.2187967,
+                    "longitude": -93.07863619999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-04-09T00:00:00.000Z",
+                    "photo_timestamp": 1649462400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "701 US-65 Suite A, Harrison, AR 72601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "701 US-65 Suite A",
+            "city": "Harrison",
+            "zipcode": "72601",
+            "state": "Arkansas",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c8970826002cb5:0x967d85ef74b5630",
+            "google_id": "0x56c8970826002cb5:0x967d85ef74b5630",
+            "place_id": "ChIJtSwAJgiXyFYRMFZL917YZwk",
+            "google_mid": "/g/1td60gd0",
+            "phone_number": "+19075632281",
+            "name": "The UPS Store",
+            "latitude": 61.1802631,
+            "longitude": -149.83588699999999,
+            "full_address": "The UPS Store, 2440 E Tudor Rd, Anchorage, AK 99507",
+            "review_count": 88,
+            "rating": 3.7,
+            "timezone": "America/Anchorage",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "https://locations.theupsstore.com/ak/anchorage/2440-e-tudor-rd",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c8970826002cb5:0x967d85ef74b5630",
+            "cid": "677748171329984048",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtSwAJgiXyFYRMFZL917YZwk&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "117985147700763038418",
+            "owner_link": "https://maps.google.com/maps/contrib/117985147700763038418",
+            "owner_name": "The UPS Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Shipping and mailing service",
+            "subtypes": [
+                "Shipping and mailing service",
+                "Business center",
+                "Freight forwarding service",
+                "Mailbox rental service",
+                "Notary public",
+                "Office supply store",
+                "Packaging supply store",
+                "Print shop",
+                "Shredding service"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN6v11AcOySnZHg9wuzeHz7atl2lavW3AnBxTc1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN6v11AcOySnZHg9wuzeHz7atl2lavW3AnBxTc1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN6v11AcOySnZHg9wuzeHz7atl2lavW3AnBxTc1=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.1804137,
+                    "longitude": -149.8359599,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-10-12T00:00:00.000Z",
+                    "photo_timestamp": 1697068800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": "Store offering shipping, packaging, printing & other services, plus office supplies.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "2440 E Tudor Rd, Anchorage, AK 99507",
+            "order_link": null,
+            "price_level": null,
+            "district": "Campbell Park",
+            "street_address": "2440 E Tudor Rd",
+            "city": "Anchorage",
+            "zipcode": "99507",
+            "state": "Alaska",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c8ec9967bbd3c3:0xa18244909db3c9a8",
+            "google_id": "0x56c8ec9967bbd3c3:0xa18244909db3c9a8",
+            "place_id": "ChIJw9O7Z5nsyFYRqMmznZBEgqE",
+            "google_mid": "/m/03n_0jw",
+            "phone_number": "+19076949780",
+            "name": "Walmart Supercenter",
+            "latitude": 61.3090066,
+            "longitude": -149.5351648,
+            "full_address": "Walmart Supercenter, 18600 Eagle River Rd, Eagle River, AK 99577",
+            "review_count": 1490,
+            "rating": 4,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 11\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Monday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Tuesday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Wednesday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Thursday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Friday": [
+                    "6 AM\u201311 PM"
+                ],
+                "Saturday": [
+                    "6 AM\u201311 PM"
+                ]
+            },
+            "website": "https://www.walmart.com/store/2188-eagle-river-ak",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c8ec9967bbd3c3:0xa18244909db3c9a8",
+            "cid": "11637939774990567848",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJw9O7Z5nsyFYRqMmznZBEgqE&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "105407957268813440611",
+            "owner_link": "https://maps.google.com/maps/contrib/105407957268813440611",
+            "owner_name": "Walmart Supercenter",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Department store",
+            "subtypes": [
+                "Department store",
+                "Bakery",
+                "Clothing store",
+                "Electronics store",
+                "Furniture store",
+                "Grocery store",
+                "Hardware store",
+                "Home goods store",
+                "Sporting goods store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNo9Hkv1Vl9c5uDib56JMpaPyvvtS5qVQpjW1X-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNo9Hkv1Vl9c5uDib56JMpaPyvvtS5qVQpjW1X-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNo9Hkv1Vl9c5uDib56JMpaPyvvtS5qVQpjW1X-=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.30900658320618,
+                    "longitude": -149.53516476402226,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-08-31T00:00:00.000Z",
+                    "photo_timestamp": 1630368000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 980,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Repair services": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Plastic bags": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "18600 Eagle River Rd, Eagle River, AK 99577",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Eagle River",
+            "street_address": "18600 Eagle River Rd",
+            "city": "Eagle River",
+            "zipcode": "99577",
+            "state": "Alaska",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x56c8ed025919fa4d:0x7a61979b469314b0",
+                "name": "Walmart Baby & Nursery Services"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x56c896a32584a7d5:0x5f69bb3a9faa307f",
+            "google_id": "0x56c896a32584a7d5:0x5f69bb3a9faa307f",
+            "place_id": "ChIJ1aeEJaOWyFYRfzCqnzq7aV8",
+            "google_mid": "/g/1td4pfb4",
+            "phone_number": "+19072691700",
+            "name": "Fred Meyer",
+            "latitude": 61.211520799999995,
+            "longitude": -149.7367645,
+            "full_address": "Fred Meyer, 7701 DeBarr Rd, Anchorage, AK 99504",
+            "review_count": 989,
+            "rating": 4.1,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 10\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Monday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Friday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u201310 PM"
+                ]
+            },
+            "website": "https://www.fredmeyer.com/stores/grocery/ak/anchorage/muldoon/701/00018?cid=loc_70100018_gmb",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x56c896a32584a7d5:0x5f69bb3a9faa307f",
+            "cid": "6875232166619000959",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1aeEJaOWyFYRfzCqnzq7aV8&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "112396950289196655537",
+            "owner_link": "https://maps.google.com/maps/contrib/112396950289196655537",
+            "owner_name": "Fred Meyer",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Grocery store",
+            "subtypes": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Cheese shop",
+                "Deli",
+                "Florist",
+                "Grocery delivery service",
+                "Health food store",
+                "Liquor store",
+                "Seafood market"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMaoYdr5ik8UNTHUKxNwNbAVN32q6RwsNTfhrj0",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMaoYdr5ik8UNTHUKxNwNbAVN32q6RwsNTfhrj0",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMaoYdr5ik8UNTHUKxNwNbAVN32q6RwsNTfhrj0=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 61.2112402,
+                    "longitude": -149.73507669999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-04-14T00:00:00.000Z",
+                    "photo_timestamp": 1618358400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 411,
+            "about": {
+                "summary": "Longtime retail chain for groceries, apparel & furniture, plus toys, electronics, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "No-contact delivery": true,
+                        "Delivery": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Highlights": {
+                        "Great produce": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Organic products": true,
+                        "Prepared foods": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Plastic bags": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "7701 DeBarr Rd, Anchorage, AK 99504",
+            "order_link": null,
+            "price_level": null,
+            "district": "Northeast Anchorage",
+            "street_address": "7701 DeBarr Rd",
+            "city": "Anchorage",
+            "zipcode": "99504",
+            "state": "Alaska",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x56c896a2c41176cb:0xd53d0bfc7f5dcc7d",
+                "name": "Fred Meyer Fuel Center"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x5400e04416caf75b:0x104b7e77025fc898",
+            "google_id": "0x5400e04416caf75b:0x104b7e77025fc898",
+            "place_id": "ChIJW_fKFkTgAFQRmMhfAnd-SxA",
+            "google_mid": "/g/1trtt_n5",
+            "phone_number": "+19074635034",
+            "name": "The Home Depot",
+            "latitude": 58.359110099999995,
+            "longitude": -134.4792778,
+            "full_address": "The Home Depot, 5201 Commercial Blvd, Juneau, AK 99801",
+            "review_count": 318,
+            "rating": 3.9,
+            "timezone": "America/Anchorage",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.homedepot.com/l/Juneau/AK/Juneau/99801/8939?emt=MSGMBGoogleMaps",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5400e04416caf75b:0x104b7e77025fc898",
+            "cid": "1174171177466185880",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJW_fKFkTgAFQRmMhfAnd-SxA&q=bin+stores+in+alaska&authuser=0&hl=en&gl=US",
+            "owner_id": "100322870513950131009",
+            "owner_link": "https://maps.google.com/maps/contrib/100322870513950131009",
+            "owner_name": "The Home Depot",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home improvement store",
+            "subtypes": [
+                "Home improvement store",
+                "Appliance store",
+                "Bathroom supply store",
+                "Cabinet store",
+                "Hardware store",
+                "Lighting store",
+                "Paint store",
+                "Rug store",
+                "Tool store",
+                "Window treatment store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN53Xk50j5SkDYKHtBZIXWqO8kWRkWGxKdU26Iz",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN53Xk50j5SkDYKHtBZIXWqO8kWRkWGxKdU26Iz",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN53Xk50j5SkDYKHtBZIXWqO8kWRkWGxKdU26Iz=w4160-h3120-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 58.359110092665375,
+                    "longitude": -134.4792777994983,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-03-01T00:00:00.000Z",
+                    "photo_timestamp": 1488326400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 204,
+            "about": {
+                "summary": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Batteries": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "5201 Commercial Blvd, Juneau, AK 99801",
+            "order_link": null,
+            "price_level": "$",
+            "district": null,
+            "street_address": "5201 Commercial Blvd",
+            "city": "Juneau",
+            "zipcode": "99801",
+            "state": "Alaska",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x5400e0440dacfaa9:0x9cf8a4f1a39cb4af",
+                "name": "Garden Center at The Home Depot"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        }
+    ]
+}

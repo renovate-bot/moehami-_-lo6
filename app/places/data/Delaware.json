@@ -1,7 +1,7 @@
 {
-    "Status": "OK",
-    "Request-id": "1bf7cd04-39b6-4d0c-9b27-1ee4fbdc0fe7",
-    "Parameters": {
+    "status": "OK",
+    "request_id": "1bf7cd04-39b6-4d0c-9b27-1ee4fbdc0fe7",
+    "parameters": {
         "query": "bin stores in delaware",
         "language": "en",
         "region": "us",
@@ -12,7 +12,7 @@
         "offset": 0,
         "extract_emails_and_contacts": true
     },
-    "Data": [
+    "data": [
         {
             "business_id": "0x89c701003904a363:0x379eb5d5f9b2bb9e",
             "google_id": "0x89c701003904a363:0x379eb5d5f9b2bb9e",

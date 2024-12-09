@@ -41,16 +41,16 @@ export function USAStatesMap({ className, onStateHover }: USAStatesMapProps) {
                 : "hsl(var(--muted))",
               opacity: activeState && activeState !== state.name ? 0.5 : 1
             }}
-            stroke="white"
-            strokeWidth="1"
+            stroke="black"
+            strokeWidth="2"
             className="cursor-pointer"
             onMouseEnter={() => handleStateHover(state.name)}
-            onMouseLeave={() => handleStateHover(null)}
+            onMouseLeave={() => handleStateHover(state.name)}
             role="button"
             aria-label={state.name}
             transition={{
-              fill: { duration: 0.2 },
-              opacity: { duration: 0.3 }
+              fill: { duration: 0.4 },
+              opacity: { duration: 0.6 }
             }}
           />
         ))}

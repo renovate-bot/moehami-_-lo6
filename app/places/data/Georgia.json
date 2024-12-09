@@ -1,0 +1,2276 @@
+{
+    "status": "OK",
+    "request_id": "0e52b882-8ecb-4df6-99f2-6c03d4aa030d",
+    "parameters": {
+        "query": "bin stores in georgia",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x88f523d4df16f717:0x1b08e2ac720ffa33",
+            "google_id": "0x88f523d4df16f717:0x1b08e2ac720ffa33",
+            "place_id": "ChIJF_cW39Qj9YgRM_oPcqziCBs",
+            "google_mid": "/g/11scpmssz5",
+            "phone_number": "+14044328717",
+            "name": "Atlanta Bin Store Discount and Liquidation",
+            "latitude": 33.7922209,
+            "longitude": -84.6324609,
+            "full_address": "Atlanta Bin Store Discount and Liquidation, 351 Thornton Rd suite 109, Lithia Springs, GA 30122",
+            "review_count": 35,
+            "rating": 3.1,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://atlantabinstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f523d4df16f717:0x1b08e2ac720ffa33",
+            "cid": "1948056069113641523",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJF_cW39Qj9YgRM_oPcqziCBs&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "112891256578259192931",
+            "owner_link": "https://maps.google.com/maps/contrib/112891256578259192931",
+            "owner_name": "Atlanta Bin Store Discount and Liquidation",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNK54Z6Lh9_5a23Bo5Pqu8NzL1VoYB_hZoNmr6r",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNK54Z6Lh9_5a23Bo5Pqu8NzL1VoYB_hZoNmr6r",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNK54Z6Lh9_5a23Bo5Pqu8NzL1VoYB_hZoNmr6r=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.7925053,
+                    "longitude": -84.63229249999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-10T00:00:00.000Z",
+                    "photo_timestamp": 1686355200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking garage": true,
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "351 Thornton Rd suite 109, Lithia Springs, GA 30122",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "351 Thornton Rd suite 109",
+            "city": "Lithia Springs",
+            "zipcode": "30122",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/atlantabinstore",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/atlanta-bin-store-lithia-springs",
+                "tiktok": "https://www.tiktok.com/@atlantabinstore",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f5852ba5954473:0x96528c29af1c9557",
+            "google_id": "0x88f5852ba5954473:0x96528c29af1c9557",
+            "place_id": "ChIJc0SVpSuF9YgRV5UcrymMUpY",
+            "google_mid": "/g/11nmflqpwf",
+            "phone_number": null,
+            "name": "Bins Galore",
+            "latitude": 34.1945768,
+            "longitude": -84.14011719999999,
+            "full_address": "Bins Galore, 594 Veterans Memorial Blvd, Cumming, GA 30040",
+            "review_count": 79,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "http://facebook.com/BinsGaloreInc",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f5852ba5954473:0x96528c29af1c9557",
+            "cid": "10831874164438898007",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc0SVpSuF9YgRV5UcrymMUpY&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "103650803524365267907",
+            "owner_link": "https://maps.google.com/maps/contrib/103650803524365267907",
+            "owner_name": "Bins Galore",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNZzcDfLi3W4lIlFY6eijK6pAaj0e8SYG03LyBX",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNZzcDfLi3W4lIlFY6eijK6pAaj0e8SYG03LyBX",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNZzcDfLi3W4lIlFY6eijK6pAaj0e8SYG03LyBX=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 34.1945427,
+                    "longitude": -84.14046189999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-05-02T00:00:00.000Z",
+                    "photo_timestamp": 1651449600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "594 Veterans Memorial Blvd, Cumming, GA 30040",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "594 Veterans Memorial Blvd",
+            "city": "Cumming",
+            "zipcode": "30040",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f51789757ed0f3:0xaff0f20bc0e60b98",
+            "google_id": "0x88f51789757ed0f3:0xaff0f20bc0e60b98",
+            "place_id": "ChIJ89B-dYkX9YgRmAvmwAvy8K8",
+            "google_mid": "/g/11rwxgvmmp",
+            "phone_number": "+14043148653",
+            "name": "BinCredible Deals",
+            "latitude": 33.8899821,
+            "longitude": -84.5790439,
+            "full_address": "BinCredible Deals, 2561 Austell Rd SW Suite 170, Marietta, GA 30008",
+            "review_count": 708,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136:30 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20132:30 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "http://www.bincredible.deals",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f51789757ed0f3:0xaff0f20bc0e60b98",
+            "cid": "12677899083342810008",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ89B-dYkX9YgRmAvmwAvy8K8&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "107922173845377798834",
+            "owner_link": "https://maps.google.com/maps/contrib/107922173845377798834",
+            "owner_name": "BinCredible Deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMVM9lJY4mF7hWB8lsWUUKR814wjeft8uHhqoY9",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMVM9lJY4mF7hWB8lsWUUKR814wjeft8uHhqoY9",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMVM9lJY4mF7hWB8lsWUUKR814wjeft8uHhqoY9=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.8902481,
+                    "longitude": -84.57923629999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-11-12T00:00:00.000Z",
+                    "photo_timestamp": 1636675200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 385,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2561 Austell Rd SW Suite 170, Marietta, GA 30008",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2561 Austell Rd SW Suite 170",
+            "city": "Marietta",
+            "zipcode": "30008",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/BinCredibleDeals",
+                "instagram": "https://www.instagram.com/bincredibledealsbinstore",
+                "yelp": "https://www.yelp.com/biz/bincredible-deals-marietta",
+                "tiktok": "https://www.tiktok.com/@bincredibledealsbinstore",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f9d70030b0260b:0x130862adcdf7146f",
+            "google_id": "0x88f9d70030b0260b:0x130862adcdf7146f",
+            "place_id": "ChIJCyawMADX-YgRbxT3za1iCBM",
+            "google_mid": "/g/11y5pd2b75",
+            "phone_number": "+18035075982",
+            "name": "The Bin Store Grovetown",
+            "latitude": 33.4590901,
+            "longitude": -82.19178819999999,
+            "full_address": "The Bin Store Grovetown, 862 Horizon S Pkwy, Grovetown, GA 30813",
+            "review_count": 61,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://shopbinstores.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f9d70030b0260b:0x130862adcdf7146f",
+            "cid": "1371454585158702191",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCyawMADX-YgRbxT3za1iCBM&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "118381662749969930869",
+            "owner_link": "https://maps.google.com/maps/contrib/118381662749969930869",
+            "owner_name": "The Bin Store Grovetown",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Beauty supply store",
+                "Church supply store",
+                "Dollar store",
+                "Flea market",
+                "Home goods store",
+                "Liquidator",
+                "Outlet store",
+                "Party store",
+                "Warehouse store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOa1tBURS1rzhh8LgdGFTWfyj8hzrUckoK4hlAt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOa1tBURS1rzhh8LgdGFTWfyj8hzrUckoK4hlAt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOa1tBURS1rzhh8LgdGFTWfyj8hzrUckoK4hlAt=w4284-h5712-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.4590896,
+                    "longitude": -82.19189469999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-07-25T00:00:00.000Z",
+                    "photo_timestamp": 1721865600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as veteran-owned": true,
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "862 Horizon S Pkwy, Grovetown, GA 30813",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "862 Horizon S Pkwy",
+            "city": "Grovetown",
+            "zipcode": "30813",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "matt@shopbinstores.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/TheBinStores",
+                "instagram": "https://www.instagram.com/shopbinstores",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@shopbinstores",
+                "snapchat": null,
+                "twitter": "https://twitter.com/shopbinstores",
+                "linkedin": "https://www.linkedin.com/company/the-bin-store",
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCAiFVZB0bO85I1bKOW7HcgQ",
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88fb0b9e00acd6bb:0xf9f41409251d0f18",
+            "google_id": "0x88fb0b9e00acd6bb:0xf9f41409251d0f18",
+            "place_id": "ChIJu9asAJ4L-4gRGA8dJQkU9Pk",
+            "google_mid": "/g/11rr_z1387",
+            "phone_number": "+19123493107",
+            "name": "Friendly Bin Store",
+            "latitude": 31.9865902,
+            "longitude": -81.214781,
+            "full_address": "Friendly Bin Store, 821 King George Blvd, Savannah, GA 31419",
+            "review_count": 5,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/friendlyliquidations",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88fb0b9e00acd6bb:0xf9f41409251d0f18",
+            "cid": "18011042839271378712",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu9asAJ4L-4gRGA8dJQkU9Pk&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "114954447462585335929",
+            "owner_link": "https://maps.google.com/maps/contrib/114954447462585335929",
+            "owner_name": "Friendly Bin Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquidator",
+            "subtypes": [
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOhkg86aczT3aeqZ9328F3RN4C2vKxf3HKBv2S1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOhkg86aczT3aeqZ9328F3RN4C2vKxf3HKBv2S1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOhkg86aczT3aeqZ9328F3RN4C2vKxf3HKBv2S1=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 31.986397099999994,
+                    "longitude": -81.215093,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-03T00:00:00.000Z",
+                    "photo_timestamp": 1667433600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1778,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "821 King George Blvd, Savannah, GA 31419",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "821 King George Blvd",
+            "city": "Savannah",
+            "zipcode": "31419",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f4e96f093a61d7:0xd837a8b12d89c26e",
+            "google_id": "0x88f4e96f093a61d7:0xd837a8b12d89c26e",
+            "place_id": "ChIJ12E6CW_p9IgRbsKJLbGoN9g",
+            "google_mid": "/g/11jjm3xjkg",
+            "phone_number": "+14043755000",
+            "name": "Elliott's Bargain Bins",
+            "latitude": 33.4795989,
+            "longitude": -84.5907287,
+            "full_address": "Elliott's Bargain Bins, 994 Senoia Rd, Tyrone, GA 30290",
+            "review_count": 111,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://elliottsbargainbins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f4e96f093a61d7:0xd837a8b12d89c26e",
+            "cid": "15580106914838200942",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ12E6CW_p9IgRbsKJLbGoN9g&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "112411447357303107288",
+            "owner_link": "https://maps.google.com/maps/contrib/112411447357303107288",
+            "owner_name": "Elliott's Bargain Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOjHy4AQrxoB9ko9UcDLPJoM0CtMadCuc3AI7v4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOjHy4AQrxoB9ko9UcDLPJoM0CtMadCuc3AI7v4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOjHy4AQrxoB9ko9UcDLPJoM0CtMadCuc3AI7v4=w828-h577-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.4795081,
+                    "longitude": -84.5907754,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-03-28T00:00:00.000Z",
+                    "photo_timestamp": 1616889600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 69,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "994 Senoia Rd, Tyrone, GA 30290",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "994 Senoia Rd",
+            "city": "Tyrone",
+            "zipcode": "30290",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/elliotsbargainbins",
+                "instagram": "https://www.instagram.com/elliottsbargainbins",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f9d377d4668ecb:0xdfe0fab1a0a74045",
+            "google_id": "0x88f9d377d4668ecb:0xdfe0fab1a0a74045",
+            "place_id": "ChIJy45m1HfT-YgRRUCnoLH64N8",
+            "google_mid": "/g/11y49t5l39",
+            "phone_number": "+18032263351",
+            "name": "The Bin Store Liquidation Pallets & Truckloads",
+            "latitude": 33.4850944,
+            "longitude": -82.12384329999999,
+            "full_address": "The Bin Store Liquidation Pallets & Truckloads, 4304 Sudan Rd Suite A, Augusta, GA 30907",
+            "review_count": 8,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "https://shopbinstores.com/direct-liquidation-pallets-for-sale",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f9d377d4668ecb:0xdfe0fab1a0a74045",
+            "cid": "16132169506052587589",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy45m1HfT-YgRRUCnoLH64N8&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "110325868111289813362",
+            "owner_link": "https://maps.google.com/maps/contrib/110325868111289813362",
+            "owner_name": "The Bin Store Liquidation Pallets & Truckloads",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wholesaler",
+            "subtypes": [
+                "Wholesaler",
+                "Furniture wholesaler",
+                "Liquidator",
+                "Pallet supplier",
+                "Wholesale drugstore",
+                "Wholesale food store",
+                "Wholesale market",
+                "Wholesaler household appliances"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOTvmkbvim_wTqRuPnc0yR-Ky6j9kJ6YyBUkCFT",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOTvmkbvim_wTqRuPnc0yR-Ky6j9kJ6YyBUkCFT",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOTvmkbvim_wTqRuPnc0yR-Ky6j9kJ6YyBUkCFT=w1792-h1024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.4853938,
+                    "longitude": -82.1238558,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-07-26T00:00:00.000Z",
+                    "photo_timestamp": 1721952000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "4304 Sudan Rd Suite A, Augusta, GA 30907",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "4304 Sudan Rd Suite A",
+            "city": "Augusta",
+            "zipcode": "30907",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f3e566563023f9:0xd13de2e6dc26ec9f",
+            "google_id": "0x88f3e566563023f9:0xd13de2e6dc26ec9f",
+            "place_id": "ChIJ-SMwVmbl84gRn-wm3ObiPdE",
+            "google_mid": "/g/11t9kvdm26",
+            "phone_number": "+14783311000",
+            "name": "Deals Outlet Bin Store Byron",
+            "latitude": 32.6617202,
+            "longitude": -83.7431793,
+            "full_address": "Deals Outlet Bin Store Byron, 311 GA-49 Suite 280, Byron, GA 31008",
+            "review_count": 172,
+            "rating": 4.1,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.dealsoutlet.net",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f3e566563023f9:0xd13de2e6dc26ec9f",
+            "cid": "15077456608670182559",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-SMwVmbl84gRn-wm3ObiPdE&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "111653270323547902552",
+            "owner_link": "https://maps.google.com/maps/contrib/111653270323547902552",
+            "owner_name": "Deals Outlet Bin Store Byron",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNRmFIHHkScwE-gJS19GlMZHu305LE8tgo9mmtM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNRmFIHHkScwE-gJS19GlMZHu305LE8tgo9mmtM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNRmFIHHkScwE-gJS19GlMZHu305LE8tgo9mmtM=w614-h352-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 32.6619606,
+                    "longitude": -83.7429189,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-08-23T00:00:00.000Z",
+                    "photo_timestamp": 1661212800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 52,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "311 GA-49 Suite 280, Byron, GA 31008",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "311 GA-49 Suite 280",
+            "city": "Byron",
+            "zipcode": "31008",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@dealsoutlet.net"
+                ],
+                "phone_numbers": [
+                    "14783311000"
+                ],
+                "facebook": "https://www.facebook.com/dealsoutlet75",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/deals-outlet-byron",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/dealsoutletus",
+                "linkedin": "https://www.linkedin.com/in/deals-outlet-6a9048103",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f4ff602e13608d:0x94407417cc81ceca",
+            "google_id": "0x88f4ff602e13608d:0x94407417cc81ceca",
+            "place_id": "ChIJjWATLmD_9IgRys6BzBd0QJQ",
+            "google_mid": "/g/11kk5mlb4p",
+            "phone_number": null,
+            "name": "Faancy Finds",
+            "latitude": 33.582772399999996,
+            "longitude": -84.3404786,
+            "full_address": "Faancy Finds, 6319b Jonesboro Rd, Morrow, GA 30260",
+            "review_count": 107,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20133 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://faancyfinds.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f4ff602e13608d:0x94407417cc81ceca",
+            "cid": "10682665961686945482",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjWATLmD_9IgRys6BzBd0QJQ&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "114362710539134351995",
+            "owner_link": "https://maps.google.com/maps/contrib/114362710539134351995",
+            "owner_name": "Faancy Finds",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOTwwPEQHTLD0E-qRq8mLVOMzETt_GKg7f20EWM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOTwwPEQHTLD0E-qRq8mLVOMzETt_GKg7f20EWM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOTwwPEQHTLD0E-qRq8mLVOMzETt_GKg7f20EWM=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.5827447,
+                    "longitude": -84.3403475,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-01-21T00:00:00.000Z",
+                    "photo_timestamp": 1705795200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as Black-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "6319b Jonesboro Rd, Morrow, GA 30260",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "6319b Jonesboro Rd",
+            "city": "Morrow",
+            "zipcode": "30260",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/faancyfinds",
+                "yelp": "https://www.yelp.com/biz/faancy-finds-morrow",
+                "tiktok": "https://www.tiktok.com/@faancyfinds",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f603c4c88edadb:0xb2f086f54f1b670e",
+            "google_id": "0x88f603c4c88edadb:0xb2f086f54f1b670e",
+            "place_id": "ChIJ29qOyMQD9ogRDmcbT_WG8LI",
+            "google_mid": "/g/11svm3_05k",
+            "phone_number": "+17063353035",
+            "name": "Bin Spot of Commerce",
+            "latitude": 34.2506921,
+            "longitude": -83.45808889999999,
+            "full_address": "Bin Spot of Commerce, 260 Banks Crossing Dr, Commerce, GA 30529",
+            "review_count": 20,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f603c4c88edadb:0xb2f086f54f1b670e",
+            "cid": "12893954121314035470",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ29qOyMQD9ogRDmcbT_WG8LI&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "112429102033070673627",
+            "owner_link": "https://maps.google.com/maps/contrib/112429102033070673627",
+            "owner_name": "Bin Spot of Commerce",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO5_QnlW3UVLCYRPndSgSMji6RwZ0vqcZJrMmAO",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO5_QnlW3UVLCYRPndSgSMji6RwZ0vqcZJrMmAO",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO5_QnlW3UVLCYRPndSgSMji6RwZ0vqcZJrMmAO=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 34.2506316,
+                    "longitude": -83.4583091,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-08-03T00:00:00.000Z",
+                    "photo_timestamp": 1691020800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "260 Banks Crossing Dr, Commerce, GA 30529",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "260 Banks Crossing Dr",
+            "city": "Commerce",
+            "zipcode": "30529",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f5a7ee917a62d1:0xa6c183624669ea73",
+            "google_id": "0x88f5a7ee917a62d1:0xa6c183624669ea73",
+            "place_id": "ChIJ0WJ6ke6n9YgRc-ppRmKDwaY",
+            "google_mid": "/g/11vf8ytx_h",
+            "phone_number": "+16789142499",
+            "name": "O.S. best deals bins",
+            "latitude": 33.9001904,
+            "longitude": -84.2039404,
+            "full_address": "O.S. best deals bins, 5211 Jimmy Carter Blvd, Norcross, GA 30093",
+            "review_count": 18,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9:30 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f5a7ee917a62d1:0xa6c183624669ea73",
+            "cid": "12016029738912574067",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0WJ6ke6n9YgRc-ppRmKDwaY&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "103754527685425990373",
+            "owner_link": "https://maps.google.com/maps/contrib/103754527685425990373",
+            "owner_name": "O.S. best deals bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOaxCt2stkbQMRhsm2qkdmPEHgFvatUWyjpkD_3",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOaxCt2stkbQMRhsm2qkdmPEHgFvatUWyjpkD_3",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOaxCt2stkbQMRhsm2qkdmPEHgFvatUWyjpkD_3=w1080-h810-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.900245500000004,
+                    "longitude": -84.20413289999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-11-12T00:00:00.000Z",
+                    "photo_timestamp": 1699747200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as Latino-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5211 Jimmy Carter Blvd, Norcross, GA 30093",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5211 Jimmy Carter Blvd",
+            "city": "Norcross",
+            "zipcode": "30093",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f50103f3ee0c7f:0x3bf2d5a3882c3dbd",
+            "google_id": "0x88f50103f3ee0c7f:0x3bf2d5a3882c3dbd",
+            "place_id": "ChIJfwzu8wMB9YgRvT0siKPV8js",
+            "google_mid": "/g/11kc24gz1s",
+            "phone_number": "+14045692700",
+            "name": "R & R Bins and Wagons",
+            "latitude": 33.7110876,
+            "longitude": -84.3502819,
+            "full_address": "R & R Bins and Wagons, 1585 Moreland Ave SE, Atlanta, GA 30316",
+            "review_count": 71,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Thu",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f50103f3ee0c7f:0x3bf2d5a3882c3dbd",
+            "cid": "4319749890942713277",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfwzu8wMB9YgRvT0siKPV8js&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "102090387428427895250",
+            "owner_link": "https://maps.google.com/maps/contrib/102090387428427895250",
+            "owner_name": "R & R Bins and Wagons",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMSDLkr9Aygip4tweEV8oUQPk6Q_3POj2diaUMN",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMSDLkr9Aygip4tweEV8oUQPk6Q_3POj2diaUMN",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMSDLkr9Aygip4tweEV8oUQPk6Q_3POj2diaUMN=w1085-h900-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 33.7110851,
+                    "longitude": -84.34954069999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-05T00:00:00.000Z",
+                    "photo_timestamp": 1680652800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1585 Moreland Ave SE, Atlanta, GA 30316",
+            "order_link": null,
+            "price_level": null,
+            "district": "Custer/McDonough/Guice",
+            "street_address": "1585 Moreland Ave SE",
+            "city": "Atlanta",
+            "zipcode": "30316",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x8860216633cdb365:0xec3ebab6447b2c66",
+            "google_id": "0x8860216633cdb365:0xec3ebab6447b2c66",
+            "place_id": "ChIJZbPNM2YhYIgRZix7RLa6Puw",
+            "google_mid": "/g/11ssvh_hxc",
+            "phone_number": null,
+            "name": "High Five Bargain Bins",
+            "latitude": 34.497979199999996,
+            "longitude": -85.33143799999999,
+            "full_address": "High Five Bargain Bins, Georgia 30747",
+            "review_count": 4,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u201312 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "8 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8860216633cdb365:0xec3ebab6447b2c66",
+            "cid": "17023248933502790758",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZbPNM2YhYIgRZix7RLa6Puw&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "103660699005231330686",
+            "owner_link": "https://maps.google.com/maps/contrib/103660699005231330686",
+            "owner_name": "High Five Bargain Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO4F9i3T_RolGMg-KpclILDF-3lBSsWHDyDKzkN",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO4F9i3T_RolGMg-KpclILDF-3lBSsWHDyDKzkN",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO4F9i3T_RolGMg-KpclILDF-3lBSsWHDyDKzkN=w3024-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 34.4986248,
+                    "longitude": -85.3324518,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-13T00:00:00.000Z",
+                    "photo_timestamp": 1686614400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "Georgia 30747",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": null,
+            "city": null,
+            "zipcode": null,
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88fab886f11e19f5:0x1c416418a5034ee7",
+            "google_id": "0x88fab886f11e19f5:0x1c416418a5034ee7",
+            "place_id": "ChIJ9Rke8Ya4-ogR504DpRhkQRw",
+            "google_mid": "/g/11s5p4bdh1",
+            "phone_number": null,
+            "name": "Lighthouse Liquidators",
+            "latitude": 31.601349,
+            "longitude": -81.8739149,
+            "full_address": "Lighthouse Liquidators, 656 Golden Isles Pkwy, Jesup, GA 31546",
+            "review_count": 2,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88fab886f11e19f5:0x1c416418a5034ee7",
+            "cid": "2036018563558624999",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9Rke8Ya4-ogR504DpRhkQRw&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "107244498705485872118",
+            "owner_link": "https://maps.google.com/maps/contrib/107244498705485872118",
+            "owner_name": "Lighthouse Liquidators",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOCRC8YD_gaM3qqKDzH3orA7hki27gHX6onNOWt",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOCRC8YD_gaM3qqKDzH3orA7hki27gHX6onNOWt",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOCRC8YD_gaM3qqKDzH3orA7hki27gHX6onNOWt=w4000-h1868-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 31.601359291866416,
+                    "longitude": -81.87390347192881,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-07-11T00:00:00.000Z",
+                    "photo_timestamp": 1689033600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "656 Golden Isles Pkwy, Jesup, GA 31546",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "656 Golden Isles Pkwy",
+            "city": "Jesup",
+            "zipcode": "31546",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f277352a88cb09:0xa1ebb435090c44b4",
+            "google_id": "0x88f277352a88cb09:0xa1ebb435090c44b4",
+            "place_id": "ChIJCcuIKjV38ogRtEQMCTW066E",
+            "google_mid": "/g/11knt7xmgc",
+            "phone_number": null,
+            "name": "Bargain bin wholesale",
+            "latitude": 31.5743224,
+            "longitude": -84.07132589999999,
+            "full_address": "Bargain bin wholesale, 3005 Sylvester Rd, Albany, GA 31705",
+            "review_count": 11,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20133 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f277352a88cb09:0xa1ebb435090c44b4",
+            "cid": "11667617399511467188",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCcuIKjV38ogRtEQMCTW066E&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "118128337449871939693",
+            "owner_link": "https://maps.google.com/maps/contrib/118128337449871939693",
+            "owner_name": "Bargain bin wholesale",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMB3YuuZ0H6mWCokIqd4kgEOmr7iI66V5WqYgXQ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMB3YuuZ0H6mWCokIqd4kgEOmr7iI66V5WqYgXQ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMB3YuuZ0H6mWCokIqd4kgEOmr7iI66V5WqYgXQ=w640-h480-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 31.5740425,
+                    "longitude": -84.0712685,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-22T00:00:00.000Z",
+                    "photo_timestamp": 1716336000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Cash-only": true,
+                        "Checks": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "3005 Sylvester Rd, Albany, GA 31705",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "3005 Sylvester Rd",
+            "city": "Albany",
+            "zipcode": "31705",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88f5095c5e27a2b9:0x5321da604b3765b1",
+            "google_id": "0x88f5095c5e27a2b9:0x5321da604b3765b1",
+            "place_id": "ChIJuaInXlwJ9YgRsWU3S2DaIVM",
+            "google_mid": "/g/11kpp368n5",
+            "phone_number": "+17706851027",
+            "name": "Bins & Deals",
+            "latitude": 33.903084899999996,
+            "longitude": -84.27834829999999,
+            "full_address": "Bins & Deals, 6049 B New Peachtree Rd, Doraville, GA 30340",
+            "review_count": 7,
+            "rating": 3.9,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=100090726577376&mibextid=LQQJ4d",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88f5095c5e27a2b9:0x5321da604b3765b1",
+            "cid": "5990309086493107633",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuaInXlwJ9YgRsWU3S2DaIVM&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "108280678416930242207",
+            "owner_link": "https://maps.google.com/maps/contrib/108280678416930242207",
+            "owner_name": "Bins & Deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Variety store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "z2kAIG_4Bv1goX9G-uqWOw",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z2kAIG_4Bv1goX9G-uqWOw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=278.86664&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 33.903069538079215,
+                    "longitude": -84.2782296538977,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "6049 B New Peachtree Rd, Doraville, GA 30340",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "6049 B New Peachtree Rd",
+            "city": "Doraville",
+            "zipcode": "30340",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88fae5d71db72ee9:0x574e7b4803a808f3",
+            "google_id": "0x88fae5d71db72ee9:0x574e7b4803a808f3",
+            "place_id": "ChIJ6S63Hdfl-ogR8wioA0h7Tlc",
+            "google_mid": "/g/11l666k2k5",
+            "phone_number": "+19123680929",
+            "name": "Hinesville Liquidation Station",
+            "latitude": 31.8200981,
+            "longitude": -81.6425075,
+            "full_address": "Hinesville Liquidation Station, 1875 Elma G Miles Pkwy, Hinesville, GA 31313",
+            "review_count": 25,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88fae5d71db72ee9:0x574e7b4803a808f3",
+            "cid": "6291101278712367347",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6S63Hdfl-ogR8wioA0h7Tlc&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "115936805123406362448",
+            "owner_link": "https://maps.google.com/maps/contrib/115936805123406362448",
+            "owner_name": "Hinesville Liquidation Station",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPJS0OAYdN0eTdhvXcWKlhbwYiBZtZMs3zG2h1A",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPJS0OAYdN0eTdhvXcWKlhbwYiBZtZMs3zG2h1A",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPJS0OAYdN0eTdhvXcWKlhbwYiBZtZMs3zG2h1A=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 31.8198732,
+                    "longitude": -81.6423238,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-12-01T00:00:00.000Z",
+                    "photo_timestamp": 1701388800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1875 Elma G Miles Pkwy, Hinesville, GA 31313",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1875 Elma G Miles Pkwy",
+            "city": "Hinesville",
+            "zipcode": "31313",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88e4d7b5ce2025bf:0x6cea35edcc5150fc",
+            "google_id": "0x88e4d7b5ce2025bf:0x6cea35edcc5150fc",
+            "place_id": "ChIJvyUgzrXX5IgR_FBRzO016mw",
+            "google_mid": "/g/11mwz5fpll",
+            "phone_number": "+19125672082",
+            "name": "Bintegrity",
+            "latitude": 31.2376412,
+            "longitude": -81.44977349999999,
+            "full_address": "Bintegrity, 117 Peek Rd, Brunswick, GA 31525",
+            "review_count": 22,
+            "rating": 4.1,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20132 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/TegridyLiquidation",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88e4d7b5ce2025bf:0x6cea35edcc5150fc",
+            "cid": "7848144596097913084",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvyUgzrXX5IgR_FBRzO016mw&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "111994493331650252987",
+            "owner_link": "https://maps.google.com/maps/contrib/111994493331650252987",
+            "owner_name": "Bintegrity",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Second hand store",
+            "subtypes": [
+                "Second hand store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "ynrNZl2QYh3h6b0p-s7K2g",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ynrNZl2QYh3h6b0p-s7K2g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=335.6589&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 31.237609556222388,
+                    "longitude": -81.44975675773537,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-16T00:00:00.000Z",
+                    "photo_timestamp": 1729036800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "117 Peek Rd, Brunswick, GA 31525",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "117 Peek Rd",
+            "city": "Brunswick",
+            "zipcode": "31525",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88606fd384dc259b:0x22067ff4c8fa4769",
+            "google_id": "0x88606fd384dc259b:0x22067ff4c8fa4769",
+            "place_id": "ChIJmyXchNNvYIgRaUf6yPR_BiI",
+            "google_mid": "/g/11j6rzkc13",
+            "phone_number": "+14234219725",
+            "name": "Crazy Deals and More",
+            "latitude": 34.9298407,
+            "longitude": -85.17576249999999,
+            "full_address": "Crazy Deals and More, 5434 Battlefield Pkwy, Ringgold, GA 30736",
+            "review_count": 89,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 8:30\u202fAM Wed",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "8:30 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "8:30 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "8:30 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "8:30 AM\u20134 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88606fd384dc259b:0x22067ff4c8fa4769",
+            "cid": "2451787736470407017",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmyXchNNvYIgRaUf6yPR_BiI&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "115371782275365047747",
+            "owner_link": "https://maps.google.com/maps/contrib/115371782275365047747",
+            "owner_name": "Crazy Deals and More",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "ysyClwr3P_dpB8Bjz1MSrw",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ysyClwr3P_dpB8Bjz1MSrw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=186.45335&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 34.930240241362554,
+                    "longitude": -85.175707377183,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-25T00:00:00.000Z",
+                    "photo_timestamp": 1729814400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "5434 Battlefield Pkwy, Ringgold, GA 30736",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5434 Battlefield Pkwy",
+            "city": "Ringgold",
+            "zipcode": "30736",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        },
+        {
+            "business_id": "0x88fab900515cd2a3:0xc11e69960f7d963",
+            "google_id": "0x88fab900515cd2a3:0xc11e69960f7d963",
+            "place_id": "ChIJo9JcUQC5-ogRY9n3YJnmEQw",
+            "google_mid": "/g/11vyvvjcjg",
+            "phone_number": null,
+            "name": "Deals N' Steals Bin Store & Discount Outlet",
+            "latitude": 31.602884799999998,
+            "longitude": -81.9068834,
+            "full_address": "Deals N' Steals Bin Store & Discount Outlet, 977 S 1st St, Jesup, GA 31545",
+            "review_count": 8,
+            "rating": 3.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/dealsnstealsofjesup?mibextid=ZbWKwL",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88fab900515cd2a3:0xc11e69960f7d963",
+            "cid": "869729749490456931",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo9JcUQC5-ogRY9n3YJnmEQw&q=bin+stores+in+georgia&authuser=0&hl=en&gl=US",
+            "owner_id": "105976747162217860352",
+            "owner_link": "https://maps.google.com/maps/contrib/105976747162217860352",
+            "owner_name": "Deals N' Steals Bin Store & Discount Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOR5w06C6f0ezgSpZM3PMVLqFOUUEk1MccBUNXR",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOR5w06C6f0ezgSpZM3PMVLqFOUUEk1MccBUNXR",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOR5w06C6f0ezgSpZM3PMVLqFOUUEk1MccBUNXR=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 31.6031619,
+                    "longitude": -81.9068786,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-06-24T00:00:00.000Z",
+                    "photo_timestamp": 1719187200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "977 S 1st St, Jesup, GA 31545",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "977 S 1st St",
+            "city": "Jesup",
+            "zipcode": "31545",
+            "state": "Georgia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 84
+        }
+    ]
+}

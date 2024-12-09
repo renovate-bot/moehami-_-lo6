@@ -1,0 +1,2403 @@
+{
+    "status": "OK",
+    "request_id": "7586a8b3-cc16-43d8-a0a1-32d611b1df4d",
+    "parameters": {
+        "query": "bin stores in oregon",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x5495a3f90bd374b1:0xdb7b4fa747b40558",
+            "google_id": "0x5495a3f90bd374b1:0xdb7b4fa747b40558",
+            "place_id": "ChIJsXTTC_mjlVQRWAW0R6dPe9s",
+            "google_mid": "/g/11t5jhc58g",
+            "phone_number": "+15038329516",
+            "name": "Super deal bin store",
+            "latitude": 45.4721036,
+            "longitude": -122.5788072,
+            "full_address": "Oregon, Portland, SE 82nd Ave, Super deal bin store\u90ae\u653f\u7f16\u7801: 97266",
+            "review_count": 35,
+            "rating": 4.1,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a3f90bd374b1:0xdb7b4fa747b40558",
+            "cid": "15815322096322741592",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsXTTC_mjlVQRWAW0R6dPe9s&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "110077450474653862463",
+            "owner_link": "https://maps.google.com/maps/contrib/110077450474653862463",
+            "owner_name": "Super deal bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPfhB0BS7RnnUVa_GelKrneLKME-M1WvL8CoFyM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPfhB0BS7RnnUVa_GelKrneLKME-M1WvL8CoFyM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPfhB0BS7RnnUVa_GelKrneLKME-M1WvL8CoFyM=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.472020799999996,
+                    "longitude": -122.5789644,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-03-05T00:00:00.000Z",
+                    "photo_timestamp": 1677974400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "7004 SE 82nd Ave, Portland, OR 97266",
+            "order_link": null,
+            "price_level": null,
+            "district": "Southeast Portland",
+            "street_address": "7004 SE 82nd Ave",
+            "city": "Portland",
+            "zipcode": "97266",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54c11f57163589b5:0xac4c06255b4a88da",
+            "google_id": "0x54c11f57163589b5:0xac4c06255b4a88da",
+            "place_id": "ChIJtYk1FlcfwVQR2ohKWyUGTKw",
+            "google_mid": "/g/11ssj1cgtr",
+            "phone_number": null,
+            "name": "Club Thrift Bin Store -Thrift Store Eugene, Amazon Overstock",
+            "latitude": 44.052940299999996,
+            "longitude": -123.125469,
+            "full_address": "Club Thrift Bin Store -Thrift Store Eugene, Amazon Overstock, 2165 W 7th Ave, Eugene, OR 97402",
+            "review_count": 127,
+            "rating": 4.1,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20134 PM",
+                    "5\u20137 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.clubthriftoregon.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54c11f57163589b5:0xac4c06255b4a88da",
+            "cid": "12415305030268782810",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtYk1FlcfwVQR2ohKWyUGTKw&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "115423482866960231456",
+            "owner_link": "https://maps.google.com/maps/contrib/115423482866960231456",
+            "owner_name": "Club Thrift Bin Store -Thrift Store Eugene, Amazon Overstock",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMb_ggsUv4MmoHlF_npSkr77zbb_fKBKooHfqKS",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMb_ggsUv4MmoHlF_npSkr77zbb_fKBKooHfqKS",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMb_ggsUv4MmoHlF_npSkr77zbb_fKBKooHfqKS=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.0529103,
+                    "longitude": -123.1253352,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-05-14T00:00:00.000Z",
+                    "photo_timestamp": 1684022400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 57,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "2165 W 7th Ave, Eugene, OR 97402",
+            "order_link": null,
+            "price_level": null,
+            "district": "Western",
+            "street_address": "2165 W 7th Ave",
+            "city": "Eugene",
+            "zipcode": "97402",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "clubthriftoregon@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/clubthriftoregon",
+                "yelp": "https://www.yelp.com/biz/club-thrift-eugene",
+                "tiktok": "https://www.tiktok.com/@clubthriftvip",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54c0e1428591681b:0xad0c317ede2e43d0",
+            "google_id": "0x54c0e1428591681b:0xad0c317ede2e43d0",
+            "place_id": "ChIJG2iRhULhwFQR0EMu3n4xDK0",
+            "google_mid": "/g/11w4mgp3q9",
+            "phone_number": null,
+            "name": "Club Thrift Springfield - Bin Store - Thrift Store",
+            "latitude": 44.0579507,
+            "longitude": -122.9993032,
+            "full_address": "Club Thrift Springfield - Bin Store - Thrift Store, 1489 Mohawk Blvd, Springfield, OR 97477",
+            "review_count": 24,
+            "rating": 4.3,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM",
+                    "5\u20137 PM"
+                ]
+            },
+            "website": "https://www.clubthriftoregon.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54c0e1428591681b:0xad0c317ede2e43d0",
+            "cid": "12469395889245275088",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG2iRhULhwFQR0EMu3n4xDK0&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "118037062215819252640",
+            "owner_link": "https://maps.google.com/maps/contrib/118037062215819252640",
+            "owner_name": "Club Thrift Springfield - Bin Store - Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Variety store",
+            "subtypes": [
+                "Variety store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMk6EgZZ083rhsE88NVK9ZamrwqP26sMQ3VFG2-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMk6EgZZ083rhsE88NVK9ZamrwqP26sMQ3VFG2-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMk6EgZZ083rhsE88NVK9ZamrwqP26sMQ3VFG2-=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.0580581,
+                    "longitude": -122.99932029999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-09-06T00:00:00.000Z",
+                    "photo_timestamp": 1725580800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1489 Mohawk Blvd, Springfield, OR 97477",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1489 Mohawk Blvd",
+            "city": "Springfield",
+            "zipcode": "97477",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "clubthriftoregon@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/clubthriftoregon",
+                "yelp": "https://www.yelp.com/biz/club-thrift-eugene",
+                "tiktok": "https://www.tiktok.com/@clubthriftvip",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a13bc4f727c5:0x20f714b88b3accf",
+            "google_id": "0x5495a13bc4f727c5:0x20f714b88b3accf",
+            "place_id": "ChIJxSf3xDuhlVQRz6yziEtxDwI",
+            "google_mid": "/g/11thf0zdfp",
+            "phone_number": "+15039468150",
+            "name": "Bins and Barrels Liquor",
+            "latitude": 45.4964838,
+            "longitude": -122.5364407,
+            "full_address": "Bins and Barrels Liquor, 3514 SE 122nd Ave, Portland, OR 97236",
+            "review_count": 60,
+            "rating": 4.5,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u201310 PM"
+                ],
+                "Friday": [
+                    "10 AM\u201310 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u201310 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a13bc4f727c5:0x20f714b88b3accf",
+            "cid": "148461881956478159",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxSf3xDuhlVQRz6yziEtxDwI&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "110744686291085849524",
+            "owner_link": "https://maps.google.com/maps/contrib/110744686291085849524",
+            "owner_name": "Bins and Barrels Liquor",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquor store",
+            "subtypes": [
+                "Liquor store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNvKZKrDy5IQzn9l8uwCHl5ksUFXpMFMUTxVOKN",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNvKZKrDy5IQzn9l8uwCHl5ksUFXpMFMUTxVOKN",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNvKZKrDy5IQzn9l8uwCHl5ksUFXpMFMUTxVOKN=w2992-h2992-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.4964127,
+                    "longitude": -122.5366401,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-12T00:00:00.000Z",
+                    "photo_timestamp": 1670803200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 55,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "3514 SE 122nd Ave, Portland, OR 97236",
+            "order_link": null,
+            "price_level": null,
+            "district": "Southeast Portland",
+            "street_address": "3514 SE 122nd Ave",
+            "city": "Portland",
+            "zipcode": "97236",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x549572ea49b3c6b3:0x546e95169c148873",
+            "google_id": "0x549572ea49b3c6b3:0x546e95169c148873",
+            "place_id": "ChIJs8azSepylVQRc4gUnBaVblQ",
+            "google_mid": "/g/1tf7gcp6",
+            "phone_number": "+15036205700",
+            "name": "The Container Store",
+            "latitude": 45.3957116,
+            "longitude": -122.75366469999999,
+            "full_address": "The Container Store, 7417 SW Bridgeport Rd, Tigard, OR 97224",
+            "review_count": 585,
+            "rating": 4.3,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.containerstore.com/stores/or/tigard/7417-sw-bridgeport-road?cid=ns:maps:google:main-store:40-POR",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x549572ea49b3c6b3:0x546e95169c148873",
+            "cid": "6083964070964529267",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs8azSepylVQRc4gUnBaVblQ&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "105220702815763996554",
+            "owner_link": "https://maps.google.com/maps/contrib/105220702815763996554",
+            "owner_name": "The Container Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Contractor",
+                "Furniture store",
+                "Kitchen supply store",
+                "Office supply store",
+                "Shelving store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOLh3xWrlnWr9LWCk0b9ISlPo1OgLUECW_xwURy",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOLh3xWrlnWr9LWCk0b9ISlPo1OgLUECW_xwURy",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOLh3xWrlnWr9LWCk0b9ISlPo1OgLUECW_xwURy=w4160-h2340-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.39571159437251,
+                    "longitude": -122.7536646952779,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-12-18T00:00:00.000Z",
+                    "photo_timestamp": 1482019200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 188,
+            "about": {
+                "summary": "Chain retailer specializing in storage & organization supplies, including closet & shelving systems.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "7417 SW Bridgeport Rd, Tigard, OR 97224",
+            "order_link": null,
+            "price_level": null,
+            "district": "Metzger",
+            "street_address": "7417 SW Bridgeport Rd",
+            "city": "Tigard",
+            "zipcode": "97224",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54950fd3df54cf5d:0x1b95321591b23aac",
+            "google_id": "0x54950fd3df54cf5d:0x1b95321591b23aac",
+            "place_id": "ChIJXc9U39MPlVQRrDqykRUylRs",
+            "google_mid": "/g/12hlyrgng",
+            "phone_number": "+15036495424",
+            "name": "Goodwill Industries Outlet of the Columbia Willamette",
+            "latitude": 45.497853,
+            "longitude": -122.916522,
+            "full_address": "Goodwill Industries Outlet of the Columbia Willamette, 2920 SE Century Blvd, Hillsboro, OR 97123",
+            "review_count": 635,
+            "rating": 3.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20137 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54950fd3df54cf5d:0x1b95321591b23aac",
+            "cid": "1987549878774020780",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXc9U39MPlVQRrDqykRUylRs&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "100515256949713036885",
+            "owner_link": "https://maps.google.com/maps/contrib/100515256949713036885",
+            "owner_name": "Goodwill Industries Outlet of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNYuXRkQI_1CjDVl_obOiXGZialfnN6uROFBcsV",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNYuXRkQI_1CjDVl_obOiXGZialfnN6uROFBcsV",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNYuXRkQI_1CjDVl_obOiXGZialfnN6uROFBcsV=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.49782349509526,
+                    "longitude": -122.916200228708,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-01-12T00:00:00.000Z",
+                    "photo_timestamp": 1641945600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 169,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true,
+                        "Electronics": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2920 SE Century Blvd, Hillsboro, OR 97123",
+            "order_link": null,
+            "price_level": "$",
+            "district": null,
+            "street_address": "2920 SE Century Blvd",
+            "city": "Hillsboro",
+            "zipcode": "97123",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54950a09f9ea26b3:0xfaa8e0edfd0db6d1",
+            "google_id": "0x54950a09f9ea26b3:0xfaa8e0edfd0db6d1",
+            "place_id": "ChIJsybq-QkKlVQR0bYN_e3gqPo",
+            "google_mid": "/g/1tjrppmp",
+            "phone_number": "+15032384477",
+            "name": "City Liquidators",
+            "latitude": 45.516740999999996,
+            "longitude": -122.6635256,
+            "full_address": "City Liquidators, 823 SE 3rd Ave, Portland, OR 97214",
+            "review_count": 1279,
+            "rating": 4.3,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.cityliqs.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54950a09f9ea26b3:0xfaa8e0edfd0db6d1",
+            "cid": "18061933618326779601",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsybq-QkKlVQR0bYN_e3gqPo&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "110133240764774673300",
+            "owner_link": "https://maps.google.com/maps/contrib/110133240764774673300",
+            "owner_name": "City Liquidators",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Furniture store",
+            "subtypes": [
+                "Furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNceB3WkxRENTsd2Nn7nwlSLuVV2EsDzy1LonEz",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNceB3WkxRENTsd2Nn7nwlSLuVV2EsDzy1LonEz",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNceB3WkxRENTsd2Nn7nwlSLuVV2EsDzy1LonEz=w6000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.516740976464185,
+                    "longitude": -122.66352561728398,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-02-16T00:00:00.000Z",
+                    "photo_timestamp": 1487203200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2040,
+            "about": {
+                "summary": "Ample headquarters featuring an extensive selection of discount furniture plus home decor.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "823 SE 3rd Ave, Portland, OR 97214",
+            "order_link": null,
+            "price_level": null,
+            "district": "Southeast Portland",
+            "street_address": "823 SE 3rd Ave",
+            "city": "Portland",
+            "zipcode": "97214",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "5032307716"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/cityliqs",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/cityliquidators",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a38e577d1ab3:0x26b6423189a7f44d",
+            "google_id": "0x5495a38e577d1ab3:0x26b6423189a7f44d",
+            "place_id": "ChIJsxp9V46jlVQRTfSniTFCtiY",
+            "google_mid": "/g/11b6hpgb2y",
+            "phone_number": "+15035484922",
+            "name": "Goodwill Industries of the Columbia Willamette",
+            "latitude": 45.5663856,
+            "longitude": -122.5320253,
+            "full_address": "Goodwill Industries of the Columbia Willamette, 5950 NE 122nd Ave, Portland, OR 97230",
+            "review_count": 655,
+            "rating": 3.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20137 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a38e577d1ab3:0x26b6423189a7f44d",
+            "cid": "2789489799732917325",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsxp9V46jlVQRTfSniTFCtiY&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "105158586069898593995",
+            "owner_link": "https://maps.google.com/maps/contrib/105158586069898593995",
+            "owner_name": "Goodwill Industries of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Non-profit organization",
+                "Outlet store",
+                "Recycling center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOCxmm_P0YHXo68IR4Uhbj3vBrozkV6i_Ql5HQc",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOCxmm_P0YHXo68IR4Uhbj3vBrozkV6i_Ql5HQc",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOCxmm_P0YHXo68IR4Uhbj3vBrozkV6i_Ql5HQc=w4608-h3456-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.566374912044665,
+                    "longitude": -122.53201195252613,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-01-26T00:00:00.000Z",
+                    "photo_timestamp": 1548460800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 224,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true,
+                        "Electronics": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "5950 NE 122nd Ave, Portland, OR 97230",
+            "order_link": null,
+            "price_level": null,
+            "district": "Argay Terrace",
+            "street_address": "5950 NE 122nd Ave",
+            "city": "Portland",
+            "zipcode": "97230",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54bffe5d0372741d:0xf8edc10cf71d5110",
+            "google_id": "0x54bffe5d0372741d:0xf8edc10cf71d5110",
+            "place_id": "ChIJHXRyA13-v1QREFEd9wzB7fg",
+            "google_mid": "/g/1tjs4ns9",
+            "phone_number": "+15035879760",
+            "name": "Goodwill Outlet Salem",
+            "latitude": 44.968734,
+            "longitude": -123.0081804,
+            "full_address": "Goodwill Outlet Salem, 3235 Portland Rd NE, Salem, OR 97301",
+            "review_count": 464,
+            "rating": 3.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54bffe5d0372741d:0xf8edc10cf71d5110",
+            "cid": "17937205152316215568",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHXRyA13-v1QREFEd9wzB7fg&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "115248932130462500369",
+            "owner_link": "https://maps.google.com/maps/contrib/115248932130462500369",
+            "owner_name": "Goodwill Outlet Salem",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNaGDJvkHTIVaA122BjE0IPAkRD2jrSg3axk08J",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNaGDJvkHTIVaA122BjE0IPAkRD2jrSg3axk08J",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNaGDJvkHTIVaA122BjE0IPAkRD2jrSg3axk08J=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.968722227812194,
+                    "longitude": -123.00813058936153,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-09-03T00:00:00.000Z",
+                    "photo_timestamp": 1662163200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 112,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "3235 Portland Rd NE, Salem, OR 97301",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Northgate",
+            "street_address": "3235 Portland Rd NE",
+            "city": "Salem",
+            "zipcode": "97301",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54950ad3b6261347:0xc0b2f5abe621c6ba",
+            "google_id": "0x54950ad3b6261347:0xc0b2f5abe621c6ba",
+            "place_id": "ChIJRxMmttMKlVQRusYh5qv1ssA",
+            "google_mid": "/g/1td5ftz_",
+            "phone_number": "+15032302076",
+            "name": "Goodwill Industries of the Columbia Willamette",
+            "latitude": 45.4575787,
+            "longitude": -122.64564809999999,
+            "full_address": "Goodwill Industries of the Columbia Willamette, 1740 SE Ochoco St, Milwaukie, OR 97222",
+            "review_count": 662,
+            "rating": 3.9,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20137 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54950ad3b6261347:0xc0b2f5abe621c6ba",
+            "cid": "13885430719785846458",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRxMmttMKlVQRusYh5qv1ssA&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "105209767805750764723",
+            "owner_link": "https://maps.google.com/maps/contrib/105209767805750764723",
+            "owner_name": "Goodwill Industries of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOUMVdvpqrrXjg31UJzP9GiSCnqw3CVgC7-7Vkq",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOUMVdvpqrrXjg31UJzP9GiSCnqw3CVgC7-7Vkq",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOUMVdvpqrrXjg31UJzP9GiSCnqw3CVgC7-7Vkq=w4160-h3088-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.457578713241915,
+                    "longitude": -122.64564805649034,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-05-06T00:00:00.000Z",
+                    "photo_timestamp": 1494028800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 92,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1740 SE Ochoco St, Milwaukie, OR 97222",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Mcloughlin Industrial",
+            "street_address": "1740 SE Ochoco St",
+            "city": "Milwaukie",
+            "zipcode": "97222",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54cf7bdcc73993ff:0x40f0e3b4a23b883",
+            "google_id": "0x54cf7bdcc73993ff:0x40f0e3b4a23b883",
+            "place_id": "ChIJ_5M5x9x7z1QRg7gjSjsODwQ",
+            "google_mid": "/g/11cn2l_bdq",
+            "phone_number": "+15416082805",
+            "name": "Goodwill As-Is Outlet and Donation Center",
+            "latitude": 42.346461,
+            "longitude": -122.900143,
+            "full_address": "Goodwill As-Is Outlet and Donation Center, 2077 Lars Way, Medford, OR 97501",
+            "review_count": 247,
+            "rating": 4.2,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 4:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20134:30 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134:30 PM"
+                ]
+            },
+            "website": "https://www.sogoodwill.org/donate/donate-goods",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54cf7bdcc73993ff:0x40f0e3b4a23b883",
+            "cid": "292468148612085891",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_5M5x9x7z1QRg7gjSjsODwQ&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "106230164196306387433",
+            "owner_link": "https://maps.google.com/maps/contrib/106230164196306387433",
+            "owner_name": "Goodwill As-Is Outlet and Donation Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity",
+                "Non-profit organization"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP7MS7vY6r0XtWoo8BizscBl_io6Tb2BK-iU7GH",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP7MS7vY6r0XtWoo8BizscBl_io6Tb2BK-iU7GH",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP7MS7vY6r0XtWoo8BizscBl_io6Tb2BK-iU7GH=w960-h720-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.346443799999996,
+                    "longitude": -122.8994762,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-01-04T00:00:00.000Z",
+                    "photo_timestamp": 1609718400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 60,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "2077 Lars Way, Medford, OR 97501",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2077 Lars Way",
+            "city": "Medford",
+            "zipcode": "97501",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a77286a9e37b:0xab7418ba7b8f6ae7",
+            "google_id": "0x5495a77286a9e37b:0xab7418ba7b8f6ae7",
+            "place_id": "ChIJe-OphnKnlVQR52qPe7oYdKs",
+            "google_mid": "/g/1hc465xjz",
+            "phone_number": "+15032442822",
+            "name": "NW Office Liquidations",
+            "latitude": 45.512372899999995,
+            "longitude": -122.6588891,
+            "full_address": "NW Office Liquidations, 635 SE Hawthorne Blvd, Portland, OR 97214",
+            "review_count": 128,
+            "rating": 4.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135:30 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135:30 PM"
+                ]
+            },
+            "website": "http://www.northwestofficeliquidations.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a77286a9e37b:0xab7418ba7b8f6ae7",
+            "cid": "12354526867000093415",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe-OphnKnlVQR52qPe7oYdKs&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "108445296227100503436",
+            "owner_link": "https://maps.google.com/maps/contrib/108445296227100503436",
+            "owner_name": "NW Office Liquidations",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Office furniture store",
+            "subtypes": [
+                "Office furniture store",
+                "Discount store",
+                "Liquidator",
+                "Office supply store",
+                "Used office furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPyQ0OcoNn08H7WjJlunkzrG3M6Qvw_3qjNh9Jr",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPyQ0OcoNn08H7WjJlunkzrG3M6Qvw_3qjNh9Jr",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPyQ0OcoNn08H7WjJlunkzrG3M6Qvw_3qjNh9Jr=w640-h360-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.5122364,
+                    "longitude": -122.65893899999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-06-29T00:00:00.000Z",
+                    "photo_timestamp": 1498694400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 81,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "635 SE Hawthorne Blvd, Portland, OR 97214",
+            "order_link": null,
+            "price_level": null,
+            "district": "Southeast Portland",
+            "street_address": "635 SE Hawthorne Blvd",
+            "city": "Portland",
+            "zipcode": "97214",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "5032442822"
+                ],
+                "facebook": "https://www.facebook.com/nwofficeliquidations",
+                "instagram": "https://www.instagram.com/nwofficeliquidations",
+                "yelp": "https://www.yelp.com/biz/nw-office-liquidations-portland",
+                "tiktok": "https://www.tiktok.com/@nwofficeliquidations",
+                "snapchat": null,
+                "twitter": "https://twitter.com/NWliquidations",
+                "linkedin": "https://www.linkedin.com/company/northwest-office-liquidations",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/nwofficeliquid"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54c0076ba291ab31:0x2a832488a721912a",
+            "google_id": "0x54c0076ba291ab31:0x2a832488a721912a",
+            "place_id": "ChIJMauRomsHwFQRKpEhp4gkgyo",
+            "google_mid": "/g/11b6_r7wn8",
+            "phone_number": "+15035841411",
+            "name": "Mega Markdown Outlet",
+            "latitude": 44.8849964,
+            "longitude": -123.03371369999999,
+            "full_address": "Mega Markdown Outlet, 4825 Commercial St SE, Salem, OR 97302",
+            "review_count": 342,
+            "rating": 4.2,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.megamarkdownoutlet.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54c0076ba291ab31:0x2a832488a721912a",
+            "cid": "3063332340880216362",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMauRomsHwFQRKpEhp4gkgyo&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "100520804929220995711",
+            "owner_link": "https://maps.google.com/maps/contrib/100520804929220995711",
+            "owner_name": "Mega Markdown Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Outlet store",
+            "subtypes": [
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPSyxat_-AyRwrg-no7pRYnBgDAjK-rQoJlEQ2r",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPSyxat_-AyRwrg-no7pRYnBgDAjK-rQoJlEQ2r",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPSyxat_-AyRwrg-no7pRYnBgDAjK-rQoJlEQ2r=w1920-h1080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.8850456,
+                    "longitude": -123.0335639,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-05-12T00:00:00.000Z",
+                    "photo_timestamp": 1526083200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 46,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "4825 Commercial St SE, Salem, OR 97302",
+            "order_link": null,
+            "price_level": null,
+            "district": "Morningside",
+            "street_address": "4825 Commercial St SE",
+            "city": "Salem",
+            "zipcode": "97302",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@megamarkdownoutlet.com"
+                ],
+                "phone_numbers": [
+                    "5035841411"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/mega-markdown-outlet-salem-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/mega-markdown-outlet-llc",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54959f5a99f516c3:0x497e28dc94fe5916",
+            "google_id": "0x54959f5a99f516c3:0x497e28dc94fe5916",
+            "place_id": "ChIJwxb1mVqflVQRFln-lNwofkk",
+            "google_mid": "/g/11ry307lyg",
+            "phone_number": "+15033649440",
+            "name": "Goodwill Industries of the Columbia Willamette",
+            "latitude": 45.4254179,
+            "longitude": -122.4851434,
+            "full_address": "Goodwill Industries of the Columbia Willamette, 17366 SE Sunnyside Rd, Damascus, OR 97089",
+            "review_count": 92,
+            "rating": 4,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54959f5a99f516c3:0x497e28dc94fe5916",
+            "cid": "5295715139691895062",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwxb1mVqflVQRFln-lNwofkk&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "116665797525687227645",
+            "owner_link": "https://maps.google.com/maps/contrib/116665797525687227645",
+            "owner_name": "Goodwill Industries of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Non-profit organization",
+                "Recycling center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOz2A40MxLkoi3UJb9PLPfe1HQslgv1gaGzCavu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOz2A40MxLkoi3UJb9PLPfe1HQslgv1gaGzCavu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOz2A40MxLkoi3UJb9PLPfe1HQslgv1gaGzCavu=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.425469299999996,
+                    "longitude": -122.48478730000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-01-07T00:00:00.000Z",
+                    "photo_timestamp": 1641513600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "17366 SE Sunnyside Rd, Damascus, OR 97089",
+            "order_link": null,
+            "price_level": null,
+            "district": "Rock Creek",
+            "street_address": "17366 SE Sunnyside Rd",
+            "city": "Damascus",
+            "zipcode": "97089",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54cf7c133c51f74d:0x4725f060433d4d66",
+            "google_id": "0x54cf7c133c51f74d:0x4725f060433d4d66",
+            "place_id": "ChIJTfdRPBN8z1QRZk09Q2DwJUc",
+            "google_mid": "/g/113hr8qlv",
+            "phone_number": "+15416641221",
+            "name": "Rogue Valley Bin Co",
+            "latitude": 42.375578399999995,
+            "longitude": -122.9208723,
+            "full_address": "Rogue Valley Bin Co, 320 N Haskell St, Central Point, OR 97502",
+            "review_count": 4,
+            "rating": 3.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Closed \u22c5 Opens 7\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "7 AM\u20133:30 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u20133:30 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u20133:30 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u20133:30 PM"
+                ],
+                "Friday": [
+                    "7 AM\u20133:30 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54cf7c133c51f74d:0x4725f060433d4d66",
+            "cid": "5126768047066795366",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTfdRPBN8z1QRZk09Q2DwJUc&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "102477089221435334772",
+            "owner_link": "https://maps.google.com/maps/contrib/102477089221435334772",
+            "owner_name": "Rogue Valley Bin Co",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Lumber store",
+            "subtypes": [
+                "Lumber store"
+            ],
+            "photos_sample": null,
+            "reviews_per_rating": null,
+            "photo_count": 0,
+            "about": null,
+            "address": "320 N Haskell St, Central Point, OR 97502",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "320 N Haskell St",
+            "city": "Central Point",
+            "zipcode": "97502",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54c040eafc047ed5:0xee74395c463f3888",
+            "google_id": "0x54c040eafc047ed5:0xee74395c463f3888",
+            "place_id": "ChIJ1X4E_OpAwFQRiDg_Rlw5dO4",
+            "google_mid": "/g/1tz95gl8",
+            "phone_number": "+15417520040",
+            "name": "The Corvallis Book Bin",
+            "latitude": 44.563398,
+            "longitude": -123.2623251,
+            "full_address": "The Corvallis Book Bin, 215 SW 4th St, Corvallis, OR 97333",
+            "review_count": 733,
+            "rating": 4.6,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.bookbin.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54c040eafc047ed5:0xee74395c463f3888",
+            "cid": "17182421546803607688",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1X4E_OpAwFQRiDg_Rlw5dO4&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "110713012202345630774",
+            "owner_link": "https://maps.google.com/maps/contrib/110713012202345630774",
+            "owner_name": "The Corvallis Book Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Book store",
+            "subtypes": [
+                "Book store",
+                "Children's book store",
+                "Used book store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO_EOZm5fPgDePJ8hWkNkekNo4zF4YLjczHPbHZ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO_EOZm5fPgDePJ8hWkNkekNo4zF4YLjczHPbHZ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO_EOZm5fPgDePJ8hWkNkekNo4zF4YLjczHPbHZ=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.56339801171713,
+                    "longitude": -123.26232507082639,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-04-27T00:00:00.000Z",
+                    "photo_timestamp": 1461715200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 114,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "215 SW 4th St, Corvallis, OR 97333",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "215 SW 4th St",
+            "city": "Corvallis",
+            "zipcode": "97333",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "query@bookbin.com",
+                    "100thingssandhills@gmail.com",
+                    "benelli.giovanni@gmail.com",
+                    "michellegriep@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5033611235",
+                    "5417520040",
+                    "9798869393432",
+                    "9798869399090"
+                ],
+                "facebook": "https://www.facebook.com/BookBinCorvallis",
+                "instagram": "https://www.instagram.com/bookbincorvallis",
+                "yelp": "https://www.yelp.com/biz/the-book-bin-salem",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/bookbinsalem",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x54bfff0d433caacb:0x8d59d4483d54cb16",
+            "google_id": "0x54bfff0d433caacb:0x8d59d4483d54cb16",
+            "place_id": "ChIJy6o8Qw3_v1QRFstUPUjUWY0",
+            "google_mid": "/g/1tgb_hf0",
+            "phone_number": "+15033611235",
+            "name": "The Book Bin",
+            "latitude": 44.9407444,
+            "longitude": -123.03782779999999,
+            "full_address": "The Book Bin, 450 Court St NE, Salem, OR 97301",
+            "review_count": 1194,
+            "rating": 4.5,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.bookbin.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x54bfff0d433caacb:0x8d59d4483d54cb16",
+            "cid": "10185405439006788374",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy6o8Qw3_v1QRFstUPUjUWY0&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "104197398868377045159",
+            "owner_link": "https://maps.google.com/maps/contrib/104197398868377045159",
+            "owner_name": "The Book Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Book store",
+            "subtypes": [
+                "Book store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMwzwZMLCDZfq1ZdCUxwQxzLpOadVaZpCyXA0Db",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMwzwZMLCDZfq1ZdCUxwQxzLpOadVaZpCyXA0Db",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMwzwZMLCDZfq1ZdCUxwQxzLpOadVaZpCyXA0Db=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.9407633,
+                    "longitude": -123.03755119999998,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-01-22T00:00:00.000Z",
+                    "photo_timestamp": 1485043200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 291,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "450 Court St NE, Salem, OR 97301",
+            "order_link": null,
+            "price_level": null,
+            "district": "Central Area",
+            "street_address": "450 Court St NE",
+            "city": "Salem",
+            "zipcode": "97301",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "query@bookbin.com",
+                    "100thingssandhills@gmail.com",
+                    "benelli.giovanni@gmail.com",
+                    "michellegriep@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5033611235",
+                    "5417520040",
+                    "9798869393432",
+                    "9798869399090"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/bookbincorvallis",
+                "yelp": "https://www.yelp.com/biz/the-book-bin-salem",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/bookbinsalem",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a0359dc98c73:0x4baff3b84bec5c3d",
+            "google_id": "0x5495a0359dc98c73:0x4baff3b84bec5c3d",
+            "place_id": "ChIJc4zJnTWglVQRPVzsS7jzr0s",
+            "google_mid": "/g/1yg4d_m3c",
+            "phone_number": "+15037861807",
+            "name": "Goodwill Industries of the Columbia Willamette",
+            "latitude": 45.4508371,
+            "longitude": -122.5805391,
+            "full_address": "Goodwill Industries of the Columbia Willamette, 9999 SE 82nd Ave, Happy Valley, OR 97086",
+            "review_count": 446,
+            "rating": 3.6,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a0359dc98c73:0x4baff3b84bec5c3d",
+            "cid": "5453845646642273341",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc4zJnTWglVQRPVzsS7jzr0s&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "112368221097121986188",
+            "owner_link": "https://maps.google.com/maps/contrib/112368221097121986188",
+            "owner_name": "Goodwill Industries of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Non-profit organization",
+                "Recycling center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPW8vMtu3EsD5zQN-pOa08UU8Swt_lFrjSHTw75",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPW8vMtu3EsD5zQN-pOa08UU8Swt_lFrjSHTw75",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPW8vMtu3EsD5zQN-pOa08UU8Swt_lFrjSHTw75=w3984-h2988-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.450837076531755,
+                    "longitude": -122.58053911783736,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-12-12T00:00:00.000Z",
+                    "photo_timestamp": 1481500800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 78,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "9999 SE 82nd Ave, Happy Valley, OR 97086",
+            "order_link": null,
+            "price_level": "$",
+            "district": null,
+            "street_address": "9999 SE 82nd Ave",
+            "city": "Happy Valley",
+            "zipcode": "97086",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a3fa2f0bbe5f:0xdaea5bb259a42b4b",
+            "google_id": "0x5495a3fa2f0bbe5f:0xdaea5bb259a42b4b",
+            "place_id": "ChIJX74LL_qjlVQRSyukWbJb6to",
+            "google_mid": "/g/1tj4b5qf",
+            "phone_number": "+15032541060",
+            "name": "Better Bargains Thrift Store",
+            "latitude": 45.559683,
+            "longitude": -122.557491,
+            "full_address": "Better Bargains Thrift Store, 10209 NE Sandy Blvd, Portland, OR 97220",
+            "review_count": 344,
+            "rating": 3.8,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a3fa2f0bbe5f:0xdaea5bb259a42b4b",
+            "cid": "15774521466384821067",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJX74LL_qjlVQRSyukWbJb6to&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "106299227735586251272",
+            "owner_link": "https://maps.google.com/maps/contrib/106299227735586251272",
+            "owner_name": "Better Bargains Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPVwl_aYPMThBSFM-qTcyHU9A6uoOwrKiOR0peG",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPVwl_aYPMThBSFM-qTcyHU9A6uoOwrKiOR0peG",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPVwl_aYPMThBSFM-qTcyHU9A6uoOwrKiOR0peG=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.559628691928026,
+                    "longitude": -122.55759647473859,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-04-05T00:00:00.000Z",
+                    "photo_timestamp": 1522886400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 105,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "10209 NE Sandy Blvd, Portland, OR 97220",
+            "order_link": null,
+            "price_level": null,
+            "district": "Northeast Portland",
+            "street_address": "10209 NE Sandy Blvd",
+            "city": "Portland",
+            "zipcode": "97220",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x5495a0084dd66ed3:0x1fd1e0210a7fe06d",
+            "google_id": "0x5495a0084dd66ed3:0x1fd1e0210a7fe06d",
+            "place_id": "ChIJ027WTQiglVQRbeB_CiHg0R8",
+            "google_mid": "/g/1jgm0sm24",
+            "phone_number": "+15037743924",
+            "name": "Goodwill Industries of the Columbia Willamette",
+            "latitude": 45.4779103,
+            "longitude": -122.6091233,
+            "full_address": "Goodwill Industries of the Columbia Willamette, 6125 SE 52nd Ave, Portland, OR 97206",
+            "review_count": 359,
+            "rating": 3.9,
+            "timezone": "America/Los_Angeles",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://meetgoodwill.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x5495a0084dd66ed3:0x1fd1e0210a7fe06d",
+            "cid": "2292860117822988397",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ027WTQiglVQRbeB_CiHg0R8&q=bin+stores+in+oregon&authuser=0&hl=en&gl=US",
+            "owner_id": "108787359799088031669",
+            "owner_link": "https://maps.google.com/maps/contrib/108787359799088031669",
+            "owner_name": "Goodwill Industries of the Columbia Willamette",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Non-profit organization",
+                "Recycling center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO-scqDuy2GqrMkKUQgNqA3TgJDE_aOQF8WdZxZ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO-scqDuy2GqrMkKUQgNqA3TgJDE_aOQF8WdZxZ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO-scqDuy2GqrMkKUQgNqA3TgJDE_aOQF8WdZxZ=w1920-h1080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.478156399999996,
+                    "longitude": -122.6090333,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-03-11T00:00:00.000Z",
+                    "photo_timestamp": 1520726400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 203,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "6125 SE 52nd Ave, Portland, OR 97206",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Southeast Portland",
+            "street_address": "6125 SE 52nd Ave",
+            "city": "Portland",
+            "zipcode": "97206",
+            "state": "Oregon",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "example@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5032386175"
+                ],
+                "facebook": "https://www.facebook.com/meetgoodwill",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-the-columbia-willamette-sandy-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/meetgoodwill",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-columbia-willamette",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/meetgoodwill"
+            },
+            "no": 182
+        }
+    ]
+}

@@ -1,0 +1,2398 @@
+{
+    "status": "OK",
+    "request_id": "2f4996bf-633e-476c-923e-975c7de5ef02",
+    "parameters": {
+        "query": "bin stores in minnesota",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x52b45fd286d3262d:0xb51f3e5f9c4fdad9",
+            "google_id": "0x52b45fd286d3262d:0xb51f3e5f9c4fdad9",
+            "place_id": "ChIJLSbThtJftFIR2dpPnF8-H7U",
+            "google_mid": "/g/11swkyj2k6",
+            "phone_number": "+13202175244",
+            "name": "EZbuy Bins",
+            "latitude": 45.5508996,
+            "longitude": -94.2303578,
+            "full_address": "EZbuy Bins, 87 10th Ave S, Waite Park, MN 56387",
+            "review_count": 57,
+            "rating": 4.5,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/ezbuybin?mibextid=LQQJ4d",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b45fd286d3262d:0xb51f3e5f9c4fdad9",
+            "cid": "13051218825508281049",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLSbThtJftFIR2dpPnF8-H7U&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "114372793122007602504",
+            "owner_link": "https://maps.google.com/maps/contrib/114372793122007602504",
+            "owner_name": "EZbuy Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Bedding store",
+                "Clothing store",
+                "Furniture store",
+                "Garden",
+                "Health and beauty shop",
+                "Liquidator",
+                "Massage supply store",
+                "Shoe store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMYFrWc7fu77wmytLG_0NM28ZQgig_ygsvLOupY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMYFrWc7fu77wmytLG_0NM28ZQgig_ygsvLOupY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMYFrWc7fu77wmytLG_0NM28ZQgig_ygsvLOupY=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.5510054,
+                    "longitude": -94.23018809999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-02-06T00:00:00.000Z",
+                    "photo_timestamp": 1707177600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 75,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true,
+                        "Wi-Fi": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "87 10th Ave S, Waite Park, MN 56387",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "87 10th Ave S",
+            "city": "Waite Park",
+            "zipcode": "56387",
+            "state": "Minnesota",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x52b45f24d43f041b:0x923c5d18c862b5b1",
+                "name": "Gateway international Center"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f9e74b8bac49c1:0xf1aa10ee3de9f372",
+            "google_id": "0x87f9e74b8bac49c1:0xf1aa10ee3de9f372",
+            "place_id": "ChIJwUmsi0vn-YcRcvPpPe4QqvE",
+            "google_mid": "/g/11kjyk20qf",
+            "phone_number": "+15076501800",
+            "name": "MEGABINZ",
+            "latitude": 44.004336099999996,
+            "longitude": -92.34604069999999,
+            "full_address": "MEGABINZ, 1177 Chester Ave SE, Rochester, MN 55904",
+            "review_count": 10,
+            "rating": 4.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "http://megabinz.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f9e74b8bac49c1:0xf1aa10ee3de9f372",
+            "cid": "17413749524608447346",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwUmsi0vn-YcRcvPpPe4QqvE&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "110248888354302215257",
+            "owner_link": "https://maps.google.com/maps/contrib/110248888354302215257",
+            "owner_name": "MEGABINZ",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNjuLAz8aKAwlPFaLIrMplKFXAg_qcb1l7kHerA",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNjuLAz8aKAwlPFaLIrMplKFXAg_qcb1l7kHerA",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNjuLAz8aKAwlPFaLIrMplKFXAg_qcb1l7kHerA=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.0043499,
+                    "longitude": -92.34498029999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-29T00:00:00.000Z",
+                    "photo_timestamp": 1687996800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1177 Chester Ave SE, Rochester, MN 55904",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1177 Chester Ave SE",
+            "city": "Rochester",
+            "zipcode": "55904",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "5076501800"
+                ],
+                "facebook": "https://www.facebook.com/megabinzmn",
+                "instagram": "https://www.instagram.com/megabinzstealsanddeals",
+                "yelp": "https://www.yelp.com/biz/megabinz-no-title",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b45fc1059ae89b:0x5fc52c7d8838c606",
+            "google_id": "0x52b45fc1059ae89b:0x5fc52c7d8838c606",
+            "place_id": "ChIJm-iaBcFftFIRBsY4iH0sxV8",
+            "google_mid": "/g/11t16d7mls",
+            "phone_number": "+13203805139",
+            "name": "Elizabeth\u2019s Storage Bin Boutique",
+            "latitude": 45.5630721,
+            "longitude": -94.16643859999999,
+            "full_address": "Elizabeth\u2019s Storage Bin Boutique, 403 9th Ave N, St Cloud, MN 56303",
+            "review_count": 10,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b45fc1059ae89b:0x5fc52c7d8838c606",
+            "cid": "6900970921683109382",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm-iaBcFftFIRBsY4iH0sxV8&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "116656763583829237274",
+            "owner_link": "https://maps.google.com/maps/contrib/116656763583829237274",
+            "owner_name": "Elizabeth\u2019s Storage Bin Boutique",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOwNnFWEEXDPunh5EhoHMgLhFIvJvxhveyrsrlh",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOwNnFWEEXDPunh5EhoHMgLhFIvJvxhveyrsrlh",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOwNnFWEEXDPunh5EhoHMgLhFIvJvxhveyrsrlh=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.5631578,
+                    "longitude": -94.1662096,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-16T00:00:00.000Z",
+                    "photo_timestamp": 1668556800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "403 9th Ave N, St Cloud, MN 56303",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "403 9th Ave N",
+            "city": "St Cloud",
+            "zipcode": "56303",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32ce94b0b43f1:0x9e0a81af529f3bf5",
+            "google_id": "0x52b32ce94b0b43f1:0x9e0a81af529f3bf5",
+            "place_id": "ChIJ8UMLS-kss1IR9TufUq-BCp4",
+            "google_mid": "/g/11clzhdy8n",
+            "phone_number": "+16128007148",
+            "name": "Sky Group Bargains (Discount Retail Store)",
+            "latitude": 44.978247599999996,
+            "longitude": -93.2061942,
+            "full_address": "Sky Group Bargains (Discount Retail Store), 2565 Kasota Ave, St Paul, MN 55108",
+            "review_count": 62,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/SkyGroupWholesales/?ref=pages_you_manage",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32ce94b0b43f1:0x9e0a81af529f3bf5",
+            "cid": "11388057197765147637",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8UMLS-kss1IR9TufUq-BCp4&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "100884199379617248622",
+            "owner_link": "https://maps.google.com/maps/contrib/100884199379617248622",
+            "owner_name": "Sky Group Bargains",
+            "booking_link": "https://www.facebook.com/groups/skygroupbargains",
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Appliance store",
+                "Food products supplier",
+                "Furniture store",
+                "Hardware store",
+                "Home goods store",
+                "Outlet store",
+                "Sporting goods store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOy5DYSZHNNSFtGwbwTeNfAJnhjhubpKKy3pgvq",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOy5DYSZHNNSFtGwbwTeNfAJnhjhubpKKy3pgvq",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOy5DYSZHNNSFtGwbwTeNfAJnhjhubpKKy3pgvq=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.9778184,
+                    "longitude": -93.2068094,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-02T00:00:00.000Z",
+                    "photo_timestamp": 1722556800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 88,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2565 Kasota Ave, St Paul, MN 55108",
+            "order_link": null,
+            "price_level": null,
+            "district": "Saint Anthony Park",
+            "street_address": "2565 Kasota Ave",
+            "city": "St Paul",
+            "zipcode": "55108",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b3189579247563:0x903b1b33fe01a6e0",
+            "google_id": "0x52b3189579247563:0x903b1b33fe01a6e0",
+            "place_id": "ChIJY3UkeZUYs1IR4KYB_jMbO5A",
+            "google_mid": "/g/11c2pddfkg",
+            "phone_number": "+17634343004",
+            "name": "FN Bargains",
+            "latitude": 45.2147979,
+            "longitude": -93.23559569999999,
+            "full_address": "FN Bargains, back of building, 13460 Hwy 65 NE Suite 4, Ham Lake, MN 55304",
+            "review_count": 134,
+            "rating": 4.4,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://www.fnbargains.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b3189579247563:0x903b1b33fe01a6e0",
+            "cid": "10392930475206354656",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJY3UkeZUYs1IR4KYB_jMbO5A&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "107921456176688897771",
+            "owner_link": "https://maps.google.com/maps/contrib/107921456176688897771",
+            "owner_name": "FN Bargains",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNUaOHMBa0TOTf9H5iPA2jYuOQSsuUVsdoHPe4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNUaOHMBa0TOTf9H5iPA2jYuOQSsuUVsdoHPe4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNUaOHMBa0TOTf9H5iPA2jYuOQSsuUVsdoHPe4=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.215027899999995,
+                    "longitude": -93.2358426,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-25T00:00:00.000Z",
+                    "photo_timestamp": 1716595200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 817,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "back of building, 13460 Hwy 65 NE Suite 4, Ham Lake, MN 55304",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "back of building, 13460 Hwy 65 NE Suite 4",
+            "city": "Ham Lake",
+            "zipcode": "55304",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "fnbargains@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5530476343430"
+                ],
+                "facebook": "https://www.facebook.com/fnbargains",
+                "instagram": "https://www.instagram.com/fnbargains",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52a551bfee73b133:0x3d0e45b58abd068c",
+            "google_id": "0x52a551bfee73b133:0x3d0e45b58abd068c",
+            "place_id": "ChIJM7Fz7r9RpVIRjAa9irVFDj0",
+            "google_mid": "/g/11q9j1h1fl",
+            "phone_number": "+12186060904",
+            "name": "Mystery Deals",
+            "latitude": 47.511152499999994,
+            "longitude": -92.5608515,
+            "full_address": "Mystery Deals, 5465 Mountain Iron Dr Ste 200, Virginia, MN 55792",
+            "review_count": 18,
+            "rating": 3.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "https://mysterydealsstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52a551bfee73b133:0x3d0e45b58abd068c",
+            "cid": "4399530532006594188",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJM7Fz7r9RpVIRjAa9irVFDj0&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "103049072510599483527",
+            "owner_link": "https://maps.google.com/maps/contrib/103049072510599483527",
+            "owner_name": "Mystery Deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOdetVMo8UBanIJb1ZDY5OJcMH7pja_gINuNtG9",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOdetVMo8UBanIJb1ZDY5OJcMH7pja_gINuNtG9",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOdetVMo8UBanIJb1ZDY5OJcMH7pja_gINuNtG9=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 47.511179999999996,
+                    "longitude": -92.5603352,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-05-22T00:00:00.000Z",
+                    "photo_timestamp": 1653177600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as veteran-owned": true,
+                        "Identifies as women-owned": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "5465 Mountain Iron Dr Ste 200, Virginia, MN 55792",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5465 Mountain Iron Dr Ste 200",
+            "city": "Virginia",
+            "zipcode": "55792",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52c9c38b3fceccbf:0x6b0b45a4c4fa927",
+            "google_id": "0x52c9c38b3fceccbf:0x6b0b45a4c4fa927",
+            "place_id": "ChIJv8zOP4vDyVIRJ6lPTFq0sAY",
+            "google_mid": "/g/11hz6pzxfd",
+            "phone_number": "+12186395776",
+            "name": "The Grain Bin",
+            "latitude": 46.431914,
+            "longitude": -95.58027589999999,
+            "full_address": "The Grain Bin, 231 MN-78 unit b, Ottertail, MN 56571",
+            "review_count": 10,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52c9c38b3fceccbf:0x6b0b45a4c4fa927",
+            "cid": "482083460048988455",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv8zOP4vDyVIRJ6lPTFq0sAY&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "109714876216712699775",
+            "owner_link": "https://maps.google.com/maps/contrib/109714876216712699775",
+            "owner_name": "The Grain Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPVPx-Vqk537LR8fvlCcmP7ReGFKynBiPO-GP4W",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPVPx-Vqk537LR8fvlCcmP7ReGFKynBiPO-GP4W",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPVPx-Vqk537LR8fvlCcmP7ReGFKynBiPO-GP4W=w4032-h1816-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.43191401478611,
+                    "longitude": -95.58027587765169,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-08-26T00:00:00.000Z",
+                    "photo_timestamp": 1629936000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "231 MN-78 unit b, Ottertail, MN 56571",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "231 MN-78 unit b",
+            "city": "Ottertail",
+            "zipcode": "56571",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32e6ca393edd9:0x63b10e507429e10e",
+            "google_id": "0x52b32e6ca393edd9:0x63b10e507429e10e",
+            "place_id": "ChIJ2e2To2wus1IRDuEpdFAOsWM",
+            "google_mid": "/g/1tc_dxlz",
+            "phone_number": "+17637818922",
+            "name": "Discount 70",
+            "latitude": 45.041579,
+            "longitude": -93.24615279999999,
+            "full_address": "Discount 70, 4027 Central Ave NE, Minneapolis, MN 55421",
+            "review_count": 817,
+            "rating": 3.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20134:30 PM"
+                ],
+                "Monday": [
+                    "12\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "12\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "12\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "12\u20136:30 PM"
+                ],
+                "Friday": [
+                    "12\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "12\u20136:30 PM"
+                ]
+            },
+            "website": "http://www.discount70stores.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32e6ca393edd9:0x63b10e507429e10e",
+            "cid": "7183538619341725966",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2e2To2wus1IRDuEpdFAOsWM&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "102687143944548891914",
+            "owner_link": "https://maps.google.com/maps/contrib/102687143944548891914",
+            "owner_name": "Discount 70",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Surplus store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMdeKO4rbAxdSMFUj5xSkZcsjejEbC1ex19ZfkL",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMdeKO4rbAxdSMFUj5xSkZcsjejEbC1ex19ZfkL",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMdeKO4rbAxdSMFUj5xSkZcsjejEbC1ex19ZfkL=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.041578977262496,
+                    "longitude": -93.24615278878544,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-12-21T00:00:00.000Z",
+                    "photo_timestamp": 1576886400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 608,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "4027 Central Ave NE, Minneapolis, MN 55421",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "4027 Central Ave NE",
+            "city": "Minneapolis",
+            "zipcode": "55421",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/discount70bulkbuys",
+                "instagram": "https://www.instagram.com/discount.70",
+                "yelp": "https://www.yelp.com/biz/discount-70-minneapolis",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/Discount_70",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f7d3a9d6104ee7:0xb58eaa2c469e5d6",
+            "google_id": "0x87f7d3a9d6104ee7:0xb58eaa2c469e5d6",
+            "place_id": "ChIJ504Q1qnT94cR1uVpxKLqWAs",
+            "google_mid": "/g/11vwk5fvpt",
+            "phone_number": null,
+            "name": "Sam\u2019s bin store",
+            "latitude": 44.8175558,
+            "longitude": -93.04600099999999,
+            "full_address": "Sam\u2019s bin store, 9041 Broderick Blvd, Inver Grove Heights, MN 55076",
+            "review_count": 0,
+            "rating": null,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9:30 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9:30 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f7d3a9d6104ee7:0xb58eaa2c469e5d6",
+            "cid": "817661317168621014",
+            "reviews_link": null,
+            "owner_id": "104737729619290108488",
+            "owner_link": "https://maps.google.com/maps/contrib/104737729619290108488",
+            "owner_name": "Sam\u2019s bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMKcYkfHIOpAU8nwmE3cQlNP-NXPMGw0GrUr1AS",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMKcYkfHIOpAU8nwmE3cQlNP-NXPMGw0GrUr1AS",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMKcYkfHIOpAU8nwmE3cQlNP-NXPMGw0GrUr1AS=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.8176724,
+                    "longitude": -93.0458676,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-04-23T00:00:00.000Z",
+                    "photo_timestamp": 1713830400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "9041 Broderick Blvd, Inver Grove Heights, MN 55076",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "9041 Broderick Blvd",
+            "city": "Inver Grove Heights",
+            "zipcode": "55076",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f6205932a5c943:0x1cb210a767588207",
+            "google_id": "0x87f6205932a5c943:0x1cb210a767588207",
+            "place_id": "ChIJQ8mlMlkg9ocRB4JYZ6cQshw",
+            "google_mid": "/g/11g022fp3d",
+            "phone_number": "+19526074606",
+            "name": "Dock 1 Bargains",
+            "latitude": 44.9266994,
+            "longitude": -93.38244379999999,
+            "full_address": "Dock 1 Bargains, 8090 Excelsior Blvd, Hopkins, MN 55343",
+            "review_count": 170,
+            "rating": 4.2,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 8\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8 AM\u20134:30 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20134:30 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20134:30 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20134:30 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20134:30 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://dock1bargains.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f6205932a5c943:0x1cb210a767588207",
+            "cid": "2067733490095915527",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ8mlMlkg9ocRB4JYZ6cQshw&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "100788918639320632716",
+            "owner_link": "https://maps.google.com/maps/contrib/100788918639320632716",
+            "owner_name": "Dock 1 Bargains",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMSfgpnhoay053IK17Oio245HJgMpc5a8tKMjBL",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMSfgpnhoay053IK17Oio245HJgMpc5a8tKMjBL",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMSfgpnhoay053IK17Oio245HJgMpc5a8tKMjBL=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.926757699999996,
+                    "longitude": -93.382719,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-03-05T00:00:00.000Z",
+                    "photo_timestamp": 1551744000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 438,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "8090 Excelsior Blvd, Hopkins, MN 55343",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "8090 Excelsior Blvd",
+            "city": "Hopkins",
+            "zipcode": "55343",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "sales@dock1bargains.com"
+                ],
+                "phone_numbers": [
+                    "9526074606"
+                ],
+                "facebook": "https://www.facebook.com/Dock1Bargains",
+                "instagram": "https://www.instagram.com/dock1bargains",
+                "yelp": "https://www.yelp.com/biz/dock-1-bargains-hopkins-3",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/dock1bargains",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f63b3914b29cb7:0xe4802c19d2500b1",
+            "google_id": "0x87f63b3914b29cb7:0xe4802c19d2500b1",
+            "place_id": "ChIJt5yyFDk79ocRsQAlncECSA4",
+            "google_mid": "/g/11tx7_8wxp",
+            "phone_number": "+19523781282",
+            "name": "Superior Overstock",
+            "latitude": 44.737333,
+            "longitude": -93.300403,
+            "full_address": "Superior Overstock, 1510 Southcross Dr W, Burnsville, MN 55306",
+            "review_count": 71,
+            "rating": 4.8,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "http://www.superioroverstock.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f63b3914b29cb7:0xe4802c19d2500b1",
+            "cid": "1029075545442549937",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt5yyFDk79ocRsQAlncECSA4&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "100259175814052878255",
+            "owner_link": "https://maps.google.com/maps/contrib/100259175814052878255",
+            "owner_name": "Superior Overstock",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Outlet store",
+            "subtypes": [
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNF_JaC0lz5soN257EPtrtSSdAEq1TOOsjcNW1v",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNF_JaC0lz5soN257EPtrtSSdAEq1TOOsjcNW1v",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNF_JaC0lz5soN257EPtrtSSdAEq1TOOsjcNW1v=w3727-h2797-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.7372391,
+                    "longitude": -93.30033449999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-22T00:00:00.000Z",
+                    "photo_timestamp": 1682121600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "1510 Southcross Dr W, Burnsville, MN 55306",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1510 Southcross Dr W",
+            "city": "Burnsville",
+            "zipcode": "55306",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@superioroverstock.com"
+                ],
+                "phone_numbers": [
+                    "9523781282151",
+                    "5555555555",
+                    "9523781282"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/superioroverstock",
+                "yelp": "https://www.yelp.com/biz/superior-overstock-burnsville",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32cfbb4947fb5:0x968682749f3d114",
+            "google_id": "0x52b32cfbb4947fb5:0x968682749f3d114",
+            "place_id": "ChIJtX-UtPsss1IRFNHzSSdoaAk",
+            "google_mid": "/g/11c3tpfhm_",
+            "phone_number": "+16126269152",
+            "name": "Pack And Give Back Store",
+            "latitude": 44.986134199999995,
+            "longitude": -93.2141991,
+            "full_address": "Pack And Give Back Store, 883 29th Ave SE, Minneapolis, MN 55414",
+            "review_count": 1,
+            "rating": 3,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 8:30\u202fAM Thu",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "8:30 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=61558199386216",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32cfbb4947fb5:0x968682749f3d114",
+            "cid": "677906261872988436",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtX-UtPsss1IRFNHzSSdoaAk&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "108115764626736555017",
+            "owner_link": "https://maps.google.com/maps/contrib/108115764626736555017",
+            "owner_name": "Pack And Give Back Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOf6hO_6LqeOefUHRmW72PJWFSC-T2ZIRXDTAxr",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOf6hO_6LqeOefUHRmW72PJWFSC-T2ZIRXDTAxr",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOf6hO_6LqeOefUHRmW72PJWFSC-T2ZIRXDTAxr=w3072-h4080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.986390799999995,
+                    "longitude": -93.21349099999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-18T00:00:00.000Z",
+                    "photo_timestamp": 1723939200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "883 29th Ave SE, Minneapolis, MN 55414",
+            "order_link": null,
+            "price_level": null,
+            "district": "Como",
+            "street_address": "883 29th Ave SE",
+            "city": "Minneapolis",
+            "zipcode": "55414",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f6207f709ba371:0xc28233419f2452a",
+            "google_id": "0x87f6207f709ba371:0xc28233419f2452a",
+            "place_id": "ChIJcaObcH8g9ocRKkXyGTQjKAw",
+            "google_mid": "/g/1wzt2ydx",
+            "phone_number": "+19529352210",
+            "name": "Ax-Man Surplus Stores",
+            "latitude": 44.9497232,
+            "longitude": -93.3831817,
+            "full_address": "Ax-Man Surplus Stores, 8134 Minnetonka Blvd, St Louis Park, MN 55426",
+            "review_count": 747,
+            "rating": 4.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://ax-man.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f6207f709ba371:0xc28233419f2452a",
+            "cid": "875988834204140842",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcaObcH8g9ocRKkXyGTQjKAw&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "111174376201632413128",
+            "owner_link": "https://maps.google.com/maps/contrib/111174376201632413128",
+            "owner_name": "Ax-Man Surplus Stores",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Surplus store",
+            "subtypes": [
+                "Surplus store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMDJHfW3G3NEc3_a6b6VhXaHyWBy7D2PEHD2BhD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMDJHfW3G3NEc3_a6b6VhXaHyWBy7D2PEHD2BhD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMDJHfW3G3NEc3_a6b6VhXaHyWBy7D2PEHD2BhD=w2688-h1512-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.9497302,
+                    "longitude": -93.38238059999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-03-06T00:00:00.000Z",
+                    "photo_timestamp": 1551830400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 224,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "8134 Minnetonka Blvd, St Louis Park, MN 55426",
+            "order_link": null,
+            "price_level": null,
+            "district": "Cobblecrest",
+            "street_address": "8134 Minnetonka Blvd",
+            "city": "St Louis Park",
+            "zipcode": "55426",
+            "state": "Minnesota",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x87f6217a6dc67461:0x291c1eff7a07360d",
+                "name": "T"
+            },
+            "emails_and_contacts": {
+                "emails": [
+                    "info@ax-man.com"
+                ],
+                "phone_numbers": [
+                    "9529352210"
+                ],
+                "facebook": "https://www.facebook.com/Ax.Man.Surplus",
+                "instagram": "https://www.instagram.com/axmansurplus",
+                "yelp": "https://www.yelp.com/biz/ax-man-surplus-stores-saint-paul-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/axmansurplus",
+                "linkedin": "https://www.linkedin.com/company/ax-man-surplus-stores",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/axmansurplus"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f61b32caa4e48b:0x6a2374ec8e4c5610",
+            "google_id": "0x87f61b32caa4e48b:0x6a2374ec8e4c5610",
+            "place_id": "ChIJi-SkyjIb9ocREFZMjux0I2o",
+            "google_mid": "/g/11f18k_wv2",
+            "phone_number": "+19523616280",
+            "name": "Goodwill - Chaska Wholesale",
+            "latitude": 44.8433551,
+            "longitude": -93.57937319999999,
+            "full_address": "Goodwill - Chaska Wholesale, 312 Lake Hazeltine Dr, Chaska, MN 55318",
+            "review_count": 130,
+            "rating": 3.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.goodwilleasterseals.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f61b32caa4e48b:0x6a2374ec8e4c5610",
+            "cid": "7648085151553705488",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJi-SkyjIb9ocREFZMjux0I2o&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "106695478706382482721",
+            "owner_link": "https://maps.google.com/maps/contrib/106695478706382482721",
+            "owner_name": "Goodwill - Chaska Wholesale",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity",
+                "Donations center",
+                "Non-profit organization",
+                "Outlet store",
+                "Used clothing store",
+                "Used furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNeQgK2eOYmOCg6W2S3c9yMu83mfbt5Hal9Hjv3",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNeQgK2eOYmOCg6W2S3c9yMu83mfbt5Hal9Hjv3",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNeQgK2eOYmOCg6W2S3c9yMu83mfbt5Hal9Hjv3=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.843039,
+                    "longitude": -93.57917309999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-11-25T00:00:00.000Z",
+                    "photo_timestamp": 1511568000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "312 Lake Hazeltine Dr, Chaska, MN 55318",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "312 Lake Hazeltine Dr",
+            "city": "Chaska",
+            "zipcode": "55318",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "willmarstore@goodwilleasterseals.org"
+                ],
+                "phone_numbers": [
+                    "6513795824",
+                    "6127243539"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/goodwillmn",
+                "github": null,
+                "youtube": "https://www.youtube.com/user/goodwillmn",
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52ca0e720e20f81d:0xe4040a64c6ed50a4",
+            "google_id": "0x52ca0e720e20f81d:0xe4040a64c6ed50a4",
+            "place_id": "ChIJHfggDnIOylIRpFDtxmQKBOQ",
+            "google_mid": "/g/1vj5zw0d",
+            "phone_number": "+13207636876",
+            "name": "Grain Bin",
+            "latitude": 45.8485377,
+            "longitude": -95.3860011,
+            "full_address": "Grain Bin, 4617 MN-29 #107, Alexandria, MN 56308",
+            "review_count": 34,
+            "rating": 4.2,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "http://www.grainbininc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52ca0e720e20f81d:0xe4040a64c6ed50a4",
+            "cid": "16430268768504860836",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHfggDnIOylIRpFDtxmQKBOQ&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "111343256942674034087",
+            "owner_link": "https://maps.google.com/maps/contrib/111343256942674034087",
+            "owner_name": "Grain Bin",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Health food store",
+            "subtypes": [
+                "Health food store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPgGr81c5sZE3lCj3tHym_zTl94UwEIPBmeHq0O",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPgGr81c5sZE3lCj3tHym_zTl94UwEIPBmeHq0O",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPgGr81c5sZE3lCj3tHym_zTl94UwEIPBmeHq0O=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.84839549505408,
+                    "longitude": -95.385949092391,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-04-16T00:00:00.000Z",
+                    "photo_timestamp": 1523836800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "4617 MN-29 #107, Alexandria, MN 56308",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "4617 MN-29 #107",
+            "city": "Alexandria",
+            "zipcode": "56308",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "grainbinalex@gmail.com"
+                ],
+                "phone_numbers": [
+                    "3207636876",
+                    "3207636876461"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/grain-bin-alexandria-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/grain-bin",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32b557c745627:0x968cc061d151488d",
+            "google_id": "0x52b32b557c745627:0x968cc061d151488d",
+            "place_id": "ChIJJ1Z0fFUrs1IRjUhR0WHAjJY",
+            "google_mid": "/g/11bwpc_15b",
+            "phone_number": "+16513795909",
+            "name": "Goodwill - St. Paul Outlet",
+            "latitude": 44.957657399999995,
+            "longitude": -93.17796299999999,
+            "full_address": "Goodwill - St. Paul Outlet, 553 Fairview Ave N, St Paul, MN 55104",
+            "review_count": 256,
+            "rating": 3.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.goodwilleasterseals.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32b557c745627:0x968cc061d151488d",
+            "cid": "10848257128784808077",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ1Z0fFUrs1IRjUhR0WHAjJY&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "118347594463611341109",
+            "owner_link": "https://maps.google.com/maps/contrib/118347594463611341109",
+            "owner_name": "Goodwill - St. Paul Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity",
+                "Donations center",
+                "Non-profit organization",
+                "Outlet store",
+                "Used clothing store",
+                "Used furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPdDlE9kqTj4dmmA6PrXCyqcXZ80sRcXAEpZppr",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPdDlE9kqTj4dmmA6PrXCyqcXZ80sRcXAEpZppr",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPdDlE9kqTj4dmmA6PrXCyqcXZ80sRcXAEpZppr=w3264-h2448-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.95765741677022,
+                    "longitude": -93.17796302010431,
+                    "type": "photo",
+                    "photo_datetime_utc": "2015-12-21T00:00:00.000Z",
+                    "photo_timestamp": 1450656000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 93,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "553 Fairview Ave N, St Paul, MN 55104",
+            "order_link": null,
+            "price_level": null,
+            "district": "Hamline - Midway",
+            "street_address": "553 Fairview Ave N",
+            "city": "St Paul",
+            "zipcode": "55104",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "willmarstore@goodwilleasterseals.org"
+                ],
+                "phone_numbers": [
+                    "6127243539",
+                    "6513795824"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/goodwillmn",
+                "github": null,
+                "youtube": "https://www.youtube.com/user/goodwillmn",
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b3376b0f928123:0xf2cb4c992dadb6e7",
+            "google_id": "0x52b3376b0f928123:0xf2cb4c992dadb6e7",
+            "place_id": "ChIJI4GSD2s3s1IR57atLZlMy_I",
+            "google_mid": "/g/11b764q9c_",
+            "phone_number": "+17637627425",
+            "name": "Goodwill - Brooklyn Park Outlet",
+            "latitude": 45.0818811,
+            "longitude": -93.37821799999999,
+            "full_address": "Goodwill - Brooklyn Park Outlet, 7051 W Broadway, Brooklyn Park, MN 55428",
+            "review_count": 345,
+            "rating": 3.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.goodwilleasterseals.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b3376b0f928123:0xf2cb4c992dadb6e7",
+            "cid": "17495161398230890215",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJI4GSD2s3s1IR57atLZlMy_I&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "113885363251389469993",
+            "owner_link": "https://maps.google.com/maps/contrib/113885363251389469993",
+            "owner_name": "Goodwill - Brooklyn Park Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity",
+                "Donations center",
+                "Non-profit organization",
+                "Outlet store",
+                "Used clothing store",
+                "Used furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNea199ApPsCPqb5-MKUaeE2xHVoc72ibJkgb8H",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNea199ApPsCPqb5-MKUaeE2xHVoc72ibJkgb8H",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNea199ApPsCPqb5-MKUaeE2xHVoc72ibJkgb8H=w2296-h4080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.082278099999996,
+                    "longitude": -93.3776833,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-16T00:00:00.000Z",
+                    "photo_timestamp": 1681603200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 74,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "7051 W Broadway, Brooklyn Park, MN 55428",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "7051 W Broadway",
+            "city": "Brooklyn Park",
+            "zipcode": "55428",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "willmarstore@goodwilleasterseals.org"
+                ],
+                "phone_numbers": [
+                    "6127243539",
+                    "6513795824"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/goodwillmn",
+                "github": null,
+                "youtube": "https://www.youtube.com/user/goodwillmn",
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x87f62a078b017a1f:0x6039e4d76bd69b64",
+            "google_id": "0x87f62a078b017a1f:0x6039e4d76bd69b64",
+            "place_id": "ChIJH3oBiwcq9ocRZJvWa9fkOWA",
+            "google_mid": "/g/1tgd72hb",
+            "phone_number": "+16516468653",
+            "name": "Ax-Man Surplus Stores",
+            "latitude": 44.955886199999995,
+            "longitude": -93.1693726,
+            "full_address": "Ax-Man Surplus Stores, 1639 University Ave W, St Paul, MN 55104",
+            "review_count": 1866,
+            "rating": 4.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.ax-man.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x87f62a078b017a1f:0x6039e4d76bd69b64",
+            "cid": "6933824715191917412",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH3oBiwcq9ocRZJvWa9fkOWA&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "115140167187521172365",
+            "owner_link": "https://maps.google.com/maps/contrib/115140167187521172365",
+            "owner_name": "Ax-Man Surplus Stores",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Surplus store",
+            "subtypes": [
+                "Surplus store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO7LKQW-bsJ5KzMtDCbmyxStm2JYuIXles2p2Of",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO7LKQW-bsJ5KzMtDCbmyxStm2JYuIXles2p2Of",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO7LKQW-bsJ5KzMtDCbmyxStm2JYuIXles2p2Of=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.95588618680155,
+                    "longitude": -93.16937263819486,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-07-01T00:00:00.000Z",
+                    "photo_timestamp": 1498867200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 771,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free street parking": true
+                    }
+                }
+            },
+            "address": "1639 University Ave W, St Paul, MN 55104",
+            "order_link": null,
+            "price_level": null,
+            "district": "Hamline - Midway",
+            "street_address": "1639 University Ave W",
+            "city": "St Paul",
+            "zipcode": "55104",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@ax-man.com"
+                ],
+                "phone_numbers": [
+                    "9529352210"
+                ],
+                "facebook": "https://www.facebook.com/Ax.Man.Surplus",
+                "instagram": "https://www.instagram.com/axmansurplus",
+                "yelp": "https://www.yelp.com/biz/ax-man-surplus-stores-saint-paul-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/axmansurplus",
+                "linkedin": "https://www.linkedin.com/company/ax-man-surplus-stores",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/axmansurplus"
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32cfa4feedb49:0xb0d5642097262580",
+            "google_id": "0x52b32cfa4feedb49:0xb0d5642097262580",
+            "place_id": "ChIJSdvuT_oss1IRgCUmlyBk1bA",
+            "google_mid": "/g/11g_t28p2",
+            "phone_number": "+16126269152",
+            "name": "University of Minnesota ReUse Program",
+            "latitude": 44.9862152,
+            "longitude": -93.2137824,
+            "full_address": "University of Minnesota ReUse Program, 883 29th Ave SE, Minneapolis, MN 55414",
+            "review_count": 105,
+            "rating": 4.7,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "8:30 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "8:30 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://facilities.umn.edu/our-services/reuse-recycling-waste/reuse-program/reuse-program",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32cfa4feedb49:0xb0d5642097262580",
+            "cid": "12742200811852277120",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSdvuT_oss1IRgCUmlyBk1bA&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "110546857949271097774",
+            "owner_link": "https://maps.google.com/maps/contrib/110546857949271097774",
+            "owner_name": "University of Minnesota ReUse Program",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Surplus store",
+            "subtypes": [
+                "Surplus store",
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMqJEFE8qtMqiWC99QV4ZxbuR7vJzp5-wn4h6xV",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMqJEFE8qtMqiWC99QV4ZxbuR7vJzp5-wn4h6xV",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMqJEFE8qtMqiWC99QV4ZxbuR7vJzp5-wn4h6xV=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.986390799999995,
+                    "longitude": -93.2134897,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-10-30T00:00:00.000Z",
+                    "photo_timestamp": 1604016000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 99,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "883 29th Ave SE, Minneapolis, MN 55414",
+            "order_link": null,
+            "price_level": null,
+            "district": "Como",
+            "street_address": "883 29th Ave SE",
+            "city": "Minneapolis",
+            "zipcode": "55414",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 182
+        },
+        {
+            "business_id": "0x52b32b1f7d169d29:0xb199db3cd3e38ec2",
+            "google_id": "0x52b32b1f7d169d29:0xb199db3cd3e38ec2",
+            "place_id": "ChIJKZ0WfR8rs1IRwo7j0zzbmbE",
+            "google_mid": "/g/11flgbknf2",
+            "phone_number": "+16516469697",
+            "name": "Flying Pig Thrift",
+            "latitude": 44.9630477,
+            "longitude": -93.1668383,
+            "full_address": "Flying Pig Thrift, 722 Snelling Ave N, St Paul, MN 55104",
+            "review_count": 57,
+            "rating": 4.5,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "https://theflyingpigthrift.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52b32b1f7d169d29:0xb199db3cd3e38ec2",
+            "cid": "12797500870449401538",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKZ0WfR8rs1IRwo7j0zzbmbE&q=bin+stores+in+minnesota&authuser=0&hl=en&gl=US",
+            "owner_id": "101007396413069518826",
+            "owner_link": "https://maps.google.com/maps/contrib/101007396413069518826",
+            "owner_name": "Flying Pig Thrift",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPPV048nxL4u3HKourPmtFoOqcYhckyT6afCTuY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPPV048nxL4u3HKourPmtFoOqcYhckyT6afCTuY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPPV048nxL4u3HKourPmtFoOqcYhckyT6afCTuY=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.9630653,
+                    "longitude": -93.16698919999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-12-30T00:00:00.000Z",
+                    "photo_timestamp": 1640822400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store shopping": true,
+                        "Online estimates": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "722 Snelling Ave N, St Paul, MN 55104",
+            "order_link": null,
+            "price_level": null,
+            "district": "Hamline - Midway",
+            "street_address": "722 Snelling Ave N",
+            "city": "St Paul",
+            "zipcode": "55104",
+            "state": "Minnesota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "flyingpigthrift@gmail.com"
+                ],
+                "phone_numbers": [
+                    "6516469697"
+                ],
+                "facebook": "https://www.facebook.com/flyingpigthrift",
+                "instagram": "https://www.instagram.com/flyingpigthrift",
+                "yelp": "https://www.yelp.com/biz/flying-pig-thrift-saint-paul-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/c/FlyingPigThrifts",
+                "pinterest": null
+            },
+            "no": 182
+        }
+    ]
+}

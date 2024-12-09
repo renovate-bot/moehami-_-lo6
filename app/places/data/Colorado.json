@@ -1,7 +1,7 @@
 {
-    "Status": "OK",
-    "Request-id": "7d49279a-a15d-4b71-93f9-d218b5fb54cd",
-    "Parameters": {
+    "status": "OK",
+    "request_id": "7d49279a-a15d-4b71-93f9-d218b5fb54cd",
+    "parameters": {
         "query": "bin stores in colorado",
         "language": "en",
         "region": "us",
@@ -12,7 +12,7 @@
         "offset": 0,
         "extract_emails_and_contacts": true
     },
-    "Data": [
+    "data": [
         {
             "business_id": "0x876c63568e797323:0xe0b652bc0c5a5919",
             "google_id": "0x876c63568e797323:0xe0b652bc0c5a5919",

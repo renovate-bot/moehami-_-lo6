@@ -1,0 +1,2243 @@
+{
+    "status": "OK",
+    "request_id": "beba7ef3-6f84-4684-80bb-a1d852759976",
+    "parameters": {
+        "query": "bin stores in west_virginia",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "google_id": "0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "place_id": "ChIJvzQuLCoDyokRFedp-U1LPTs",
+            "google_mid": "/g/11qplhy75l",
+            "phone_number": "+13049012431",
+            "name": "10 To 1 Bins",
+            "latitude": 39.4582426,
+            "longitude": -77.9628451,
+            "full_address": "10 To 1 Bins, 137 N Queen St, Martinsburg, WV 25401",
+            "review_count": 25,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89ca032a2c2e34bf:0x3b3d4b4df969e715",
+            "cid": "4268650820086130453",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvzQuLCoDyokRFedp-U1LPTs&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "117317659362011197317",
+            "owner_link": "https://maps.google.com/maps/contrib/117317659362011197317",
+            "owner_name": "10 To 1 Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPRWiWixLSqdxksF5MJ_vqu9nwxg7oEIJ_UFWM=w4080-h3072-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.4583364,
+                    "longitude": -77.963303,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-12-15T00:00:00.000Z",
+                    "photo_timestamp": 1702598400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": false,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "137 N Queen St, Martinsburg, WV 25401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "137 N Queen St",
+            "city": "Martinsburg",
+            "zipcode": "25401",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884e6b9b5b0eaf13:0x76973070bb8fdc90",
+            "google_id": "0x884e6b9b5b0eaf13:0x76973070bb8fdc90",
+            "place_id": "ChIJE68OW5trTogRkNyPu3Awl3Y",
+            "google_mid": "/g/11v0rzhcm7",
+            "phone_number": "+13049134099",
+            "name": "Bargain Binz-N-More",
+            "latitude": 37.3630783,
+            "longitude": -81.0934736,
+            "full_address": "Bargain Binz-N-More, 1047 Stafford Dr, Princeton, WV 24740",
+            "review_count": 12,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884e6b9b5b0eaf13:0x76973070bb8fdc90",
+            "cid": "8545352078700043408",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE68OW5trTogRkNyPu3Awl3Y&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "109545146557957648720",
+            "owner_link": "https://maps.google.com/maps/contrib/109545146557957648720",
+            "owner_name": "Bargain Binz-N-More",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNlgjMANm4TtuwgOPbFDC9auvAXJ3nZVZNhgYTy",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNlgjMANm4TtuwgOPbFDC9auvAXJ3nZVZNhgYTy",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNlgjMANm4TtuwgOPbFDC9auvAXJ3nZVZNhgYTy=w1284-h1754-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.363259400000004,
+                    "longitude": -81.09363479999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-04T00:00:00.000Z",
+                    "photo_timestamp": 1722729600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1047 Stafford Dr, Princeton, WV 24740",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1047 Stafford Dr",
+            "city": "Princeton",
+            "zipcode": "24740",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x8848b30029e8aa29:0xc08dcbe3ed64ecb5",
+            "google_id": "0x8848b30029e8aa29:0xc08dcbe3ed64ecb5",
+            "place_id": "ChIJKaroKQCzSIgRtexk7ePLjcA",
+            "google_mid": "/g/11vybwsnsx",
+            "phone_number": null,
+            "name": "The bin store",
+            "latitude": 38.4336467,
+            "longitude": -82.01784289999999,
+            "full_address": "The bin store, 2947 Putnam Ave, Hurricane, WV 25526",
+            "review_count": 6,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8848b30029e8aa29:0xc08dcbe3ed64ecb5",
+            "cid": "13874970206799195317",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKaroKQCzSIgRtexk7ePLjcA&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "112979406538211183212",
+            "owner_link": "https://maps.google.com/maps/contrib/112979406538211183212",
+            "owner_name": "The bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMGfoftcvlUUoMXYajZXEZP8qpAk3uVZe0h4zn_",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMGfoftcvlUUoMXYajZXEZP8qpAk3uVZe0h4zn_",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMGfoftcvlUUoMXYajZXEZP8qpAk3uVZe0h4zn_=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.4336383,
+                    "longitude": -82.01802889999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-29T00:00:00.000Z",
+                    "photo_timestamp": 1716940800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "2947 Putnam Ave, Hurricane, WV 25526",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2947 Putnam Ave",
+            "city": "Hurricane",
+            "zipcode": "25526",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x8846099ae072c725:0x187347f922e6da7c",
+            "google_id": "0x8846099ae072c725:0x187347f922e6da7c",
+            "place_id": "ChIJJcdy4JoJRogRfNrmIvlHcxg",
+            "google_mid": "/g/11tfw53qj1",
+            "phone_number": "+17408616667",
+            "name": "A & L Bin Sales",
+            "latitude": 38.4282967,
+            "longitude": -82.4561066,
+            "full_address": "A & L Bin Sales, 404 3rd Ave, Chesapeake, OH 45619",
+            "review_count": 19,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 11\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20132 PM",
+                    "3\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8846099ae072c725:0x187347f922e6da7c",
+            "cid": "1761831014589979260",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJcdy4JoJRogRfNrmIvlHcxg&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "112266242233756520487",
+            "owner_link": "https://maps.google.com/maps/contrib/112266242233756520487",
+            "owner_name": "A & L Bin Sales",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMDidi1OA20t7PNqsvgxzCNMAD1McIYB8nxTgR1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMDidi1OA20t7PNqsvgxzCNMAD1McIYB8nxTgR1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMDidi1OA20t7PNqsvgxzCNMAD1McIYB8nxTgR1=w1920-h1080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.428111099999995,
+                    "longitude": -82.45603260000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-10-18T00:00:00.000Z",
+                    "photo_timestamp": 1666051200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "404 3rd Ave, Chesapeake, OH 45619",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "404 3rd Ave",
+            "city": "Chesapeake",
+            "zipcode": "45619",
+            "state": "Ohio",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x8848c90dcde68fef:0x7fe5db5da8d0328f",
+            "google_id": "0x8848c90dcde68fef:0x7fe5db5da8d0328f",
+            "place_id": "ChIJ74_mzQ3JSIgRjzLQqF3b5X8",
+            "google_mid": "/g/11dym1yf1f",
+            "phone_number": "+13047219118",
+            "name": "Two B's Discount Center, LLC",
+            "latitude": 38.3922352,
+            "longitude": -81.8247634,
+            "full_address": "Two B's Discount Center, LLC, 722 1st Ave S, Nitro, WV 25143",
+            "review_count": 60,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8848c90dcde68fef:0x7fe5db5da8d0328f",
+            "cid": "9216013407794246287",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ74_mzQ3JSIgRjzLQqF3b5X8&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "103079822181151933837",
+            "owner_link": "https://maps.google.com/maps/contrib/103079822181151933837",
+            "owner_name": "Two B's Discount Center, LLC",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN-IeZjeTdhTB3TKkuF1P7jKADTauGPRXTuIDrz",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN-IeZjeTdhTB3TKkuF1P7jKADTauGPRXTuIDrz",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN-IeZjeTdhTB3TKkuF1P7jKADTauGPRXTuIDrz=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.3920923,
+                    "longitude": -81.8248555,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-01T00:00:00.000Z",
+                    "photo_timestamp": 1714521600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "722 1st Ave S, Nitro, WV 25143",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "722 1st Ave S",
+            "city": "Nitro",
+            "zipcode": "25143",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "google_id": "0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "place_id": "ChIJp8gnzq3vtYkRMqSKWXYBu7E",
+            "google_mid": "/g/11twwgy1h6",
+            "phone_number": "+15715698902",
+            "name": "Bin Royal- bin store",
+            "latitude": 39.187866299999996,
+            "longitude": -78.14621679999999,
+            "full_address": "Bin Royal- bin store, 822 Berryville Ave, Winchester, VA 22601",
+            "review_count": 16,
+            "rating": 3.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b5efadce27c8a7:0xb1bb0176598aa432",
+            "cid": "12806831573178164274",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp8gnzq3vtYkRMqSKWXYBu7E&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "116835336796247778671",
+            "owner_link": "https://maps.google.com/maps/contrib/116835336796247778671",
+            "owner_name": "Bin Royal- bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Warehouse store",
+            "subtypes": [
+                "Warehouse store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMkXxNTZOufNfSZxvDH2XZ6z8BExV9c_3NLD-2_=w2160-h3840-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.1879025,
+                    "longitude": -78.1461221,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-15T00:00:00.000Z",
+                    "photo_timestamp": 1681516800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "822 Berryville Ave, Winchester, VA 22601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "822 Berryville Ave",
+            "city": "Winchester",
+            "zipcode": "22601",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x88467795b89b56a3:0x5c3029d40aac39c5",
+            "google_id": "0x88467795b89b56a3:0x5c3029d40aac39c5",
+            "place_id": "ChIJo1abuJV3RogRxTmsCtQpMFw",
+            "google_mid": "/g/11pc2h7kys",
+            "phone_number": null,
+            "name": "Ashland Outlet & Bins",
+            "latitude": 38.4732656,
+            "longitude": -82.6501589,
+            "full_address": "Ashland Outlet & Bins, 1203 13th St, Ashland, KY 41101",
+            "review_count": 111,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20131 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88467795b89b56a3:0x5c3029d40aac39c5",
+            "cid": "6642855441060346309",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo1abuJV3RogRxTmsCtQpMFw&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "103527300160088168892",
+            "owner_link": "https://maps.google.com/maps/contrib/103527300160088168892",
+            "owner_name": "Ashland Outlet & Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOeVY9EcqyZMyLtMuugBcaLLhamye547yCiH_tf",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOeVY9EcqyZMyLtMuugBcaLLhamye547yCiH_tf",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOeVY9EcqyZMyLtMuugBcaLLhamye547yCiH_tf=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.4730905,
+                    "longitude": -82.64974409999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-11T00:00:00.000Z",
+                    "photo_timestamp": 1670716800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1203 13th St, Ashland, KY 41101",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1203 13th St",
+            "city": "Ashland",
+            "zipcode": "41101",
+            "state": "Kentucky",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884f995093146235:0xc44a84838e38553e",
+            "google_id": "0x884f995093146235:0xc44a84838e38553e",
+            "place_id": "ChIJNWIUk1CZT4gRPlU4joOESsQ",
+            "google_mid": "/g/11fmvdjg2f",
+            "phone_number": "+13046648040",
+            "name": "THE PALLET BIN",
+            "latitude": 37.6107349,
+            "longitude": -81.87646769999999,
+            "full_address": "THE PALLET BIN, 292 Main Street, Gilbert, WV 25621",
+            "review_count": 4,
+            "rating": 3.5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/groups/ThePalletBin",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884f995093146235:0xc44a84838e38553e",
+            "cid": "14144263280272102718",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNWIUk1CZT4gRPlU4joOESsQ&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "104385036168605133243",
+            "owner_link": "https://maps.google.com/maps/contrib/104385036168605133243",
+            "owner_name": "THE PALLET BIN",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPb0C5unorxXfckeovn6EaKCHRlIuowBe-Mu0jg",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPb0C5unorxXfckeovn6EaKCHRlIuowBe-Mu0jg",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPb0C5unorxXfckeovn6EaKCHRlIuowBe-Mu0jg=w2048-h2048-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.6107951,
+                    "longitude": -81.87633939999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-09-08T00:00:00.000Z",
+                    "photo_timestamp": 1567900800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "292 Main Street, Gilbert, WV 25621",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "292 Main Street",
+            "city": "Gilbert",
+            "zipcode": "25621",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x88357d003dc27c23:0x59b1d6505145ca8",
+            "google_id": "0x88357d003dc27c23:0x59b1d6505145ca8",
+            "place_id": "ChIJI3zCPQB9NYgRqFwUBWUdmwU",
+            "google_mid": "/g/11qq5wvk5h",
+            "phone_number": "+13042411960",
+            "name": "Goodwill of North Central West Virginia",
+            "latitude": 39.6310564,
+            "longitude": -80.0019988,
+            "full_address": "Goodwill of North Central West Virginia, 6540 Mall Rd, Morgantown, WV 26501",
+            "review_count": 67,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.goodwillncwv.org/shop/store-locations",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88357d003dc27c23:0x59b1d6505145ca8",
+            "cid": "403948911293914280",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJI3zCPQB9NYgRqFwUBWUdmwU&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "110501931702351770263",
+            "owner_link": "https://maps.google.com/maps/contrib/110501931702351770263",
+            "owner_name": "Goodwill of North Central West Virginia",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center",
+                "Non-profit organization",
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMXeP2Dd-KG8Ft2kQjocBTA48nSxCjV0lmiy3kM",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMXeP2Dd-KG8Ft2kQjocBTA48nSxCjV0lmiy3kM",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMXeP2Dd-KG8Ft2kQjocBTA48nSxCjV0lmiy3kM=w1242-h931-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.630272914735485,
+                    "longitude": -80.00217552011635,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-01-28T00:00:00.000Z",
+                    "photo_timestamp": 1611792000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "6540 Mall Rd, Morgantown, WV 26501",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "6540 Mall Rd",
+            "city": "Morgantown",
+            "zipcode": "26501",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884ae23b8d220fa5:0x41877f88c78df9ac",
+            "google_id": "0x884ae23b8d220fa5:0x41877f88c78df9ac",
+            "place_id": "ChIJpQ8ijTviSogRrPmNx4h_h0E",
+            "google_mid": "/g/11tk1wxm6z",
+            "phone_number": null,
+            "name": "THE TREASURE BIN",
+            "latitude": 38.9042169,
+            "longitude": -79.8450321,
+            "full_address": "THE TREASURE BIN, Pecan Dr, Elkins, WV 26241",
+            "review_count": 1,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Thu",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884ae23b8d220fa5:0x41877f88c78df9ac",
+            "cid": "4721882959761504684",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpQ8ijTviSogRrPmNx4h_h0E&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "117895658106849652708",
+            "owner_link": "https://maps.google.com/maps/contrib/117895658106849652708",
+            "owner_name": "THE TREASURE BIN",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "odOoFDRz83J1ERPvMh0-UQ",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=odOoFDRz83J1ERPvMh0-UQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=275.81528&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 38.9041834718166,
+                    "longitude": -79.84461032633622,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-24T00:00:00.000Z",
+                    "photo_timestamp": 1729728000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "Pecan Dr, Elkins, WV 26241",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "Pecan Dr",
+            "city": "Elkins",
+            "zipcode": "26241",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x89ca033bd1f1f5e5:0xc2c9a911ce9902ed",
+            "google_id": "0x89ca033bd1f1f5e5:0xc2c9a911ce9902ed",
+            "place_id": "ChIJ5fXx0TsDyokR7QKZzhGpycI",
+            "google_mid": "/g/11pz303b36",
+            "phone_number": "+13042405887",
+            "name": "Monster Dealz Inc",
+            "latitude": 39.454476,
+            "longitude": -77.9744896,
+            "full_address": "Monster Dealz Inc, 511 Cumberland Valley Pl, Martinsburg, WV 25401",
+            "review_count": 2,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "12\u20134 PM"
+                ]
+            },
+            "website": "http://www.monsterdealzinc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89ca033bd1f1f5e5:0xc2c9a911ce9902ed",
+            "cid": "14035935607622533869",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5fXx0TsDyokR7QKZzhGpycI&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "105620816835390258941",
+            "owner_link": "https://maps.google.com/maps/contrib/105620816835390258941",
+            "owner_name": "Monster Dealz Inc",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wholesaler",
+            "subtypes": [
+                "Wholesaler"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNQ1v_qxKghZgLjRvysH4kpfHx_1A5cz9vYMKe7",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNQ1v_qxKghZgLjRvysH4kpfHx_1A5cz9vYMKe7",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNQ1v_qxKghZgLjRvysH4kpfHx_1A5cz9vYMKe7=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.4544888,
+                    "longitude": -77.9741415,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-02-04T00:00:00.000Z",
+                    "photo_timestamp": 1675468800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "511 Cumberland Valley Pl, Martinsburg, WV 25401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "511 Cumberland Valley Pl",
+            "city": "Martinsburg",
+            "zipcode": "25401",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/MonsterDealzz",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884f5633b624b04d:0x46624ba65b74484b",
+            "google_id": "0x884f5633b624b04d:0x46624ba65b74484b",
+            "place_id": "ChIJTbAktjNWT4gRS0h0W6ZLYkY",
+            "google_mid": "/g/11hchswwdk",
+            "phone_number": "+13042180246",
+            "name": "Bargain Barn",
+            "latitude": 38.271730999999996,
+            "longitude": -82.20082099999999,
+            "full_address": "Bargain Barn, 5745 McClellan Hwy, Branchland, WV 25506",
+            "review_count": 3,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884f5633b624b04d:0x46624ba65b74484b",
+            "cid": "5071699308243601483",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTbAktjNWT4gRS0h0W6ZLYkY&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "102838041625228406761",
+            "owner_link": "https://maps.google.com/maps/contrib/102838041625228406761",
+            "owner_name": "Bargain Barn",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "6aqoYPe3UwB7QnVCUgjxfA",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6aqoYPe3UwB7QnVCUgjxfA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=306.3645&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 38.271603183080394,
+                    "longitude": -82.20059988731101,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    }
+                }
+            },
+            "address": "5745 McClellan Hwy, Branchland, WV 25506",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5745 McClellan Hwy",
+            "city": "Branchland",
+            "zipcode": "25506",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x8835e16593d1330b:0x97c93e494c97ddc0",
+            "google_id": "0x8835e16593d1330b:0x97c93e494c97ddc0",
+            "place_id": "ChIJCzPRk2XhNYgRwN2XTEk-yZc",
+            "google_mid": "/g/11s5h1pzjn",
+            "phone_number": "+13048104325",
+            "name": "Lucky Duck Discounters",
+            "latitude": 39.935679199999996,
+            "longitude": -80.75530409999999,
+            "full_address": "Lucky Duck Discounters, 1607 Wheeling Ave, Glen Dale, WV 26038",
+            "review_count": 22,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8835e16593d1330b:0x97c93e494c97ddc0",
+            "cid": "10937341654584516032",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCzPRk2XhNYgRwN2XTEk-yZc&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "100224472883408900048",
+            "owner_link": "https://maps.google.com/maps/contrib/100224472883408900048",
+            "owner_name": "Lucky Duck Discounters",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNOEoVs0G7r94NwHEbeqWhlAuQNYinzvTLGQydo",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNOEoVs0G7r94NwHEbeqWhlAuQNYinzvTLGQydo",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNOEoVs0G7r94NwHEbeqWhlAuQNYinzvTLGQydo=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.935840299999995,
+                    "longitude": -80.7540823,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-09-30T00:00:00.000Z",
+                    "photo_timestamp": 1664496000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1607 Wheeling Ave, Glen Dale, WV 26038",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1607 Wheeling Ave",
+            "city": "Glen Dale",
+            "zipcode": "26038",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884889544afe3375:0xc4f061cdbb8ff10",
+            "google_id": "0x884889544afe3375:0xc4f061cdbb8ff10",
+            "place_id": "ChIJdTP-SlSJSIgREP-42xwGTww",
+            "google_mid": "/g/11h1rw39w5",
+            "phone_number": "+13044446436",
+            "name": "The Bargain Hut",
+            "latitude": 39.0198737,
+            "longitude": -82.03186649999999,
+            "full_address": "The Bargain Hut, 1650 S 2nd St, Mason, WV 25260",
+            "review_count": 60,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20135 AM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20132 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884889544afe3375:0xc4f061cdbb8ff10",
+            "cid": "886934372630462224",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdTP-SlSJSIgREP-42xwGTww&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "114989370666404897136",
+            "owner_link": "https://maps.google.com/maps/contrib/114989370666404897136",
+            "owner_name": "The Bargain Hut",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Variety store",
+            "subtypes": [
+                "Variety store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO2lfq6vifns81pBX5tAUoPrn4pOuKy-9_jv0JA",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO2lfq6vifns81pBX5tAUoPrn4pOuKy-9_jv0JA",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO2lfq6vifns81pBX5tAUoPrn4pOuKy-9_jv0JA=w3000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.0199445,
+                    "longitude": -82.03193879999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-01-07T00:00:00.000Z",
+                    "photo_timestamp": 1641513600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1650 S 2nd St, Mason, WV 25260",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1650 S 2nd St",
+            "city": "Mason",
+            "zipcode": "25260",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "google_id": "0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "place_id": "ChIJh_C4GRTvtYkRgUylR38W1pA",
+            "google_mid": "/g/11sctptcrc",
+            "phone_number": null,
+            "name": "jackpot bins",
+            "latitude": 39.162798699999996,
+            "longitude": -78.1727403,
+            "full_address": "jackpot bins, 2012 S Loudoun St, Winchester, VA 22601",
+            "review_count": 56,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b5ef1419b8f087:0x90d6167f47a54c81",
+            "cid": "10436553922396376193",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh_C4GRTvtYkRgUylR38W1pA&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "108897718231750671746",
+            "owner_link": "https://maps.google.com/maps/contrib/108897718231750671746",
+            "owner_name": "jackpot bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN6sOnODzhGok800RE88sonsJxD_QOC6DvHhOhD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN6sOnODzhGok800RE88sonsJxD_QOC6DvHhOhD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN6sOnODzhGok800RE88sonsJxD_QOC6DvHhOhD=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.163063,
+                    "longitude": -78.1735633,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-07-08T00:00:00.000Z",
+                    "photo_timestamp": 1688774400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2012 S Loudoun St, Winchester, VA 22601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2012 S Loudoun St",
+            "city": "Winchester",
+            "zipcode": "22601",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884acb856cc7996f:0x931e35ce9857f1ee",
+            "google_id": "0x884acb856cc7996f:0x931e35ce9857f1ee",
+            "place_id": "ChIJb5nHbIXLSogR7vFXmM41HpM",
+            "google_mid": "/g/11hzzqcttf",
+            "phone_number": "+16814812688",
+            "name": "Louie\u2019s Bargain Warehouse",
+            "latitude": 39.129289899999996,
+            "longitude": -79.4665163,
+            "full_address": "Louie\u2019s Bargain Warehouse, 168 5th St, Davis, WV 26260",
+            "review_count": 14,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/Louies-Bargain-Warehouse-2334771083427644",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884acb856cc7996f:0x931e35ce9857f1ee",
+            "cid": "10600969734312161774",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb5nHbIXLSogR7vFXmM41HpM&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "102130315285853131812",
+            "owner_link": "https://maps.google.com/maps/contrib/102130315285853131812",
+            "owner_name": "Louie\u2019s Bargain Warehouse",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMqc8XMGD53DhxMGeu0TFwVYhguUSvct03Tato4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMqc8XMGD53DhxMGeu0TFwVYhguUSvct03Tato4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMqc8XMGD53DhxMGeu0TFwVYhguUSvct03Tato4=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.129232099999996,
+                    "longitude": -79.4668107,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-06-24T00:00:00.000Z",
+                    "photo_timestamp": 1656028800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "168 5th St, Davis, WV 26260",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "168 5th St",
+            "city": "Davis",
+            "zipcode": "26260",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x8835654a75e55971:0x2f30fc6124aeb293",
+            "google_id": "0x8835654a75e55971:0x2f30fc6124aeb293",
+            "place_id": "ChIJcVnldUplNYgRk7KuJGH8MC8",
+            "google_mid": "/g/11l77y3vfg",
+            "phone_number": "+13049432022",
+            "name": "Prime Discount LLC",
+            "latitude": 39.6702046,
+            "longitude": -79.9111806,
+            "full_address": "Prime Discount LLC, 1251 Canyon Rd Ste 2, Morgantown, WV 26508",
+            "review_count": 18,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20137 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "12\u20137 PM"
+                ],
+                "Wednesday": [
+                    "12\u20137 PM"
+                ],
+                "Thursday": [
+                    "12\u20137 PM"
+                ],
+                "Friday": [
+                    "12\u20137 PM"
+                ],
+                "Saturday": [
+                    "12\u20137 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/PrimeDiscountWV",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8835654a75e55971:0x2f30fc6124aeb293",
+            "cid": "3400495212822180499",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcVnldUplNYgRk7KuJGH8MC8&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "110583685299286700394",
+            "owner_link": "https://maps.google.com/maps/contrib/110583685299286700394",
+            "owner_name": "Prime Discount LLC",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOEAF5a97uoVhShPo-G7J97AJmwuLytBFWQmlAG",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOEAF5a97uoVhShPo-G7J97AJmwuLytBFWQmlAG",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOEAF5a97uoVhShPo-G7J97AJmwuLytBFWQmlAG=w1178-h1490-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.6703177,
+                    "longitude": -79.9111312,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-10-10T00:00:00.000Z",
+                    "photo_timestamp": 1728518400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": false,
+                        "Wheelchair accessible seating": false
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true,
+                        "Free street parking": true
+                    }
+                }
+            },
+            "address": "1251 Canyon Rd Ste 2, Morgantown, WV 26508",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1251 Canyon Rd Ste 2",
+            "city": "Morgantown",
+            "zipcode": "26508",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884e81933c061827:0x90a336167875a5ee",
+            "google_id": "0x884e81933c061827:0x90a336167875a5ee",
+            "place_id": "ChIJJxgGPJOBTogR7qV1eBY2o5A",
+            "google_mid": "/g/11hyb276xc",
+            "phone_number": "+16812077347",
+            "name": "Jack's Bargain Barn",
+            "latitude": 37.667637899999995,
+            "longitude": -80.8938172,
+            "full_address": "Jack's Bargain Barn, 206 Main St, Hinton, WV 25951",
+            "review_count": 170,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://m.facebook.com/JacksBargainBarn",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884e81933c061827:0x90a336167875a5ee",
+            "cid": "10422233432803616238",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJxgGPJOBTogR7qV1eBY2o5A&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "105678281571691366473",
+            "owner_link": "https://maps.google.com/maps/contrib/105678281571691366473",
+            "owner_name": "Jack's Bargain Barn",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPLBRM4Ro0stfzgp1jw4elWJ1SusRueoW671ou0",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPLBRM4Ro0stfzgp1jw4elWJ1SusRueoW671ou0",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPLBRM4Ro0stfzgp1jw4elWJ1SusRueoW671ou0=w4032-h1960-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.66747840000001,
+                    "longitude": -80.89399449999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-01T00:00:00.000Z",
+                    "photo_timestamp": 1596240000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "206 Main St, Hinton, WV 25951",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "206 Main St",
+            "city": "Hinton",
+            "zipcode": "25951",
+            "state": "West Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "google_id": "0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "place_id": "ChIJA6AZlWnBtokRvZkZjsFs1wM",
+            "google_mid": "/g/11h6t726x0",
+            "phone_number": null,
+            "name": "BIN CITY",
+            "latitude": 46.423669,
+            "longitude": -129.9427086,
+            "full_address": null,
+            "review_count": 49,
+            "rating": 3.9,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20137 PM"
+                ],
+                "Monday": [
+                    "12\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://m.facebook.com/BinCityUSA",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b6c1699519a003:0x3d76cc18e1999bd",
+            "cid": "276809480675105213",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA6AZlWnBtokRvZkZjsFs1wM&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "115228686235952794926",
+            "owner_link": "https://maps.google.com/maps/contrib/115228686235952794926",
+            "owner_name": "BIN CITY",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store",
+                "Appliance store",
+                "Camping store",
+                "Clothing store",
+                "Service establishment",
+                "Furniture store",
+                "Shoe store",
+                "Sporting goods store",
+                "Thrift store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOacaeCNmDf_34eMsghwr9YkCOfglGw5-S1_EKu=w1280-h720-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.25485038445636,
+                    "longitude": -77.48611663912713,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-06-11T00:00:00.000Z",
+                    "photo_timestamp": 1560211200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Payments": {
+                        "Debit cards": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": null,
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": null,
+            "city": null,
+            "zipcode": null,
+            "state": null,
+            "country": null,
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        },
+        {
+            "business_id": "0x884d95d492e8bf13:0x849b68c197da5835",
+            "google_id": "0x884d95d492e8bf13:0x849b68c197da5835",
+            "place_id": "ChIJE7_oktSVTYgRNVjal8Fom4Q",
+            "google_mid": "/g/11sw0gjwg9",
+            "phone_number": "+15403550859",
+            "name": "The Valley Overstock",
+            "latitude": 37.1804402,
+            "longitude": -80.41201269999999,
+            "full_address": "The Valley Overstock, 130 Jennelle Rd, Christiansburg, VA 24073",
+            "review_count": 57,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20131 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://thevalleyoverstock.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x884d95d492e8bf13:0x849b68c197da5835",
+            "cid": "9555346215082285109",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE7_oktSVTYgRNVjal8Fom4Q&q=bin+stores+in+west+virginia&authuser=0&hl=en&gl=US",
+            "owner_id": "110039977694425699764",
+            "owner_link": "https://maps.google.com/maps/contrib/110039977694425699764",
+            "owner_name": "The Valley Overstock",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPX32E6eL0bP8IPMrWYDBOWO34vz3GFni9Pb15Q",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPX32E6eL0bP8IPMrWYDBOWO34vz3GFni9Pb15Q",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPX32E6eL0bP8IPMrWYDBOWO34vz3GFni9Pb15Q=w5712-h4284-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 37.180244699999996,
+                    "longitude": -80.41194039999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-09-10T00:00:00.000Z",
+                    "photo_timestamp": 1725926400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "130 Jennelle Rd, Christiansburg, VA 24073",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "130 Jennelle Rd",
+            "city": "Christiansburg",
+            "zipcode": "24073",
+            "state": "Virginia",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/thevalleyoverstock",
+                "instagram": "https://www.instagram.com/thevalleyoverstock",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 28
+        }
+    ]
+}

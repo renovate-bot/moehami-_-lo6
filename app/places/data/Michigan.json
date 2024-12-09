@@ -1,0 +1,2285 @@
+{
+    "status": "OK",
+    "request_id": "77e4542f-a63d-420f-99ab-22beadb1af6a",
+    "parameters": {
+        "query": "bin stores in michigan",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x883b4d06d5c970af:0x8fc377b005ed6b19",
+            "google_id": "0x883b4d06d5c970af:0x8fc377b005ed6b19",
+            "place_id": "ChIJr3DJ1QZNO4gRGWvtBbB3w48",
+            "google_mid": "/g/11tmn24nhw",
+            "phone_number": "+17343316604",
+            "name": "Wild Bins",
+            "latitude": 42.333465499999996,
+            "longitude": -83.38750449999999,
+            "full_address": "Wild Bins, 6613 N Wayne Rd, Westland, MI 48185",
+            "review_count": 169,
+            "rating": 4.4,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.wildbins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b4d06d5c970af:0x8fc377b005ed6b19",
+            "cid": "10359255165779667737",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr3DJ1QZNO4gRGWvtBbB3w48&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "106494968921525416259",
+            "owner_link": "https://maps.google.com/maps/contrib/106494968921525416259",
+            "owner_name": "Wild Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator",
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN9d-_KU1Q5_8bwFYBtJDHu0LPySadv458r4YOL",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN9d-_KU1Q5_8bwFYBtJDHu0LPySadv458r4YOL",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN9d-_KU1Q5_8bwFYBtJDHu0LPySadv458r4YOL=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3333677,
+                    "longitude": -83.3874934,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-17T00:00:00.000Z",
+                    "photo_timestamp": 1673913600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 203,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true,
+                        "Wheelchair accessible seating": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "6613 N Wayne Rd, Westland, MI 48185",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "6613 N Wayne Rd",
+            "city": "Westland",
+            "zipcode": "48185",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "support@wildbins.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/wild.bins",
+                "instagram": "https://www.instagram.com/wildbinsliquidation",
+                "yelp": "https://www.yelp.com/biz/wild-bins-westland",
+                "tiktok": "https://www.tiktok.com/@wildbinsliquidation",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x8824b33be182ab75:0xa2c407213a7c9c33",
+            "google_id": "0x8824b33be182ab75:0xa2c407213a7c9c33",
+            "place_id": "ChIJdauC4TuzJIgRM5x8OiEHxKI",
+            "google_mid": "/g/11td4l74cj",
+            "phone_number": null,
+            "name": "The Honey Bins Company",
+            "latitude": 42.3680683,
+            "longitude": -83.4030681,
+            "full_address": "The Honey Bins Company, 36534 Plymouth Rd, Livonia, MI 48150",
+            "review_count": 175,
+            "rating": 4.3,
+            "timezone": "America/Detroit",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.honeybinsco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8824b33be182ab75:0xa2c407213a7c9c33",
+            "cid": "11728507168876174387",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdauC4TuzJIgRM5x8OiEHxKI&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "105024967308822307977",
+            "owner_link": "https://maps.google.com/maps/contrib/105024967308822307977",
+            "owner_name": "The Honey Bins Company",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNq91N0wVtANXpXXgyu9bgGVMHeNMg_K7QJZ7s-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNq91N0wVtANXpXXgyu9bgGVMHeNMg_K7QJZ7s-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNq91N0wVtANXpXXgyu9bgGVMHeNMg_K7QJZ7s-=w2214-h1660-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3676446,
+                    "longitude": -83.40304689999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-29T00:00:00.000Z",
+                    "photo_timestamp": 1672272000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 45,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "36534 Plymouth Rd, Livonia, MI 48150",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "36534 Plymouth Rd",
+            "city": "Livonia",
+            "zipcode": "48150",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@honeybinsco.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/the-honey-bins-livonia",
+                "tiktok": "https://www.tiktok.com/@honeybinsco",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x883b4dd714295dcb:0x58ef6c8375d38692",
+            "google_id": "0x883b4dd714295dcb:0x58ef6c8375d38692",
+            "place_id": "ChIJy10pFNdNO4gRkobTdYNs71g",
+            "google_mid": "/g/11trgg2cql",
+            "phone_number": "+17347950732",
+            "name": "Good Deal Bins",
+            "latitude": 42.353985099999996,
+            "longitude": -83.3536008,
+            "full_address": "Good Deal Bins, 31505 Joy Rd, Westland, MI 48185",
+            "review_count": 50,
+            "rating": 4.1,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.gooddealbins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b4dd714295dcb:0x58ef6c8375d38692",
+            "cid": "6408460106644817554",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy10pFNdNO4gRkobTdYNs71g&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "106610023180871566605",
+            "owner_link": "https://maps.google.com/maps/contrib/106610023180871566605",
+            "owner_name": "Good Deal Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPS--H8G_Qo5K8F1VnkFUFWSljDE88B81ieWMYY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPS--H8G_Qo5K8F1VnkFUFWSljDE88B81ieWMYY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPS--H8G_Qo5K8F1VnkFUFWSljDE88B81ieWMYY=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3540062,
+                    "longitude": -83.3532997,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-02-17T00:00:00.000Z",
+                    "photo_timestamp": 1676592000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 86,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "31505 Joy Rd, Westland, MI 48185",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "31505 Joy Rd",
+            "city": "Westland",
+            "zipcode": "48185",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/GoodDealBins22",
+                "instagram": "https://www.instagram.com/gooddealbins",
+                "yelp": "https://www.yelp.com/biz/good-deal-bins-westland",
+                "tiktok": "https://www.tiktok.com/@gooddealbins",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCCzeWJYWHwFfZmY9Qp6Ezcw",
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x88259d348b5ac037:0x842a73272143672c",
+            "google_id": "0x88259d348b5ac037:0x842a73272143672c",
+            "place_id": "ChIJN8BaizSdJYgRLGdDISdzKoQ",
+            "google_mid": "/g/11vjj34fy1",
+            "phone_number": "+18109375289",
+            "name": "Clark's liquidation & bins",
+            "latitude": 42.9755931,
+            "longitude": -82.43342369999999,
+            "full_address": "Clark's liquidation & bins, 1002 Lapeer Ave, Port Huron, MI 48060",
+            "review_count": 54,
+            "rating": 4.9,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "12\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88259d348b5ac037:0x842a73272143672c",
+            "cid": "9523550973927319340",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN8BaizSdJYgRLGdDISdzKoQ&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "118405276629454849836",
+            "owner_link": "https://maps.google.com/maps/contrib/118405276629454849836",
+            "owner_name": "Clark's liquidation & bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOz2o3xxM0gtX5NNArNKgm2Cr4VoRKpgQFTPe7f",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOz2o3xxM0gtX5NNArNKgm2Cr4VoRKpgQFTPe7f",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOz2o3xxM0gtX5NNArNKgm2Cr4VoRKpgQFTPe7f=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.975768699999996,
+                    "longitude": -82.4334619,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-01-04T00:00:00.000Z",
+                    "photo_timestamp": 1704326400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1002 Lapeer Ave, Port Huron, MI 48060",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1002 Lapeer Ave",
+            "city": "Port Huron",
+            "zipcode": "48060",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x4d3639141fad4311:0x155044a209763c28",
+            "google_id": "0x4d3639141fad4311:0x155044a209763c28",
+            "place_id": "ChIJEUOtHxQ5Nk0RKDx2CaJEUBU",
+            "google_mid": "/g/11f52kkklx",
+            "phone_number": "+19062590800",
+            "name": "BINS AHOY OVERSTOCK",
+            "latitude": 46.4773814,
+            "longitude": -84.3556318,
+            "full_address": "BINS AHOY OVERSTOCK, 2510 Ashmun St, Sault Ste. Marie, MI 49783",
+            "review_count": 295,
+            "rating": 4.1,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "http://www.bins-ahoy.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4d3639141fad4311:0x155044a209763c28",
+            "cid": "1535802935667473448",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEUOtHxQ5Nk0RKDx2CaJEUBU&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "116204560565012860164",
+            "owner_link": "https://maps.google.com/maps/contrib/116204560565012860164",
+            "owner_name": "BINS AHOY OVERSTOCK",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOHzfkmEW5jXCsOOwwICtqO12hKPFWKNHBgZw7l",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOHzfkmEW5jXCsOOwwICtqO12hKPFWKNHBgZw7l",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOHzfkmEW5jXCsOOwwICtqO12hKPFWKNHBgZw7l=w4000-h3000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.47738140863219,
+                    "longitude": -84.355631765036,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-07-06T00:00:00.000Z",
+                    "photo_timestamp": 1657065600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Amenities": {
+                        "Gender-neutral restroom": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "2510 Ashmun St, Sault Ste. Marie, MI 49783",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2510 Ashmun St",
+            "city": "Sault Ste. Marie",
+            "zipcode": "49783",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/binsahoy",
+                "instagram": "https://www.instagram.com/binsahoyoverstock",
+                "yelp": "https://www.yelp.com/biz/bins-ahoy-overstock-sault-ste-marie",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bins-ahoy",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x88178d8891a62d7f:0x61ba143762bda142",
+            "google_id": "0x88178d8891a62d7f:0x61ba143762bda142",
+            "place_id": "ChIJfy2mkYiNF4gRQqG9YjcUumE",
+            "google_mid": "/g/11tn6r9dzf",
+            "phone_number": "+12694570288",
+            "name": "Bin and Pallet Company - Augusta",
+            "latitude": 42.334697,
+            "longitude": -85.3520187,
+            "full_address": "Bin and Pallet Company - Augusta, 108 S Webster St, Augusta, MI 49012",
+            "review_count": 59,
+            "rating": 4.2,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "4\u20138 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.binandpalletco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88178d8891a62d7f:0x61ba143762bda142",
+            "cid": "7041963195459543362",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfy2mkYiNF4gRQqG9YjcUumE&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "108414505967393000294",
+            "owner_link": "https://maps.google.com/maps/contrib/108414505967393000294",
+            "owner_name": "Bin and Pallet Company - Augusta",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOOGbm6W-M8EOlHECgzVsfxrs5ThQPBlsb6ZvLx",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOOGbm6W-M8EOlHECgzVsfxrs5ThQPBlsb6ZvLx",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOOGbm6W-M8EOlHECgzVsfxrs5ThQPBlsb6ZvLx=w1284-h1713-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3346776,
+                    "longitude": -85.35180679999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-13T00:00:00.000Z",
+                    "photo_timestamp": 1673568000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "108 S Webster St, Augusta, MI 49012",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "108 S Webster St",
+            "city": "Augusta",
+            "zipcode": "49012",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "service@binandpalletco.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/binandpalletcoaugusta",
+                "instagram": "https://www.instagram.com/binandpalletcompany",
+                "yelp": "https://www.yelp.com/biz/bin-and-pallet-co-augusta-augusta",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bin-and-pallet-company",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x883b41a98f8096f1:0xb9bdc3a544dc6b2e",
+            "google_id": "0x883b41a98f8096f1:0xb9bdc3a544dc6b2e",
+            "place_id": "ChIJ8ZaAj6lBO4gRLmvcRKXDvbk",
+            "google_mid": "/g/11t_jdj0q3",
+            "phone_number": "+17347956595",
+            "name": "Downriver Liquidation Bin store",
+            "latitude": 42.118313099999995,
+            "longitude": -83.2801178,
+            "full_address": "Downriver Liquidation Bin store, 25740 Telegraph Rd, Brownstown Charter Twp, MI 48134",
+            "review_count": 26,
+            "rating": 4,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.downriverliquidationcenter.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b41a98f8096f1:0xb9bdc3a544dc6b2e",
+            "cid": "13384068782207298350",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8ZaAj6lBO4gRLmvcRKXDvbk&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "105261150488723098705",
+            "owner_link": "https://maps.google.com/maps/contrib/105261150488723098705",
+            "owner_name": "Downriver Liquidation Bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Furniture store",
+                "Kitchen furniture store",
+                "Liquidator",
+                "Sofa store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipODpvztsn3SqfM7Xte3ga2g8uBfIFm9e3eOcOM8",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipODpvztsn3SqfM7Xte3ga2g8uBfIFm9e3eOcOM8",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipODpvztsn3SqfM7Xte3ga2g8uBfIFm9e3eOcOM8=w1080-h1080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.1180671,
+                    "longitude": -83.2794464,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-06-05T00:00:00.000Z",
+                    "photo_timestamp": 1717545600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store shopping": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "25740 Telegraph Rd, Brownstown Charter Twp, MI 48134",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "25740 Telegraph Rd",
+            "city": "Brownstown Charter Twp",
+            "zipcode": "48134",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/downriverliquidationbinstore",
+                "instagram": "https://www.instagram.com/downriver_liquidation",
+                "yelp": "https://www.yelp.com/biz/downriver-liquidation-center-bin-store-brownstown-charter-township-5",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x882497bfe917ac91:0x7b7af6e34df5948c",
+            "google_id": "0x882497bfe917ac91:0x7b7af6e34df5948c",
+            "place_id": "ChIJkawX6b-XJIgRjJT1TeP2ens",
+            "google_mid": "/g/11kh_146k5",
+            "phone_number": null,
+            "name": "Bin Street Bin Store",
+            "latitude": 42.6950102,
+            "longitude": -83.3891215,
+            "full_address": "Bin Street Bin Store, 5100 Dixie Hwy Suite 300, Waterford Twp, MI 48329",
+            "review_count": 85,
+            "rating": 4.5,
+            "timezone": "America/Detroit",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20133 PM"
+                ]
+            },
+            "website": "http://binstreetbinstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882497bfe917ac91:0x7b7af6e34df5948c",
+            "cid": "8897695469949785228",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkawX6b-XJIgRjJT1TeP2ens&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "115825132551761536202",
+            "owner_link": "https://maps.google.com/maps/contrib/115825132551761536202",
+            "owner_name": "Bin Street Bin Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMZoZlermhIHmtC25aVpqMWtZ375Te59WZJmXY-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMZoZlermhIHmtC25aVpqMWtZ375Te59WZJmXY-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMZoZlermhIHmtC25aVpqMWtZ375Te59WZJmXY-=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.6945641,
+                    "longitude": -83.3896797,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-10-20T00:00:00.000Z",
+                    "photo_timestamp": 1697760000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 133,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5100 Dixie Hwy Suite 300, Waterford Twp, MI 48329",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5100 Dixie Hwy Suite 300",
+            "city": "Waterford Twp",
+            "zipcode": "48329",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "binstreetbinstore@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/binstreetbinstore",
+                "yelp": "https://www.yelp.com/biz/the-bin-store-troy",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCUrfxGvMBXhrUPZTkgca3YA",
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x883b37a55161c13f:0xb8e6c6a5e3722595",
+            "google_id": "0x883b37a55161c13f:0xb8e6c6a5e3722595",
+            "place_id": "ChIJP8FhUaU3O4gRlSVy46XG5rg",
+            "google_mid": "/g/11vdgvkfzk",
+            "phone_number": null,
+            "name": "Lucky Bins",
+            "latitude": 42.1982636,
+            "longitude": -83.1997023,
+            "full_address": "Lucky Bins, 14455 Eureka Rd, Southgate, MI 48195",
+            "review_count": 61,
+            "rating": 4.7,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b37a55161c13f:0xb8e6c6a5e3722595",
+            "cid": "13323554963410003349",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP8FhUaU3O4gRlSVy46XG5rg&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "107600601309437750701",
+            "owner_link": "https://maps.google.com/maps/contrib/107600601309437750701",
+            "owner_name": "Lucky Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNoRgeiSoIy-PC7k_IwtrLu1bccD0m_GhPIlvW2",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNoRgeiSoIy-PC7k_IwtrLu1bccD0m_GhPIlvW2",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNoRgeiSoIy-PC7k_IwtrLu1bccD0m_GhPIlvW2=w1080-h2340-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.1982686,
+                    "longitude": -83.1998021,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-10-08T00:00:00.000Z",
+                    "photo_timestamp": 1696723200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "14455 Eureka Rd, Southgate, MI 48195",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "14455 Eureka Rd",
+            "city": "Southgate",
+            "zipcode": "48195",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x8817f37144b23899:0x920a60978b38519b",
+            "google_id": "0x8817f37144b23899:0x920a60978b38519b",
+            "place_id": "ChIJmTiyRHHzF4gRm1E4i5dgCpI",
+            "google_mid": "/g/11plf5vbmz",
+            "phone_number": "+12697192157",
+            "name": "Bin and Pallet Company - Warehouse",
+            "latitude": 42.331528299999995,
+            "longitude": -85.21885759999999,
+            "full_address": "Bin and Pallet Company - Warehouse, 700 N 20th St, Springfield, MI 49037",
+            "review_count": 194,
+            "rating": 4.7,
+            "timezone": "America/Detroit",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134 PM"
+                ]
+            },
+            "website": "http://www.binandpalletco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8817f37144b23899:0x920a60978b38519b",
+            "cid": "10523329683296637339",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmTiyRHHzF4gRm1E4i5dgCpI&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "108343172140088639834",
+            "owner_link": "https://maps.google.com/maps/contrib/108343172140088639834",
+            "owner_name": "Bin and Pallet Company - Warehouse",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNZ33vmfmMsYqZE6P8Y5PLHXpVvFextlAcFRITd",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNZ33vmfmMsYqZE6P8Y5PLHXpVvFextlAcFRITd",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNZ33vmfmMsYqZE6P8Y5PLHXpVvFextlAcFRITd=w1080-h905-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3315774,
+                    "longitude": -85.2195618,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-12T00:00:00.000Z",
+                    "photo_timestamp": 1723420800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "700 N 20th St, Springfield, MI 49037",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "700 N 20th St",
+            "city": "Springfield",
+            "zipcode": "49037",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "service@binandpalletco.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/binandpalletcoaugusta",
+                "instagram": "https://www.instagram.com/binandpalletcompany",
+                "yelp": "https://www.yelp.com/biz/bin-and-pallet-co-augusta-augusta",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bin-and-pallet-company",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x8824cbedee187d51:0xe21b92ce2c4429f4",
+            "google_id": "0x8824cbedee187d51:0xe21b92ce2c4429f4",
+            "place_id": "ChIJUX0Y7u3LJIgR9ClELM6SG-I",
+            "google_mid": "/g/11vf29qljg",
+            "phone_number": "+13136355946",
+            "name": "BINZ and BEYOND",
+            "latitude": 42.3591251,
+            "longitude": -83.1992274,
+            "full_address": "BINZ and BEYOND, 15690 Joy Rd Suite C, Detroit, MI 48228",
+            "review_count": 58,
+            "rating": 4.6,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8824cbedee187d51:0xe21b92ce2c4429f4",
+            "cid": "16292777491146484212",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUX0Y7u3LJIgR9ClELM6SG-I&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "100490621188581564716",
+            "owner_link": "https://maps.google.com/maps/contrib/100490621188581564716",
+            "owner_name": "BINZ and BEYOND",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP44K66vHleMEg-U99mAWbgSp-CERnDBVeVJ5YN",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP44K66vHleMEg-U99mAWbgSp-CERnDBVeVJ5YN",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP44K66vHleMEg-U99mAWbgSp-CERnDBVeVJ5YN=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3591299,
+                    "longitude": -83.1988128,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-11-05T00:00:00.000Z",
+                    "photo_timestamp": 1699142400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "15690 Joy Rd Suite C, Detroit, MI 48228",
+            "order_link": null,
+            "price_level": null,
+            "district": "Joy Community",
+            "street_address": "15690 Joy Rd Suite C",
+            "city": "Detroit",
+            "zipcode": "48228",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x88251998747bce71:0x51f0c775b8d8ad21",
+            "google_id": "0x88251998747bce71:0x51f0c775b8d8ad21",
+            "place_id": "ChIJcc57dJgZJYgRIa3YuHXH8FE",
+            "google_mid": "/g/11kpy_yh74",
+            "phone_number": "+15866843092",
+            "name": "Lucky Finds",
+            "latitude": 42.6750293,
+            "longitude": -82.7516711,
+            "full_address": "Lucky Finds, 35252 23 Mile Rd, New Baltimore, MI 48047",
+            "review_count": 30,
+            "rating": 4.6,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.luckyfinds.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88251998747bce71:0x51f0c775b8d8ad21",
+            "cid": "5904438419909029153",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcc57dJgZJYgRIa3YuHXH8FE&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "117603999572655865935",
+            "owner_link": "https://maps.google.com/maps/contrib/117603999572655865935",
+            "owner_name": "Lucky Finds",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMjNqysvtLK_k-XmLAz4uiPQKmKHSWOxohfWj0S",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMjNqysvtLK_k-XmLAz4uiPQKmKHSWOxohfWj0S",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMjNqysvtLK_k-XmLAz4uiPQKmKHSWOxohfWj0S=w1440-h1440-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.6751216,
+                    "longitude": -82.7520686,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-01-09T00:00:00.000Z",
+                    "photo_timestamp": 1704758400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "35252 23 Mile Rd, New Baltimore, MI 48047",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "35252 23 Mile Rd",
+            "city": "New Baltimore",
+            "zipcode": "48047",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "5866843092"
+                ],
+                "facebook": "https://www.facebook.com/luckyfindsdotcom",
+                "instagram": "https://www.instagram.com/luckyfinds_bins",
+                "yelp": "https://www.yelp.com/biz/lucky-finds-new-baltimore",
+                "tiktok": "https://www.tiktok.com/@luckyfinds",
+                "snapchat": null,
+                "twitter": "https://twitter.com/LuckyFindsBaby",
+                "linkedin": "https://www.linkedin.com/in/lucky-finds-00b9a364",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x882497132c4d77e3:0x951702ce37506b41",
+            "google_id": "0x882497132c4d77e3:0x951702ce37506b41",
+            "place_id": "ChIJ43dNLBOXJIgRQWtQN84CF5U",
+            "google_mid": "/g/11ss5dzjmp",
+            "phone_number": null,
+            "name": "Bin Street LLc",
+            "latitude": 42.6950102,
+            "longitude": -83.3891215,
+            "full_address": "Bin Street LLc, 5100 Dixie Hwy Suite 300, Waterford Twp, MI 48329",
+            "review_count": 38,
+            "rating": 4.5,
+            "timezone": "America/Detroit",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20133 PM"
+                ]
+            },
+            "website": "http://binstreetbinstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882497132c4d77e3:0x951702ce37506b41",
+            "cid": "10743058520830143297",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ43dNLBOXJIgRQWtQN84CF5U&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "108206549033566438202",
+            "owner_link": "https://maps.google.com/maps/contrib/108206549033566438202",
+            "owner_name": "Bin Street LLc",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMi6Qi_Br6EZ1bSvdH6OXrpUCPukQOEJYtS6WII",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMi6Qi_Br6EZ1bSvdH6OXrpUCPukQOEJYtS6WII",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMi6Qi_Br6EZ1bSvdH6OXrpUCPukQOEJYtS6WII=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.6945641,
+                    "longitude": -83.3896797,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-09-30T00:00:00.000Z",
+                    "photo_timestamp": 1696032000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 49,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5100 Dixie Hwy Suite 300, Waterford Twp, MI 48329",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5100 Dixie Hwy Suite 300",
+            "city": "Waterford Twp",
+            "zipcode": "48329",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "binstreetbinstore@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/binstreetbinstore",
+                "yelp": "https://www.yelp.com/biz/the-bin-store-troy",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCUrfxGvMBXhrUPZTkgca3YA",
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x88179d3fa4037fc1:0xa26071c42727a1cd",
+            "google_id": "0x88179d3fa4037fc1:0xa26071c42727a1cd",
+            "place_id": "ChIJwX8DpD-dF4gRzaEnJ8RxYKI",
+            "google_mid": "/g/11ty2cd7z4",
+            "phone_number": "+12692548311",
+            "name": "big deal bin store",
+            "latitude": 42.245762,
+            "longitude": -85.588495,
+            "full_address": "big deal bin store, 4427 S Westnedge Ave, Kalamazoo, MI 49008",
+            "review_count": 21,
+            "rating": 3.1,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10:30 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10:30 AM\u20138 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88179d3fa4037fc1:0xa26071c42727a1cd",
+            "cid": "11700476919192986061",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwX8DpD-dF4gRzaEnJ8RxYKI&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "116743586385085425658",
+            "owner_link": "https://maps.google.com/maps/contrib/116743586385085425658",
+            "owner_name": "big deal bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOuHnecI8oJC9Gf3xioetoTpJvupmEgpjqvQqUV",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOuHnecI8oJC9Gf3xioetoTpJvupmEgpjqvQqUV",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOuHnecI8oJC9Gf3xioetoTpJvupmEgpjqvQqUV=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.245764099999995,
+                    "longitude": -85.5885807,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-09-21T00:00:00.000Z",
+                    "photo_timestamp": 1695254400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Payments": {
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "4427 S Westnedge Ave, Kalamazoo, MI 49008",
+            "order_link": null,
+            "price_level": null,
+            "district": "South Westnedge",
+            "street_address": "4427 S Westnedge Ave",
+            "city": "Kalamazoo",
+            "zipcode": "49008",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x88179f30da1606f1:0xc52ca115961b9f3c",
+            "google_id": "0x88179f30da1606f1:0xc52ca115961b9f3c",
+            "place_id": "ChIJ8QYW2jCfF4gRPJ8blhWhLMU",
+            "google_mid": "/g/11kpfmc_qn",
+            "phone_number": null,
+            "name": "Bin and Pallet Company - Portage",
+            "latitude": 42.1992611,
+            "longitude": -85.59143739999999,
+            "full_address": "Bin and Pallet Company - Portage, 271 W Centre Ave, Portage, MI 49024",
+            "review_count": 23,
+            "rating": 4.2,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20136 PM"
+                ]
+            },
+            "website": "http://www.binandpalletco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x88179f30da1606f1:0xc52ca115961b9f3c",
+            "cid": "14207908038531850044",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8QYW2jCfF4gRPJ8blhWhLMU&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "117050080471462052178",
+            "owner_link": "https://maps.google.com/maps/contrib/117050080471462052178",
+            "owner_name": "Bin and Pallet Company - Portage",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNq4gQwbR7TsBTNal7C8Fg1sv4-3-wILRVb7xJ3",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNq4gQwbR7TsBTNal7C8Fg1sv4-3-wILRVb7xJ3",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNq4gQwbR7TsBTNal7C8Fg1sv4-3-wILRVb7xJ3=w1080-h1440-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.1993776,
+                    "longitude": -85.5914188,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-15T00:00:00.000Z",
+                    "photo_timestamp": 1686787200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "271 W Centre Ave, Portage, MI 49024",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "271 W Centre Ave",
+            "city": "Portage",
+            "zipcode": "49024",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "service@binandpalletco.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/binandpalletcoaugusta",
+                "instagram": "https://www.instagram.com/binandpalletcompany",
+                "yelp": "https://www.yelp.com/biz/bin-and-pallet-co-augusta-augusta",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bin-and-pallet-company",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x8819ed66176e4fe3:0x7c6192414a500240",
+            "google_id": "0x8819ed66176e4fe3:0x7c6192414a500240",
+            "place_id": "ChIJ409uF2btGYgRQAJQSkGSYXw",
+            "google_mid": "/g/11sxwzzsxf",
+            "phone_number": null,
+            "name": "B2 Bargain Bins",
+            "latitude": 42.795508399999996,
+            "longitude": -86.0751842,
+            "full_address": "B2 Bargain Bins, 710 Chicago Dr #270, Holland, MI 49423",
+            "review_count": 27,
+            "rating": 4.1,
+            "timezone": "America/Detroit",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u201312 PM"
+                ]
+            },
+            "website": "http://www.b2outlets.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8819ed66176e4fe3:0x7c6192414a500240",
+            "cid": "8962605542561284672",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ409uF2btGYgRQAJQSkGSYXw&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "100435758175357496418",
+            "owner_link": "https://maps.google.com/maps/contrib/100435758175357496418",
+            "owner_name": "B2 Bargain Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNy-nHMNAAIG-SQ4b1n6nerqmmYGR69xpE6aVCu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNy-nHMNAAIG-SQ4b1n6nerqmmYGR69xpE6aVCu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNy-nHMNAAIG-SQ4b1n6nerqmmYGR69xpE6aVCu=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.795505899999995,
+                    "longitude": -86.07482309999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-07-21T00:00:00.000Z",
+                    "photo_timestamp": 1658361600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 255,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "710 Chicago Dr #270, Holland, MI 49423",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "710 Chicago Dr #270",
+            "city": "Holland",
+            "zipcode": "49423",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/b2outlets",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@b2outlets",
+                "snapchat": null,
+                "twitter": "https://twitter.com/b2outlets",
+                "linkedin": "https://www.linkedin.com/company/b2-outlet-store",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/b2outletstores"
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x883b3524fd2559e9:0x967f9dc411c3e020",
+            "google_id": "0x883b3524fd2559e9:0x967f9dc411c3e020",
+            "place_id": "ChIJ6Vkl_SQ1O4gRIODDEcSdf5Y",
+            "google_mid": "/g/11t_l_mxn6",
+            "phone_number": "+13136331971",
+            "name": "Daily Deals R Us",
+            "latitude": 42.324861899999995,
+            "longitude": -83.17551519999999,
+            "full_address": "Daily Deals R Us, 5094 Schaefer Rd, Dearborn, MI 48126",
+            "review_count": 38,
+            "rating": 4.7,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b3524fd2559e9:0x967f9dc411c3e020",
+            "cid": "10844559893168644128",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6Vkl_SQ1O4gRIODDEcSdf5Y&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "104283122241691163071",
+            "owner_link": "https://maps.google.com/maps/contrib/104283122241691163071",
+            "owner_name": "Daily Deals R Us",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Outlet store",
+            "subtypes": [
+                "Outlet store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMUvfG-Z4ezBAOqup6sBaNjEiZokHE5sUi4pkc",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMUvfG-Z4ezBAOqup6sBaNjEiZokHE5sUi4pkc",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMUvfG-Z4ezBAOqup6sBaNjEiZokHE5sUi4pkc=w4000-h2252-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.3248618798928,
+                    "longitude": -83.17551520060444,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-20T00:00:00.000Z",
+                    "photo_timestamp": 1687219200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5094 Schaefer Rd, Dearborn, MI 48126",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5094 Schaefer Rd",
+            "city": "Dearborn",
+            "zipcode": "48126",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x882497a7af7c67b9:0x49b8d857f4396f44",
+            "google_id": "0x882497a7af7c67b9:0x49b8d857f4396f44",
+            "place_id": "ChIJuWd8r6eXJIgRRG859FfYuEk",
+            "google_mid": "/g/11twpd_5jf",
+            "phone_number": "+18107621055",
+            "name": "Bin Street Liquidbidding",
+            "latitude": 42.6948966,
+            "longitude": -83.389665,
+            "full_address": "Bin Street Liquidbidding, 5100 Dixie Hwy, Waterford Twp, MI 48329",
+            "review_count": 63,
+            "rating": 4.2,
+            "timezone": "America/Detroit",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20133 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20133 PM"
+                ]
+            },
+            "website": "https://www.liquidbidding.com/,https://binstreetbinstore.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882497a7af7c67b9:0x49b8d857f4396f44",
+            "cid": "5312233632754659140",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuWd8r6eXJIgRRG859FfYuEk&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "108630371135864164667",
+            "owner_link": "https://maps.google.com/maps/contrib/108630371135864164667",
+            "owner_name": "Bin Street Liquidbidding",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Auction house",
+            "subtypes": [
+                "Auction house"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOD6jdMK1sv_-iXVre4uQtV7RDScXHTdRFp85j1",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOD6jdMK1sv_-iXVre4uQtV7RDScXHTdRFp85j1",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOD6jdMK1sv_-iXVre4uQtV7RDScXHTdRFp85j1=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.694601,
+                    "longitude": -83.38973419999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-09-30T00:00:00.000Z",
+                    "photo_timestamp": 1696032000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 53,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "5100 Dixie Hwy, Waterford Twp, MI 48329",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5100 Dixie Hwy",
+            "city": "Waterford Twp",
+            "zipcode": "48329",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x883b4b9c1122e0c5:0x68103cf20d02ebe5",
+            "google_id": "0x883b4b9c1122e0c5:0x68103cf20d02ebe5",
+            "place_id": "ChIJxeAiEZxLO4gR5esCDfI8EGg",
+            "google_mid": "/g/11shmzplv7",
+            "phone_number": "+13139147432",
+            "name": "Flash Bins",
+            "latitude": 42.2952879,
+            "longitude": -83.3058973,
+            "full_address": "Flash Bins, 27020 Michigan Ave, Inkster, MI 48141",
+            "review_count": 60,
+            "rating": 3.6,
+            "timezone": "America/Detroit",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://flashbinsmi.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x883b4b9c1122e0c5:0x68103cf20d02ebe5",
+            "cid": "7498560389869923301",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxeAiEZxLO4gR5esCDfI8EGg&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "115529363971012201451",
+            "owner_link": "https://maps.google.com/maps/contrib/115529363971012201451",
+            "owner_name": "Flash Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Outlet store",
+            "subtypes": [
+                "Outlet store",
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMOzB0eu9DQkJlAqlH3EvstLolHxWLMiUqL7rg2",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMOzB0eu9DQkJlAqlH3EvstLolHxWLMiUqL7rg2",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMOzB0eu9DQkJlAqlH3EvstLolHxWLMiUqL7rg2=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.2950182,
+                    "longitude": -83.30582439999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-27T00:00:00.000Z",
+                    "photo_timestamp": 1687824000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "27020 Michigan Ave, Inkster, MI 48141",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "27020 Michigan Ave",
+            "city": "Inkster",
+            "zipcode": "48141",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        },
+        {
+            "business_id": "0x8817c19da1d5ae19:0x58390b3a4b9aff61",
+            "google_id": "0x8817c19da1d5ae19:0x58390b3a4b9aff61",
+            "place_id": "ChIJGa7VoZ3BF4gRYf-aSzoLOVg",
+            "google_mid": "/g/11srs4jb2k",
+            "phone_number": "+12693031830",
+            "name": "Bin and Pallet Company - Athens",
+            "latitude": 42.0881457,
+            "longitude": -85.2357964,
+            "full_address": "Bin and Pallet Company - Athens, 106 S Capital Ave, Athens, MI 49011",
+            "review_count": 17,
+            "rating": 4.7,
+            "timezone": "America/Detroit",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "http://binandpalletco.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x8817c19da1d5ae19:0x58390b3a4b9aff61",
+            "cid": "6357124694014623585",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGa7VoZ3BF4gRYf-aSzoLOVg&q=bin+stores+in+michigan&authuser=0&hl=en&gl=US",
+            "owner_id": "106851925149124521447",
+            "owner_link": "https://maps.google.com/maps/contrib/106851925149124521447",
+            "owner_name": "Bin and Pallet Company - Athens",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPcroBRbgmT8w2frGJPaKTHlaqVRT5e_5NPp53-",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPcroBRbgmT8w2frGJPaKTHlaqVRT5e_5NPp53-",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPcroBRbgmT8w2frGJPaKTHlaqVRT5e_5NPp53-=w960-h720-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.088149,
+                    "longitude": -85.2355466,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-06-15T00:00:00.000Z",
+                    "photo_timestamp": 1686787200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "106 S Capital Ave, Athens, MI 49011",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "106 S Capital Ave",
+            "city": "Athens",
+            "zipcode": "49011",
+            "state": "Michigan",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "service@binandpalletco.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/binandpalletcoaugusta",
+                "instagram": "https://www.instagram.com/binandpalletcompany",
+                "yelp": "https://www.yelp.com/biz/bin-and-pallet-co-augusta-augusta",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/bin-and-pallet-company",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 196
+        }
+    ]
+}

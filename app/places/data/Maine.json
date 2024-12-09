@@ -1,0 +1,95 @@
+{
+    "status": "OK",
+    "request_id": "b09b13a3-103f-4f51-8b05-cde550c0c4f7",
+    "parameters": {
+        "query": "bin stores in maine",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x4cb299930a970ac9:0xe379d561d766512f",
+            "google_id": "0x4cb299930a970ac9:0xe379d561d766512f",
+            "place_id": "ChIJyQqXCpOZskwRL1Fm12HVeeM",
+            "google_mid": "/g/11t27r2my7",
+            "phone_number": null,
+            "name": "Buck Luck - the Bin Store",
+            "latitude": 43.5951752,
+            "longitude": -70.3260674,
+            "full_address": "Buck Luck - the Bin Store, 174 US-1, Scarborough, ME 04074",
+            "review_count": 33,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cb299930a970ac9:0xe379d561d766512f",
+            "cid": "16391366934993981743",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyQqXCpOZskwRL1Fm12HVeeM&q=bin+stores+in+maine&authuser=0&hl=en&gl=US",
+            "owner_id": "110853691163082032462",
+            "owner_link": "https://maps.google.com/maps/contrib/110853691163082032462",
+            "owner_name": "Buck Luck - the Bin Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "CLOSED_PERMANENTLY",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPpO6nDT6Ao5Fyf_6Wl5hwj0Z8VO0DBvSAT_f13",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPpO6nDT6Ao5Fyf_6Wl5hwj0Z8VO0DBvSAT_f13",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPpO6nDT6Ao5Fyf_6Wl5hwj0Z8VO0DBvSAT_f13=w1080-h1920-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.5953185,
+                    "longitude": -70.3258286,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-07-13T00:00:00.000Z",
+                    "photo_timestamp": 1689206400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 5,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    }
+                }
+            },
+            "address": "174 US-1, Scarborough, ME 04074",
+            "order_link": null,
+            "price_level": null,
+            "district": "Scarborough",
+            "street_address": "174 US-1",
+            "city": "Scarborough",
+            "zipcode": "04074",
+            "state": "Maine",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 0
+        }
+    ]
+}

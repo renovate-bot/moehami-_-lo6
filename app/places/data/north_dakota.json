@@ -1,0 +1,2457 @@
+{
+    "status": "OK",
+    "request_id": "8787bf5a-4099-4173-bbeb-bfed7d2497ff",
+    "parameters": {
+        "query": "bin stores in north_dakota",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x52d7833969d6af1b:0xd9452ddefa1d1702",
+            "google_id": "0x52d7833969d6af1b:0xd9452ddefa1d1702",
+            "place_id": "ChIJG6_WaTmD11IRAhcd-t4tRdk",
+            "google_mid": "/g/11hyf9w60d",
+            "phone_number": "+17014002666",
+            "name": "Ugly Box Retail",
+            "latitude": 46.805500099999996,
+            "longitude": -100.76676619999999,
+            "full_address": "Ugly Box Retail, 1620 E Main Ave, Bismarck, ND 58501",
+            "review_count": 115,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 4\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "12\u20136 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "https://uglyboxretail.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d7833969d6af1b:0xd9452ddefa1d1702",
+            "cid": "15655970115325597442",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG6_WaTmD11IRAhcd-t4tRdk&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "113253866345358132826",
+            "owner_link": "https://maps.google.com/maps/contrib/113253866345358132826",
+            "owner_name": "Ugly Box Retail",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPfENLZ8SW4OcuXZ4jUVBxMxpY2jbqXhUjeKuBE",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPfENLZ8SW4OcuXZ4jUVBxMxpY2jbqXhUjeKuBE",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPfENLZ8SW4OcuXZ4jUVBxMxpY2jbqXhUjeKuBE=w756-h1008-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.8054093,
+                    "longitude": -100.7664257,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-07-15T00:00:00.000Z",
+                    "photo_timestamp": 1594771200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1620 E Main Ave, Bismarck, ND 58501",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1620 E Main Ave",
+            "city": "Bismarck",
+            "zipcode": "58501",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "uglyboxretail@gmail.com"
+                ],
+                "phone_numbers": [
+                    "7014002666"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d7837abaae41bf:0x949997c27ed8a22e",
+            "google_id": "0x52d7837abaae41bf:0x949997c27ed8a22e",
+            "place_id": "ChIJv0GuunqD11IRLqLYfsKXmZQ",
+            "google_mid": "/g/11vm3_yrt9",
+            "phone_number": "+17019893240",
+            "name": "THE BIN DEN",
+            "latitude": 46.806441899999996,
+            "longitude": -100.7470079,
+            "full_address": "THE BIN DEN, 2910 E Broadway Ave # 18, Bismarck, ND 58501",
+            "review_count": 0,
+            "rating": null,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "12\u20137 PM"
+                ],
+                "Thursday": [
+                    "12\u20137 PM"
+                ],
+                "Friday": [
+                    "12\u20137 PM"
+                ],
+                "Saturday": [
+                    "12\u20137 PM"
+                ]
+            },
+            "website": "https://thebinden.store",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d7837abaae41bf:0x949997c27ed8a22e",
+            "cid": "10707756450657641006",
+            "reviews_link": null,
+            "owner_id": "106971048544648791654",
+            "owner_link": "https://maps.google.com/maps/contrib/106971048544648791654",
+            "owner_name": "THE BIN DEN",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPhvq2bkV0MiNJvC2mgfayrafawsVzK-Ys43fap",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPhvq2bkV0MiNJvC2mgfayrafawsVzK-Ys43fap",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPhvq2bkV0MiNJvC2mgfayrafawsVzK-Ys43fap=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.8062427,
+                    "longitude": -100.7470105,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-08-20T00:00:00.000Z",
+                    "photo_timestamp": 1724112000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true,
+                        "Free street parking": true
+                    }
+                }
+            },
+            "address": "2910 E Broadway Ave # 18, Bismarck, ND 58501",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2910 E Broadway Ave # 18",
+            "city": "Bismarck",
+            "zipcode": "58501",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "7019893240"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d78578d36e304b:0x25322a235a5fb7d9",
+            "google_id": "0x52d78578d36e304b:0x25322a235a5fb7d9",
+            "place_id": "ChIJSzBu03iF11IR2bdfWiMqMiU",
+            "google_mid": "/g/11svqfhv7s",
+            "phone_number": "+17017510330",
+            "name": "Piglet\u2019s Bargain Barn",
+            "latitude": 46.815033799999995,
+            "longitude": -100.8448075,
+            "full_address": "Piglet\u2019s Bargain Barn, 3613 Memorial Hwy, Mandan, ND 58554",
+            "review_count": 1,
+            "rating": 1,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135:30 PM"
+                ],
+                "Friday": [
+                    "10 PM\u201312 AM"
+                ],
+                "Saturday": [
+                    "12 AM\u20135 PM",
+                    "10 PM\u201312 AM"
+                ]
+            },
+            "website": "https://pigletsbargainbarn.square.site",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d78578d36e304b:0x25322a235a5fb7d9",
+            "cid": "2680251059567310809",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSzBu03iF11IR2bdfWiMqMiU&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "113672371973465540951",
+            "owner_link": "https://maps.google.com/maps/contrib/113672371973465540951",
+            "owner_name": "Piglet\u2019s Bargain Barn",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "QVyoeSoauPom_XgnfGpCNg",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QVyoeSoauPom_XgnfGpCNg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=210.88852&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 46.815345609057026,
+                    "longitude": -100.84453493776921,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "3613 Memorial Hwy, Mandan, ND 58554",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "3613 Memorial Hwy",
+            "city": "Mandan",
+            "zipcode": "58554",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "7841436173973",
+                    "2322380434374",
+                    "1804961077297"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/squarevibe.square.site",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d7824d0b36121b:0x675ea20c77c590c1",
+            "google_id": "0x52d7824d0b36121b:0x675ea20c77c590c1",
+            "place_id": "ChIJGxI2C02C11IRwZDFdwyiXmc",
+            "google_mid": "/g/1tmg66bb",
+            "phone_number": "+17012237979",
+            "name": "Dakota Boys and Girls Ranch Thrift Store",
+            "latitude": 46.8341086,
+            "longitude": -100.7709958,
+            "full_address": "Dakota Boys and Girls Ranch Thrift Store, 1335 E Interstate Ave, Bismarck, ND 58503",
+            "review_count": 144,
+            "rating": 4,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.dakotaranch.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d7824d0b36121b:0x675ea20c77c590c1",
+            "cid": "7448569008150122689",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGxI2C02C11IRwZDFdwyiXmc&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "114739567657583303913",
+            "owner_link": "https://maps.google.com/maps/contrib/114739567657583303913",
+            "owner_name": "Dakota Boys and Girls Ranch Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNkXe8ospbc1FdIkW6mqlsgW3O2HWuTq5OyGteE",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNkXe8ospbc1FdIkW6mqlsgW3O2HWuTq5OyGteE",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNkXe8ospbc1FdIkW6mqlsgW3O2HWuTq5OyGteE=w4679-h3119-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.8341947,
+                    "longitude": -100.77144229999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-05-12T00:00:00.000Z",
+                    "photo_timestamp": 1620777600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1335 E Interstate Ave, Bismarck, ND 58503",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1335 E Interstate Ave",
+            "city": "Bismarck",
+            "zipcode": "58503",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@dakotaranch.org",
+                    "admissions@dakotaranch.org"
+                ],
+                "phone_numbers": [
+                    "8005933098",
+                    "8003440957",
+                    "7018574211",
+                    "8002016495",
+                    "7012215323"
+                ],
+                "facebook": "https://www.facebook.com/dakotaranch1952",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/dakota-boys-and-girls-ranch-thrift-store-fargo",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/dakota-boys-and-girls-ranch",
+                "github": null,
+                "youtube": "https://www.youtube.com/user/DBGR1952",
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x532622a7f770ec49:0x206a8b43697428fb",
+            "google_id": "0x532622a7f770ec49:0x206a8b43697428fb",
+            "place_id": "ChIJSexw96ciJlMR-yh0aUOLaiA",
+            "google_mid": "/g/11cknp73wz",
+            "phone_number": "+17014563008",
+            "name": "ABLE Thrift Center",
+            "latitude": 46.893208,
+            "longitude": -102.79160999999999,
+            "full_address": "ABLE Thrift Center, 1173 3rd Ave W, Dickinson, ND 58601",
+            "review_count": 87,
+            "rating": 4.3,
+            "timezone": "America/Denver",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20133 PM"
+                ]
+            },
+            "website": "https://www.ableinc.net/our-businesses/able-inc-thrift-center.html",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x532622a7f770ec49:0x206a8b43697428fb",
+            "cid": "2335832478393313531",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSexw96ciJlMR-yh0aUOLaiA&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "113147445929012741440",
+            "owner_link": "https://maps.google.com/maps/contrib/113147445929012741440",
+            "owner_name": "ABLE Thrift Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMr-KizwUf3OY4ZUao7hGK6bIWwhPoUjeG2mCBe",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMr-KizwUf3OY4ZUao7hGK6bIWwhPoUjeG2mCBe",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMr-KizwUf3OY4ZUao7hGK6bIWwhPoUjeG2mCBe=w3264-h2448-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.89320800032333,
+                    "longitude": -102.791610036907,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-06-07T00:00:00.000Z",
+                    "photo_timestamp": 1528329600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "1173 3rd Ave W, Dickinson, ND 58601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1173 3rd Ave W",
+            "city": "Dickinson",
+            "zipcode": "58601",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x53263d5ebcec6451:0xd074691fcc0b346c",
+            "google_id": "0x53263d5ebcec6451:0xd074691fcc0b346c",
+            "place_id": "ChIJUWTsvF49JlMRbDQLzB9pdNA",
+            "google_mid": "/g/1vr1w93s",
+            "phone_number": "+17014831226",
+            "name": "Runnings",
+            "latitude": 46.9041808,
+            "longitude": -102.7920659,
+            "full_address": "Runnings, 2003 3rd Ave W, Dickinson, ND 58601",
+            "review_count": 735,
+            "rating": 4.4,
+            "timezone": "America/Denver",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "7:30 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "7:30 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "7:30 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "7:30 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "7:30 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "7:30 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.runnings.com/storelocator/store/dickinson",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x53263d5ebcec6451:0xd074691fcc0b346c",
+            "cid": "15020746242475635820",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUWTsvF49JlMRbDQLzB9pdNA&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "101199145393948475294",
+            "owner_link": "https://maps.google.com/maps/contrib/101199145393948475294",
+            "owner_name": "Runnings",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Clothing store",
+                "Department store",
+                "Gun shop",
+                "Hunting and fishing store",
+                "Pet supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipM8_4E5_6JdzvNmbm-ZdwS7n9b4Yft6QAGEeRdY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM8_4E5_6JdzvNmbm-ZdwS7n9b4Yft6QAGEeRdY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM8_4E5_6JdzvNmbm-ZdwS7n9b4Yft6QAGEeRdY=w500-h280-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.903835099999995,
+                    "longitude": -102.7919503,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-07T00:00:00.000Z",
+                    "photo_timestamp": 1596758400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 74,
+            "about": {
+                "summary": "Longtime chain retailer with a wide array of home & farm supplies & outdoor recreation equipment.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "2003 3rd Ave W, Dickinson, ND 58601",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2003 3rd Ave W",
+            "city": "Dickinson",
+            "zipcode": "58601",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52df2a3fc134ab47:0x57b68c46b2390632",
+            "google_id": "0x52df2a3fc134ab47:0x57b68c46b2390632",
+            "place_id": "ChIJR6s0wT8q31IRMgY5skaMtlc",
+            "google_mid": "/g/1tczdkhh",
+            "phone_number": "+17018520236",
+            "name": "Dakota Boys & Girls Ranch Thrift Store",
+            "latitude": 48.224078999999996,
+            "longitude": -101.296521,
+            "full_address": "Dakota Boys & Girls Ranch Thrift Store, 1206 S Broadway, Minot, ND 58701",
+            "review_count": 129,
+            "rating": 4.1,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.dakotaranch.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52df2a3fc134ab47:0x57b68c46b2390632",
+            "cid": "6320393362326750770",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR6s0wT8q31IRMgY5skaMtlc&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "109250979300327096572",
+            "owner_link": "https://maps.google.com/maps/contrib/109250979300327096572",
+            "owner_name": "Dakota Boys & Girls Ranch Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipONBTPjcfwShRpX-iSGy_OEJvwLctO7wTKPypyT",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipONBTPjcfwShRpX-iSGy_OEJvwLctO7wTKPypyT",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipONBTPjcfwShRpX-iSGy_OEJvwLctO7wTKPypyT=w4032-h2688-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 48.224214599999996,
+                    "longitude": -101.296414,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-05-12T00:00:00.000Z",
+                    "photo_timestamp": 1620777600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1206 S Broadway, Minot, ND 58701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1206 S Broadway",
+            "city": "Minot",
+            "zipcode": "58701",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@dakotaranch.org",
+                    "admissions@dakotaranch.org"
+                ],
+                "phone_numbers": [
+                    "8005933098",
+                    "8003440957",
+                    "7018574211",
+                    "8002016495",
+                    "7012215323"
+                ],
+                "facebook": "https://www.facebook.com/dakotaranch1952",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/dakota-boys-and-girls-ranch-thrift-store-fargo",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/dakota-boys-and-girls-ranch",
+                "github": null,
+                "youtube": "https://www.youtube.com/user/DBGR1952",
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d7848b3cd09389:0x1001ab5491e69b2d",
+            "google_id": "0x52d7848b3cd09389:0x1001ab5491e69b2d",
+            "place_id": "ChIJiZPQPIuE11IRLZvmkVSrARA",
+            "google_mid": "/g/1tgvd8v3",
+            "phone_number": "+17016634797",
+            "name": "Runnings",
+            "latitude": 46.8262127,
+            "longitude": -100.8970937,
+            "full_address": "Runnings, 504 W Main St, Mandan, ND 58554",
+            "review_count": 356,
+            "rating": 4.4,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.runnings.com/storelocator/store/mandan",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d7848b3cd09389:0x1001ab5491e69b2d",
+            "cid": "1153391359296969517",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJiZPQPIuE11IRLZvmkVSrARA&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "106883747934255317267",
+            "owner_link": "https://maps.google.com/maps/contrib/106883747934255317267",
+            "owner_name": "Runnings",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Clothing store",
+                "Department store",
+                "Gun shop",
+                "Hunting and fishing store",
+                "Pet supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOrXMHHOXiXVn6cBsvtyuxfrLgs_Of3Tw5wTvXT",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOrXMHHOXiXVn6cBsvtyuxfrLgs_Of3Tw5wTvXT",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOrXMHHOXiXVn6cBsvtyuxfrLgs_Of3Tw5wTvXT=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.82621268696247,
+                    "longitude": -100.89709371234198,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-02-02T00:00:00.000Z",
+                    "photo_timestamp": 1643760000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 73,
+            "about": {
+                "summary": "Longtime chain retailer with a wide array of home & farm supplies & outdoor recreation equipment.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "504 W Main St, Mandan, ND 58554",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "504 W Main St",
+            "city": "Mandan",
+            "zipcode": "58554",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52c8c9969b1af041:0x49eec3ac9f0cdc7f",
+            "google_id": "0x52c8c9969b1af041:0x49eec3ac9f0cdc7f",
+            "place_id": "ChIJQfAam5bJyFIRf9wMn6zD7kk",
+            "google_mid": "/g/11qp5x3xsc",
+            "phone_number": "+17013564061",
+            "name": "Dakota Boys and Girls Ranch Thrift Store",
+            "latitude": 46.9070763,
+            "longitude": -96.79741229999999,
+            "full_address": "Dakota Boys and Girls Ranch Thrift Store, 2101 N University Dr, Fargo, ND 58102",
+            "review_count": 40,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.dakotaranch.org/thrift-stores",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52c8c9969b1af041:0x49eec3ac9f0cdc7f",
+            "cid": "5327410555396086911",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQfAam5bJyFIRf9wMn6zD7kk&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "118238010446559804942",
+            "owner_link": "https://maps.google.com/maps/contrib/118238010446559804942",
+            "owner_name": "Dakota Boys and Girls Ranch Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMXnK_D5qZ20E5QR4LgQ9Tmd5Rjb7SOO7Ml2Uda",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMXnK_D5qZ20E5QR4LgQ9Tmd5Rjb7SOO7Ml2Uda",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMXnK_D5qZ20E5QR4LgQ9Tmd5Rjb7SOO7Ml2Uda=w4656-h2620-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.9068855,
+                    "longitude": -96.79730409999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-12-09T00:00:00.000Z",
+                    "photo_timestamp": 1639008000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2101 N University Dr, Fargo, ND 58102",
+            "order_link": null,
+            "price_level": null,
+            "district": "Northport",
+            "street_address": "2101 N University Dr",
+            "city": "Fargo",
+            "zipcode": "58102",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52cf33d6670bdecd:0xd2c055b70b190e51",
+            "google_id": "0x52cf33d6670bdecd:0xd2c055b70b190e51",
+            "place_id": "ChIJzd4LZ9Yzz1IRUQ4ZC7dVwNI",
+            "google_mid": "/g/11fklfjj_5",
+            "phone_number": "+17013564848",
+            "name": "Dakota Boys and Girls Ranch Thrift Store",
+            "latitude": 46.805268899999994,
+            "longitude": -96.875659,
+            "full_address": "Dakota Boys and Girls Ranch Thrift Store, 5289 51st Ave S, Fargo, ND 58104",
+            "review_count": 94,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://dakotaranch.org/thrift-stores",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52cf33d6670bdecd:0xd2c055b70b190e51",
+            "cid": "15186232188146880081",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzd4LZ9Yzz1IRUQ4ZC7dVwNI&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "111581927555115661937",
+            "owner_link": "https://maps.google.com/maps/contrib/111581927555115661937",
+            "owner_name": "Dakota Boys and Girls Ranch Thrift Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPckiYounTlCYO086xz1N03pW3Ai3xsoQwtC22o",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPckiYounTlCYO086xz1N03pW3Ai3xsoQwtC22o",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPckiYounTlCYO086xz1N03pW3Ai3xsoQwtC22o=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.805234899999995,
+                    "longitude": -96.8758567,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-02-27T00:00:00.000Z",
+                    "photo_timestamp": 1708992000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5289 51st Ave S, Fargo, ND 58104",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5289 51st Ave S",
+            "city": "Fargo",
+            "zipcode": "58104",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52dc330a3f415fad:0xe04cf9c891242f6a",
+            "google_id": "0x52dc330a3f415fad:0xe04cf9c891242f6a",
+            "place_id": "ChIJrV9BPwoz3FIRai8kkcj5TOA",
+            "google_mid": "/g/11ll2mlgtx",
+            "phone_number": "+17019975621",
+            "name": "Runnings",
+            "latitude": 48.821893599999996,
+            "longitude": -100.4283265,
+            "full_address": "Runnings, 1103 11th St E, Bottineau, ND 58318",
+            "review_count": 82,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.runnings.com/storelocator/store/bottineau",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52dc330a3f415fad:0xe04cf9c891242f6a",
+            "cid": "16162567802549710698",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrV9BPwoz3FIRai8kkcj5TOA&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "112573668902265399045",
+            "owner_link": "https://maps.google.com/maps/contrib/112573668902265399045",
+            "owner_name": "Runnings",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Clothing store",
+                "Department store",
+                "Gun shop",
+                "Hunting and fishing store",
+                "Pet supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPRLhQAK0rOJer0cTOros-0UzBXIpbBxfEzdhoe",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPRLhQAK0rOJer0cTOros-0UzBXIpbBxfEzdhoe",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPRLhQAK0rOJer0cTOros-0UzBXIpbBxfEzdhoe=w640-h480-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 48.8218149,
+                    "longitude": -100.42832489999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-08-22T00:00:00.000Z",
+                    "photo_timestamp": 1629590400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Longtime chain retailer with a wide array of home & farm supplies & outdoor recreation equipment.",
+                "details": {
+                    "Service options": {
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "1103 11th St E, Bottineau, ND 58318",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1103 11th St E",
+            "city": "Bottineau",
+            "zipcode": "58318",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52c8ccfb549f40b1:0xae48ee7e4c737691",
+            "google_id": "0x52c8ccfb549f40b1:0xae48ee7e4c737691",
+            "place_id": "ChIJsUCfVPvMyFIRkXZzTH7uSK4",
+            "google_mid": "/g/1td7btcz",
+            "phone_number": "+17012987700",
+            "name": "Fleet Farm",
+            "latitude": 46.822581299999996,
+            "longitude": -96.83511329999999,
+            "full_address": "Fleet Farm, 3730 36th St S, Fargo, ND 58104",
+            "review_count": 4799,
+            "rating": 4.4,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "8 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "7 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.fleetfarm.com/visit-stores/fargo-nd",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52c8ccfb549f40b1:0xae48ee7e4c737691",
+            "cid": "12558549787138553489",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsUCfVPvMyFIRkXZzTH7uSK4&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "115537072554387911775",
+            "owner_link": "https://maps.google.com/maps/contrib/115537072554387911775",
+            "owner_name": "Fleet Farm",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Department store",
+            "subtypes": [
+                "Department store",
+                "Clothing store",
+                "Farm equipment supplier",
+                "Garden center",
+                "Gun shop",
+                "Hunting and fishing store",
+                "Pet supply store",
+                "Sporting goods store",
+                "Tire shop",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNBFRn6PzI6wi8yF1Ep1gDyHLGFol7VjWUbgJ4M",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNBFRn6PzI6wi8yF1Ep1gDyHLGFol7VjWUbgJ4M",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNBFRn6PzI6wi8yF1Ep1gDyHLGFol7VjWUbgJ4M=w2268-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.822526499999995,
+                    "longitude": -96.8358423,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-04-19T00:00:00.000Z",
+                    "photo_timestamp": 1681862400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 555,
+            "about": {
+                "summary": "Retailer with a range of merchandise, including fishing gear, housewares & automotive parts.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true,
+                        "Wheelchair accessible restroom": true
+                    },
+                    "Offerings": {
+                        "Repair services": true
+                    },
+                    "Amenities": {
+                        "Restroom": true,
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Batteries": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    },
+                    "Parking": {
+                        "On-site parking": true
+                    }
+                }
+            },
+            "address": "3730 36th St S, Fargo, ND 58104",
+            "order_link": null,
+            "price_level": null,
+            "district": "Stonebridge",
+            "street_address": "3730 36th St S",
+            "city": "Fargo",
+            "zipcode": "58104",
+            "state": "North Dakota",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x52c8cd82b1dbd15b:0x13a271714960d877",
+                "name": "Fleet Farm Auto Service Center"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d78343e9c77bdf:0x3364cec0fc1d0bf3",
+            "google_id": "0x52d78343e9c77bdf:0x3364cec0fc1d0bf3",
+            "place_id": "ChIJ33vH6UOD11IR8wsd_MDOZDM",
+            "google_mid": "/g/1tdd9hmw",
+            "phone_number": "+17012239582",
+            "name": "Runnings",
+            "latitude": 46.7992397,
+            "longitude": -100.7926119,
+            "full_address": "Runnings, 701 S Washington St, Bismarck, ND 58504",
+            "review_count": 756,
+            "rating": 4.5,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.runnings.com/storelocator/store/bismarck",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d78343e9c77bdf:0x3364cec0fc1d0bf3",
+            "cid": "3703312121864195059",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ33vH6UOD11IR8wsd_MDOZDM&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "111476072378279711791",
+            "owner_link": "https://maps.google.com/maps/contrib/111476072378279711791",
+            "owner_name": "Runnings",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Clothing store",
+                "Department store",
+                "Gun shop",
+                "Hunting and fishing store",
+                "Pet supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNoBTZB1I78j1zzp5aiajsmSKcQaXPepAGtB8Sw",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNoBTZB1I78j1zzp5aiajsmSKcQaXPepAGtB8Sw",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNoBTZB1I78j1zzp5aiajsmSKcQaXPepAGtB8Sw=w500-h280-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.79874960000001,
+                    "longitude": -100.7920274,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-07T00:00:00.000Z",
+                    "photo_timestamp": 1596758400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 105,
+            "about": {
+                "summary": "Longtime chain retailer with a wide array of home & farm supplies & outdoor recreation equipment.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "701 S Washington St, Bismarck, ND 58504",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "701 S Washington St",
+            "city": "Bismarck",
+            "zipcode": "58504",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52dbc8e002e4d0a3:0x3de694e6f78f47c9",
+            "google_id": "0x52dbc8e002e4d0a3:0x3de694e6f78f47c9",
+            "place_id": "ChIJo9DkAuDI21IRyUeP9-aU5j0",
+            "google_mid": "/g/1thr6txj",
+            "phone_number": "+17013242219",
+            "name": "Harvey Hometown Variety",
+            "latitude": 47.7691192,
+            "longitude": -99.9362258,
+            "full_address": "Harvey Hometown Variety, 914 Lincoln Ave, Harvey, ND 58341",
+            "review_count": 28,
+            "rating": 4.6,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52dbc8e002e4d0a3:0x3de694e6f78f47c9",
+            "cid": "4460416200673806281",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo9DkAuDI21IRyUeP9-aU5j0&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "108700397742456164023",
+            "owner_link": "https://maps.google.com/maps/contrib/108700397742456164023",
+            "owner_name": "Harvey Hometown Variety",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Variety store",
+            "subtypes": [
+                "Variety store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNFRcAnnGxXNeCJXXH7kLqRfBgDnS3DFTGZ5091",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNFRcAnnGxXNeCJXXH7kLqRfBgDnS3DFTGZ5091",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNFRcAnnGxXNeCJXXH7kLqRfBgDnS3DFTGZ5091=w1920-h1440-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 47.769004599999995,
+                    "longitude": -99.9360633,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-08-26T00:00:00.000Z",
+                    "photo_timestamp": 1566777600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "914 Lincoln Ave, Harvey, ND 58341",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "914 Lincoln Ave",
+            "city": "Harvey",
+            "zipcode": "58341",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52ce2521e8f46da3:0xa135cf78857f74cc",
+            "google_id": "0x52ce2521e8f46da3:0xa135cf78857f74cc",
+            "place_id": "ChIJo2306CElzlIRzHR_hXjPNaE",
+            "google_mid": "/g/11lr65l5cl",
+            "phone_number": null,
+            "name": "Reclaimed Wood of North Dakota",
+            "latitude": 46.3647229,
+            "longitude": -98.07315469999999,
+            "full_address": "Reclaimed Wood of North Dakota, 213 3rd St, Verona, ND 58490",
+            "review_count": 1,
+            "rating": 5,
+            "timezone": "America/Chicago",
+            "opening_status": null,
+            "working_hours": null,
+            "website": "http://www.reclaimedwoodofnorthdakota.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52ce2521e8f46da3:0xa135cf78857f74cc",
+            "cid": "11616418930414810316",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo2306CElzlIRzHR_hXjPNaE&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "101970084684705796652",
+            "owner_link": "https://maps.google.com/maps/contrib/101970084684705796652",
+            "owner_name": "Reclaimed Wood of North Dakota",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Furniture repair shop",
+                "Rustic furniture store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOcJiYybE7s7fhWeOe4QfSYK9pPrN11z_GDI6W5",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOcJiYybE7s7fhWeOe4QfSYK9pPrN11z_GDI6W5",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOcJiYybE7s7fhWeOe4QfSYK9pPrN11z_GDI6W5=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.3647244,
+                    "longitude": -98.07352279999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-11-08T00:00:00.000Z",
+                    "photo_timestamp": 1604793600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as veteran-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store shopping": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true,
+                        "Repair services": true
+                    },
+                    "Planning": {
+                        "Appointment required": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "213 3rd St, Verona, ND 58490",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "213 3rd St",
+            "city": "Verona",
+            "zipcode": "58490",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "jeffw@reclaimedwoodofnorthdakota.com"
+                ],
+                "phone_numbers": [
+                    "7014325618"
+                ],
+                "facebook": "https://www.facebook.com/ReclaimedWoodND",
+                "instagram": "https://www.instagram.com/reclaimedwoodnd",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/reclaimedwoodnd"
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52c8cbaa9b7231ad:0x7d56221677c6c1ef",
+            "google_id": "0x52c8cbaa9b7231ad:0x7d56221677c6c1ef",
+            "place_id": "ChIJrTFym6rLyFIR78HGdxYiVn0",
+            "google_mid": "/g/1v3hzmxl",
+            "phone_number": "+18004724643",
+            "name": "Grainger Industrial Supply",
+            "latitude": 46.8910443,
+            "longitude": -96.84400029999999,
+            "full_address": "Grainger Industrial Supply, 3825 12th Ave N, Fargo, ND 58102",
+            "review_count": 11,
+            "rating": 4.1,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 7:30\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "7:30 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "7:30 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "7:30 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "7:30 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "7:30 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "https://www.grainger.com/branch/Fargo-Branch-280",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52c8cbaa9b7231ad:0x7d56221677c6c1ef",
+            "cid": "9031443582632247791",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrTFym6rLyFIR78HGdxYiVn0&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "115939809547853487402",
+            "owner_link": "https://maps.google.com/maps/contrib/115939809547853487402",
+            "owner_name": "Grainger Industrial Supply",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Tool store",
+            "subtypes": [
+                "Tool store",
+                "Abrasives supplier",
+                "Electric motor store",
+                "Electrical supply store",
+                "Hydraulic equipment supplier",
+                "Industrial equipment supplier",
+                "Janitorial equipment supplier",
+                "Material handling equipment supplier",
+                "Plumbing supply store",
+                "Safety equipment supplier"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOjwnfnJwPLXf2mRJh4BXMFZfd_jdr3kmSYauCQ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOjwnfnJwPLXf2mRJh4BXMFZfd_jdr3kmSYauCQ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOjwnfnJwPLXf2mRJh4BXMFZfd_jdr3kmSYauCQ=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.890919499999995,
+                    "longitude": -96.843858,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-02-16T00:00:00.000Z",
+                    "photo_timestamp": 1518739200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Chain offering a broad range of industrial equipment, maintenance supplies, tools & parts.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Service guarantee": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "3825 12th Ave N, Fargo, ND 58102",
+            "order_link": null,
+            "price_level": "$$",
+            "district": null,
+            "street_address": "3825 12th Ave N",
+            "city": "Fargo",
+            "zipcode": "58102",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52d6e4311b976c4b:0x9768243f3c887128",
+            "google_id": "0x52d6e4311b976c4b:0x9768243f3c887128",
+            "place_id": "ChIJS2yXGzHk1lIRKHGIPD8kaJc",
+            "google_mid": "/g/1tfnsnl4",
+            "phone_number": "+17012544200",
+            "name": "Nodak Ranch And Home Supply True Value",
+            "latitude": 46.2588825,
+            "longitude": -100.2318935,
+            "full_address": "Nodak Ranch And Home Supply True Value, 8030 US-83 East, Linton, ND 58552",
+            "review_count": 26,
+            "rating": 4.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 8\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8 AM\u20135:30 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20135:30 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20135:30 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20135:30 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20135:30 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20132 PM"
+                ]
+            },
+            "website": "https://stores.truevalue.com/nd/linton/19047",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52d6e4311b976c4b:0x9768243f3c887128",
+            "cid": "10910009951322140968",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS2yXGzHk1lIRKHGIPD8kaJc&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "104393776194496910574",
+            "owner_link": "https://maps.google.com/maps/contrib/104393776194496910574",
+            "owner_name": "Nodak Ranch And Home Supply True Value",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Hardware store",
+            "subtypes": [
+                "Hardware store",
+                "Do-it-yourself shop",
+                "Garden center",
+                "Home improvement store",
+                "Paint store",
+                "Plumbing supply store",
+                "Propane supplier",
+                "Tool rental service",
+                "Tool repair shop",
+                "Tool store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNSDCMDXSHoJEnSndNzKVfkiiYDkO4NCLfaj968",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNSDCMDXSHoJEnSndNzKVfkiiYDkO4NCLfaj968",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNSDCMDXSHoJEnSndNzKVfkiiYDkO4NCLfaj968=w8192-h4096-k-no-pi-0-ya18.999992-ro-0-fo100",
+                    "video_thumbnail_url": null,
+                    "latitude": 46.258731128373725,
+                    "longitude": -100.23168575076915,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2017-07-07T00:00:00.000Z",
+                    "photo_timestamp": 1499385600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Service guarantee": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "8030 US-83 East, Linton, ND 58552",
+            "order_link": null,
+            "price_level": "$$",
+            "district": null,
+            "street_address": "8030 US-83 East",
+            "city": "Linton",
+            "zipcode": "58552",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52df2bf0e88a5c3b:0x3fdba6e3520ec724",
+            "google_id": "0x52df2bf0e88a5c3b:0x3fdba6e3520ec724",
+            "place_id": "ChIJO1yK6PAr31IRJMcOUuOm2z8",
+            "google_mid": "/g/11hy_znh5y",
+            "phone_number": "+19072310558",
+            "name": "4R Home Thrift",
+            "latitude": 48.257696499999994,
+            "longitude": -101.2972401,
+            "full_address": "4R Home Thrift, 2031 N Broadway, Minot, ND 58703",
+            "review_count": 62,
+            "rating": 4.9,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "https://4rhomethrift.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52df2bf0e88a5c3b:0x3fdba6e3520ec724",
+            "cid": "4601454939553580836",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO1yK6PAr31IRJMcOUuOm2z8&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "100877713678856474101",
+            "owner_link": "https://maps.google.com/maps/contrib/100877713678856474101",
+            "owner_name": "4R Home Thrift",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP86jinc9xLszxeoq5yiRF1hoP6rfkKSvkT3XY",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP86jinc9xLszxeoq5yiRF1hoP6rfkKSvkT3XY",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP86jinc9xLszxeoq5yiRF1hoP6rfkKSvkT3XY=w4000-h1868-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 48.25791160000001,
+                    "longitude": -101.2965936,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-06-06T00:00:00.000Z",
+                    "photo_timestamp": 1717632000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as veteran-owned": true,
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2031 N Broadway, Minot, ND 58703",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2031 N Broadway",
+            "city": "Minot",
+            "zipcode": "58703",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "4rhomethrift@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9072310558"
+                ],
+                "facebook": "https://www.facebook.com/4rhomethrift",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x52daeda7a4ea955f:0x90c253260567564f",
+            "google_id": "0x52daeda7a4ea955f:0x90c253260567564f",
+            "place_id": "ChIJX5XqpKft2lIRT1ZnBSZTwpA",
+            "google_mid": "/g/1tlc_v78",
+            "phone_number": "+17019975900",
+            "name": "Runnings",
+            "latitude": 47.4418104,
+            "longitude": -99.119413,
+            "full_address": "Runnings, 720 4th Ave S, Carrington, ND 58421",
+            "review_count": 108,
+            "rating": 4.5,
+            "timezone": "America/Chicago",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.runnings.com/storelocator/store/carrington",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x52daeda7a4ea955f:0x90c253260567564f",
+            "cid": "10430991109708011087",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJX5XqpKft2lIRT1ZnBSZTwpA&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "101900320814493966666",
+            "owner_link": "https://maps.google.com/maps/contrib/101900320814493966666",
+            "owner_name": "Runnings",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store",
+                "Clothing store",
+                "Department store",
+                "Hunting and fishing store",
+                "Pet supply store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNmFpyxIjSKko10nV4Kz40n1cJSyRDmCSgPqLxN",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNmFpyxIjSKko10nV4Kz40n1cJSyRDmCSgPqLxN",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNmFpyxIjSKko10nV4Kz40n1cJSyRDmCSgPqLxN=w500-h280-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 47.4428294,
+                    "longitude": -99.1190625,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-07T00:00:00.000Z",
+                    "photo_timestamp": 1596758400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 62,
+            "about": {
+                "summary": "Longtime chain retailer with a wide array of home & farm supplies & outdoor recreation equipment.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    }
+                }
+            },
+            "address": "720 4th Ave S, Carrington, ND 58421",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "720 4th Ave S",
+            "city": "Carrington",
+            "zipcode": "58421",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        },
+        {
+            "business_id": "0x53215b610231550d:0x5ea996d370e7a1a7",
+            "google_id": "0x53215b610231550d:0x5ea996d370e7a1a7",
+            "place_id": "ChIJDVUxAmFbIVMRp6HncNOWqV4",
+            "google_mid": "/g/1tg5bs40",
+            "phone_number": "+17017743670",
+            "name": "Wise Penny",
+            "latitude": 48.1462199,
+            "longitude": -103.62421769999999,
+            "full_address": "Wise Penny, 115 W Broadway, Williston, ND 58801",
+            "review_count": 99,
+            "rating": 4.3,
+            "timezone": "America/Chicago",
+            "opening_status": "Closed \u22c5 Opens 8\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "8 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20132 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x53215b610231550d:0x5ea996d370e7a1a7",
+            "cid": "6821148945505821095",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDVUxAmFbIVMRp6HncNOWqV4&q=bin+stores+in+north_dakota&authuser=0&hl=en&gl=US",
+            "owner_id": "106461951993749788789",
+            "owner_link": "https://maps.google.com/maps/contrib/106461951993749788789",
+            "owner_name": "Wise Penny",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNYslivmHrM8pRVvaq8_Sy6NR8dNJxjbyylRHCa",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNYslivmHrM8pRVvaq8_Sy6NR8dNJxjbyylRHCa",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNYslivmHrM8pRVvaq8_Sy6NR8dNJxjbyylRHCa=w1836-h4080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 48.1463534,
+                    "longitude": -103.6242187,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-04-14T00:00:00.000Z",
+                    "photo_timestamp": 1713052800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "115 W Broadway, Williston, ND 58801",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "115 W Broadway",
+            "city": "Williston",
+            "zipcode": "58801",
+            "state": "North Dakota",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 98
+        }
+    ]
+}

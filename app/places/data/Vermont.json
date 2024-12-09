@@ -1,0 +1,2240 @@
+{
+    "status": "OK",
+    "request_id": "e2b06af3-7eac-492c-8ca1-6a19516350fc",
+    "parameters": {
+        "query": "bin stores in vermont",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "data": [
+        {
+            "business_id": "0x4cca79e77904e6db:0x630af6450f30f249",
+            "google_id": "0x4cca79e77904e6db:0x630af6450f30f249",
+            "place_id": "ChIJ2-YEeed5ykwRSfIwD0X2CmM",
+            "google_mid": "/g/11hzts8lwx",
+            "phone_number": "+18028642944",
+            "name": "Vermont Discount Store",
+            "latitude": 44.458027099999995,
+            "longitude": -73.1277101,
+            "full_address": "Vermont Discount Store, 57 Munson Way, Williston, VT 05495",
+            "review_count": 332,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://vermontdiscountstore.com",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca79e77904e6db:0x630af6450f30f249",
+            "cid": "7136787335990014537",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2-YEeed5ykwRSfIwD0X2CmM&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "102835780280608843567",
+            "owner_link": "https://maps.google.com/maps/contrib/102835780280608843567",
+            "owner_name": "Vermont Discount Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNFIfj8Ohfpi29ApmqPyiIAdaeN0tWwrPTbYKIJ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNFIfj8Ohfpi29ApmqPyiIAdaeN0tWwrPTbYKIJ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNFIfj8Ohfpi29ApmqPyiIAdaeN0tWwrPTbYKIJ=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.4578426,
+                    "longitude": -73.12752619999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-05-18T00:00:00.000Z",
+                    "photo_timestamp": 1495065600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "57 Munson Way, Williston, VT 05495",
+            "order_link": null,
+            "price_level": null,
+            "district": "Williston North",
+            "street_address": "57 Munson Way",
+            "city": "Williston",
+            "zipcode": "05495",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "0570180277360"
+                ],
+                "facebook": "https://www.facebook.com/VermontDiscountStore",
+                "instagram": "https://www.instagram.com/vermontdiscountstore",
+                "yelp": "https://www.yelp.com/biz/vermont-discount-store-williston-2",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca78f934e33373:0xe72d6ae511ab1e75",
+            "google_id": "0x4cca78f934e33373:0xe72d6ae511ab1e75",
+            "place_id": "ChIJczPjNPl4ykwRdR6rEeVqLec",
+            "google_mid": "/g/1tj1m3wd",
+            "phone_number": "+18028790088",
+            "name": "Goodwill Store: Williston",
+            "latitude": 44.4515587,
+            "longitude": -73.1188555,
+            "full_address": "Goodwill Store: Williston, 64 Harvest Ln #30, Williston, VT 05495",
+            "review_count": 275,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://goodwillnne.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca78f934e33373:0xe72d6ae511ab1e75",
+            "cid": "16658088128789814901",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJczPjNPl4ykwRdR6rEeVqLec&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "114532074645888563764",
+            "owner_link": "https://maps.google.com/maps/contrib/114532074645888563764",
+            "owner_name": "Goodwill Store: Williston",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipM20Jt84hIOJ8b4qMJ_Nkz_EZqyJmgzo3tsqkJD",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM20Jt84hIOJ8b4qMJ_Nkz_EZqyJmgzo3tsqkJD",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM20Jt84hIOJ8b4qMJ_Nkz_EZqyJmgzo3tsqkJD=w6000-h4000-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.451474499999996,
+                    "longitude": -73.11831649999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-12-04T00:00:00.000Z",
+                    "photo_timestamp": 1575417600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 58,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false,
+                        "Language assistance": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "64 Harvest Ln #30, Williston, VT 05495",
+            "order_link": null,
+            "price_level": null,
+            "district": "Williston North",
+            "street_address": "64 Harvest Ln #30",
+            "city": "Williston",
+            "zipcode": "05495",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "info@goodwillnne.org"
+                ],
+                "phone_numbers": [
+                    "0403820777463",
+                    "0303160355482",
+                    "3612641467"
+                ],
+                "facebook": "https://www.facebook.com/goodwillnne",
+                "instagram": "https://www.instagram.com/goodwillnne",
+                "yelp": "https://www.yelp.com/biz/goodwill-store-bangor",
+                "tiktok": "https://www.tiktok.com/@goodwillnne",
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillnne",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca7aff87aa998b:0x38da7cdd9c149cf0",
+            "google_id": "0x4cca7aff87aa998b:0x38da7cdd9c149cf0",
+            "place_id": "ChIJi5mqh_96ykwR8JwUnN182jg",
+            "google_mid": "/g/1tf70kd5",
+            "phone_number": "+18023048735",
+            "name": "Battery Street Jeans Exchange",
+            "latitude": 44.476831,
+            "longitude": -73.215192,
+            "full_address": "Battery Street Jeans Exchange, 115 College St, Burlington, VT 05401",
+            "review_count": 78,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": "http://batterystjeans.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca7aff87aa998b:0x38da7cdd9c149cf0",
+            "cid": "4096724102295100656",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJi5mqh_96ykwR8JwUnN182jg&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "113683744453146840780",
+            "owner_link": "https://maps.google.com/maps/contrib/113683744453146840780",
+            "owner_name": "Battery Street Jeans Exchange",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Consignment shop",
+                "Men's clothing store",
+                "Second hand store",
+                "Used clothing store",
+                "Vintage clothing store",
+                "Women's clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPszJELHfT9UvX7LnVEtMUTmb2FOKO913huzR1a",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPszJELHfT9UvX7LnVEtMUTmb2FOKO913huzR1a",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPszJELHfT9UvX7LnVEtMUTmb2FOKO913huzR1a=w3024-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.476996199999995,
+                    "longitude": -73.2152079,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-03-14T00:00:00.000Z",
+                    "photo_timestamp": 1615680000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "115 College St, Burlington, VT 05401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "115 College St",
+            "city": "Burlington",
+            "zipcode": "05401",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "batterystjeansvt@gmail.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/batterystjeans",
+                "instagram": "https://www.instagram.com/batterystreetjeans",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca7af703337e9f:0xd3a96526b66922c5",
+            "google_id": "0x4cca7af703337e9f:0xd3a96526b66922c5",
+            "place_id": "ChIJn34zA_d6ykwRxSJptiZlqdM",
+            "google_mid": "/g/1vxvhgyt",
+            "phone_number": "+18028810303",
+            "name": "Burlington Records",
+            "latitude": 44.4772246,
+            "longitude": -73.2120511,
+            "full_address": "Burlington Records, 194 College St, Burlington, VT 05401",
+            "review_count": 212,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138:30 PM"
+                ]
+            },
+            "website": "http://www.burlingtonrecords.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca7af703337e9f:0xd3a96526b66922c5",
+            "cid": "15251832830010401477",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn34zA_d6ykwRxSJptiZlqdM&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "103853121399958919402",
+            "owner_link": "https://maps.google.com/maps/contrib/103853121399958919402",
+            "owner_name": "Burlington Records",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store",
+                "Archive",
+                "Home audio store",
+                "Used CD store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN35h2RF-D4Rp72Zj9r20xk9W49tQPfj-FoEnE8",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN35h2RF-D4Rp72Zj9r20xk9W49tQPfj-FoEnE8",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN35h2RF-D4Rp72Zj9r20xk9W49tQPfj-FoEnE8=w3024-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.4771171,
+                    "longitude": -73.2120715,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-06-29T00:00:00.000Z",
+                    "photo_timestamp": 1561766400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 52,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "194 College St, Burlington, VT 05401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "194 College St",
+            "city": "Burlington",
+            "zipcode": "05401",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "burlingtonrecordsvt@gmail.com"
+                ],
+                "phone_numbers": [
+                    "8028810303"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/burlingtonrecords",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/burlington-records",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89e6e72d3e390301:0x3709545503af8976",
+            "google_id": "0x89e6e72d3e390301:0x3709545503af8976",
+            "place_id": "ChIJAQM5Pi3n5okRdomvA1VUCTc",
+            "google_mid": "/g/11vbwhpj_n",
+            "phone_number": "+14132414425",
+            "name": "BLACK FRIDAY BIN STORE",
+            "latitude": 42.101959099999995,
+            "longitude": -72.60957479999999,
+            "full_address": "BLACK FRIDAY BIN STORE, 520 Main St, West Springfield, MA 01089",
+            "review_count": 5,
+            "rating": 2.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e6e72d3e390301:0x3709545503af8976",
+            "cid": "3965793670987221366",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQM5Pi3n5okRdomvA1VUCTc&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "108323186853299664039",
+            "owner_link": "https://maps.google.com/maps/contrib/108323186853299664039",
+            "owner_name": "BLACK FRIDAY BIN STORE",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNbIfShyti0-hSDFB9DDHZWgZACuVZqcNodRJwo=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.1021274,
+                    "longitude": -72.60943560000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-12-11T00:00:00.000Z",
+                    "photo_timestamp": 1702252800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "520 Main St, West Springfield, MA 01089",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "520 Main St",
+            "city": "West Springfield",
+            "zipcode": "01089",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4ccc17005c527783:0xb77aad86ac2ccf65",
+            "google_id": "0x4ccc17005c527783:0xb77aad86ac2ccf65",
+            "place_id": "ChIJg3dSXAAXzEwRZc8srIaterc",
+            "google_mid": "/g/11lcqf31wk",
+            "phone_number": null,
+            "name": "Bin City Liquidation",
+            "latitude": 45.0291411,
+            "longitude": -74.75641209999999,
+            "full_address": "Bin City Liquidation, 1400 Vincent Massey Dr, Cornwall, ON K6J 5N4, Canada",
+            "review_count": 19,
+            "rating": 3.9,
+            "timezone": "America/Toronto",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.facebook.com/profile.php?id=61551867460452&mibextid=LQQJ4d",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4ccc17005c527783:0xb77aad86ac2ccf65",
+            "cid": "13221070450025353061",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg3dSXAAXzEwRZc8srIaterc&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "111858773950443276772",
+            "owner_link": "https://maps.google.com/maps/contrib/111858773950443276772",
+            "owner_name": "Bin City Liquidation",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMI6YQvWot3d9bnykNGKb__82Lt05MqV56o4XVw",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMI6YQvWot3d9bnykNGKb__82Lt05MqV56o4XVw",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMI6YQvWot3d9bnykNGKb__82Lt05MqV56o4XVw=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 45.0294546,
+                    "longitude": -74.7560252,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-03-03T00:00:00.000Z",
+                    "photo_timestamp": 1709424000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "1400 Vincent Massey Dr, Cornwall, ON K6J 5N4, Canada",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "1400 Vincent Massey Dr",
+            "city": "Cornwall",
+            "zipcode": "K6J 5N4",
+            "state": "Ontario",
+            "country": "CA",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca783d4032e857:0x56ea85a4b111a0ac",
+            "google_id": "0x4cca783d4032e857:0x56ea85a4b111a0ac",
+            "place_id": "ChIJV-gyQD14ykwRrKARsaSF6lY",
+            "google_mid": "/g/1hc2x6h_q",
+            "phone_number": "+18026604949",
+            "name": "CSWD Organics Recycling Facility - Home of Green Mountain Compost",
+            "latitude": 44.4721847,
+            "longitude": -73.08361239999999,
+            "full_address": "CSWD Organics Recycling Facility - Home of Green Mountain Compost, 860 Redmond Rd, Williston, VT 05495",
+            "review_count": 17,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 7:30\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "7:30 AM\u20133:30 PM"
+                ],
+                "Tuesday": [
+                    "7:30 AM\u20133:30 PM"
+                ],
+                "Wednesday": [
+                    "7:30 AM\u20133:30 PM"
+                ],
+                "Thursday": [
+                    "7:30 AM\u20133:30 PM"
+                ],
+                "Friday": [
+                    "7:30 AM\u20133:30 PM"
+                ],
+                "Saturday": [
+                    "7:30 AM\u20133:30 PM"
+                ]
+            },
+            "website": "http://www.greenmountaincompost.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca783d4032e857:0x56ea85a4b111a0ac",
+            "cid": "6262965174203949228",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV-gyQD14ykwRrKARsaSF6lY&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "117775210134202428408",
+            "owner_link": "https://maps.google.com/maps/contrib/117775210134202428408",
+            "owner_name": "CSWD Organics Recycling Facility - Home of Green Mountain Compost",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Garden center",
+            "subtypes": [
+                "Garden center",
+                "Landscaping supply store",
+                "Topsoil supplier"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOM2K0G6T_tmPDPbtL2ixb2lUaq5L0dEnBGcgbn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOM2K0G6T_tmPDPbtL2ixb2lUaq5L0dEnBGcgbn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOM2K0G6T_tmPDPbtL2ixb2lUaq5L0dEnBGcgbn=w2048-h1370-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.4723225,
+                    "longitude": -73.08408899999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-12-21T00:00:00.000Z",
+                    "photo_timestamp": 1482278400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": false,
+                        "In-store shopping": false,
+                        "Onsite services": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true
+                    },
+                    "Parking": {
+                        "Free parking lot": true
+                    }
+                }
+            },
+            "address": "860 Redmond Rd, Williston, VT 05495",
+            "order_link": null,
+            "price_level": null,
+            "district": "Williston North",
+            "street_address": "860 Redmond Rd",
+            "city": "Williston",
+            "zipcode": "05495",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "8026604949",
+                    "8025037926",
+                    "0549580266049"
+                ],
+                "facebook": "https://www.facebook.com/greenmountaincompost",
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/greenmtcompost",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89e024c1593d4a47:0x79655226d82ed30e",
+            "google_id": "0x89e024c1593d4a47:0x79655226d82ed30e",
+            "place_id": "ChIJR0o9WcEk4IkRDtMu2CZSZXk",
+            "google_mid": "/g/11b6_r_23v",
+            "phone_number": "+18027470428",
+            "name": "Mountain Music",
+            "latitude": 43.6066085,
+            "longitude": -72.9792786,
+            "full_address": "Mountain Music, 5 Center St, Rutland, VT 05701",
+            "review_count": 78,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "https://www.mountainmusicvt.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e024c1593d4a47:0x79655226d82ed30e",
+            "cid": "8747488178026238734",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR0o9WcEk4IkRDtMu2CZSZXk&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "114188026164263815609",
+            "owner_link": "https://maps.google.com/maps/contrib/114188026164263815609",
+            "owner_name": "Mountain Music",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store",
+                "Jewelry store",
+                "Music store",
+                "Home audio store",
+                "Used CD store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPsm5OMj-l8VYUUVrFgVlriCM-DBTDXXY6eu1o",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPsm5OMj-l8VYUUVrFgVlriCM-DBTDXXY6eu1o",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPsm5OMj-l8VYUUVrFgVlriCM-DBTDXXY6eu1o=w3072-h2304-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.606482299999996,
+                    "longitude": -72.9792511,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-10-07T00:00:00.000Z",
+                    "photo_timestamp": 1475798400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 46,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "5 Center St, Rutland, VT 05701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "5 Center St",
+            "city": "Rutland",
+            "zipcode": "05701",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "mtourigny@gmail.com"
+                ],
+                "phone_numbers": [
+                    "8027470428"
+                ],
+                "facebook": "https://www.facebook.com/MountainMusicVinyl",
+                "instagram": "https://www.instagram.com/mountainmusicvt",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cb437283e1c0a0b:0xee14f3ecc9b0b325",
+            "google_id": "0x4cb437283e1c0a0b:0xee14f3ecc9b0b325",
+            "place_id": "ChIJCwocPig3tEwRJbOwyezzFO4",
+            "google_mid": "/g/1tjkfd9n",
+            "phone_number": "+18026263228",
+            "name": "H.O.P.E",
+            "latitude": 44.536547999999996,
+            "longitude": -72.00201299999999,
+            "full_address": "H.O.P.E, 136 Church St, Lyndonville, VT 05851",
+            "review_count": 55,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20134 PM"
+                ]
+            },
+            "website": "http://www.hopevermont.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cb437283e1c0a0b:0xee14f3ecc9b0b325",
+            "cid": "17155605078882693925",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCwocPig3tEwRJbOwyezzFO4&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "102468919998876846840",
+            "owner_link": "https://maps.google.com/maps/contrib/102468919998876846840",
+            "owner_name": "H.O.P.E",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Charity"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOcMJzX-qOKdniXMOn8MaLoAOoMP9sxyff93CPu",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOcMJzX-qOKdniXMOn8MaLoAOoMP9sxyff93CPu",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOcMJzX-qOKdniXMOn8MaLoAOoMP9sxyff93CPu=w5088-h1744-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.5366697,
+                    "longitude": -72.0024578,
+                    "type": "photo",
+                    "photo_datetime_utc": "2021-05-23T00:00:00.000Z",
+                    "photo_timestamp": 1621728000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "136 Church St, Lyndonville, VT 05851",
+            "order_link": null,
+            "price_level": null,
+            "district": "Lyndonville",
+            "street_address": "136 Church St",
+            "city": "Lyndonville",
+            "zipcode": "05851",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "hope.in.nek@gmail.com",
+                    "kbm267@gmail.com"
+                ],
+                "phone_numbers": [
+                    "8026263228",
+                    "0585180262632"
+                ],
+                "facebook": "https://www.facebook.com/hopevermont",
+                "instagram": "https://www.instagram.com/hope_vermont",
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/company/hopevt",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89e0241497848281:0x4d9369268ee0a459",
+            "google_id": "0x89e0241497848281:0x4d9369268ee0a459",
+            "place_id": "ChIJgYKElxQk4IkRWaTgjiZpk00",
+            "google_mid": "/g/11byw_7b56",
+            "phone_number": "+18027724383",
+            "name": "Goodwill Retail Store",
+            "latitude": 43.6246011,
+            "longitude": -72.97471879999999,
+            "full_address": "Goodwill Retail Store, 230 N Main St, Rutland, VT 05701",
+            "review_count": 154,
+            "rating": 3.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://goodwill-berkshires.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e0241497848281:0x4d9369268ee0a459",
+            "cid": "5589927176823678041",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgYKElxQk4IkRWaTgjiZpk00&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "103650986886517860700",
+            "owner_link": "https://maps.google.com/maps/contrib/103650986886517860700",
+            "owner_name": "Goodwill Retail Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOD3AIa1c1FFLnRS40hn50BBbKf_0qnYpJe_rue",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOD3AIa1c1FFLnRS40hn50BBbKf_0qnYpJe_rue",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOD3AIa1c1FFLnRS40hn50BBbKf_0qnYpJe_rue=w600-h362-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.6244021,
+                    "longitude": -72.9751899,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-05-29T00:00:00.000Z",
+                    "photo_timestamp": 1464480000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Amenities": {
+                        "Wi-Fi": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "230 N Main St, Rutland, VT 05701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "230 N Main St",
+            "city": "Rutland",
+            "zipcode": "05701",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "jobs@goodwill-berkshires.org",
+                    "missionservices@goodwill-berkshires.org",
+                    "info@goodwill-berkshires.org"
+                ],
+                "phone_numbers": [
+                    "4134420061",
+                    "0120141344200"
+                ],
+                "facebook": "https://www.facebook.com/GoodwillBerkshires",
+                "instagram": "https://www.instagram.com/goodwillberkshires",
+                "yelp": "https://www.yelp.com/biz/goodwill-industries-of-berkshires-pittsfield",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillbrksovt",
+                "linkedin": "https://www.linkedin.com/company/goodwill-industries-of-the-berkshires-southern-vermont",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca7af7eaeee1cf:0x493132e7a4003cf3",
+            "google_id": "0x4cca7af7eaeee1cf:0x493132e7a4003cf3",
+            "place_id": "ChIJz-Hu6vd6ykwR8zwApOcyMUk",
+            "google_mid": "/g/1vf9b_1f",
+            "phone_number": "+18026582652",
+            "name": "Pure Pop Records",
+            "latitude": 44.4769338,
+            "longitude": -73.2112138,
+            "full_address": "Pure Pop Records, 115 S Winooski Ave, Burlington, VT 05401",
+            "review_count": 135,
+            "rating": 4.6,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136:30 PM"
+                ]
+            },
+            "website": "http://www.purepoprecords.com",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca7af7eaeee1cf:0x493132e7a4003cf3",
+            "cid": "5274052609097874675",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz-Hu6vd6ykwR8zwApOcyMUk&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "111693014710198306782",
+            "owner_link": "https://maps.google.com/maps/contrib/111693014710198306782",
+            "owner_name": "Pure Pop Records",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Record store",
+            "subtypes": [
+                "Record store",
+                "Book store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipN9XVzrqgHy2ELS13C-uiD1s9Ox9dlQE2WwQXWg",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN9XVzrqgHy2ELS13C-uiD1s9Ox9dlQE2WwQXWg",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN9XVzrqgHy2ELS13C-uiD1s9Ox9dlQE2WwQXWg=w5312-h2988-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.476933801395596,
+                    "longitude": -73.21121378789051,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-10-25T00:00:00.000Z",
+                    "photo_timestamp": 1508889600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "115 S Winooski Ave, Burlington, VT 05401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "115 S Winooski Ave",
+            "city": "Burlington",
+            "zipcode": "05401",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "staff@purepoprecords.com"
+                ],
+                "phone_numbers": [],
+                "facebook": "https://www.facebook.com/purepoprecords",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/pure-pop-records-burlington",
+                "tiktok": "https://www.tiktok.com/@purepoprecords",
+                "snapchat": null,
+                "twitter": "https://twitter.com/purepopvt",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89c51b415288cf77:0x8851af11989d4f0c",
+            "google_id": "0x89c51b415288cf77:0x8851af11989d4f0c",
+            "place_id": "ChIJd8-IUkEbxYkRDE-dmBGvUYg",
+            "google_mid": "/g/11k46j34lg",
+            "phone_number": "+15705002637",
+            "name": "Prime Bins",
+            "latitude": 41.2388148,
+            "longitude": -75.892853,
+            "full_address": "Prime Bins, 400 S Main St, Wilkes-Barre, PA 18701",
+            "review_count": 520,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "Closed"
+                ]
+            },
+            "website": "http://primebins.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c51b415288cf77:0x8851af11989d4f0c",
+            "cid": "9822824752381513484",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd8-IUkEbxYkRDE-dmBGvUYg&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "116702224352451218168",
+            "owner_link": "https://maps.google.com/maps/contrib/116702224352451218168",
+            "owner_name": "Prime Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Clothing store",
+                "Store",
+                "Electronics store",
+                "Flea market",
+                "Gift shop",
+                "Shoe store",
+                "Thrift store",
+                "Toy store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNCPlrlNuYiJA1eC3nnAbwtb2Qz_Ru3ktbrTdMn=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 41.2390673,
+                    "longitude": -75.8929308,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-01-29T00:00:00.000Z",
+                    "photo_timestamp": 1674950400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 72,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "400 S Main St, Wilkes-Barre, PA 18701",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "400 S Main St",
+            "city": "Wilkes-Barre",
+            "zipcode": "18701",
+            "state": "Pennsylvania",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "primebinspa@gmail.com"
+                ],
+                "phone_numbers": [
+                    "5705002637"
+                ],
+                "facebook": "https://www.facebook.com/PrimeBins",
+                "instagram": "https://www.instagram.com/primebins",
+                "yelp": null,
+                "tiktok": "https://www.tiktok.com/@primebins",
+                "snapchat": null,
+                "twitter": "https://twitter.com/PrimeBins",
+                "linkedin": "https://www.linkedin.com/in/prime-bins-buns-b28a08302",
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca7a85b07e3069:0x57ea4fa717a5fa97",
+            "google_id": "0x4cca7a85b07e3069:0x57ea4fa717a5fa97",
+            "place_id": "ChIJaTB-sIV6ykwRl_qlF6dP6lc",
+            "google_mid": "/g/1tdsjdgv",
+            "phone_number": "+18026603505",
+            "name": "Gardener's Supply Company",
+            "latitude": 44.4921821,
+            "longitude": -73.20370799999999,
+            "full_address": "Gardener's Supply Company, 128 Intervale Rd, Burlington, VT 05401",
+            "review_count": 269,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136 PM"
+                ]
+            },
+            "website": "https://www.gardeners.com/our-garden-centers",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca7a85b07e3069:0x57ea4fa717a5fa97",
+            "cid": "6334963404924910231",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaTB-sIV6ykwRl_qlF6dP6lc&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "106857776566916685883",
+            "owner_link": "https://maps.google.com/maps/contrib/106857776566916685883",
+            "owner_name": "Gardener's Supply Company",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Garden center",
+            "subtypes": [
+                "Garden center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMT-raw2k2i3THstwIl7Lyp0oGWtWbLlZKpcS29",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMT-raw2k2i3THstwIl7Lyp0oGWtWbLlZKpcS29",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMT-raw2k2i3THstwIl7Lyp0oGWtWbLlZKpcS29=w3264-h2448-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.4918152,
+                    "longitude": -73.2041092,
+                    "type": "photo",
+                    "photo_datetime_utc": "2016-01-15T00:00:00.000Z",
+                    "photo_timestamp": 1452816000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 77,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store shopping": true,
+                        "Onsite services": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "128 Intervale Rd, Burlington, VT 05401",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "128 Intervale Rd",
+            "city": "Burlington",
+            "zipcode": "05401",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89e6e7213bb370cb:0x4590cfef9d41351d",
+            "google_id": "0x89e6e7213bb370cb:0x4590cfef9d41351d",
+            "place_id": "ChIJy3CzOyHn5okRHTVBne_PkEU",
+            "google_mid": "/g/11q4bl1t8k",
+            "phone_number": "+14133016716",
+            "name": "Treasure hunt liquidators",
+            "latitude": 42.0979473,
+            "longitude": -72.5832302,
+            "full_address": "Treasure hunt liquidators, 894 Main St, Springfield, MA 01103",
+            "review_count": 12,
+            "rating": 3.6,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e6e7213bb370cb:0x4590cfef9d41351d",
+            "cid": "5012735013305791773",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy3CzOyHn5okRHTVBne_PkEU&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "100472242957153832105",
+            "owner_link": "https://maps.google.com/maps/contrib/100472242957153832105",
+            "owner_name": "Treasure hunt liquidators",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPEwBUjMfpyBQ7doASHc013yN6PgynRg4TwwMfK",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPEwBUjMfpyBQ7doASHc013yN6PgynRg4TwwMfK",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPEwBUjMfpyBQ7doASHc013yN6PgynRg4TwwMfK=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.097994,
+                    "longitude": -72.58310759999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-02T00:00:00.000Z",
+                    "photo_timestamp": 1669939200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 60,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "894 Main St, Springfield, MA 01103",
+            "order_link": null,
+            "price_level": null,
+            "district": "South End",
+            "street_address": "894 Main St",
+            "city": "Springfield",
+            "zipcode": "01103",
+            "state": "Massachusetts",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca78f741843293:0x7ac35a22c348a9bf",
+            "google_id": "0x4cca78f741843293:0x7ac35a22c348a9bf",
+            "place_id": "ChIJkzKEQfd4ykwRv6lIwyJaw3o",
+            "google_mid": "/g/1tj84gbf",
+            "phone_number": "+18028789770",
+            "name": "Shaw's",
+            "latitude": 44.4468749,
+            "longitude": -73.1083472,
+            "full_address": "Shaw's, 71 Boxwood St, Williston, VT 05495",
+            "review_count": 532,
+            "rating": 4.1,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Friday": [
+                    "7 AM\u201310 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u201310 PM"
+                ]
+            },
+            "website": "https://local.shaws.com/vt/williston/71-boxwood-st.html",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca78f741843293:0x7ac35a22c348a9bf",
+            "cid": "8846013198437493183",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkzKEQfd4ykwRv6lIwyJaw3o&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "100436106625190275570",
+            "owner_link": "https://maps.google.com/maps/contrib/100436106625190275570",
+            "owner_name": "Shaw's",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Grocery store",
+            "subtypes": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNgoTPQ0x70AgCpbEjuaD8sFdSywxRPVNqRsvta",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNgoTPQ0x70AgCpbEjuaD8sFdSywxRPVNqRsvta",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNgoTPQ0x70AgCpbEjuaD8sFdSywxRPVNqRsvta=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.4473112,
+                    "longitude": -73.1083208,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-08-17T00:00:00.000Z",
+                    "photo_timestamp": 1597622400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 143,
+            "about": {
+                "summary": "Supermarket chain offering meat, produce & other staples, plus deli & bakery items.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "No-contact delivery": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Highlights": {
+                        "Great produce": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Organic products": true,
+                        "Prepared foods": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Glass bottles": true,
+                        "Metal cans": true,
+                        "Plastic bags": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "71 Boxwood St, Williston, VT 05495",
+            "order_link": null,
+            "price_level": "$$",
+            "district": "Williston North",
+            "street_address": "71 Boxwood St",
+            "city": "Williston",
+            "zipcode": "05495",
+            "state": "Vermont",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x4cca78f746e6a13f:0x5f93e455beafeed6",
+                "name": "Shaw's Pharmacy"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cb4cb6dc76b29cb:0x97e916eab4855276",
+            "google_id": "0x4cb4cb6dc76b29cb:0x97e916eab4855276",
+            "place_id": "ChIJyylrx23LtEwRdlKFtOoW6Zc",
+            "google_mid": "/g/1v8y3mwv",
+            "phone_number": "+18022966646",
+            "name": "Fat Hat Clothing Company",
+            "latitude": 43.652587,
+            "longitude": -72.391258,
+            "full_address": "Fat Hat Clothing Company, 1 Quechee Main St, Quechee, VT 05059",
+            "review_count": 59,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": "http://www.fathat.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cb4cb6dc76b29cb:0x97e916eab4855276",
+            "cid": "10946305566607495798",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyylrx23LtEwRdlKFtOoW6Zc&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "116276603507598488035",
+            "owner_link": "https://maps.google.com/maps/contrib/116276603507598488035",
+            "owner_name": "Fat Hat Clothing Company",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Clothing store",
+            "subtypes": [
+                "Clothing store",
+                "Jewelry store",
+                "Men's clothing store",
+                "Women's clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMjnNsxDuWbruchH5ad-sdTruBvY9O0ttHJEgps",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMjnNsxDuWbruchH5ad-sdTruBvY9O0ttHJEgps",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMjnNsxDuWbruchH5ad-sdTruBvY9O0ttHJEgps=w4160-h3120-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.6520869,
+                    "longitude": -72.39140119999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-12-17T00:00:00.000Z",
+                    "photo_timestamp": 1545004800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Original women's retailer in a barn-style building offering laid-back styles made of soft materials.",
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store pickup": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Offerings": {
+                        "Men's clothing": true,
+                        "Women's clothing": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "1 Quechee Main St, Quechee, VT 05059",
+            "order_link": null,
+            "price_level": null,
+            "district": "Quechee",
+            "street_address": "1 Quechee Main St",
+            "city": "Quechee",
+            "zipcode": "05059",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "retail@fathat.com"
+                ],
+                "phone_numbers": [
+                    "8022966646"
+                ],
+                "facebook": "https://www.facebook.com/FatHatClothing",
+                "instagram": null,
+                "yelp": "https://www.yelp.com/biz/fat-hat-clothing-quechee",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/fathatclothing",
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/fathatclothing"
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x89e0e67aa0995ff3:0xf77bcb36bd6df7ab",
+            "google_id": "0x89e0e67aa0995ff3:0xf77bcb36bd6df7ab",
+            "place_id": "ChIJ81-ZoHrm4IkRq_dtvTbLe_c",
+            "google_mid": "/g/1hcb8ks01",
+            "phone_number": "+18024642161",
+            "name": "Shaw's",
+            "latitude": 42.8647144,
+            "longitude": -72.8630348,
+            "full_address": "Shaw's, 97 E Main St, Wilmington, VT 05363",
+            "review_count": 363,
+            "rating": 3.9,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 9\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Monday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "7 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "7 AM\u20139 PM"
+                ]
+            },
+            "website": "https://local.shaws.com/vt/wilmington/97-e-main-st.html",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89e0e67aa0995ff3:0xf77bcb36bd6df7ab",
+            "cid": "17833070585470384043",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ81-ZoHrm4IkRq_dtvTbLe_c&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "118098174475799799145",
+            "owner_link": "https://maps.google.com/maps/contrib/118098174475799799145",
+            "owner_name": "Shaw's",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Grocery store",
+            "subtypes": [
+                "Grocery store",
+                "Bakery",
+                "Butcher shop",
+                "Deli",
+                "E-commerce service",
+                "Florist",
+                "Grocery delivery service",
+                "Organic food store",
+                "Produce market",
+                "Supermarket"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOTpu8TcohX5izeaSoJAVFtjizcpEbILwY4BWrS",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOTpu8TcohX5izeaSoJAVFtjizcpEbILwY4BWrS",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOTpu8TcohX5izeaSoJAVFtjizcpEbILwY4BWrS=w2119-h1192-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 42.8647553,
+                    "longitude": -72.8632508,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-11-10T00:00:00.000Z",
+                    "photo_timestamp": 1573344000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Supermarket chain offering meat, produce & other staples, plus deli & bakery items.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Highlights": {
+                        "Great produce": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Organic products": true,
+                        "Prepared foods": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Glass bottles": true,
+                        "Metal cans": true,
+                        "Plastic bags": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true,
+                        "SNAP/EBT": true
+                    }
+                }
+            },
+            "address": "97 E Main St, Wilmington, VT 05363",
+            "order_link": null,
+            "price_level": "$$",
+            "district": null,
+            "street_address": "97 E Main St",
+            "city": "Wilmington",
+            "zipcode": "05363",
+            "state": "Vermont",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        },
+        {
+            "business_id": "0x4cca1b6d4bdc9cdd:0x551fb2aa890ab5aa",
+            "google_id": "0x4cca1b6d4bdc9cdd:0x551fb2aa890ab5aa",
+            "place_id": "ChIJ3ZzcS20bykwRqrUKiaqyH1U",
+            "google_mid": "/g/1tk1mm4v",
+            "phone_number": "+18025240705",
+            "name": "Tractor Supply Co.",
+            "latitude": 44.846267499999996,
+            "longitude": -73.07878869999999,
+            "full_address": "Tractor Supply Co., 2636 Highgate Rd, St Albans City, VT 05478",
+            "review_count": 223,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "8 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "8 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "8 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "8 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "8 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "8 AM\u20139 PM"
+                ]
+            },
+            "website": "https://www.tractorsupply.com/tsc/store_Saintalbans-VT-05478_1117",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cca1b6d4bdc9cdd:0x551fb2aa890ab5aa",
+            "cid": "6133817663015269802",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3ZzcS20bykwRqrUKiaqyH1U&q=bin+stores+in+vermont&authuser=0&hl=en&gl=US",
+            "owner_id": "102966575568571861518",
+            "owner_link": "https://maps.google.com/maps/contrib/102966575568571861518",
+            "owner_name": "Tractor Supply Co.",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Animal feed store",
+            "subtypes": [
+                "Animal feed store",
+                "Farm shop",
+                "Garden center",
+                "Hardware store",
+                "Home improvement store",
+                "Pet store",
+                "Pet supply store",
+                "Propane supplier"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOlhFPartjKmKSDeTgCNmilOFgv1Q1JsZtfzh7Q",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOlhFPartjKmKSDeTgCNmilOFgv1Q1JsZtfzh7Q",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOlhFPartjKmKSDeTgCNmilOFgv1Q1JsZtfzh7Q=w3264-h2448-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 44.84626751468916,
+                    "longitude": -73.07878874962584,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-06-23T00:00:00.000Z",
+                    "photo_timestamp": 1498176000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": "Chain with a wide variety of agricultural & livestock supplies, plus tools, workwear & boots.",
+                "details": {
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2636 Highgate Rd, St Albans City, VT 05478",
+            "order_link": null,
+            "price_level": "$$",
+            "district": null,
+            "street_address": "2636 Highgate Rd",
+            "city": "St Albans City",
+            "zipcode": "05478",
+            "state": "Vermont",
+            "country": "US",
+            "located_in": {
+                "google_id": "0x4cca1bd4aeefc203:0xcfbe8e0fe2efbdf",
+                "name": "Garden Center at Tractor Supply"
+            },
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 154
+        }
+    ]
+}

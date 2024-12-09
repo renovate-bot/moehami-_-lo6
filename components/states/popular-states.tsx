@@ -6,6 +6,7 @@ const popularStates = [
   { name: "Texas", count: 203, image: "/images/states/tx2.jpg" },
   { name: "California", count: 178, image: "/images/states/cal.jpg" },
   { name: "New York", count: 145, image: "/images/states/ny.jpg" },
+  { name: "Iowa", count: 138, image: "/images/states/ny.jpg" },
 ];
 
 export function PopularStates() {
