@@ -1,16 +1,16 @@
-import { useParams } from 'next/navigation';
 import StateClientComponent from './StateClientComponent';
-import type { Metadata } from 'next';
 
-export default async function StatePage({ params }: { params: { state: string } }) {
-  const { state } = await params;
+interface PageProps {
+  params: {
+    state: string;
+  };
+}
+
+export default function StatePage({ params }: PageProps) {
+  const { state } = params;
 
   return <StateClientComponent state={state} />;
 }
-export const metadata: Metadata = {
-  title: `Bin Stores `,
-  description: 'Discover and explore local stores in your area',
-};
 
 export async function generateStaticParams() {
   const states = [
