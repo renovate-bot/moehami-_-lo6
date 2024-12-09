@@ -1,0 +1,2227 @@
+{
+    "Status": "OK",
+    "Request_id": "a07f10c7-6153-4613-a4bc-788d35035662",
+    "Parameters": {
+        "query": "bin stores in new_york",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "Data": [
+        {
+            "business_id": "0x89c2f36c31a4d23f:0xe2a6ac0795db3342",
+            "google_id": "0x89c2f36c31a4d23f:0xe2a6ac0795db3342",
+            "place_id": "ChIJP9KkMWzzwokRQjPblQespuI",
+            "google_mid": "/g/11s8lzv0y7",
+            "phone_number": "+19144334411",
+            "name": "EMPTY THE BINS",
+            "latitude": 40.934452,
+            "longitude": -73.89903249999999,
+            "full_address": "EMPTY THE BINS, 21 Main St, Yonkers, NY 10701",
+            "review_count": 270,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20132 PM"
+                ],
+                "Friday": [
+                    "Closed"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c2f36c31a4d23f:0xe2a6ac0795db3342",
+            "cid": "16331930247284601666",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP9KkMWzzwokRQjPblQespuI&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "107666035640459681731",
+            "owner_link": "https://maps.google.com/maps/contrib/107666035640459681731",
+            "owner_name": "EMPTY THE BINS",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNXw8RQv_DIEhqw2ZV2OGRO0A-ZNDLkMG8Viq8g",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNXw8RQv_DIEhqw2ZV2OGRO0A-ZNDLkMG8Viq8g",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNXw8RQv_DIEhqw2ZV2OGRO0A-ZNDLkMG8Viq8g=w3510-h3897-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.9342906,
+                    "longitude": -73.8990633,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-08T00:00:00.000Z",
+                    "photo_timestamp": 1667865600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 49,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "21 Main St, Yonkers, NY 10701",
+            "order_link": null,
+            "price_level": null,
+            "district": "Getty Square",
+            "street_address": "21 Main St",
+            "city": "Yonkers",
+            "zipcode": "10701",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c2f558aeed7677:0x9ec5954f76b4a4ee",
+            "google_id": "0x89c2f558aeed7677:0x9ec5954f76b4a4ee",
+            "place_id": "ChIJd3btrlj1wokR7qS0dk-VxZ4",
+            "google_mid": "/g/11ldm60ffd",
+            "phone_number": "+17185381425",
+            "name": "Surprise In The Bins",
+            "latitude": 40.8513795,
+            "longitude": -73.930748,
+            "full_address": "Surprise In The Bins, 400 Audubon Ave, New York, NY 10033",
+            "review_count": 1,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20138 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c2f558aeed7677:0x9ec5954f76b4a4ee",
+            "cid": "11440714596931118318",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd3btrlj1wokR7qS0dk-VxZ4&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "110626827225481502253",
+            "owner_link": "https://maps.google.com/maps/contrib/110626827225481502253",
+            "owner_name": "Surprise In The Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO0aW0inwKC4uj5vfmQllLQm-K5ZNBRPBxa9RCR",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO0aW0inwKC4uj5vfmQllLQm-K5ZNBRPBxa9RCR",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO0aW0inwKC4uj5vfmQllLQm-K5ZNBRPBxa9RCR=w2000-h1126-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.8512189,
+                    "longitude": -73.9308664,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-04-07T00:00:00.000Z",
+                    "photo_timestamp": 1712448000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 2,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "400 Audubon Ave, New York, NY 10033",
+            "order_link": null,
+            "price_level": null,
+            "district": "Manhattan",
+            "street_address": "400 Audubon Ave",
+            "city": "New York",
+            "zipcode": "10033",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25f68e4aa6e2d:0x992ac70006b05a45",
+            "google_id": "0x89c25f68e4aa6e2d:0x992ac70006b05a45",
+            "place_id": "ChIJLW6q5GhfwokRRVqwBgDHKpk",
+            "google_mid": "/g/11y2nwrf7d",
+            "phone_number": "+19147142575",
+            "name": "BIG DEAL BIN STORE",
+            "latitude": 40.751827299999995,
+            "longitude": -73.86346549999999,
+            "full_address": "BIG DEAL BIN STORE, 3757 103rd St, Corona, NY 11368",
+            "review_count": 6,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "https://www.binstorenyc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25f68e4aa6e2d:0x992ac70006b05a45",
+            "cid": "11036852639750969925",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLW6q5GhfwokRRVqwBgDHKpk&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "109836537219389754350",
+            "owner_link": "https://maps.google.com/maps/contrib/109836537219389754350",
+            "owner_name": "BIG DEAL BIN STORE",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNIwIOkqu1BVZzn_PeYeuXumVYFIPHwj2bkUMg",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNIwIOkqu1BVZzn_PeYeuXumVYFIPHwj2bkUMg",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNIwIOkqu1BVZzn_PeYeuXumVYFIPHwj2bkUMg=w1024-h768-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7517694,
+                    "longitude": -73.8636614,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-03-01T00:00:00.000Z",
+                    "photo_timestamp": 1709251200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": null,
+            "address": "3757 103rd St, Corona, NY 11368",
+            "order_link": null,
+            "price_level": null,
+            "district": "Corona",
+            "street_address": "3757 103rd St",
+            "city": "Corona",
+            "zipcode": "11368",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "alphausmarket@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9175991663"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c261f2f9afa143:0x833fa53a56cd5436",
+            "google_id": "0x89c261f2f9afa143:0x833fa53a56cd5436",
+            "place_id": "ChIJQ6Gv-fJhwokRNlTNVjqlP4M",
+            "google_mid": "/g/11ld3pb71k",
+            "phone_number": "+19175991663",
+            "name": "big deal bin store",
+            "latitude": 40.714565,
+            "longitude": -73.752532,
+            "full_address": "big deal bin store, 207-19 Jamaica Ave, Queens Village, NY 11428",
+            "review_count": 6,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136:30 PM"
+                ]
+            },
+            "website": "https://www.binstorenyc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c261f2f9afa143:0x833fa53a56cd5436",
+            "cid": "9457459412484314166",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ6Gv-fJhwokRNlTNVjqlP4M&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "118095925926919794090",
+            "owner_link": "https://maps.google.com/maps/contrib/118095925926919794090",
+            "owner_name": "big deal bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOYp1mng3ofYf_2AKFxJa6uU1nDU6l0GM0_QzUI",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOYp1mng3ofYf_2AKFxJa6uU1nDU6l0GM0_QzUI",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOYp1mng3ofYf_2AKFxJa6uU1nDU6l0GM0_QzUI=w1024-h768-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7143732,
+                    "longitude": -73.752391,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-04-27T00:00:00.000Z",
+                    "photo_timestamp": 1714176000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 52,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": true
+                    }
+                }
+            },
+            "address": "207-19 Jamaica Ave, Queens Village, NY 11428",
+            "order_link": null,
+            "price_level": null,
+            "district": "Queens Village",
+            "street_address": "207-19 Jamaica Ave",
+            "city": "Queens Village",
+            "zipcode": "11428",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "alphausmarket@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9175991663"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25d3fbb4923a3:0x24ac8ab34020c0f2",
+            "google_id": "0x89c25d3fbb4923a3:0x24ac8ab34020c0f2",
+            "place_id": "ChIJoyNJuz9dwokR8sAgQLOKrCQ",
+            "google_mid": "/g/11kxb376v5",
+            "phone_number": null,
+            "name": "Bin Discount Store",
+            "latitude": 40.6614794,
+            "longitude": -73.8792543,
+            "full_address": "Bin Discount Store, 811 Stanley Ave, Brooklyn, NY 11207",
+            "review_count": 3,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25d3fbb4923a3:0x24ac8ab34020c0f2",
+            "cid": "2642639583839305970",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoyNJuz9dwokR8sAgQLOKrCQ&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "117650664211062192267",
+            "owner_link": "https://maps.google.com/maps/contrib/117650664211062192267",
+            "owner_name": "Bin Discount Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Convenience store",
+            "subtypes": [
+                "Convenience store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "Mnn8TUjVydJL0YtEkuMhCA",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mnn8TUjVydJL0YtEkuMhCA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=344.57434&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 40.661382348130715,
+                    "longitude": -73.87921899777652,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-24T00:00:00.000Z",
+                    "photo_timestamp": 1729728000
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "811 Stanley Ave, Brooklyn, NY 11207",
+            "order_link": null,
+            "price_level": null,
+            "district": "East New York",
+            "street_address": "811 Stanley Ave",
+            "city": "Brooklyn",
+            "zipcode": "11207",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x452d5a3eb91a1ed5:0xbfc5fee73b7efeff",
+            "google_id": "0x452d5a3eb91a1ed5:0xbfc5fee73b7efeff",
+            "place_id": "ChIJ1R4auT5aLUUR__5-O-f-xb8",
+            "google_mid": "/g/11vl4ld_kk",
+            "phone_number": "+19175991663",
+            "name": "Big deal bin store",
+            "latitude": 40.7015204,
+            "longitude": -73.7964209,
+            "full_address": null,
+            "review_count": 1,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20136:30 PM"
+                ]
+            },
+            "website": "http://www.binstorenyc.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x452d5a3eb91a1ed5:0xbfc5fee73b7efeff",
+            "cid": "13818731300745314047",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1R4auT5aLUUR__5-O-f-xb8&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "110933561684970154680",
+            "owner_link": "https://maps.google.com/maps/contrib/110933561684970154680",
+            "owner_name": "Big deal bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Service establishment"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipPSa1WTlB1U0twlpZlQwJkoRfRrjyQGsTDFJIUj",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPSa1WTlB1U0twlpZlQwJkoRfRrjyQGsTDFJIUj",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPSa1WTlB1U0twlpZlQwJkoRfRrjyQGsTDFJIUj=w1024-h768-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-02-18T00:00:00.000Z",
+                    "photo_timestamp": 1708214400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": null,
+            "address": null,
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": null,
+            "city": null,
+            "zipcode": null,
+            "state": null,
+            "country": null,
+            "emails_and_contacts": {
+                "emails": [
+                    "alphausmarket@gmail.com"
+                ],
+                "phone_numbers": [
+                    "9175991663"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c3b3a7460ecead:0xd4363478eed1fa22",
+            "google_id": "0x89c3b3a7460ecead:0xd4363478eed1fa22",
+            "place_id": "ChIJrc4ORqezw4kRIvrR7ng0NtQ",
+            "google_mid": "/g/11y24kfsts",
+            "phone_number": "+19089434710",
+            "name": "D'To Un Chin Bins & Liquidations",
+            "latitude": 40.6313564,
+            "longitude": -74.2544855,
+            "full_address": "D'To Un Chin Bins & Liquidations, 215 N Wood Ave, Linden, NJ 07036",
+            "review_count": 4,
+            "rating": 4.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c3b3a7460ecead:0xd4363478eed1fa22",
+            "cid": "15291467278790556194",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrc4ORqezw4kRIvrR7ng0NtQ&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "113482933592719579895",
+            "owner_link": "https://maps.google.com/maps/contrib/113482933592719579895",
+            "owner_name": "D'To Un Chin Bins & Liquidations",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Liquidator",
+            "subtypes": [
+                "Liquidator",
+                "Appliance store",
+                "Department store",
+                "Discount store",
+                "Electronics store",
+                "Home goods store",
+                "Second hand store",
+                "Thrift store",
+                "Wholesaler"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipO7GyIJ3eSluQF8S4W06gocTqmjQn1OuhU2XDGl",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipO7GyIJ3eSluQF8S4W06gocTqmjQn1OuhU2XDGl",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipO7GyIJ3eSluQF8S4W06gocTqmjQn1OuhU2XDGl=w5712-h3808-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.6315915,
+                    "longitude": -74.2542979,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-01-01T00:00:00.000Z",
+                    "photo_timestamp": 1704067200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Identifies as Latino-owned": true
+                    }
+                }
+            },
+            "address": "215 N Wood Ave, Linden, NJ 07036",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "215 N Wood Ave",
+            "city": "Linden",
+            "zipcode": "07036",
+            "state": "New Jersey",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25b717a4cd1dd:0xa22c3f94f18fcc09",
+            "google_id": "0x89c25b717a4cd1dd:0xa22c3f94f18fcc09",
+            "place_id": "ChIJ3dFMenFbwokRCcyP8ZQ_LKI",
+            "google_mid": "/g/11t8b6zpcq",
+            "phone_number": "+13479428888",
+            "name": "Unbox",
+            "latitude": 40.6633839,
+            "longitude": -73.99892059999999,
+            "full_address": "Unbox, 712 3rd Ave, Brooklyn, NY 11232",
+            "review_count": 206,
+            "rating": 4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25b717a4cd1dd:0xa22c3f94f18fcc09",
+            "cid": "11685785042060037129",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3dFMenFbwokRCcyP8ZQ_LKI&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "104312270788633751449",
+            "owner_link": "https://maps.google.com/maps/contrib/104312270788633751449",
+            "owner_name": "Unbox",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOiFJusjh9dDg3N-w_TIUFuqmrwAElpVSERXwiJ",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOiFJusjh9dDg3N-w_TIUFuqmrwAElpVSERXwiJ",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOiFJusjh9dDg3N-w_TIUFuqmrwAElpVSERXwiJ=w2016-h908-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.663227,
+                    "longitude": -73.9986911,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-18T00:00:00.000Z",
+                    "photo_timestamp": 1668729600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 117,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "712 3rd Ave, Brooklyn, NY 11232",
+            "order_link": null,
+            "price_level": null,
+            "district": "Sunset Park",
+            "street_address": "712 3rd Ave",
+            "city": "Brooklyn",
+            "zipcode": "11232",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c2598a86c3066f:0xf3ce88c75d50bd14",
+            "google_id": "0x89c2598a86c3066f:0xf3ce88c75d50bd14",
+            "place_id": "ChIJbwbDhopZwokRFL1QXceIzvM",
+            "google_mid": "/g/11jyzw6yzq",
+            "phone_number": null,
+            "name": "Bin City",
+            "latitude": 40.7138616,
+            "longitude": -73.96190469999999,
+            "full_address": "Bin City, 308 Bedford Ave Rear, Brooklyn, NY 11249",
+            "review_count": 1,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": null,
+            "working_hours": null,
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c2598a86c3066f:0xf3ce88c75d50bd14",
+            "cid": "17568129586264325396",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbwbDhopZwokRFL1QXceIzvM&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "104891907152352759201",
+            "owner_link": "https://maps.google.com/maps/contrib/104891907152352759201",
+            "owner_name": "Bin City",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "FAiXD4dhQjL1ckKiitftdQ",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FAiXD4dhQjL1ckKiitftdQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=222.45592&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 40.713948215620256,
+                    "longitude": -73.96180015039901,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-25T00:00:00.000Z",
+                    "photo_timestamp": 1729814400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": null,
+            "address": "308 Bedford Ave Rear, Brooklyn, NY 11249",
+            "order_link": null,
+            "price_level": null,
+            "district": "Williamsburg",
+            "street_address": "308 Bedford Ave Rear",
+            "city": "Brooklyn",
+            "zipcode": "11249",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25b42897fdbe5:0x54dd13ec61c33b39",
+            "google_id": "0x89c25b42897fdbe5:0x54dd13ec61c33b39",
+            "place_id": "ChIJ5dt_iUJbwokROTvDYewT3VQ",
+            "google_mid": "/g/1tgfr105",
+            "phone_number": "+17182821708",
+            "name": "Bargain Land",
+            "latitude": 40.650649099999995,
+            "longitude": -73.9504552,
+            "full_address": "Bargain Land, 2828 Church Ave, Brooklyn, NY 11226",
+            "review_count": 170,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "9:30 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "9:30 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "9:30 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "9:30 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "9:30 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "9:30 AM\u20138 PM"
+                ]
+            },
+            "website": "http://bargain-land.poi.place",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25b42897fdbe5:0x54dd13ec61c33b39",
+            "cid": "6115065775012395833",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5dt_iUJbwokROTvDYewT3VQ&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "113294524547541411174",
+            "owner_link": "https://maps.google.com/maps/contrib/113294524547541411174",
+            "owner_name": "Bargain Land",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOs1v32rZo6BkJ3VwCjOspnCneYBmI6LcNSPdDp",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOs1v32rZo6BkJ3VwCjOspnCneYBmI6LcNSPdDp",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOs1v32rZo6BkJ3VwCjOspnCneYBmI6LcNSPdDp=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.65064910027976,
+                    "longitude": -73.95045523531752,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-09-13T00:00:00.000Z",
+                    "photo_timestamp": 1505260800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 69,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2828 Church Ave, Brooklyn, NY 11226",
+            "order_link": null,
+            "price_level": null,
+            "district": "Little Caribbean",
+            "street_address": "2828 Church Ave",
+            "city": "Brooklyn",
+            "zipcode": "11226",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [
+                    "2403422728",
+                    "8173068989",
+                    "7327211525",
+                    "0768131989",
+                    "0977990586",
+                    "5093618318",
+                    "5619676688",
+                    "2812275964",
+                    "9037291156",
+                    "7602528833",
+                    "7602528832",
+                    "1932061038310",
+                    "2411227666620",
+                    "2459443482283",
+                    "9802236082523",
+                    "2948684387112",
+                    "9362981342",
+                    "498634688406",
+                    "7976243228054",
+                    "3776642343789",
+                    "9703154138617"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25861afe17239:0xce687460918d7ef0",
+            "google_id": "0x89c25861afe17239:0xce687460918d7ef0",
+            "place_id": "ChIJOXLhr2FYwokR8H6NkWB0aM4",
+            "google_mid": "/g/1hhxcx6rr",
+            "phone_number": "+12123628070",
+            "name": "Bin 70 Wine",
+            "latitude": 40.7778013,
+            "longitude": -73.9856818,
+            "full_address": "Bin 70 Wine, 200 West End Ave, New York, NY 10023",
+            "review_count": 48,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20138 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "11 AM\u201310 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u201310 PM"
+                ]
+            },
+            "website": "https://www.bin70wineny.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25861afe17239:0xce687460918d7ef0",
+            "cid": "14873265727498714864",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOXLhr2FYwokR8H6NkWB0aM4&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "110764349075428330259",
+            "owner_link": "https://maps.google.com/maps/contrib/110764349075428330259",
+            "owner_name": "Bin 70 Wine",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Wine store",
+            "subtypes": [
+                "Wine store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOptHsERp9WIE81AnvNwZ7fo2W0DmZP9AGBct3S",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOptHsERp9WIE81AnvNwZ7fo2W0DmZP9AGBct3S",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOptHsERp9WIE81AnvNwZ7fo2W0DmZP9AGBct3S=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7777172,
+                    "longitude": -73.9857516,
+                    "type": "photo",
+                    "photo_datetime_utc": "2019-06-30T00:00:00.000Z",
+                    "photo_timestamp": 1561852800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "No-contact delivery": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "200 West End Ave, New York, NY 10023",
+            "order_link": null,
+            "price_level": null,
+            "district": "Manhattan",
+            "street_address": "200 West End Ave",
+            "city": "New York",
+            "zipcode": "10023",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "bin70wine200@gmail.com"
+                ],
+                "phone_numbers": [
+                    "2123628070",
+                    "12123628070"
+                ],
+                "facebook": null,
+                "instagram": "https://www.instagram.com/bin70wine",
+                "yelp": "https://www.yelp.com/biz/bin-70-wine-new-york",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c259e1c6bbff69:0x5e1414f2f3e43eb6",
+            "google_id": "0x89c259e1c6bbff69:0x5e1414f2f3e43eb6",
+            "place_id": "ChIJaf-7xuFZwokRtj7k8_IUFF4",
+            "google_mid": "/g/11s9hfdwbl",
+            "phone_number": "+18885524648",
+            "name": "Bin It",
+            "latitude": 40.739442,
+            "longitude": -73.936906,
+            "full_address": "Bin It, 49-29 30th Pl, Long Island City, NY 11101",
+            "review_count": 80,
+            "rating": 5,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20135 PM"
+                ]
+            },
+            "website": "https://bin-it.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c259e1c6bbff69:0x5e1414f2f3e43eb6",
+            "cid": "6779066372805902006",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaf-7xuFZwokRtj7k8_IUFF4&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "111709701416669002830",
+            "owner_link": "https://maps.google.com/maps/contrib/111709701416669002830",
+            "owner_name": "Bin It",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Moving supply store",
+            "subtypes": [
+                "Moving supply store",
+                "Mover",
+                "Storage facility"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP_p46xS6SKhUdihaFMO3z9BzVqf2iXy9sKJZAR",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP_p46xS6SKhUdihaFMO3z9BzVqf2iXy9sKJZAR",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP_p46xS6SKhUdihaFMO3z9BzVqf2iXy9sKJZAR=w960-h640-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7395067,
+                    "longitude": -73.9374697,
+                    "type": "photo",
+                    "photo_datetime_utc": "2020-11-15T00:00:00.000Z",
+                    "photo_timestamp": 1605398400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Payments": {
+                        "Checks": true,
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "49-29 30th Pl, Long Island City, NY 11101",
+            "order_link": null,
+            "price_level": null,
+            "district": "Long Island City",
+            "street_address": "49-29 30th Pl",
+            "city": "Long Island City",
+            "zipcode": "11101",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "moving@bin-it.com",
+                    "crew@bin-it.com"
+                ],
+                "phone_numbers": [
+                    "18885524648"
+                ],
+                "facebook": "https://www.facebook.com/binitbox",
+                "instagram": "https://www.instagram.com/binitbox",
+                "yelp": "https://www.yelp.com/biz/bin-it-queens-2",
+                "tiktok": "https://www.tiktok.com/@cheyennebinit1",
+                "snapchat": null,
+                "twitter": "https://twitter.com/binitbox",
+                "linkedin": "https://www.linkedin.com/company/bin-it",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/binitbox"
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c259978bd99f2d:0xe63f4341abf1d7ce",
+            "google_id": "0x89c259978bd99f2d:0xe63f4341abf1d7ce",
+            "place_id": "ChIJLZ_Zi5dZwokRztfxq0FDP-Y",
+            "google_mid": "/g/11g_y1x1s",
+            "phone_number": "+19172614863",
+            "name": "Beacon's Closet",
+            "latitude": 40.7355191,
+            "longitude": -73.9950968,
+            "full_address": "Beacon's Closet, 10 W 13th St, New York, NY 10011",
+            "review_count": 573,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 8\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20138 PM"
+                ]
+            },
+            "website": "http://www.beaconscloset.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c259978bd99f2d:0xe63f4341abf1d7ce",
+            "cid": "16591053501592885198",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLZ_Zi5dZwokRztfxq0FDP-Y&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "112137974602348375000",
+            "owner_link": "https://maps.google.com/maps/contrib/112137974602348375000",
+            "owner_name": "Beacon's Closet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Second hand store",
+            "subtypes": [
+                "Second hand store",
+                "Clothing store",
+                "Thrift store",
+                "Used clothing store",
+                "Vintage clothing store",
+                "Women's clothing store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipNANKjy1HrE26F_wC9VRBk0fkLOcWXtkR0JBMj5",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNANKjy1HrE26F_wC9VRBk0fkLOcWXtkR0JBMj5",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNANKjy1HrE26F_wC9VRBk0fkLOcWXtkR0JBMj5=w3024-h4032-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7356894,
+                    "longitude": -73.9949719,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-05-10T00:00:00.000Z",
+                    "photo_timestamp": 1652140800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 136,
+            "about": {
+                "summary": "Trendy resale outfit for vintage & modern clothing & accessories from mass brands to top designers.",
+                "details": {
+                    "Service options": {
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Offerings": {
+                        "Buys used goods": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "10 W 13th St, New York, NY 10011",
+            "order_link": null,
+            "price_level": "$",
+            "district": "Manhattan",
+            "street_address": "10 W 13th St",
+            "city": "New York",
+            "zipcode": "10011",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "bushwick@beaconscloset.com",
+                    "manhattan@beaconscloset.com",
+                    "greenpoint@beaconscloset.com",
+                    "parkslope@beaconscloset.com",
+                    "info@beaconscloset.com",
+                    "bagit@beaconscloset.com",
+                    "calderk@gmail.com"
+                ],
+                "phone_numbers": [
+                    "1122271848608",
+                    "1120671841756",
+                    "1001191726148",
+                    "1121771823016"
+                ],
+                "facebook": "https://www.facebook.com/beaconsclosetnyc",
+                "instagram": "https://www.instagram.com/beaconscloset",
+                "yelp": "https://www.yelp.com/biz/beacons-closet-new-york",
+                "tiktok": "https://www.tiktok.com/@beaconscloset",
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UCHyxFAyDAd36MC7Cnq52ieA",
+                "pinterest": "https://www.pinterest.com/beaconscloset"
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89d9f3045f3511e1:0xbfae582d964345a7",
+            "google_id": "0x89d9f3045f3511e1:0xbfae582d964345a7",
+            "place_id": "ChIJ4RE1XwTz2YkRp0VDli1Yrr8",
+            "google_mid": "/g/11tx68t_d1",
+            "phone_number": null,
+            "name": "Black Friday Bins",
+            "latitude": 43.0737887,
+            "longitude": -76.1200563,
+            "full_address": "Black Friday Bins, 139 Shop City Plaza, Syracuse, NY 13206",
+            "review_count": 242,
+            "rating": 4.5,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.blackfridaybinssyr.com",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89d9f3045f3511e1:0xbfae582d964345a7",
+            "cid": "13812074060009653671",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4RE1XwTz2YkRp0VDli1Yrr8&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "103483917182111101486",
+            "owner_link": "https://maps.google.com/maps/contrib/103483917182111101486",
+            "owner_name": "Black Friday Bins",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMIevraVzPVyuelkZ9XsoorpDTbGHV7mUXysAU9",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMIevraVzPVyuelkZ9XsoorpDTbGHV7mUXysAU9",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMIevraVzPVyuelkZ9XsoorpDTbGHV7mUXysAU9=w2048-h1536-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.0735798,
+                    "longitude": -76.12029849999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-05-27T00:00:00.000Z",
+                    "photo_timestamp": 1685145600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "139 Shop City Plaza, Syracuse, NY 13206",
+            "order_link": null,
+            "price_level": null,
+            "district": "Lyncourt",
+            "street_address": "139 Shop City Plaza",
+            "city": "Syracuse",
+            "zipcode": "13206",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25f3ad200d3c3:0xec933c3fc5e0acb7",
+            "google_id": "0x89c25f3ad200d3c3:0xec933c3fc5e0acb7",
+            "place_id": "ChIJw9MA0jpfwokRt6zgxT88k-w",
+            "google_mid": "/g/119wl9r72",
+            "phone_number": "+18885524648",
+            "name": "Ez Bins Moving Boxes",
+            "latitude": 40.756782,
+            "longitude": -73.922201,
+            "full_address": "Ez Bins Moving Boxes, 34-12 38th St, Astoria, NY 11101",
+            "review_count": 14,
+            "rating": 4.7,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20139 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20133 PM"
+                ]
+            },
+            "website": "http://www.ezbins.com",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25f3ad200d3c3:0xec933c3fc5e0acb7",
+            "cid": "17047035259127901367",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJw9MA0jpfwokRt6zgxT88k-w&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "115362269731133096918",
+            "owner_link": "https://maps.google.com/maps/contrib/115362269731133096918",
+            "owner_name": "Ez Bins Moving Boxes",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Moving supply store",
+            "subtypes": [
+                "Moving supply store",
+                "Moving and storage service",
+                "Mover"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOjJngkE1yI3x7macWOs3nIO-WdFI2sAdZ2kgte",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOjJngkE1yI3x7macWOs3nIO-WdFI2sAdZ2kgte",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOjJngkE1yI3x7macWOs3nIO-WdFI2sAdZ2kgte=w4080-h3072-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7566747,
+                    "longitude": -73.92196919999999,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-06-20T00:00:00.000Z",
+                    "photo_timestamp": 1718841600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "34-12 38th St, Astoria, NY 11101",
+            "order_link": null,
+            "price_level": null,
+            "district": "Astoria",
+            "street_address": "34-12 38th St",
+            "city": "Astoria",
+            "zipcode": "11101",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "crew@ezbins.com",
+                    "support@ezbins.com"
+                ],
+                "phone_numbers": [
+                    "18885524648",
+                    "8083202300"
+                ],
+                "facebook": "https://www.facebook.com/Ezbins",
+                "instagram": "https://www.instagram.com/ezbinsdfw",
+                "yelp": "https://www.yelp.com/biz/ez-bins-moving-boxes-long-island-city-3",
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/ezbins",
+                "linkedin": null,
+                "github": null,
+                "youtube": "https://www.youtube.com/channel/UC5zBDdcRjDF8HpKx9ZH6sbg",
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c259a333443a97:0xa2d17a08e399491c",
+            "google_id": "0x89c259a333443a97:0xa2d17a08e399491c",
+            "place_id": "ChIJlzpEM6NZwokRHEmZ4wh60aI",
+            "google_mid": "/g/1tqnmk6l",
+            "phone_number": "+12123664200",
+            "name": "The Container Store",
+            "latitude": 40.7403433,
+            "longitude": -73.994933,
+            "full_address": "The Container Store, 629 6th Ave, New York, NY 10011",
+            "review_count": 1466,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.containerstore.com/stores/ny/new-york/629-sixth-avenue?cid=ns:maps:google:main-store:35-6AV",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c259a333443a97:0xa2d17a08e399491c",
+            "cid": "11732292682873653532",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlzpEM6NZwokRHEmZ4wh60aI&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "112298327234872590652",
+            "owner_link": "https://maps.google.com/maps/contrib/112298327234872590652",
+            "owner_name": "The Container Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Contractor",
+                "Furniture store",
+                "Kitchen supply store",
+                "Office supply store",
+                "Shelving store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMLwjYk4s_acHpWAtRaJwMEsAhc-MH1kDciBoJb",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMLwjYk4s_acHpWAtRaJwMEsAhc-MH1kDciBoJb",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMLwjYk4s_acHpWAtRaJwMEsAhc-MH1kDciBoJb=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.740258399999995,
+                    "longitude": -73.9947408,
+                    "type": "photo",
+                    "photo_datetime_utc": "2018-09-17T00:00:00.000Z",
+                    "photo_timestamp": 1537142400
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1345,
+            "about": {
+                "summary": "Chain retailer specializing in storage & organization supplies, including closet & shelving systems.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "629 6th Ave, New York, NY 10011",
+            "order_link": null,
+            "price_level": "$$",
+            "district": "Manhattan",
+            "street_address": "629 6th Ave",
+            "city": "New York",
+            "zipcode": "10011",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89d977083a804625:0x7fb5bf4800321901",
+            "google_id": "0x89d977083a804625:0x7fb5bf4800321901",
+            "place_id": "ChIJJUaAOgh32YkRARkyAEi_tX8",
+            "google_mid": "/g/11szchpn18",
+            "phone_number": null,
+            "name": "Bin City Discount Store",
+            "latitude": 43.231251,
+            "longitude": -75.44043599999999,
+            "full_address": "Bin City Discount Store, 111 E Chestnut St, Rome, NY 13440",
+            "review_count": 43,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Tuesday": [
+                    "Closed"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Friday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Saturday": [
+                    "11 AM\u20136 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89d977083a804625:0x7fb5bf4800321901",
+            "cid": "9202471729563310337",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJUaAOgh32YkRARkyAEi_tX8&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "112889309576071325977",
+            "owner_link": "https://maps.google.com/maps/contrib/112889309576071325977",
+            "owner_name": "Bin City Discount Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOK-zIrfQm5Ykq2FaR1k52w5Knde5UKqDX3zTiG",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOK-zIrfQm5Ykq2FaR1k52w5Knde5UKqDX3zTiG",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOK-zIrfQm5Ykq2FaR1k52w5Knde5UKqDX3zTiG=w1536-h2048-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 43.231276,
+                    "longitude": -75.4405894,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-06-14T00:00:00.000Z",
+                    "photo_timestamp": 1655164800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 244,
+            "about": {
+                "summary": null,
+                "details": {
+                    "From the business": {
+                        "Small business": true
+                    },
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "111 E Chestnut St, Rome, NY 13440",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "111 E Chestnut St",
+            "city": "Rome",
+            "zipcode": "13440",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c25ed31405f887:0xe10adfad6b5d3c88",
+            "google_id": "0x89c25ed31405f887:0xe10adfad6b5d3c88",
+            "place_id": "ChIJh_gFFNNewokRiDxda63fCuE",
+            "google_mid": "/g/12hvspytd",
+            "phone_number": "+17183920125",
+            "name": "Goodwill NYNJ Outlet Store & Donation Center",
+            "latitude": 40.7415349,
+            "longitude": -73.93379469999999,
+            "full_address": "Goodwill NYNJ Outlet Store & Donation Center, 47-47 Van Dam St, Long Island City, NY 11101",
+            "review_count": 580,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Closes soon \u22c5 4\u202fPM \u22c5 Opens 9\u202fAM Mon",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20134 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20134 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20134 PM"
+                ]
+            },
+            "website": "https://goodwillnynj.org/locations/ny/VanDamSt",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c25ed31405f887:0xe10adfad6b5d3c88",
+            "cid": "16216019344224500872",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh_gFFNNewokRiDxda63fCuE&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "107520527546120304603",
+            "owner_link": "https://maps.google.com/maps/contrib/107520527546120304603",
+            "owner_name": "Goodwill NYNJ Outlet Store & Donation Center",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Clothing store",
+                "Donations center",
+                "Fashion accessories store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOLRIRXlFyEXKAJOXTHjd_eu0vHLdFZC_yNV9SS",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOLRIRXlFyEXKAJOXTHjd_eu0vHLdFZC_yNV9SS",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOLRIRXlFyEXKAJOXTHjd_eu0vHLdFZC_yNV9SS=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.7417227,
+                    "longitude": -73.9341714,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-07-16T00:00:00.000Z",
+                    "photo_timestamp": 1500163200
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 94,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "47-47 Van Dam St, Long Island City, NY 11101",
+            "order_link": null,
+            "price_level": null,
+            "district": "Long Island City",
+            "street_address": "47-47 Van Dam St",
+            "city": "Long Island City",
+            "zipcode": "11101",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c259812c57dcd3:0x291e55803de20d00",
+            "google_id": "0x89c259812c57dcd3:0x291e55803de20d00",
+            "place_id": "ChIJ09xXLIFZwokRAA3iPYBVHik",
+            "google_mid": "/g/1tfmd4c2",
+            "phone_number": "+12122546140",
+            "name": "B & B International",
+            "latitude": 40.7192505,
+            "longitude": -73.98867659999999,
+            "full_address": "B & B International, 110 Ludlow St, New York, NY 10002",
+            "review_count": 16,
+            "rating": 4.2,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Monday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Tuesday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Wednesday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Thursday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Friday": [
+                    "10:30 AM\u20136:30 PM"
+                ],
+                "Saturday": [
+                    "10:30 AM\u20136:30 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c259812c57dcd3:0x291e55803de20d00",
+            "cid": "2962899614138764544",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ09xXLIFZwokRAA3iPYBVHik&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "110070279250309325847",
+            "owner_link": "https://maps.google.com/maps/contrib/110070279250309325847",
+            "owner_name": "B & B International",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipM16MtSwK1ELfL0pNZDrTCCQM7kufHs40twEw4G",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM16MtSwK1ELfL0pNZDrTCCQM7kufHs40twEw4G",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM16MtSwK1ELfL0pNZDrTCCQM7kufHs40twEw4G=w3072-h4080-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 40.719281200000005,
+                    "longitude": -73.98877230000001,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-12-01T00:00:00.000Z",
+                    "photo_timestamp": 1669852800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": false
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "110 Ludlow St, New York, NY 10002",
+            "order_link": null,
+            "price_level": null,
+            "district": "Manhattan",
+            "street_address": "110 Ludlow St",
+            "city": "New York",
+            "zipcode": "10002",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        },
+        {
+            "business_id": "0x89c2f36047ef5981:0x97d6f881dff92b07",
+            "google_id": "0x89c2f36047ef5981:0x97d6f881dff92b07",
+            "place_id": "ChIJgVnvR2DzwokRByv534H41pc",
+            "google_mid": "/g/11h1dgx7gk",
+            "phone_number": null,
+            "name": "Bargain Store",
+            "latitude": 40.858150599999995,
+            "longitude": -73.86739709999999,
+            "full_address": "Bargain Store, 2212 White Plains Rd, Bronx, NY 10467",
+            "review_count": 9,
+            "rating": 3.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7:30\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137:30 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137:30 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c2f36047ef5981:0x97d6f881dff92b07",
+            "cid": "10941205581435316999",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgVnvR2DzwokRByv534H41pc&q=bin+stores+in+new_york&authuser=0&hl=en&gl=US",
+            "owner_id": "102920703269169582250",
+            "owner_link": "https://maps.google.com/maps/contrib/102920703269169582250",
+            "owner_name": "Bargain Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "Xdl4S2XI9apoTuEy1yFuYQ",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xdl4S2XI9apoTuEy1yFuYQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=93.53319&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 40.85815873414169,
+                    "longitude": -73.86757128250912,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-26T00:00:00.000Z",
+                    "photo_timestamp": 1729900800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "2212 White Plains Rd, Bronx, NY 10467",
+            "order_link": null,
+            "price_level": null,
+            "district": "East Bronx",
+            "street_address": "2212 White Plains Rd",
+            "city": "Bronx",
+            "zipcode": "10467",
+            "state": "New York",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 126
+        }
+    ]
+}

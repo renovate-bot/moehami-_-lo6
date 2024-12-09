@@ -1,0 +1,587 @@
+{
+    "Status": "OK",
+    "Request-id": "1bf7cd04-39b6-4d0c-9b27-1ee4fbdc0fe7",
+    "Parameters": {
+        "query": "bin stores in delaware",
+        "language": "en",
+        "region": "us",
+        "lat": 37.09024,
+        "lng": -95.712891,
+        "zoom": 13,
+        "limit": 20,
+        "offset": 0,
+        "extract_emails_and_contacts": true
+    },
+    "Data": [
+        {
+            "business_id": "0x89c701003904a363:0x379eb5d5f9b2bb9e",
+            "google_id": "0x89c701003904a363:0x379eb5d5f9b2bb9e",
+            "place_id": "ChIJY6MEOQABx4kRnruy-dW1njc",
+            "google_mid": "/g/11vwrbdrc0",
+            "phone_number": null,
+            "name": "Delaware bin store",
+            "latitude": 39.705703199999995,
+            "longitude": -75.65153889999999,
+            "full_address": "Delaware bin store, 728 Stanton Christiana Rd, Newark, DE 19713",
+            "review_count": 4,
+            "rating": 2.8,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 5\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Wednesday": [
+                    "Closed"
+                ],
+                "Thursday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20135 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20135 PM"
+                ]
+            },
+            "website": null,
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c701003904a363:0x379eb5d5f9b2bb9e",
+            "cid": "4007840649028221854",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJY6MEOQABx4kRnruy-dW1njc&q=bin+stores+in+delaware&authuser=0&hl=en&gl=US",
+            "owner_id": "108609451725133944780",
+            "owner_link": "https://maps.google.com/maps/contrib/108609451725133944780",
+            "owner_name": "Delaware bin store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "General store",
+            "subtypes": [
+                "General store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMmAHLOpsHR65QDioknCLfEVQh1rns1aWIcVc-4",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMmAHLOpsHR65QDioknCLfEVQh1rns1aWIcVc-4",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMmAHLOpsHR65QDioknCLfEVQh1rns1aWIcVc-4=w4080-h3072-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.7056732,
+                    "longitude": -75.6520201,
+                    "type": "photo",
+                    "photo_datetime_utc": "2024-05-06T00:00:00.000Z",
+                    "photo_timestamp": 1714953600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 4,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Payments": {
+                        "Credit cards": true
+                    }
+                }
+            },
+            "address": "728 Stanton Christiana Rd, Newark, DE 19713",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "728 Stanton Christiana Rd",
+            "city": "Newark",
+            "zipcode": "19713",
+            "state": "Delaware",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 14
+        },
+        {
+            "business_id": "0x89b8f1ad7b0fa1c5:0xc3b78e1f3d4ebcf6",
+            "google_id": "0x89b8f1ad7b0fa1c5:0xc3b78e1f3d4ebcf6",
+            "place_id": "ChIJxaEPe63xuIkR9rxOPR-Ot8M",
+            "google_mid": "/g/11kpsznmwk",
+            "phone_number": "+13025679495",
+            "name": "Daily Deals",
+            "latitude": 38.6571947,
+            "longitude": -75.5950773,
+            "full_address": "Daily Deals, 23392 Sussex Hwy, Seaford, DE 19973",
+            "review_count": 21,
+            "rating": 4.3,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 7\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "Closed"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": null,
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b8f1ad7b0fa1c5:0xc3b78e1f3d4ebcf6",
+            "cid": "14102897022957698294",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxaEPe63xuIkR9rxOPR-Ot8M&q=bin+stores+in+delaware&authuser=0&hl=en&gl=US",
+            "owner_id": "116712752866081457949",
+            "owner_link": "https://maps.google.com/maps/contrib/116712752866081457949",
+            "owner_name": "Daily Deals",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Discount store",
+            "subtypes": [
+                "Discount store",
+                "Liquidator"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipP0xAOziwLDJLoLvz6BoZcQEXNNparmGXeP6F9B",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipP0xAOziwLDJLoLvz6BoZcQEXNNparmGXeP6F9B",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipP0xAOziwLDJLoLvz6BoZcQEXNNparmGXeP6F9B=w4032-h3024-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 38.657169599999996,
+                    "longitude": -75.5948209,
+                    "type": "photo",
+                    "photo_datetime_utc": "2023-07-06T00:00:00.000Z",
+                    "photo_timestamp": 1688601600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 3,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "23392 Sussex Hwy, Seaford, DE 19973",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "23392 Sussex Hwy",
+            "city": "Seaford",
+            "zipcode": "19973",
+            "state": "Delaware",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 14
+        },
+        {
+            "business_id": "0x89c7038e1ab1c0d9:0xa261fe6237cbf479",
+            "google_id": "0x89c7038e1ab1c0d9:0xa261fe6237cbf479",
+            "place_id": "ChIJ2cCxGo4Dx4kRefTLN2L-YaI",
+            "google_mid": "/g/1hc2b6dx3",
+            "phone_number": "+13023224716",
+            "name": "Goodwill Outlet",
+            "latitude": 39.6611111,
+            "longitude": -75.5905556,
+            "full_address": "Goodwill Outlet, 400 Centerpoint Blvd, New Castle, DE 19720",
+            "review_count": 242,
+            "rating": 3.7,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "12\u20136 PM"
+                ],
+                "Monday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Tuesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Wednesday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Thursday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "9 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "9 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.goodwillde.org",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c7038e1ab1c0d9:0xa261fe6237cbf479",
+            "cid": "11700913004681622649",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2cCxGo4Dx4kRefTLN2L-YaI&q=bin+stores+in+delaware&authuser=0&hl=en&gl=US",
+            "owner_id": "109082821122167632713",
+            "owner_link": "https://maps.google.com/maps/contrib/109082821122167632713",
+            "owner_name": "Goodwill Outlet",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Thrift store",
+            "subtypes": [
+                "Thrift store",
+                "Donations center"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipMBBcAvoJZaX_r93vkYIng0wGvTkaFqvd1ncsJ5",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMBBcAvoJZaX_r93vkYIng0wGvTkaFqvd1ncsJ5",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMBBcAvoJZaX_r93vkYIng0wGvTkaFqvd1ncsJ5=w4032-h2268-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.66111110654047,
+                    "longitude": -75.5905556364793,
+                    "type": "photo",
+                    "photo_datetime_utc": "2022-11-11T00:00:00.000Z",
+                    "photo_timestamp": 1668124800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 243,
+            "about": {
+                "summary": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+                "details": {
+                    "Service options": {
+                        "Onsite services": true,
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Recycling": {
+                        "Clothing": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "400 Centerpoint Blvd, New Castle, DE 19720",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "400 Centerpoint Blvd",
+            "city": "New Castle",
+            "zipcode": "19720",
+            "state": "Delaware",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [
+                    "mission@goodwillde.org",
+                    "pmengers@goodwillde.org"
+                ],
+                "phone_numbers": [
+                    "3023224716",
+                    "3025041734",
+                    "3027614640",
+                    "3029930413"
+                ],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": "https://twitter.com/goodwillde",
+                "linkedin": "https://www.linkedin.com/company/goodwillde",
+                "github": null,
+                "youtube": null,
+                "pinterest": "https://www.pinterest.com/goodwillde"
+            },
+            "no": 14
+        },
+        {
+            "business_id": "0x89c7013954cc7221:0xd51e734a37ed1d3e",
+            "google_id": "0x89c7013954cc7221:0xd51e734a37ed1d3e",
+            "place_id": "ChIJIXLMVDkBx4kRPh3tN0pzHtU",
+            "google_mid": "/g/11bwfm82bl",
+            "phone_number": "+13023175980",
+            "name": "The Container Store",
+            "latitude": 39.673865899999996,
+            "longitude": -75.6496722,
+            "full_address": "The Container Store, 2200 Fashion Center Blvd, Newark, DE 19702",
+            "review_count": 309,
+            "rating": 4.4,
+            "timezone": "America/New_York",
+            "opening_status": "Open \u22c5 Closes 6\u202fPM",
+            "working_hours": {
+                "Sunday": [
+                    "11 AM\u20136 PM"
+                ],
+                "Monday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Tuesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20138 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20138 PM"
+                ]
+            },
+            "website": "https://www.containerstore.com/stores/de/newark/2200-fashion-center-blvd?cid=ns:maps:google:main-store:84-DEL",
+            "verified": true,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89c7013954cc7221:0xd51e734a37ed1d3e",
+            "cid": "15356838541983030590",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIXLMVDkBx4kRPh3tN0pzHtU&q=bin+stores+in+delaware&authuser=0&hl=en&gl=US",
+            "owner_id": "106306907962716166805",
+            "owner_link": "https://maps.google.com/maps/contrib/106306907962716166805",
+            "owner_name": "The Container Store",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Home goods store",
+            "subtypes": [
+                "Home goods store",
+                "Contractor",
+                "Furniture store",
+                "Kitchen supply store",
+                "Office supply store",
+                "Shelving store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "AF1QipOPSSDXfKMPKjUkL1H7WCowhqlYjq7ASsVzan-x",
+                    "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOPSSDXfKMPKjUkL1H7WCowhqlYjq7ASsVzan-x",
+                    "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOPSSDXfKMPKjUkL1H7WCowhqlYjq7ASsVzan-x=w1494-h840-k-no",
+                    "video_thumbnail_url": null,
+                    "latitude": 39.673586,
+                    "longitude": -75.64988060000002,
+                    "type": "photo",
+                    "photo_datetime_utc": "2017-11-12T00:00:00.000Z",
+                    "photo_timestamp": 1510444800
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 254,
+            "about": {
+                "summary": "Chain retailer specializing in storage & organization supplies, including closet & shelving systems.",
+                "details": {
+                    "From the business": {
+                        "Identifies as women-owned": true
+                    },
+                    "Service options": {
+                        "Curbside pickup": true,
+                        "Delivery": true,
+                        "In-store pickup": true,
+                        "In-store shopping": true,
+                        "Onsite services": true,
+                        "Same-day delivery": true
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible entrance": true,
+                        "Wheelchair accessible parking lot": true
+                    },
+                    "Offerings": {
+                        "Assembly service": true
+                    },
+                    "Crowd": {
+                        "LGBTQ+ friendly": true,
+                        "Transgender safespace": true
+                    },
+                    "Planning": {
+                        "Quick visit": true
+                    },
+                    "Payments": {
+                        "Credit cards": true,
+                        "Debit cards": true,
+                        "NFC mobile payments": true
+                    }
+                }
+            },
+            "address": "2200 Fashion Center Blvd, Newark, DE 19702",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "2200 Fashion Center Blvd",
+            "city": "Newark",
+            "zipcode": "19702",
+            "state": "Delaware",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 14
+        },
+        {
+            "business_id": "0x89b8fce20bc73dbf:0xa90efc326212cdc1",
+            "google_id": "0x89b8fce20bc73dbf:0xa90efc326212cdc1",
+            "place_id": "ChIJvz3HC-L8uIkRwc0SYjL8Dqk",
+            "google_mid": "/g/1hc7jv3ys",
+            "phone_number": "+13022806900",
+            "name": "H & L Bargain Barn",
+            "latitude": 38.498577399999995,
+            "longitude": -75.5580916,
+            "full_address": "H & L Bargain Barn, 34936 Sussex Hwy, Delmar, DE 19940",
+            "review_count": 0,
+            "rating": null,
+            "timezone": "America/New_York",
+            "opening_status": "Closed \u22c5 Opens 10\u202fAM Tue",
+            "working_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "Closed"
+                ],
+                "Tuesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Wednesday": [
+                    "10 AM\u20134 PM"
+                ],
+                "Thursday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Friday": [
+                    "10 AM\u20137 PM"
+                ],
+                "Saturday": [
+                    "10 AM\u20137 PM"
+                ]
+            },
+            "website": "http://www.facebook.com/HLBargainBarn",
+            "verified": false,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x89b8fce20bc73dbf:0xa90efc326212cdc1",
+            "cid": "12181951335407734209",
+            "reviews_link": null,
+            "owner_id": "102441037288971560595",
+            "owner_link": "https://maps.google.com/maps/contrib/102441037288971560595",
+            "owner_name": "H & L Bargain Barn",
+            "booking_link": null,
+            "reservations_link": null,
+            "business_status": "OPEN",
+            "type": "Store",
+            "subtypes": [
+                "Store"
+            ],
+            "photos_sample": [
+                {
+                    "photo_id": "DuSEBC6BkfnrM6oIii7CiA",
+                    "photo_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DuSEBC6BkfnrM6oIii7CiA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=267.9141&pitch=0&thumbfov=100",
+                    "photo_url_large": null,
+                    "video_thumbnail_url": null,
+                    "latitude": 38.498593537700636,
+                    "longitude": -75.55752545624016,
+                    "type": "street_view",
+                    "photo_datetime_utc": "2024-10-28T00:00:00.000Z",
+                    "photo_timestamp": 1730073600
+                }
+            ],
+            "reviews_per_rating": null,
+            "photo_count": 1,
+            "about": {
+                "summary": null,
+                "details": {
+                    "Service options": {
+                        "Delivery": false,
+                        "Same-day delivery": false
+                    },
+                    "Accessibility": {
+                        "Wheelchair accessible parking lot": true
+                    }
+                }
+            },
+            "address": "34936 Sussex Hwy, Delmar, DE 19940",
+            "order_link": null,
+            "price_level": null,
+            "district": null,
+            "street_address": "34936 Sussex Hwy",
+            "city": "Delmar",
+            "zipcode": "19940",
+            "state": "Delaware",
+            "country": "US",
+            "emails_and_contacts": {
+                "emails": [],
+                "phone_numbers": [],
+                "facebook": null,
+                "instagram": null,
+                "yelp": null,
+                "tiktok": null,
+                "snapchat": null,
+                "twitter": null,
+                "linkedin": null,
+                "github": null,
+                "youtube": null,
+                "pinterest": null
+            },
+            "no": 14
+        }
+    ]
+}

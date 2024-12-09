@@ -96,7 +96,6 @@ export default function StateClientComponent({ state }: { state: string }) {
     importData();
   }, [stateFormatted]);
 
-  const storeCount = storeData.length;
 
   return (
     <div className="container mx-auto px-4 py-12">
@@ -104,7 +103,7 @@ export default function StateClientComponent({ state }: { state: string }) {
         <Link href="/">
           <Button variant="ghost" size="sm">
             <ArrowLeft className="h-4 w-4 mr-2" />
-            Back to Map
+            Back to Home
           </Button>
         </Link>
         <div>
@@ -117,9 +116,7 @@ export default function StateClientComponent({ state }: { state: string }) {
         </div>
       </div>
 
-      <div className="mb-8">
-        <h2 className="text-2xl font-bold">Total Stores: {storeCount}</h2>
-      </div>
+      
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {storeData.length > 0 ? (
@@ -131,7 +128,7 @@ export default function StateClientComponent({ state }: { state: string }) {
               rating={store.rating}
               image={store.photos_sample[0]?.photo_url_large || "/images/states/notfound.png"}
               tags={store.subtypes}
-              address={store.full_address}
+              address={store.address}
               phone={store.phone_number}
               reviewCount={store.review_count}
               status={store.opening_status}
