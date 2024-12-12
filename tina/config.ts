@@ -1,4 +1,5 @@
 import { defineConfig } from "tinacms";
+import slugify from "slugify"; // For generating SEO-friendly filenames
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -8,6 +9,10 @@ const branch =
   "main";
 
 export default defineConfig({
+  client: {
+    // Replace with your TinaCMS GraphQL API URL
+    apiUrl: process.env.NEXT_PUBLIC_TINA_URL || "http://localhost:4001/graphql",
+  },
   branch,
 
   // Get this from tina.io
@@ -29,28 +34,48 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        label: "Blog Posts",
+        name: "posts",
+        path: "app/blog/content/posts",
+        format: "md",
+        ui: {
+          filename: {
+            // Generate SEO-friendly filenames based on the title
+            slugify: (values) => {
+              return slugify(values.title || "untitled", {
+                lower: true,
+                strict: true,
+              });
+            },
+          },
+        },
         fields: [
           {
             type: "string",
-            name: "title",
             label: "Title",
+            name: "title",
             isTitle: true,
             required: true,
           },
           {
+            type: "string",
+            label: "Author",
+            name: "author",
+            required: true,
+          },
+          {
+            type: "datetime",
+            label: "Date",
+            name: "date",
+            required: true,
+          },
+          {
             type: "rich-text",
+            label: "Content",
             name: "body",
-            label: "Body",
             isBody: true,
           },
         ],
-        ui: {
-          // This is an DEMO router. You can remove this to fit your site
-          router: ({ document }) => `/demo/blog/${document._sys.filename}`,
-        },
       },
     ],
   },

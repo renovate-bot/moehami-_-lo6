@@ -1,10 +1,10 @@
 ---
-description: Welcome to my new blog about web development
-title: My First Blog Post
-author: Alaa M
-date: 2024-02-15T00:00:00.000Z
-body: >
-  Introduction
+title: Harnessing the Power of AI
+author: MOe
+date: 2024-12-11T22:00:00.000Z
+---
+
+  **Introduction**
 
 
   Artificial Intelligence (AI) has rapidly evolved from a futuristic concept to
