@@ -8,6 +8,7 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['radix-ui'],
   },
+  
 };
 
 
