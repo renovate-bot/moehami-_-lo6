@@ -4,7 +4,9 @@ author: MOe
 date: 2024-12-11T22:00:00.000Z
 ---
 
-This is my 3rd blog post using MDX in Next.js.
+This is my 3rd blog post using MD in Next.js.
+
+![test alt](/347285793_223516420579394_530839560032028018_n.jpg)
 
 ## What to Expect
 
