@@ -1,21 +1,28 @@
-// app/blog/[slug]/page.tsx
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { notFound } from 'next/navigation'; // For 404 handling
+import { Metadata } from 'next';
+import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 
+// Define an interface for the post data
+interface PostData {
+  title: string;
+  date: string;
+  author: string;
+  summary?: string;
+  description?: string;
+  content: string;
+}
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
-function getPostBySlug(slug: string) {
+function getPostBySlug(slug: string): PostData | null {
   const filePath = path.join(postsDirectory, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
-
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(fileContents);
-
-  return { ...data, content };
+  return { ...data, content } as PostData;
 }
 
 export async function generateStaticParams() {
@@ -25,8 +32,11 @@ export async function generateStaticParams() {
   }));
 }
 
-
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ 
+  params 
+}: { 
+  params: { slug: string } 
+}): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
   
   if (!post) {
@@ -35,21 +45,23 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       description: 'The requested blog post could not be found.',
     };
   }
-
   return {
-    title: post.title, // Sets the post title as the <title>
-    description: post.summary || post.description, // Optional summary
+    title: post.title,
+    description: post.summary || post.description,
   };
 }
  
-
-export default function BlogPost({ params }: { params: { slug: string } }) {
+export default function BlogPost({ 
+  params 
+}: { 
+  params: { slug: string } 
+}) {
   const post = getPostBySlug(params.slug);
-
+  
   if (!post) {
     notFound();
   }
-
+  
   return (
     <div className="container mx-auto px-4 py-12 prose prose-lg">
       <h1 className="text-4xl font-bold mb-8">{post.title}</h1>
