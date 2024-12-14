@@ -2,10 +2,10 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { client } from '@/tina/__generated__/client';
-import { PageProps } from '@/types/states';
+
 
 // Create a more comprehensive type definition
-/*type PageProps = {
+type PageProps = {
   params: { 
     slug: string; 
   };
@@ -13,7 +13,7 @@ import { PageProps } from '@/types/states';
     [key: string]: string | string[] | undefined 
   };
 };
-*/
+
 export async function generateStaticParams() {
   try {
     const postsResponse = await client.queries.postConnection();
