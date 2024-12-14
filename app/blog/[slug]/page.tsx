@@ -33,7 +33,7 @@ type PageProps = {
 
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
-  
+
   if (!post) {
     return {
       title: 'Post Not Found - My Blog',
@@ -42,10 +42,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 
   return {
-    title: post.title, // Sets the post title as the <title>
-    description: post.summary || post.description, // Optional summary
+    title: post.title,
+    description: post.summary || post.description,
   };
 }
+
  
 
 export default function BlogPost({ params }: PageProps) {
