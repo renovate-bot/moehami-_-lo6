@@ -1,7 +1,7 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
 import slugify from "slugify";
-var branch = process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || "master";
+var branch = process.env.GITHUB_BRANCH || process.env.HEAD || "master";
 var config_default = defineConfig({
   client: {
     // Replace with your TinaCMS GraphQL API URL

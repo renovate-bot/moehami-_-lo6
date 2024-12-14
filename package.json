@@ -3,13 +3,12 @@
   "version": "0.2.1",
   "private": true,
   "scripts": {
-  "dev": "pnpm tinacms dev -c \"next dev\"",
+    "dev": "pnpm tinacms dev -c \"next dev\"",
     "build": "pnpm tinacms build && next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
     "class-variance-authority": "^0.7.0",
@@ -34,8 +33,9 @@
   },
   "devDependencies": {
     "@tinacms/cli": "^1.5.53",
-    "@types/node": "^20",
-    "typescript": "5.7.2"
+    "@types/node": "^20.17.10",
+    "@types/react": "^18.3.16",
+    "typescript": "^5.7.2"
   },
   "description": "bin stores project",
   "main": "next.config.js",
