@@ -25,6 +25,11 @@ export async function generateStaticParams() {
   }));
 }
 
+type PageProps = {
+  params: {
+    slug: string;
+  };
+};
 
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
@@ -43,7 +48,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 }
  
 
-export default function BlogPost({ params }: { params: { slug: string } }) {
+export default function BlogPost({ params }: PageProps) {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
