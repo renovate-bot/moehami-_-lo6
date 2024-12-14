@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tinacms/graphql": "^1.5.9",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
     "class-variance-authority": "^0.7.0",
@@ -29,7 +30,7 @@
     "tailwind-merge": "^2.5.2",
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.7",
-    "tinacms": "^2.1.1"
+    "tinacms": "^2.5.2"
   },
   "devDependencies": {
     "@tinacms/cli": "^1.5.53",
