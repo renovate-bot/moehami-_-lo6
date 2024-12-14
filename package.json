@@ -3,8 +3,8 @@
   "version": "0.2.1",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+  "dev": "pnpm tinacms dev -c \"next dev\"",
+    "build": "pnpm tinacms build && next build",
     "start": "next start",
     "lint": "next lint"
   },
