@@ -1,6 +1,6 @@
 {
   "name": "lobinstores",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "scripts": {
     "dev": "pnpm tinacms dev -c \"next dev\"",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "lo6"
+    "url": "https://github.com/moehami/lo6"
   },
   "author": "MOe",
   "license": "ISC"
