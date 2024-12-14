@@ -3,18 +3,11 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { client } from '@/tina/__generated__/client';
 
-// Define types for better type safety
-type PostFrontMatter = {
-  title: string;
-  date: string;
-  author: string;
-  summary?: string;
-  description?: string;
-};
-
-type Post = PostFrontMatter & {
-  content: string;
-  slug: string;
+// Explicitly define the params type to match Next.js expectations
+export type Params = {
+  params: {
+    slug: string;
+  };
 };
 
 export async function generateStaticParams() {
@@ -31,9 +24,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ 
   params 
-}: { 
-  params: { slug: string } 
-}): Promise<Metadata> {
+}: Params): Promise<Metadata> {
   try {
     const postResponse = await client.queries.post({
       relativePath: `${params.slug}.md`
@@ -59,13 +50,7 @@ export async function generateMetadata({
   }
 }
 
-type BlogPostProps = {
-  params: {
-    slug: string;
-  };
-};
-
-export default async function BlogPost({ params }: BlogPostProps) {
+export default async function BlogPost({ params }: Params) {
   try {
     const postResponse = await client.queries.post({
       relativePath: `${params.slug}.md`
