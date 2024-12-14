@@ -4,7 +4,6 @@ import slugify from "slugify"; // For generating SEO-friendly filenames
 // Your hosting provider likely exposes this as an environment variable
 const branch =
   process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "master";
 
