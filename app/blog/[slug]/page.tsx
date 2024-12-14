@@ -5,31 +5,52 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 
-// Define an interface for the post data
-interface PostData {
+// Define types for better type safety
+type PostFrontMatter = {
   title: string;
   date: string;
   author: string;
   summary?: string;
   description?: string;
+};
+
+type Post = PostFrontMatter & {
   content: string;
-}
+  slug: string;
+};
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
-function getPostBySlug(slug: string): PostData | null {
-  const filePath = path.join(postsDirectory, `${slug}.md`);
-  if (!fs.existsSync(filePath)) return null;
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  const { data, content } = matter(fileContents);
-  return { ...data, content } as PostData;
+function getPostBySlug(slug: string): Post | null {
+  try {
+    const filePath = path.join(postsDirectory, `${slug}.md`);
+    
+    if (!fs.existsSync(filePath)) return null;
+    
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const { data, content } = matter(fileContents);
+    
+    return {
+      ...data,
+      content,
+      slug,
+    } as Post;
+  } catch (error) {
+    console.error('Error reading post:', error);
+    return null;
+  }
 }
 
 export async function generateStaticParams() {
-  const fileNames = fs.readdirSync(postsDirectory);
-  return fileNames.map((fileName) => ({
-    slug: fileName.replace(/\.md$/, ''),
-  }));
+  try {
+    const fileNames = fs.readdirSync(postsDirectory);
+    return fileNames.map((fileName) => ({
+      slug: fileName.replace(/\.md$/, ''),
+    }));
+  } catch (error) {
+    console.error('Error generating static params:', error);
+    return [];
+  }
 }
 
 export async function generateMetadata({ 
@@ -45,17 +66,20 @@ export async function generateMetadata({
       description: 'The requested blog post could not be found.',
     };
   }
+  
   return {
     title: post.title,
     description: post.summary || post.description,
   };
 }
- 
-export default function BlogPost({ 
-  params 
-}: { 
-  params: { slug: string } 
-}) {
+
+type BlogPostProps = {
+  params: {
+    slug: string;
+  };
+};
+
+export default function BlogPost({ params }: BlogPostProps) {
   const post = getPostBySlug(params.slug);
   
   if (!post) {
