@@ -4,6 +4,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
+import { useEffect, useState } from 'react';
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
@@ -24,9 +25,8 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: Promise<{ params: { slug: string } }>) {
-  const { params: resolvedParams } = await params;
-  const post = await getPostBySlug(resolvedParams.slug);
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const post = await getPostBySlug(params.slug);
   
   if (!post) {
     return {
@@ -41,13 +41,24 @@ export async function generateMetadata({ params }: Promise<{ params: { slug: str
   };
 }
 
-export default async function BlogPost({ params }: Promise<{ params: { slug: string } }>) {
-  const { params: resolvedParams } = await params;
-  const post = await getPostBySlug(resolvedParams.slug);
+export default function BlogPost({ params }: { params: { slug: string } }) {
+  const [post, setPost] = useState<any>(null);
+
+  useEffect(() => {
+    async function fetchPost() {
+      const postData = await getPostBySlug(params.slug);
+      if (postData) {
+        setPost(postData);
+      } else {
+        notFound();
+      }
+    }
+    
+    fetchPost();
+  }, [params.slug]);
 
   if (!post) {
-    notFound();
-    return <div>Post not found</div>;
+    return <div>Loading...</div>;
   }
 
   return (
