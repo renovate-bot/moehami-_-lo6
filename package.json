@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "pnpm tinacms dev -c \"next dev\"",
     "build": "pnpm tinacms build && next build",
-    "start": "next start",
+    "start": "pnpm tinacms build && next start",
     "lint": "next lint"
   },
   "dependencies": {
