@@ -18,5 +18,6 @@ export interface Store {
 
  export interface PageProps {
     params: P;
+   slug: string;
     searchParams?: { [key: string]: string | string[] | undefined };
   }
