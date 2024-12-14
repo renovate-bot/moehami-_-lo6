@@ -1,4 +1,5 @@
 // app/blog/[slug]/page.tsx
+"use client"
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
