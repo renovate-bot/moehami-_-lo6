@@ -1,12 +1,10 @@
 // app/blog/[slug]/page.tsx
-// app/blog/[slug]/page.tsx
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { notFound } from 'next/navigation'; // For 404 handling
 import ReactMarkdown from 'react-markdown';
-import { GetStaticPropsContext } from 'next';
-
+import { GetStaticProps, GetStaticPaths, GetStaticPropsContext } from 'next';
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
@@ -20,22 +18,47 @@ function getPostBySlug(slug: string) {
   return { ...data, content };
 }
 
-export async function generateStaticParams() {
+export const getStaticPaths: GetStaticPaths = async () => {
   const fileNames = fs.readdirSync(postsDirectory);
-  return fileNames.map((fileName) => ({
-    slug: fileName.replace(/\.md$/, ''),
+  const paths = fileNames.map((fileName) => ({
+    params: { slug: fileName.replace(/\.md$/, '') },
   }));
+
+  return { paths, fallback: false };
+};
+
+export const getStaticProps: GetStaticProps = async (context: GetStaticPropsContext) => {
+  const { params } = context;
+  const slug = params?.slug as string;
+  const post = getPostBySlug(slug);
+
+  if (!post) {
+    return {
+      notFound: true,
+    };
+  }
+
+  return {
+    props: {
+      post,
+    },
+  };
+};
+
+interface Post {
+  title: string;
+  summary?: string;
+  description?: string;
+  date: string;
+  author: string;
+  content: string;
 }
 
-export async function generateMetadata({ params }: GetStaticPropsContext) { const post = getPostBySlug(params.slug); if (!post) { return { title: 'Post Not Found - My Blog', description: 'The requested blog post could not be found.', }; } 
-return { 
-  title: post.title, // Sets the post title as the <title> 
-  description: post.summary || post.description, // Optional summary
-        }; }
+interface BlogPostProps {
+  post: Post;
+}
 
-export default function BlogPost({ params }: { params: { slug: string } }) { const post = getPostBySlug(params.slug); 
- if (!post) { notFound(); }
-
+export default function BlogPost({ post }: BlogPostProps) {
   return (
     <div className="container mx-auto px-4 py-12 prose prose-lg">
       <h1 className="text-4xl font-bold mb-8">{post.title}</h1>
