@@ -17,7 +17,7 @@ export interface Store {
 }
 
  export interface PageProps {
-    params: P;
+    params: string;
    slug: string;
-    searchParams?: { [key: string]: string | string[] | undefined };
+    searchParams?: string[];
   }
