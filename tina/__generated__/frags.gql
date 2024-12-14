@@ -1,0 +1,7 @@
+fragment PostsParts on Posts {
+  __typename
+  title
+  author
+  date
+  body
+}
