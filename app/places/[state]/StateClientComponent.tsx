@@ -2,8 +2,8 @@
 
 import React, { useEffect, useState } from 'react';
 
-import { Store } from "../../../components/stores/store-card";
-import { Button } from "../../../components/ui/button";
+import { Store } from "@/components/stores/store-card";
+import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
@@ -161,4 +161,3 @@ export default function StateClientComponent({ state }: { state: string }) {
     </div>
   );
 }
-
