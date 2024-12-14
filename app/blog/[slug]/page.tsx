@@ -1,22 +1,15 @@
 // app/blog/[slug]/page.tsx
+// app/blog/[slug]/page.tsx
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { notFound } from 'next/navigation';
+import { notFound } from 'next/navigation'; // For 404 handling
 import ReactMarkdown from 'react-markdown';
 
-interface PostData {
-  title: string;
-  summary?: string;
-  description?: string;
-  date: string;
-  author: string;
-  content: string;
-}
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
-function getPostBySlug(slug: string): PostData | null {
+function getPostBySlug(slug: string) {
   const filePath = path.join(postsDirectory, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
@@ -33,9 +26,10 @@ export async function generateStaticParams() {
   }));
 }
 
+
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
-
+  
   if (!post) {
     return {
       title: 'Post Not Found - My Blog',
@@ -44,10 +38,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 
   return {
-    title: post.title,
-    description: post.summary || post.description,
+    title: post.title, // Sets the post title as the <title>
+    description: post.summary || post.description, // Optional summary
   };
 }
+ 
 
 export default function BlogPost({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
