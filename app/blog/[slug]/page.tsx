@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { client } from '@/tina/__generated__/client';
 
+
 // Explicitly define the params type to match Next.js expectations
 export type Params = {
   params: {
