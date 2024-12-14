@@ -5,6 +5,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { notFound } from 'next/navigation'; // For 404 handling
 import ReactMarkdown from 'react-markdown';
+import { GetStaticPropsContext } from 'next';
 
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
@@ -26,30 +27,14 @@ export async function generateStaticParams() {
   }));
 }
 
+export async function generateMetadata({ params }: GetStaticPropsContext) { const post = getPostBySlug(params.slug); if (!post) { return { title: 'Post Not Found - My Blog', description: 'The requested blog post could not be found.', }; } 
+return { 
+  title: post.title, // Sets the post title as the <title> 
+  description: post.summary || post.description, // Optional summary
+        }; }
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
-  
-  if (!post) {
-    return {
-      title: 'Post Not Found - My Blog',
-      description: 'The requested blog post could not be found.',
-    };
-  }
-
-  return {
-    title: post.title, // Sets the post title as the <title>
-    description: post.summary || post.description, // Optional summary
-  };
-}
- 
-
-export default function BlogPost({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
-
-  if (!post) {
-    notFound();
-  }
+export default function BlogPost({ params }: { params: { slug: string } }) { const post = getPostBySlug(params.slug); 
+ if (!post) { notFound(); }
 
   return (
     <div className="container mx-auto px-4 py-12 prose prose-lg">
