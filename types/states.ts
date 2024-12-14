@@ -15,3 +15,8 @@ export interface Store {
   tags: string[];
   image?: string;
 }
+
+ export interface PageProps {
+    params: P;
+    searchParams?: { [key: string]: string | string[] | undefined };
+  }
