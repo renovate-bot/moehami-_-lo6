@@ -3,10 +3,13 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { client } from '@/tina/__generated__/client';
 
-// Explicitly define the params type to match Next.js expectations
-export type Params = {
-  params: {
-    slug: string;
+// Create a more comprehensive type definition
+type PageProps = {
+  params: { 
+    slug: string; 
+  };
+  searchParams?: { 
+    [key: string]: string | string[] | undefined 
   };
 };
 
@@ -24,7 +27,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ 
   params 
-}: Params): Promise<Metadata> {
+}: { params: { slug: string } }): Promise<Metadata> {
   try {
     const postResponse = await client.queries.post({
       relativePath: `${params.slug}.md`
@@ -50,7 +53,9 @@ export async function generateMetadata({
   }
 }
 
-export default async function BlogPost({ params }: Params) {
+export default async function BlogPost(props: PageProps) {
+  const { params } = props;
+
   try {
     const postResponse = await client.queries.post({
       relativePath: `${params.slug}.md`
