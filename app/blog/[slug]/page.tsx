@@ -2,9 +2,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { notFound } from 'next/navigation'; // For 404 handling
+import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
-import { GetStaticProps, GetStaticPaths, GetStaticPropsContext } from 'next';
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
@@ -18,47 +17,37 @@ function getPostBySlug(slug: string) {
   return { ...data, content };
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
+export async function generateStaticParams() {
   const fileNames = fs.readdirSync(postsDirectory);
-  const paths = fileNames.map((fileName) => ({
-    params: { slug: fileName.replace(/\.md$/, '') },
+  return fileNames.map((fileName) => ({
+    slug: fileName.replace(/\.md$/, ''),
   }));
+}
 
-  return { paths, fallback: false };
-};
-
-export const getStaticProps: GetStaticProps = async (context: GetStaticPropsContext) => {
-  const { params } = context;
-  const slug = params?.slug as string;
-  const post = getPostBySlug(slug);
-
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const post = getPostBySlug(params.slug);
+  
   if (!post) {
     return {
-      notFound: true,
+      title: 'Post Not Found - My Blog',
+      description: 'The requested blog post could not be found.',
     };
   }
 
   return {
-    props: {
-      post,
-    },
+    title: post.title,
+    description: post.summary || post.description,
   };
-};
-
-interface Post {
-  title: string;
-  summary?: string;
-  description?: string;
-  date: string;
-  author: string;
-  content: string;
 }
 
-interface BlogPostProps {
-  post: Post;
-}
+export default async function BlogPost({ params }: { params: { slug: string } }) {
+  const post = getPostBySlug(params.slug);
 
-export default function BlogPost({ post }: BlogPostProps) {
+  if (!post) {
+    notFound();
+    return <div>Post not found</div>;
+  }
+
   return (
     <div className="container mx-auto px-4 py-12 prose prose-lg">
       <h1 className="text-4xl font-bold mb-8">{post.title}</h1>
