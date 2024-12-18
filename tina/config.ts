@@ -10,28 +10,23 @@ const branch =
 
 export default defineConfig({
   client: {
-    // Replace with your TinaCMS GraphQL API URL
-    apiUrl: process.env.NEXT_PUBLIC_APIURL || "http://localhost:4001/graphql",
-    branch: process.env.NEXT_PUBLIC_TINA_BRANCH || "main",
-
-    // Get this from tina.io
-    clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-    // Get this from tina.io
-    token: process.env.TINA_TOKEN,
-  
+    clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID || "",
+    token: process.env.TINA_TOKEN || "",
+    branch: branch,
   },
- 
+
   build: {
     outputFolder: "admin",
     publicFolder: "public",
   },
+
   media: {
     tina: {
       mediaRoot: "",
       publicFolder: "public",
     },
   },
-  // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
+
   schema: {
     collections: [
       {
