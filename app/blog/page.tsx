@@ -12,22 +12,33 @@ export const metadata: Metadata = {
   description: 'Read the latest news, guides, and tips about bin stores and liquidation centers across the United States.',
 };
 
+interface Post {
+  slug: string;
+  frontmatter: {
+    title: string;
+    date: string;
+    image?: string; // Optional image field
+  };
+  content: string;
+  summary: string;
+  image?: string; // Optional image field
+}
 
 export default async function BlogPage() {
-    const posts = await getPosts();
+  const posts: Post[] = await getPosts();
 
   return (
     <div className="container mx-auto px-4 py-12">
       <h1 className="text-4xl font-bold mb-8">Latest Blog Posts</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {posts.map((post) => (
+        {posts.map((post) => (
           <Link key={post.slug} href={`/blog/${post.slug}`}>
             <Card className="h-full hover:shadow-lg transition-shadow">
               {post.image && (
                 <div className="relative h-48">
                   <Image
                     src={post.image}
-                    alt={post.title}
+                    alt={post.frontmatter.title}
                     fill
                     className="object-cover rounded-t-lg"
                   />
@@ -36,13 +47,11 @@ export default async function BlogPage() {
               <CardHeader>
                 <CardTitle>{post.frontmatter.title}</CardTitle>
                 <p className="text-sm text-muted-foreground">
-                {format(new Date(post.frontmatter.date), 'MMMM dd, yyyy')}
+                  {format(new Date(post.frontmatter.date), 'MMMM dd, yyyy')}
                 </p>
               </CardHeader>
               <CardContent>
-            
-                 <ReactMarkdown>{post.summary}</ReactMarkdown> 
-          
+                <ReactMarkdown>{post.summary}</ReactMarkdown>
               </CardContent>
             </Card>
           </Link>
