@@ -6,14 +6,27 @@ import ReactMarkdown from 'react-markdown';
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
-function getPostBySlug(slug: string) {
+interface PostMetadata {
+  title: string;
+  summary?: string;
+  description?: string;
+  date: string;
+  author: string;
+}
+
+interface Post {
+  data: PostMetadata;
+  content: string;
+}
+
+function getPostBySlug(slug: string): Post | null {
   const filePath = path.join(postsDirectory, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const { data, content } = matter(fileContents);
 
-  return { ...data, content };
+  return { data: data as PostMetadata, content };
 }
 
 export async function generateStaticParams() {
@@ -35,8 +48,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: post.data.title, // Use post.data.title
-    description: post.data.summary || post.data.description, // Access metadata correctly
+    title: post.data.title, // Access metadata title
+    description: post.data.summary || post.data.description, // Access metadata description or summary
   };
 }
 
@@ -60,4 +73,3 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     </div>
   );
 }
-
