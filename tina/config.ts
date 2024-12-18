@@ -11,7 +11,7 @@ const branch =
 export default defineConfig({
   client: {
     // Replace with your TinaCMS GraphQL API URL
-    apiUrl: "https://content.tinajs.io/content/fe3620ca-485a-4632-b4e1-13e9f71174dd/github/main" || "http://localhost:4001/graphql",
+    apiUrl: process.env.NEXT_PUBLIC_APIURL || "http://localhost:4001/graphql",
     
   },
   branch,
