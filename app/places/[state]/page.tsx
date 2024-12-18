@@ -1,14 +1,11 @@
-import StateClientComponent from './StateClientComponent';
-
 interface PageProps {
-  params: {
+  params: Promise<{
     state: string;
-  };
+  }>;
 }
 
-// Ensure the component is async to handle dynamic params properly
-export default async function StatePage({ params }: { params: { state: string } }) {
-  const { state } = await Promise.resolve(params); // Explicitly resolve params
+export default async function StatePage({ params }: PageProps) {
+  const { state } = await params; // Await the params object
 
   return <StateClientComponent state={state} />;
 }
@@ -64,7 +61,7 @@ export async function generateStaticParams() {
     "washington",
     "west-virginia",
     "wisconsin",
-    "wyoming"
+    "wyoming",
   ];
 
   return states.map((state) => ({
