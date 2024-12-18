@@ -2,6 +2,7 @@
 
 import * as React from 'react';
 import { Drawer as DrawerPrimitive } from 'vaul';
+import { Dialog } from '@radix-ui/react-dialog';
 
 import { cn } from '@/lib/utils';
 
