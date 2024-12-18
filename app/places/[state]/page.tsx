@@ -1,7 +1,18 @@
+
+import StateClientComponent from './StateClientComponent';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'State Information',
+  description: 'Details about bin stores and liquidation centers in various states.',
+};
+
 interface PageProps {
   params: Promise<{
     state: string;
   }>;
+
+
 }
 
 export default async function StatePage({ params }: PageProps) {
