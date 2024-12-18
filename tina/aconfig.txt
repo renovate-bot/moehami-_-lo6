@@ -1,9 +1,19 @@
 import { defineConfig } from "tinacms";
+import slugify from "slugify"; // For generating SEO-friendly filenames
+
+// Your hosting provider likely exposes this as an environment variable
+const branch =
+  process.env.GITHUB_BRANCH ||
+  process.env.VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD ||
+  "main";
 
 export default defineConfig({
   branch: "main",
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID || "ba6e583a-97ad-4bef-ae23-e8e5d044e3c4",
   token: process.env.TINA_TOKEN || "dbaf3d65fb84e3541105ed3f3001f57171d2e9b2",
+      branch: branch,
+},
   build: {
     outputFolder: "admin",
     publicFolder: "public",
