@@ -2,18 +2,19 @@ import { defineConfig } from "tinacms";
 import slugify from "slugify"; // For generating SEO-friendly filenames
 
 // Your hosting provider likely exposes this as an environment variable
-const branch =
-  process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
-  process.env.HEAD ||
-  "main";
 
-export default defineConfig({
-  client: {
+
+export default defineConfig(
+  {
+  
     clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID || "",
+    branch:
+    process.env.NEXT_PUBLIC_TINA_BRANCH! || // custom branch env override
+    process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF! || // Vercel branch env
+    process.env.HEAD!, // Netlify branch env
     token: process.env.TINA_TOKEN || "",
-    branch: branch,
-  },
+
+
 
   build: {
     outputFolder: "admin",
