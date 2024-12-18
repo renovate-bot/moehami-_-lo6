@@ -24,7 +24,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params; // Await the params object
+  const { slug } = await params; // Await params
   const post = getPostBySlug(slug);
 
   if (!post) {
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: post.title, // Sets the post title as the <title>
-    description: post.summary || post.description, // Optional summary
+    title: post.data.title, // Use post.data.title
+    description: post.data.summary || post.data.description, // Access metadata correctly
   };
 }
 
