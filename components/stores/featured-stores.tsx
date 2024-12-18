@@ -11,6 +11,10 @@ export function FeaturedStores() {
           rating={4.8}
           image="/images/states/fl.jpg"
           tags={["Wholesale", "Electronics"]}
+          address="123 Discount Rd, Orlando, FL"
+          phone="(555) 123-4567"
+          reviewCount={120}
+          status="Open"
         />
         <Store
           name="Treasure Hunt Bins"
@@ -18,6 +22,10 @@ export function FeaturedStores() {
           rating={4.5}
           image="/images/states/tx.jpg"
           tags={["Retail", "Home Goods"]}
+          address="456 Treasure Ln, Houston, TX"
+          phone="(555) 234-5678"
+          reviewCount={80}
+          status="Open"
         />
         <Store
           name="The Bin Store"
@@ -25,6 +33,10 @@ export function FeaturedStores() {
           rating={4.7}
           image="/images/states/fl2.jpg"
           tags={["Liquidation", "Fashion"]}
+          address="789 Bin Ave, Miami, FL"
+          phone="(555) 345-6789"
+          reviewCount={150}
+          status="Closed"
         />
       </div>
     </section>
