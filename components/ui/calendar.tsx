@@ -7,6 +7,9 @@ import { DayPicker } from 'react-day-picker';
 import { cn } from '@/lib/utils';
 import { buttonVariants } from '@/components/ui/button';
 
+// Use the correct type for props on the SVG elements
+import { SVGProps } from 'react';
+
 export type CalendarProps = React.ComponentProps<typeof DayPicker>;
 
 function Calendar({
@@ -54,11 +57,18 @@ function Calendar({
         ...classNames,
       }}
       components={{
-        PreviousMonthButton: ({ className, ...props }: LucideProps) => (
+        PreviousMonthButton: ({ className, ...props }: SVGProps<SVGSVGElement>) => (
           <ChevronLeft className={`h-4 w-4 ${className}`} {...props} />
         ),
-        NextMonthButton: ({ className, ...props }: LucideProps) => (
+        NextMonthButton: ({ className, ...props }: SVGProps<SVGSVGElement>) => (
           <ChevronRight className={`h-4 w-4 ${className}`} {...props} />
         ),
       }}
- 
+      {...props}
+    />
+  );
+}
+
+Calendar.displayName = 'Calendar';
+
+export { Calendar };
