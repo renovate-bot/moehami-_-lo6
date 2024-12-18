@@ -6,8 +6,9 @@ interface PageProps {
   };
 }
 
-export default function StatePage({ params }: PageProps) {
-  const { state } = params;
+// Ensure the component is async to handle dynamic params properly
+export default async function StatePage({ params }: { params: { state: string } }) {
+  const { state } = await Promise.resolve(params); // Explicitly resolve params
 
   return <StateClientComponent state={state} />;
 }
@@ -70,4 +71,3 @@ export async function generateStaticParams() {
     state,
   }));
 }
-

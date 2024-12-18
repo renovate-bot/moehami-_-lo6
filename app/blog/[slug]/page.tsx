@@ -1,10 +1,8 @@
-// app/blog/[slug]/page.tsx
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { notFound } from 'next/navigation'; // For 404 handling
 import ReactMarkdown from 'react-markdown';
-
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
@@ -25,10 +23,10 @@ export async function generateStaticParams() {
   }));
 }
 
-
 export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
-  
+  const { slug } = await Promise.resolve(params); // Ensure params is awaited
+  const post = getPostBySlug(slug);
+
   if (!post) {
     return {
       title: 'Post Not Found - My Blog',
@@ -41,10 +39,10 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     description: post.summary || post.description, // Optional summary
   };
 }
- 
 
-export default function BlogPost({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
+export default async function BlogPost({ params }: { params: { slug: string } }) {
+  const { slug } = await Promise.resolve(params); // Ensure params is awaited
+  const post = getPostBySlug(slug);
 
   if (!post) {
     notFound();
