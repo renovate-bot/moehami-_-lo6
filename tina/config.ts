@@ -12,15 +12,15 @@ export default defineConfig({
   client: {
     // Replace with your TinaCMS GraphQL API URL
     apiUrl: process.env.NEXT_PUBLIC_APIURL || "http://localhost:4001/graphql",
-    
+    branch: process.env.NEXT_PUBLIC_TINA_BRANCH || "main",
+
+    // Get this from tina.io
+    clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+    // Get this from tina.io
+    token: process.env.TINA_TOKEN,
+  
   },
-  branch,
-
-  // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-  // Get this from tina.io
-  token: process.env.TINA_TOKEN,
-
+ 
   build: {
     outputFolder: "admin",
     publicFolder: "public",
