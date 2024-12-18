@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params; // Await the params object
+  const { slug } = await params; // Await params
   const post = getPostBySlug(slug);
 
   if (!post) {
@@ -50,9 +50,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   return (
     <div className="container mx-auto px-4 py-12 prose prose-lg">
-      <h1 className="text-4xl font-bold mb-8">{post.title}</h1>
+      <h1 className="text-4xl font-bold mb-8">{post.data.title}</h1>
       <p className="mt-4 text-muted-foreground">
-        Published on: {new Date(post.date).toLocaleDateString()} By {post.author}
+        Published on: {new Date(post.data.date).toLocaleDateString()} By {post.data.author}
       </p>
       <article className="prose mt-4">
         <ReactMarkdown>{post.content}</ReactMarkdown>
@@ -60,3 +60,4 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     </div>
   );
 }
+
