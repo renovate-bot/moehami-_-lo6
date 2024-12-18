@@ -22,7 +22,6 @@ export async function getPosts() {
         frontmatter: data,
         content: markdownContent.toString(),
         summary: content.slice(0, 200) + '...', // Extract first 200 characters
-
       };
     })
   );
@@ -30,13 +29,34 @@ export async function getPosts() {
   return posts;
 }
 
+// Get a single post by slug
+export async function getPostBySlug(slug: string) {
+  const filenames = fs.readdirSync(postsDirectory);
+  const filename = filenames.find(file => file.replace(/\.md$/, '') === slug);
+
+  if (!filename) {
+    return null; // No post found for the given slug
+  }
+
+  const filePath = path.join(postsDirectory, filename);
+  const fileContents = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(fileContents);
+  const markdownContent = await remark().use(html).process(content);
+
+  return {
+    slug: slug,
+    frontmatter: data,
+    content: markdownContent.toString(),
+  };
+}
+
 // Metadata function for dynamic title
 export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
+  const post = await getPostBySlug(params.slug); // Ensure async call
   if (!post) {
     return { title: 'Post Not Found' };
   }
   return {
-    title: post.title,
+    title: post.frontmatter.title, // Access title from frontmatter
   };
 }
