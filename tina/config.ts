@@ -11,7 +11,7 @@ const branch =
 
 export default defineConfig({
   branch,
-
+  apiUrl: process.env.NEXT_PUBLIC_APIURL || "http://localhost:4001/graphql",
   // Get this from tina.io
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io
