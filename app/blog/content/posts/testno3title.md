@@ -15,8 +15,17 @@ The Benefits of Language Models
 
 ## H2 using markup
 
-texttttttttt **bold **and this **bold** with markup, here is a [Google ](https://google.com)link 
+### H3 title using Markup
 
-```html
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+texttttttttt \*\*bold \*\*and this **bold** with markup, here is a [Google ](https://google.com)link
+[Yahoo ](https://yahoo.com){:target="\_blank"}
+
+```mermaid
+%% This won't render without implementing a rendering engine (e.g. mermaid on npm)
+flowchart TD
+    id1(this is an example flow diagram) 
+    --> id2(modify me to see changes!)
+    id2 
+    --> id3(Click the top button to preview the changes)
+    --> id4(Learn about mermaid diagrams - mermaid.js.org)
 ```
