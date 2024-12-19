@@ -62,14 +62,16 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   }
 
   return (
-    <div className="container mx-auto px-4 py-12 prose prose-lg">
-      <h1 className="text-4xl font-bold mb-8">{post.data.title}</h1>
-      <p className="mt-4 text-muted-foreground">
-        Published on: {new Date(post.data.date).toLocaleDateString()} By {post.data.author}
-      </p>
-      <article className="prose mt-4">
-        <ReactMarkdown>{post.content}</ReactMarkdown>
-      </article>
-    </div>
+    
+    <div className="container mx-auto px-4 py-12">
+  <h1 className="text-4xl font-bold mb-8">{post.data.title}</h1>
+  <p className="mt-4 text-muted-foreground">
+    Published on: {new Date(post.data.date).toLocaleDateString()} By {post.data.author}
+  </p>
+  <article className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:mb-4 prose-p:mb-4 prose-strong:font-bold">
+    <ReactMarkdown>{post.content}</ReactMarkdown>
+  </article>
+</div>
+
   );
 }
