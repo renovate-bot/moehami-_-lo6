@@ -13,6 +13,10 @@ The Benefits of Language Models
 
 ## H2
 
-## H2 using markup #\#
+## H2 using markup
 
-texttttttttt **bold **and this **bold** with markup, here is a [Google ](https://google.com)link
+texttttttttt **bold **and this **bold** with markup, here is a [Google ](https://google.com)link 
+
+```html
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+```
