@@ -6,6 +6,8 @@ import { USAMap } from "@/components/map/usa-map";
 import { FeaturedStores } from "@/components/stores/featured-stores";
 import { PopularStates } from "@/components/states/popular-states";
 
+
+
 export default function Home() {
   return (
     <main className="min-h-screen">
@@ -14,7 +16,7 @@ export default function Home() {
         <USAMap />
 <PopularStates />
         <FeaturedStores />
-      </div>
+        </div>
     </main>
   );
 }
