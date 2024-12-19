@@ -68,7 +68,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   <p className="mt-4 text-muted-foreground">
     Published on: {new Date(post.data.date).toLocaleDateString()} By {post.data.author}
   </p>
-  <article className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:mb-4 prose-p:mb-4 prose-strong:font-bold">
+  <article className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:mb-4 prose-p:mb-4 prose-strong:font-bold prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
     <ReactMarkdown>{post.content}</ReactMarkdown>
   </article>
 </div>

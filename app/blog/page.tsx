@@ -2,8 +2,7 @@ import { Metadata } from 'next';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from 'next/link';
 import Image from 'next/image';
-
-import { getPosts } from './getPosts'; // Path to the helper function
+import { getPosts } from './getPosts';
 import { format } from 'date-fns';
 import ReactMarkdown from 'react-markdown';
 
@@ -17,21 +16,28 @@ interface Post {
   frontmatter: {
     title: string;
     date: string;
-    image?: string; // Optional image field
+    image?: string;
   };
   content: string;
   summary: string;
-  image?: string; // Optional image field
+  image?: string;
 }
 
 export default async function BlogPage() {
   const posts: Post[] = await getPosts();
+  
+  // Sort posts by date (newest first)
+  const sortedPosts = [...posts].sort((a, b) => {
+    const dateA = new Date(a.frontmatter.date).getTime();
+    const dateB = new Date(b.frontmatter.date).getTime();
+    return dateB - dateA;
+  });
 
   return (
     <div className="container mx-auto px-4 py-12">
       <h1 className="text-4xl font-bold mb-8">Latest Blog Posts</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {posts.map((post) => (
+        {sortedPosts.map((post) => (
           <Link key={post.slug} href={`/blog/${post.slug}`}>
             <Card className="h-full hover:shadow-lg transition-shadow">
               {post.image && (
