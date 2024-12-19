@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 
 export function Navigation() {
   return (
-    <nav className="border-b">
+    <nav className="border-b bg-opacity-25 backdrop-blur-md fixed top-0 w-full z-50">
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
@@ -16,12 +16,20 @@ export function Navigation() {
           
           <div className="flex items-center space-x-4">
             <Link href="/blog">
-              <Button variant="ghost" className="flex items-center">
+              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
                 <BookOpen className="h-5 w-5 mr-2" />
                 Blog
               </Button>
             </Link>
-            <Button>Sign In</Button>
+
+            <Link href="/about-us">
+              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+                <BookOpen className="h-5 w-5 mr-2" />
+                About
+              </Button>
+            </Link>
+
+            <Button>Register</Button>
           </div>
         </div>
       </div>
