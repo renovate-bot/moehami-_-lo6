@@ -17,7 +17,7 @@ export default function MaPage({
   })  {
   return (
     <>
-     <main>
+     <main className='pt-20'>
      <Breadcrumb className='bg-gray-100 p-4 rounded-md'>
         <BreadcrumbList>
         <BreadcrumbItem>

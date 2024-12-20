@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   };
 export default function Disclosure() {
     return (
-      <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-4 py-18 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-bold text-gray-800 mb-6">Disclosure</h1>
   
         <section className="mb-8">
