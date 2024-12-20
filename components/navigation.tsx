@@ -2,7 +2,9 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Store, BookOpen, Menu, X } from "lucide-react";
+import React from 'react';
+
+import { Home, Newspaper  , Phone, Store, Info, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 export function Navigation() {
@@ -22,17 +24,31 @@ export function Navigation() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-4">
-            <Link href="/blog">
+            <Link href="/">
               <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
-                <BookOpen className="h-5 w-5 mr-2" />
-                Blog
+                <Home className="h-5 w-5 mr-2" />
+Home
+              </Button></Link>
+              <Link href="/blog">
+              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+                <Newspaper className="h-5 w-5 mr-2" />
+
+               Blog
               </Button>
+
             </Link>
 
             <Link href="/about-us">
               <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
-                <BookOpen className="h-5 w-5 mr-2" />
+                <Info className="h-5 w-5 mr-2" />
                 About
+              </Button>
+            </Link>
+
+            <Link href="/contact-us">
+              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+                <Phone className="h-5 w-5 mr-2" />
+                Contact Us
               </Button>
             </Link>
 
@@ -60,17 +76,31 @@ export function Navigation() {
       {isOpen && (
         <div className="md:hidden bg-white bg-opacity-30 backdrop-blur-md border-t">
           <div className="px-4 py-2 space-y-2">
+            <Link href="/" onClick={() => setIsOpen(false)}>
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+                <Home className="h-5 w-5 mr-2" />
+                Home
+              </Button>
+            </Link>
+
             <Link href="/blog" onClick={() => setIsOpen(false)}>
               <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
-                <BookOpen className="h-5 w-5 mr-2" />
+                <Newspaper className="h-5 w-5 mr-2" />
                 Blog
               </Button>
             </Link>
 
             <Link href="/about-us" onClick={() => setIsOpen(false)}>
               <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
-                <BookOpen className="h-5 w-5 mr-2" />
+                <Info className="h-5 w-5 mr-2" />
                 About
+              </Button>
+            </Link>
+
+            <Link href="/contact-us" onClick={() => setIsOpen(false)}>
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+                <Phone className="h-5 w-5 mr-2" />
+                Contact Us
               </Button>
             </Link>
 

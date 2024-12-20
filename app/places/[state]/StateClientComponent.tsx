@@ -100,14 +100,8 @@ export default function StateClientComponent({ state }: { state: string }) {
 
   return (
     
-    <div className="container mx-auto px-4 py-12">
-      <div className="flex items-center gap-4 mb-8">
-        <Link href="/">
-          <Button variant="ghost" size="sm">
-            <ArrowLeft className="h-4 w-4 mr-2" />
-            Back to Home
-          </Button>
-        </Link>
+    <div className="container mx-auto px-4 py-20">
+        
         <div>
           <h1 className="text-4xl font-bold flex items-center gap-2">
             Bin Stores in {stateFormatted}
@@ -116,8 +110,30 @@ export default function StateClientComponent({ state }: { state: string }) {
             Find the best bin stores and liquidation centers in {stateFormatted}
           </p>
         </div>
-      </div>
-
+        <div className="prose text-lg font-semibold prose-sm max-w-none p-10">
+      <p>
+        Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
+      </p>
+      <p>
+        We've created a list of every bin store we've been able to find in {stateFormatted} state.
+      </p>
+      <p>
+        As costs are starting to rise, some of the locations have started converting to a liquidation store; nevertheless, the popularity of the bin stores has become very high across the country.
+      </p>
+      <p>
+        Our comprehensive guide includes operating hours and current pricing for stores whose information was publicly available.
+      </p>
+      <p>
+        We've also included links to their social media pages, making it easy to stay updated on new inventory and special deals.
+      </p>
+      <blockquote className="blockquote bg-gray-100 rounded-lg p-4 italic text-gray-700">
+        Know of a bin store that's not on our list below?
+      </blockquote>
+      <p>
+        Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
+      </p>
+   
+    </div>
       
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
