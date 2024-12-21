@@ -1,0 +1,18 @@
+const defaultSEO = {
+    title: "Bin Stores",
+    description: "Discover local bin stores near me selling a wide variety of trash cans, recycling bins, compost bins, and more. Find the perfect bin for your home or business.",
+    openGraph: {
+      type: "website",
+      locale: "en_US",
+      url: "https://lobinstores.com/",
+      site_name: "Lo Bin Stores",
+    },
+    twitter: {
+      handle: "@twitterhandle",
+      site: "@twitterhandle",
+      cardType: "summary_large_image",
+    },
+  };
+  
+  export default defaultSEO;
+  

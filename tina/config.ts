@@ -9,6 +9,7 @@ const branch =
   "main";
 
 export default defineConfig({
+  graphqlEndpoint: 'http://localhost:4001/graphql',
   branch,
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_TOKEN, // Get this from tina.io
@@ -67,6 +68,17 @@ export default defineConfig({
             name: "body",
             isBody: true,
           },
+          {
+            name: "seo",
+            label: "SEO",
+            type: "object",
+            fields: [
+              { name: "metaTitle", label: "Meta Title", type: "string" },
+              { name: "metaDescription", label: "Meta Description", type: "string" },
+              { name: "canonicalUrl", label: "Canonical URL", type: "string" },
+            ],
+          }
+          
         ],
       },
     ],
