@@ -5,6 +5,7 @@ import { ArrowRight, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Popover, PopoverTrigger, PopoverContent } from "@/components/ui/popover";
 import { Select, SelectTrigger, SelectContent, SelectItem } from "@/components/ui/select";
+import { Link } from 'react-router-dom';
 
 import { motion } from "framer-motion";
 import React, { useState } from 'react';
@@ -99,10 +100,11 @@ const states = [
             transition={{ duration: 0.6, delay: 0.4 }}
             className="flex gap-4"
           >
-            <Button size="lg" className="bg-white text-primary hover:bg-white/90">
+            <Link to="/search">
+            <Button lsize="lg" className="bg-white text-primary hover:bg-white/90">
               Find Stores <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
-           
+           </Link>
             
         <Popover>
         {/* Trigger Button */}
