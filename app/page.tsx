@@ -36,7 +36,7 @@ export default function Home() {
           "@type": "SearchAction",
           "target": "https://lobinstores.com/search?q={search_term_string}",
           "query-input": "required name=search_term_string",
-        },
+        }
       },
     };
   
