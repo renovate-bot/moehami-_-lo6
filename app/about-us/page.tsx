@@ -68,7 +68,7 @@ export default function AboutPage() {
           <h2 className="text-3xl font-bold mb-4">Ready to Start Treasure Hunting?</h2>
           <p className="text-xl mb-8">Join thousands of satisfied customers who discover amazing deals every day.</p>
           <a 
-            href="/locations" 
+            href="/search" 
             className="inline-block bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors"
           >
             Find a Store Near You
