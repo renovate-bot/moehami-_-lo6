@@ -1,5 +1,10 @@
 [build.environment]
   NODE_VERSION = "20.17.0"
   NEXT_VERBOSE = "true"
+  [build]
+  command = "npm run build"
+  publish = "/build"
+  base = "/"
+
 
 
