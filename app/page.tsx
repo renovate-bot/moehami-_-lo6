@@ -11,7 +11,7 @@ import { useEffect } from "react";
 
 
 export default function Home() {
-  const HomePage = () => {
+
     const jsonLdData = {
       "@context": "https://schema.org",
       "@type": "WebPage",
