@@ -5,6 +5,8 @@ import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
+import SearchableStoreList from '@/components/SearchableStoreList';
+
 
 interface StoreData {
   business_id: string;
@@ -71,7 +73,6 @@ interface StoreData {
   };
   no: number;
 }
-
 export default function StateClientComponent({ state }: { state: string }) {
   const stateFormatted = state
     .split("-")
@@ -87,13 +88,10 @@ export default function StateClientComponent({ state }: { state: string }) {
       try {
         setLoading(true);
         setError(null);
-        
-        // Use fetch instead of dynamic import
         const response = await fetch(`/data/${state}.json`);
         if (!response.ok) {
           throw new Error(`Failed to load data: ${response.statusText}`);
         }
-        
         const data = await response.json();
         if (data?.data) {
           setStoreData(data.data);
@@ -167,7 +165,10 @@ export default function StateClientComponent({ state }: { state: string }) {
       </blockquote>
       <p>
         Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
-      </p>      </div>
+      </p>      
+      <SearchableStoreList initialStores={storeData} />
+
+      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {storeData.length > 0 ? (
