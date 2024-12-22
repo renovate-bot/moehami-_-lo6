@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from "@/components/ui/input";
+import { Store } from "@/components/stores/store-card";
+
 
 interface StoreData {
   business_id: string;
