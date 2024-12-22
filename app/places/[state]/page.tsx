@@ -3,7 +3,7 @@ import StateClientComponent from './StateClientComponent';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'State Information',
+  title: 'Lo Bin Stores - State Information',
   description: 'Details about bin stores and liquidation centers in various states.',
 };
 

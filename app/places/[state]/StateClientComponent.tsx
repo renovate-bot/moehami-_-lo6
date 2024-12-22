@@ -165,7 +165,8 @@ export default function StateClientComponent({ state }: { state: string }) {
       </blockquote>
       <p>
         Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
-      </p>      
+      </p>   
+      {/* Search */}   
       <SearchableStoreList initialStores={storeData} />
 
       </div>
