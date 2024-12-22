@@ -2,9 +2,71 @@ import React, { useState, useEffect } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from "@/components/ui/input";
 
-
-const module = await import('@/places/[state]/StateClientComponent'); 
-const { StoreData } = module as { StoreData: typeof StoreData };
+interface StoreData {
+  business_id: string;
+  google_id: string;
+  place_id: string;
+  google_mid: string;
+  phone_number: string;
+  name: string;
+  latitude: number;
+  longitude: number;
+  full_address: string;
+  review_count: number;
+  rating: number;
+  timezone: string;
+  opening_status: string;
+  working_hours: Record<string, string[]>;
+  website: string | null;
+  verified: boolean;
+  place_link: string;
+  cid: string;
+  reviews_link: string;
+  owner_id: string;
+  owner_link: string;
+  owner_name: string;
+  booking_link: string | null;
+  reservations_link: string | null;
+  business_status: string;
+  type: string;
+  subtypes: string[];
+  photos_sample: {
+    photo_id: string;
+    photo_url: string;
+    photo_url_large: string;
+    video_thumbnail_url: string | null;
+    latitude: number;
+    longitude: number;
+    type: string;
+    photo_datetime_utc: string;
+    photo_timestamp: number;
+  }[];
+  reviews_per_rating: any;
+  photo_count: number;
+  about: {
+    summary: string | null;
+    details: {
+      [key: string]: any;
+    };
+  };
+  address: string;
+  order_link: string | null;
+  price_level: string | null;
+  district: string | null;
+  street_address: string;
+  city: string;
+  zipcode: string;
+  state: string;
+  country: string;
+  emails_and_contacts: {
+    emails: string[];
+    phone_numbers: string[];
+    facebook: string | null;
+    instagram: string | null;
+    yelp: string | null;
+  };
+  no: number;
+}
 
 interface SearchableStoreListProps {
   initialStores: StoreData[];
