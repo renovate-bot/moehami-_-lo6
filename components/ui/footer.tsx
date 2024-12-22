@@ -9,6 +9,7 @@ const Footer: React.FC = () => {
     { href: "/contact-us", label: "Contact Us" },
     { href: "/privacy-policy", label: "Privacy Policy" },
     { href: "/disclosure", label: "Disclosure" },
+    { href: "/term", label: "Terms" },
   ];
 
   return (
@@ -30,7 +31,7 @@ const Footer: React.FC = () => {
           ))}
         </ul>
         <p className="mt-4 text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} LoBinStores. All rights reserved.
+          &copy; {new Date().getFullYear()} Lo Bin Stores. All rights reserved.
         </p>
       </div>
     </footer>
