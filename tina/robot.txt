@@ -1,0 +1,6 @@
+robotsTxtOptions: {
+  policies: [
+    { userAgent: '*', allow: '/' },
+    { userAgent: 'Googlebot', disallow: '/admin' },
+  ],
+},

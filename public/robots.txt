@@ -1,0 +1,14 @@
+# *
+robotsTxtOptions: {
+  policies: [
+    { userAgent: '*', allow: '/' },
+    { userAgent: 'Googlebot', disallow: '/admin' },
+  ],
+},
+
+
+# Host
+Host: https://lobinstores.com
+
+# Sitemaps
+Sitemap: https://lobinstores.com/sitemap.xml

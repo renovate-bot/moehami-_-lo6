@@ -2,14 +2,14 @@
 import { DefaultSeoProps } from 'next-seo';
 
 const config: DefaultSeoProps = {
-  defaultTitle: 'Your Site Name',
-  titleTemplate: '%s | Your Site Name',
-  description: 'Your site description',
+  defaultTitle: 'Lo Bin Stores',
+  titleTemplate: '%s |  Lo Bin Stores',
+  description: 'local bin stores near me selling a wide variety of trash cans, recycling bins, compost bins, and more. Find the perfect bin for your home or business.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://your-domain.com',
-    siteName: 'Your Site Name',
+    url: 'https://lobinstores.com',
+    siteName: 'Lo Bin Stores',
   },
   twitter: {
     handle: '@yourhandle',
