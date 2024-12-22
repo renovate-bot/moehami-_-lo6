@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import Image from 'next/image';
-import { NextSeo } from "next-seo";
+
 
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
@@ -65,12 +65,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   }
 
   return (
-    <>
-      <NextSeo
-        title="Test Title"
-        description="Test Description"
-        canonical="https://example.com"
-      />
+
       <div className="container mx-auto px-4 py-20">
         <h1 className="text-4xl font-bold mb-8">{post.data.title}</h1>
         <p className="mt-4 text-muted-foreground py-10">
@@ -107,6 +102,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           <ReactMarkdown>{post.content}</ReactMarkdown>
         </article>
       </div>
-    </>
+
   );
 }

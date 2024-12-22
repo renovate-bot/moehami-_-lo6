@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
-
 import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -80,41 +79,78 @@ export default function StateClientComponent({ state }: { state: string }) {
     .join(" ");
 
   const [storeData, setStoreData] = useState<StoreData[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const importData = async () => {
+    const fetchData = async () => {
       try {
-        const data = await import(`../data/${stateFormatted}.json`);
-        console.log("JSON Data:", data.default?.data); // Log JSON data
-        if (data.default?.data) {
-          setStoreData(data.default.data);
+        setLoading(true);
+        setError(null);
+        
+        // Use fetch instead of dynamic import
+        const response = await fetch(`/data/${state}.json`);
+        if (!response.ok) {
+          throw new Error(`Failed to load data: ${response.statusText}`);
         }
-      } catch (error) {
-        console.error(`Error loading JSON data for ${stateFormatted}:`, error);
+        
+        const data = await response.json();
+        if (data?.data) {
+          setStoreData(data.data);
+        }
+      } catch (err) {
+        console.error('Error loading data:', err);
+        setError('Failed to load store data. Please try again later.');
+      } finally {
+        setLoading(false);
       }
     };
 
-    importData();
-  }, [stateFormatted]);
+    fetchData();
+  }, [state]);
 
+  if (loading) {
+    return (
+      <div className="container mx-auto px-4 py-20 flex justify-center items-center">
+        <div className="text-center">
+          <p className="text-lg">Loading stores in {stateFormatted}...</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="container mx-auto px-4 py-20">
+        <div className="text-center">
+          <p className="text-red-500">{error}</p>
+          <Button
+            className="mt-4"
+            onClick={() => window.location.reload()}
+          >
+            Try Again
+          </Button>
+        </div>
+      </div>
+    );
+  }
 
   return (
-    
     <div className="container mx-auto px-4 py-20">
-        
-        <div>
-          <h1 className="text-4xl font-bold flex items-center gap-2">
-            Bin Stores in {stateFormatted}
-          </h1>
-          <p className="text-muted-foreground mt-2">
-            Find the best bin stores and liquidation centers in {stateFormatted}
-          </p>
-        </div>
-        <div className="prose text-lg font-semibold prose-sm max-w-none p-10">
-      <p>
-        Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
-      </p>
-      <p>
+      <div>
+        <h1 className="text-4xl font-bold flex items-center gap-2">
+          Bin Stores in {stateFormatted}
+        </h1>
+        <p className="text-muted-foreground mt-2">
+          Find the best bin stores and liquidation centers in {stateFormatted}
+        </p>
+      </div>
+      
+      <div className="prose text-lg font-semibold prose-sm max-w-none p-10">
+        <p>
+          Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
+        </p>
+        <p>
         We've created a list of every bin store we've been able to find in {stateFormatted} state.
       </p>
       <p>
@@ -131,10 +167,7 @@ export default function StateClientComponent({ state }: { state: string }) {
       </blockquote>
       <p>
         Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
-      </p>
-   
-    </div>
-      
+      </p>      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {storeData.length > 0 ? (
@@ -177,4 +210,3 @@ export default function StateClientComponent({ state }: { state: string }) {
     </div>
   );
 }
-

@@ -41,6 +41,7 @@
     "@vweevers/length-prefixed-stream": "^1.0.0",
     "autoprefixer": "10.4.20",
     "class-variance-authority": "^0.7.0",
+    "cmdk": "^1.0.4",
     "date-fns": "4.1.0",
     "embla-carousel-react": "^8.3.0",
     "eslint": "9.17.0",

@@ -1,7 +1,7 @@
 {
-    "Status": "OK",
-    "Request_id": "a07f10c7-6153-4613-a4bc-788d35035662",
-    "Parameters": {
+    "status": "OK",
+    "request_id": "a07f10c7-6153-4613-a4bc-788d35035662",
+    "parameters": {
         "query": "bin stores in new_york",
         "language": "en",
         "region": "us",
@@ -12,7 +12,7 @@
         "offset": 0,
         "extract_emails_and_contacts": true
     },
-    "Data": [
+    "data": [
         {
             "business_id": "0x89c2f36c31a4d23f:0xe2a6ac0795db3342",
             "google_id": "0x89c2f36c31a4d23f:0xe2a6ac0795db3342",
