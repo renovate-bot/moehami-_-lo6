@@ -101,7 +101,7 @@ const states = [
             className="flex gap-4"
           >
             <Link to="/search">
-            <Button lsize="lg" className="bg-white text-primary hover:bg-white/90">
+            <Button size="lg" className="bg-white text-primary hover:bg-white/90">
               Find Stores <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
            </Link>
