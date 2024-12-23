@@ -52,20 +52,20 @@ const jsonLdData = {
       "height": 100,
     }
   },
- "headline": post.title,
+ "headline": posts.title,
 "author": {
   "@type": "Person",
-  "name": post.author
+  "name": posts.author
 },
-"datePublished": post.date,
-"dateModified": post.date,
+"datePublished": posts.date,
+"dateModified": posts.date,
 "mainEntityOfPage": {
   "@type": "WebPage",
-  "@id": `https://lobinstores.com/blog/${post.slug}`
+  "@id": `https://lobinstores.com/blog/${posts.slug}`
 },
-"image": post.image,
-"description": post.summary,
-"articleBody": post.content
+"image": posts.image,
+"description": posts.summary,
+"articleBody": posts.content
 
 };
 
