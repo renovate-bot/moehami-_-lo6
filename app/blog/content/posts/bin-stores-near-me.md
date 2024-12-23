@@ -2,6 +2,7 @@
 title: Bin Stores Near Me
 author: MOe
 date: 2023-12-31T22:00:00.000Z
+image: /bin store in USA.png
 seo:
   metaTitle: bin stores near me
   metaDescription: Bin Stores Near Me Your Ultimate Guide to Discount Shopping Adventures
