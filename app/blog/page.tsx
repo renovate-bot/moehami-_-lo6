@@ -32,42 +32,6 @@ export default async function BlogPage() {
     const dateB = new Date(b.frontmatter.date).getTime();
     return dateB - dateA;
   });
-// schema
-const jsonLdData = {
-  "@context": "https://schema.org",
-  "@type": "Blog",
-"@id": "https://lobinstores.com/blog/",
-"mainEntityOfPage": "https://lobinstores.com/blog/",
-  "name": "Lo Bin Stores Blog",
-  "description": "Find the best blog posts about bin stores near you and amazon bin stores near you with. Get updates, store locations, and deals.",
-
-  "publisher": {
-    "@type": "Organization",
-"@id": "https://lobinstores.com/",
-    "name": "Lo bin Stores",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://lobinstores.com/images/logo.png",
-      "width": 250,
-      "height": 100,
-    }
-  },
- "headline": post.frontmatter.title,
-"author": {
-  "@type": "Person",
-  "name": post.author
-},
-"datePublished": post.date,
-"dateModified": post.date,
-"mainEntityOfPage": {
-  "@type": "WebPage",
-  "@id": `https://lobinstores.com/blog/${post.slug}`
-},
-"image": post.image,
-"description": post.summary,
-"articleBody": post.content
-
-};
 
 
 useEffect(() => {
@@ -107,6 +71,43 @@ useEffect(() => {
               </CardContent>
             </Card>
           </Link>
+          // schema
+{const jsonLdData = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+"@id": "https://lobinstores.com/blog/",
+"mainEntityOfPage": "https://lobinstores.com/blog/",
+  "name": "Lo Bin Stores Blog",
+  "description": "Find the best blog posts about bin stores near you and amazon bin stores near you with. Get updates, store locations, and deals.",
+
+  "publisher": {
+    "@type": "Organization",
+"@id": "https://lobinstores.com/",
+    "name": "Lo bin Stores",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lobinstores.com/images/logo.png",
+      "width": 250,
+      "height": 100,
+    }
+  },
+ "headline": post.frontmatter.title,
+"author": {
+  "@type": "Person",
+  "name": post.author
+},
+"datePublished": post.date,
+"dateModified": post.date,
+"mainEntityOfPage": {
+  "@type": "WebPage",
+  "@id": `https://lobinstores.com/blog/${post.slug}`
+},
+"image": post.image,
+"description": post.summary,
+"articleBody": post.content
+
+};}
+
         ))}
       </div>
     </div>
