@@ -61,6 +61,11 @@ export default defineConfig({
             name: "date",
             required: true,
           },
+           {
+            type: 'image',
+            label: 'Image',
+            name: 'image',
+          },
           {
             type: "rich-text",
             label: "Content",

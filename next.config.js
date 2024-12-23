@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   images: {
     domains: ['lobinstores.com','localhost'], // Add domains for Image component
     remotePatterns: [
@@ -28,8 +28,17 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['radix-ui'],
   },
-  
-};
+    webpack: (config, { isServer }) => {
+      if (!isServer) {
+        config.resolve.fallback = {
+          fs: false,
+          path: false,
+          os: false,
+        };
+      }
+      return config;
+    },
+  };
 
 
 module.exports = nextConfig;

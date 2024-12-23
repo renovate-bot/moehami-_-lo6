@@ -3,11 +3,14 @@
 import { Hero } from "@/components/hero";
 import { SearchBar } from "@/components/search-bar";
 import { USAMap } from "@/components/map/usa-map";
+import LatestPosts from '@/components/LatestPosts';
+
 import { FeaturedStores } from "@/components/stores/featured-stores";
 import { PopularStates } from "@/components/states/popular-states";
 import { useEffect } from "react";
 
 export default function Home() {
+
 
     const jsonLdData = {
       "@context": "https://schema.org",
@@ -52,9 +55,11 @@ export default function Home() {
       <Hero />
       <div className="container mx-auto px-4 py-8">
         <USAMap />
-<PopularStates />
+        <LatestPosts />
+        <PopularStates />
         <FeaturedStores />
         </div>
     </main>
   );
 }
+

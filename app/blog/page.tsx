@@ -32,7 +32,53 @@ export default async function BlogPage() {
     const dateB = new Date(b.frontmatter.date).getTime();
     return dateB - dateA;
   });
+// schema
+const jsonLdData = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+"@id": "https://lobinstores.com/blog/",
+"mainEntityOfPage": "https://lobinstores.com/blog/",
+  "name": "Lo Bin Stores Blog",
+  "description": "Find the best blog posts about bin stores near you and amazon bin stores near you with. Get updates, store locations, and deals.",
 
+  "publisher": {
+    "@type": "Organization",
+"@id": "https://lobinstores.com/",
+    "name": "Lo bin Stores",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lobinstores.com/images/logo.png",
+      "width": 250,
+      "height": 100,
+    }
+  },
+ "headline": post.title,
+"author": {
+  "@type": "Person",
+  "name": post.author
+},
+"datePublished": post.date,
+"dateModified": post.date,
+"mainEntityOfPage": {
+  "@type": "WebPage",
+  "@id": `https://lobinstores.com/blog/${post.slug}`
+},
+"image": post.image,
+"description": post.summary,
+"articleBody": post.content
+
+};
+
+
+useEffect(() => {
+  const script = document.createElement("script");
+  script.type = "application/ld+json";
+  script.text = JSON.stringify(jsonLdData);
+  document.head.appendChild(script);
+  return () => {
+    document.head.removeChild(script);
+  };
+}, []);
   return (
     <div className="container mx-auto px-4 py-20">
       <h1 className="text-4xl font-bold mb-8">Latest Blog Posts</h1>
