@@ -42,6 +42,7 @@ Bargain bins are found in independent bookstores in addition to many used book s
 
 * Craft stores usually have a section for sales or clearance where seasonal items are kept.
 * Food items that are marked down can normally be found in special areas of local grocery stores
+* ![bargain bins near me](/bargain-bins-near-me.jpg)
 
 ## Types of Products You Will Always Find in Bargain Bins
 
