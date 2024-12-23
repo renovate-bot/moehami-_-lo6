@@ -8,6 +8,7 @@ seo:
   metaDescription: >-
     Discover the best bargain bins near me with our comprehensive guide to local
     discount shopping.
+  canonicalUrl: bargain-bins-near-me
 ---
 
 Looking for bargain bins near me has become somewhat of a treasure hunt in recent years, as savvy shoppers want to get the best deal possible in their local area.
