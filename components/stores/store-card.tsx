@@ -94,8 +94,8 @@ export function Store({
             Status: {status}
           </p>
           <div className="flex gap-2 mt-2">
-            {tags.map((tag, index) => (
-              <motion.span
+              {tags?.map((tag, index) => (
+<motion.span
                 key={tag}
                 initial={{ opacity: 0, x: -10 }}
                 animate={{ opacity: 1, x: 0 }}

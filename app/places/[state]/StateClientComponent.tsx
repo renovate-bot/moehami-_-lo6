@@ -89,10 +89,13 @@ export default function StateClientComponent({ state }: { state: string }) {
         setLoading(true);
         setError(null);
         const response = await fetch(`/data/${state}.json`);
+
         if (!response.ok) {
           throw new Error(`Failed to load data: ${response.statusText}`);
         }
         const data = await response.json();
+        console.log('Fetched data 24 Dec:', data); // Log the fetched data
+
         if (data?.data) {
           setStoreData(data.data);
         }
