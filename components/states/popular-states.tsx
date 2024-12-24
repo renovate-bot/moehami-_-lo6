@@ -1,23 +1,40 @@
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
+import { motion } from 'framer-motion';
+
 
 const popularStates = [
   { name: "Florida", count: 156, image: "/images/states/fl3.jpg" },
   { name: "Texas", count: 203, image: "/images/states/tx2.jpg" },
   { name: "California", count: 178, image: "/images/states/cal.jpg" },
   { name: "New York", count: 145, image: "/images/states/ny.jpg" },
-  { name: "Iowa", count: 138, image: "/images/states/ny.jpg" },
 ];
 
 export function PopularStates() {
   return (
     <section className="mt-16">
-      <h2 className="text-2xl font-semibold mb-6">Popular States</h2>
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+   
+        <motion.h2
+                  initial={{ opacity: 0, y: -40 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.6, delay: 0.2 }}
+                  className="text-2xl font-semibold mb-6"
+      >
+      Popular States
+      </motion.h2>
+
+      <motion.div
+                  initial={{ opacity: 0, scale: 0 }}
+                  whileInView={{ opacity: 1, scale: 1 }}
+               
+                  className="grid grid-cols-2 md:grid-cols-4 gap-4"
+      >
+
+      
         {popularStates.map((state) => (
           <Link 
             key={state.name} 
-            href={`/places/${state.name.toLowerCase()}`}
+            href={`/places/${state.name.toLowerCase().replace(/\s+/g, '-')}`}
             className="group"
           >
             <Card className="relative overflow-hidden h-40">
@@ -34,7 +51,8 @@ export function PopularStates() {
             </Card>
           </Link>
         ))}
-      </div>
+      </motion.div>
+
     </section>
   );
 }

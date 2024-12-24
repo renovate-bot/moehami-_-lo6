@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { statesData } from "./states-data";
 
+
 interface USAStatesMapProps {
   className?: string;
   onStateHover: (state: string | null) => void;
@@ -19,14 +20,16 @@ export function USAStatesMap({ className, onStateHover }: USAStatesMapProps) {
   };
 
   return (
-    <svg
+    
+<svg
       viewBox="0 0 959 593"
-      className={cn("w-full h-full", className)}
+      className={cn("w-full h-full md:w-5/6", className)}
       role="img"
       aria-label="USA States Map"
     >
       <g>
         {statesData.map((state) => (
+
           <motion.path
             key={state.name}
             d={state.path}
@@ -37,7 +40,7 @@ export function USAStatesMap({ className, onStateHover }: USAStatesMapProps) {
             }}
             animate={{
               fill: activeState === state.name 
-                ? "hsl(var(--primary))" 
+                ? "orange" 
                 : "hsl(var(--muted))",
               opacity: activeState && activeState !== state.name ? 0.5 : 1
             }}
@@ -53,8 +56,11 @@ export function USAStatesMap({ className, onStateHover }: USAStatesMapProps) {
               opacity: { duration: 0.6 }
             }}
           />
+
+          
         ))}
       </g>
     </svg>
+
   );
 }

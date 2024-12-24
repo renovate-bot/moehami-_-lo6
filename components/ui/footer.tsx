@@ -13,24 +13,26 @@ const Footer: React.FC = () => {
   ];
 
   return (
-    <footer className="bg-gray-900 text-white p-6">
+    <footer className="bg-orange-500 text-white p-6">
       <div className="container mx-auto text-center">
         <ul className="flex flex-wrap justify-center space-x-4 md:space-x-6">
           {links.map((link) => (
             <li
               key={link.href}
-              className="rounded-lg hover:bg-gray-800 transition duration-300"
+              className="rounded-lg hover:bg-orange-900 transition duration-300"
             >
               <Link
                 href={link.href}
-                className="px-3 py-2 text-sm md:text-base font-medium hover:text-gray-300"
+                className="px-3 py-2 text-sm md:text-base font-medium"
               >
                 {link.label}
               </Link>
             </li>
           ))}
         </ul>
-        <p className="mt-4 text-sm text-gray-500">
+
+
+        <p className="mt-4 text-sm text-black font-bold">
           &copy; {new Date().getFullYear()} Lo Bin Stores. All rights reserved.
         </p>
       </div>

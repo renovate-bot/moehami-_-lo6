@@ -77,7 +77,7 @@ Home
         <div className="md:hidden bg-white bg-opacity-30 backdrop-blur-md border-t">
           <div className="px-4 py-2 space-y-2">
             <Link href="/" onClick={() => setIsOpen(false)}>
-              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-orange bg-opacity-60">
                 <Home className="h-5 w-5 mr-2" />
                 Home
               </Button>

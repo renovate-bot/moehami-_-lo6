@@ -49,7 +49,7 @@ export const metadata: Metadata = {
       }
       // add apple-icon-72x72.png, apple-icon-76x76.png, apple-icon-114x114.png, apple-icon-120x120.png, apple-icon-144x144.png, apple-icon-152x152.png, apple-icon-180x180.png
     ]
-  }
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',

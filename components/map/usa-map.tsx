@@ -5,6 +5,7 @@ import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { USAStatesMap } from "@/components/map/usa-states-map";
 
+
 export function USAMap() {
   const [activeState, setActiveState] = useState<string | null>(null);
 
@@ -14,16 +15,20 @@ export function USAMap() {
       <span className="text-lg  justify-center">Find Bin Stores Near You</span>
       <USAStatesMap
         onStateHover={setActiveState}
-        className="w-full h-full"
+        className="w-full h-full md:w-5/6 "
       />
-      <AnimatePresence>
-        {activeState && (
+
+    
+
+    <AnimatePresence>
+       {activeState && (
+       
           <motion.div
             initial={{ opacity: 0, y: -20, scale: 0.9 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -20, scale: 0.9 }}
             transition={{ duration: 0.2 }}
-            className="absolute top-4 right-4 bg-card p-4 rounded-lg shadow-lg border"
+            className="absolute bg-blue-200 top-0 md:top-20 md:right-17 right-10 bg-card p-4 rounded-lg shadow-lg border"
           >
             <motion.h3 
               initial={{ opacity: 0 }}
@@ -50,6 +55,8 @@ export function USAMap() {
               </motion.span>
             </Link>
           </motion.div>
+    
+
         )}
       </AnimatePresence>
     </div>
