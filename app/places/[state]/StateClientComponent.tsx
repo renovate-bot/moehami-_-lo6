@@ -94,7 +94,6 @@ export default function StateClientComponent({ state }: { state: string }) {
           throw new Error(`Failed to load data: ${response.statusText}`);
         }
         const data = await response.json();
-        console.log('Fetched data 24 Dec:', data); // Log the fetched data
 
         if (data?.data) {
           setStoreData(data.data);
@@ -147,7 +146,7 @@ export default function StateClientComponent({ state }: { state: string }) {
         </p>
       </div>
       
-      <div className="prose text-lg font-semibold prose-sm max-w-none p-10">
+      <div className="prose text-lg font-semibold prose-sm max-w-none">
         <p>
           Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
         </p>

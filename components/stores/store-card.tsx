@@ -52,7 +52,7 @@ export function Store({
             className="object-cover transition-transform duration-300 hover:scale-105"
           />
         </div>
-        <CardHeader className="p-4">
+        <CardHeader className="p-2">
           <div className="flex justify-between items-start">
             <div>
               <h3 className="font-semibold text-lg">
@@ -78,7 +78,7 @@ export function Store({
             </motion.div>
           </div>
         </CardHeader>
-        <CardContent className="p-4 pt-0">
+        <CardContent className="p-3 pt-0">
           <p className="text-sm text-muted-foreground flex items-center">
             <Map className="h-4 w-4 mr-1" />
             {address}
