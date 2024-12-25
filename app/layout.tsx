@@ -65,18 +65,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-    <link
-    rel="preload"
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
-    as="style"
-    onLoad="this.onload=null;this.rel='stylesheet'"
-  />
-  <noscript>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
-  </noscript>
+     
         <Script async src="https://www.googletagmanager.com/gtag/js?id=G-9M4P5J1KLF" />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
