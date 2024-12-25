@@ -1,13 +1,11 @@
 import './globals.css';
-import { Metadata } from 'next'
-
+import { Metadata } from 'next';
+import Script from 'next/script';
 import { Inter } from 'next/font/google';
 import { Navigation } from '@/components/navigation';
 
 import { PageWrapper } from '@/providers/animation-provider';
-import Footer from "@/components/ui/footer";
-
-
+import Footer from '@/components/ui/footer';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -21,34 +19,32 @@ export const metadata: Metadata = {
     icon: [
       {
         url: "/favicon/favicon.ico",
-        type: "image/x-icon"
+        type: "image/x-icon",
       },
       {
         url: "/favicon/favicon-16x16.png",
         sizes: "16x16",
-        type: "image/png"
-      }
-      // add favicon-32x32.png, favicon-96x96.png, android-chrome-192x192.png
+        type: "image/png",
+      },
     ],
     shortcut: [
       {
         url: "/favicon/favicon.ico",
-        type: "image/x-icon"
-      }
+        type: "image/x-icon",
+      },
     ],
     apple: [
       {
         url: "/favicon/apple-icon-57x57.png",
         sizes: "57x57",
-        type: "image/png"
+        type: "image/png",
       },
       {
         url: "/favicon/apple-icon-60x60.png",
         sizes: "60x60",
-        type: "image/png"
-      }
-      // add apple-icon-72x72.png, apple-icon-76x76.png, apple-icon-114x114.png, apple-icon-120x120.png, apple-icon-144x144.png, apple-icon-152x152.png, apple-icon-180x180.png
-    ]
+        type: "image/png",
+      },
+    ],
   },
   openGraph: {
     type: 'website',
@@ -56,13 +52,7 @@ export const metadata: Metadata = {
     url: 'https://lobinstores.com',
     siteName: 'Lo Bin Stores',
   },
-}
-
-/*
-export const metadata: Metadata = {
-  title: 'Lo Bin Stores Directory',
-  description: 'Discover and explore local stores in your area',
-};*/
+};
 
 export default function RootLayout({
   children,
@@ -71,7 +61,17 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      
+      <head>
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-9M4P5J1KLF" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-9M4P5J1KLF');
+          `}
+        </Script>
+      </head>
       <body className={inter.className}>
         <Navigation />
         <PageWrapper>{children}</PageWrapper>
