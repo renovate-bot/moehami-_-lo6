@@ -181,7 +181,7 @@ export default function StateClientComponent({ state }: { state: string }) {
               name={store.name}
               location={store.city}
               rating={store.rating}
-              image={store.photos_sample[0]?.photo_url_large || "/images/states/notfound.png"}
+              image={store.photos_sample[0]?.photo_url_large || "/images/states/notfound.webp"}
               tags={store.subtypes}
               address={store.address}
               phone={store.phone_number}

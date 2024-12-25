@@ -9,7 +9,7 @@ export function FeaturedStores() {
           name="Discount Bins Plus"
           location="Orlando, FL"
           rating={4.8}
-          image="/images/states/fl.jpg"
+          image="/images/states/fl.webp"
           tags={["Wholesale", "Electronics"]}
           address="123 Discount Rd, Orlando, FL"
           phone="(555) 123-4567"
@@ -20,7 +20,7 @@ export function FeaturedStores() {
           name="Treasure Hunt Bins"
           location="Houston, TX"
           rating={4.5}
-          image="/images/states/tx.jpg"
+          image="/images/states/tx.webp"
           tags={["Retail", "Home Goods"]}
           address="456 Treasure Ln, Houston, TX"
           phone="(555) 234-5678"
@@ -31,7 +31,7 @@ export function FeaturedStores() {
           name="The Bin Store"
           location="Miami, FL"
           rating={4.7}
-          image="/images/states/fl2.jpg"
+          image="/images/states/fl2.webp"
           tags={["Liquidation", "Fashion"]}
           address="789 Bin Ave, Miami, FL"
           phone="(555) 345-6789"

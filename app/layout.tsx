@@ -65,11 +65,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      <link
+    <link
     rel="preload"
     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
     as="style"
-    onload="this.onload=null;this.rel='stylesheet'"
+    onLoad="this.onload=null;this.rel='stylesheet'"
   />
   <noscript>
     <link
