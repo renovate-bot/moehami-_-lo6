@@ -78,5 +78,7 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: Inter, Arial, sans-serif;
+
   }
 }
