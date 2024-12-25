@@ -8,6 +8,7 @@ seo:
   metaDescription: >-
     Find your nearest Amazon Locker or Hub for convenient package pickup and
     delivery. Locate nearby Amazon bins for hassle-free returns.
+  canonicalUrl: amazon-bin-store-near-me
 ---
 
 Smart shoppers are scoring amazing deals on brand-new Amazon products at a fraction of their original price. The secret? They know exactly where to look for Amazon bins in their area - retail spots that sell returned, overstocked, or liquidated Amazon merchandise at huge discounts.
