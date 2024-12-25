@@ -7,7 +7,9 @@ import { Navigation } from '@/components/navigation';
 import { PageWrapper } from '@/providers/animation-provider';
 import Footer from '@/components/ui/footer';
 
-const inter = Inter({ subsets: ['latin'] });
+
+const inter = Inter({ subsets: ['latin'], display: 'swap' });
+
 
 export const metadata: Metadata = {
   title: {

@@ -78,17 +78,19 @@ const states = [
       >
         <div className="max-w-3xl">
           <motion.h1 
-            initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
+            initial={false} // Skip animation on initial load
+
             className="text-5xl font-bold mb-6"
           >
             Find Bin Stores Near You
           </motion.h1>
           <motion.p 
-            initial={{ opacity: 0, x: -20 }}
+            initial={false} // Skip animation on initial load
+
             animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6, delay: 0.3 }}
+            transition={{ duration: 0.3, delay: 0 }}
             className="text-xl mb-8 opacity-90"
           >
             Discover the best bin stores across the United States. Save big on retail products
