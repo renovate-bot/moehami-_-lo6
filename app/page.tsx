@@ -6,23 +6,41 @@ import { USAMap } from "@/components/map/usa-map";
 import { FeaturedStores } from "@/components/stores/featured-stores";
 import { PopularStates } from "@/components/states/popular-states";
 import Postz from "@/components/postz";
-import LatestPosts from "@/components/LatestPosts"
 import { client } from '@/tina/__generated__/client';
-
 import { useEffect, useState } from "react";
 
-/* blog post */
+/* Define Post Type */
+interface PostNode {
+    id: string;
+    title: string;
+    author: string;
+    date: string;
+    image?: string | null;
+    body?: any;
+    _sys: {
+        [key: string]: any;
+    };
+    seo?: {
+        [key: string]: any;
+    };
+}
+
+interface PostEdge {
+    cursor: string;
+    node: PostNode;
+}
+
+type PostsConnectionEdges = PostEdge[];
 
 /* Fetching posts data */
-async function fetchPosts() {
+async function fetchPosts(): Promise<PostsConnectionEdges> {
     const { data } = await client.queries.postsConnection();
     return data?.postsConnection?.edges ?? [];
 }
 
 /* /blog posts */
-
 export default function Home() {
-    const [posts, setPosts] = useState([]);
+    const [posts, setPosts] = useState<PostsConnectionEdges>([]);
 
     useEffect(() => {
         fetchPosts().then((data) => setPosts(data));
@@ -72,8 +90,7 @@ export default function Home() {
             <div className="container mx-auto px-4 py-8">
                 <USAMap />
                 <PopularStates />
-                <Postz />
-                <LatestPosts posts={posts} />
+                <Postz posts={posts} />
                 <FeaturedStores />
             </div>
         </main>
