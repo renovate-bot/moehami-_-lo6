@@ -65,7 +65,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-     
+      <link rel="preload" href="/images/logo.svg" as="image" />
+
         <Script async src="https://www.googletagmanager.com/gtag/js?id=G-9M4P5J1KLF" />
         <Script id="google-analytics" strategy="afterInteractive">
           {`

@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import React from 'react';
+import Image from "next/image";
 
 import { Home, Newspaper  , Phone, Store, Info, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -18,8 +19,14 @@ export function Navigation() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <Store className="h-6 w-6" />
-            <p className="text-xl md:font-bold">Lo Bin Stores</p>
+
+            <Image
+             src="/images/logo.svg" // Replace with your actual path
+             alt="Lo Bin Stores"
+             width={150} // Adjust as needed
+             height={60} // Adjust as needed
+              priority // Ensures this is loaded quickly
+             />
           </Link>
 
           {/* Desktop Menu */}
