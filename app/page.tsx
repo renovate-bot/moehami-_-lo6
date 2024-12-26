@@ -35,7 +35,7 @@ type PostsConnectionEdges = PostEdge[];
 /* Fetching posts data */
 async function fetchPosts(): Promise<PostsConnectionEdges> {
     const { data } = await client.queries.postsConnection();
-    return data?.postsConnection?.edges ?? [];
+    return (data?.postsConnection?.edges ?? []).filter(edge => edge !== null && edge.node !== null) as PostsConnectionEdges;
 }
 
 /* /blog posts */
