@@ -19,7 +19,7 @@ export function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <Store className="h-6 w-6" />
-            <span className="text-xl md:font-bold">LoBin Stores</span>
+            <p className="text-xl md:font-bold">Lo Bin Stores</p>
           </Link>
 
           {/* Desktop Menu */}
