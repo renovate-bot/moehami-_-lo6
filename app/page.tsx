@@ -6,6 +6,7 @@ import { USAMap } from "@/components/map/usa-map";
 import { FeaturedStores } from "@/components/stores/featured-stores";
 import { PopularStates } from "@/components/states/popular-states";
 import Postz from "@/components/postz";
+import LatestPosts from "@/components/LatestPosts";
 import { client } from '@/tina/__generated__/client';
 import { useEffect, useState } from "react";
 
@@ -91,6 +92,7 @@ export default function Home() {
                 <USAMap />
                 <PopularStates />
                 <Postz />
+                <LatestPosts posts={posts} />
                 <FeaturedStores />
             </div>
         </main>
