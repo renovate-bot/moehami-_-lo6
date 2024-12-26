@@ -14,7 +14,7 @@ interface PostNode {
         [key: string]: any;
     };
     seo?: {
-        [key: string]: any;
+        metaDescription?: string;
     };
 }
 
@@ -54,7 +54,11 @@ export default function LatestPosts({ posts }: LatestPostsProps) {
                                     <p className="text-sm text-muted-foreground">
                                         {format(new Date(post.node.date), 'MMMM dd, yyyy')}
                                     </p>
-                                    <CardContent className="p-0">{post.node.seo.metaDescription}</CardContent>
+                                    {post.node.seo?.metaDescription && (
+                                        <CardContent className="p-0">
+                                            {post.node.seo.metaDescription}
+                                        </CardContent>
+                                    )}
                                 </CardHeader>
                             </Card>
                         </Link>
