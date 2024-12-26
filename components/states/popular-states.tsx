@@ -4,15 +4,15 @@ import { motion } from 'framer-motion';
 
 
 const popularStates = [
-  { name: "Florida", count: 156, image: "/images/states/fl3.jpg" },
-  { name: "Texas", count: 203, image: "/images/states/tx2.jpg" },
-  { name: "California", count: 178, image: "/images/states/cal.jpg" },
-  { name: "New York", count: 145, image: "/images/states/ny.jpg" },
+  { name: "Florida", count: 156, image: "/images/states/fl3.webp" },
+  { name: "Texas", count: 203, image: "/images/states/tx.webp" },
+  { name: "California", count: 178, image: "/images/states/cal.webp" },
+  { name: "New York", count: 145, image: "/images/states/ny.webp" },
 ];
 
 export function PopularStates() {
   return (
-    <section className="mt-16">
+    <section className="mt-16 p-4 ">
    
         <motion.h2
                   initial={{ opacity: 0, y: -40 }}

@@ -49,7 +49,9 @@ export default async function BlogPage() {
                     className="object-cover rounded-t-lg"
                   />
                 </div>
-              )}
+              )
+              }
+              
               <CardHeader>
                 <CardTitle>{post.frontmatter.title}</CardTitle>
                 <p className="text-sm text-muted-foreground">
