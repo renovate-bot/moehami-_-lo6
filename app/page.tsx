@@ -90,7 +90,7 @@ export default function Home() {
             <div className="container mx-auto px-4 py-8">
                 <USAMap />
                 <PopularStates />
-                <Postz posts={posts} />
+                <Postz />
                 <FeaturedStores />
             </div>
         </main>
