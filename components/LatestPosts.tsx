@@ -31,7 +31,7 @@ interface LatestPostsProps {
 
 export default function LatestPosts({ posts }: LatestPostsProps) {
     // Sort posts by date, newer first
-    const sortedPosts = [...posts].sort((a, b) => new Date(b.node.date) - new Date(a.node.date));
+    const sortedPosts = [...posts].sort((a, b) => new Date(b.post.node.date) - new Date(a.post.node.date));
 
     return (
         <section className="container mx-auto px-4 py-20">
