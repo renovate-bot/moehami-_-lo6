@@ -20,7 +20,8 @@ const nextConfig = {
     // Enable server actions
     serverActions: true,
   },
-  output: 'export',
+ compress: true,
+ output: 'export',
   eslint: {
     ignoreDuringBuilds: true,
   },
