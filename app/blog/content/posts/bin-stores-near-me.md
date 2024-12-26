@@ -100,6 +100,10 @@ Most bin stores organize their merchandise into specific categories:
 * Shoes and bags
 * Jewelry and watches
 
+## The bin store
+
+Come find one-of-a-kind treasures in your local treasure trove of a bin store! From second-hand clothing to antique furniture, from the rarest collectibles to the most unexpected treasures, anything can be found hiding in these oft-missed stores. 
+
 ### Shopping Tips for Success
 
 1. Visit Early in the Week
