@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { Card, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { format } from 'date-fns';
 
 interface PostNode {
@@ -38,26 +38,25 @@ export default function LatestPosts({ posts }: LatestPostsProps) {
             <h1 className="text-4xl font-bold mb-8">Latest Blog Posts</h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {Array.isArray(sortedPosts) && sortedPosts.length > 0 ? (
-                    sortedPosts.map((post) => (
-                        <Link href={`/posts/${post.node.id}`} key={post.node.id}>
-                            <a>
-                                <Card className="h-full hover:shadow-lg transition-shadow">
-                                    <div className="relative h-48">
-                                        <Image
-                                            src={post.node.image || ''}
-                                            alt={post.node.title}
-                                            fill
-                                            className="object-cover rounded-t-lg"
-                                        />
-                                    </div>
-                                    <CardHeader>
-                                        <CardTitle>{post.node.title}</CardTitle>
-                                        <p className="text-sm text-muted-foreground">
-                                            {format(new Date(post.node.date), 'MMMM dd, yyyy')}
-                                        </p>
-                                    </CardHeader>
-                                </Card>
-                            </a>
+                    sortedPosts.reverse().map((post) => (
+                        <Link href={`/blog/${post.node._sys.filename}`} key={post.node._sys.filename}>
+                            <Card className="h-full hover:shadow-lg transition-shadow">
+                                <div className="relative h-48">
+                                    <Image
+                                        src={post.node.image || ''}
+                                        alt={post.node.title}
+                                        fill
+                                        className="object-cover rounded-t-lg"
+                                    />
+                                </div>
+                                <CardHeader>
+                                    <CardTitle>{post.node.title}</CardTitle>
+                                    <p className="text-sm text-muted-foreground">
+                                        {format(new Date(post.node.date), 'MMMM dd, yyyy')}
+                                    </p>
+                                    <CardContent className="p-0">{post.node.seo.metaDescription}</CardContent>
+                                </CardHeader>
+                            </Card>
                         </Link>
                     ))
                 ) : (
