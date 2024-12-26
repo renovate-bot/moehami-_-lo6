@@ -15,8 +15,7 @@ export default function Postz() {
               href="/blog/amazon-bin-store-near-me"
               className="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
             >
-              Learn more
-            </a>
+Find Amazon Bins Now            </a>
           </div>
         </div>
 
@@ -33,7 +32,7 @@ export default function Postz() {
               href="blog/find-the-best-bargain-bins-near-me"
               className="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
             >
-              Learn more
+              Discover The Bin Store
             </a>
           </div>
         </div>
