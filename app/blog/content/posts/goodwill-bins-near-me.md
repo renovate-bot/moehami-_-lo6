@@ -58,7 +58,7 @@ Not only will it save you some cash, but plenty of shoppers love giving things a
 4. Wear comfortable, washable clothing
 5. Cultivate friendly acquaintances with staff and other frequent shoppers
 
-> ![](/Goodwill-Bins-Near-Me2_converted.avif)
+> ![Goodwill bin stores near me ](/Goodwill-Bins-Near-Me2_converted.avif)
 
 ## Getting the Most out of Your Finds
 
