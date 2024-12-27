@@ -72,5 +72,5 @@ Looking for Goodwill bins nearby can really unlock a whole new level of thriftin
 
 Hey, have you hit up your local Goodwill bins yet? No joke, now's the perfect time to dive into thrifting and join all those folks who've discovered this rad shopping scene. Good luck out there!
 
-\
+[Looking for bin stores in Florida or Amazon bin stores in Florida](https://lobinstores.com/places/florida)\
 [How to Find the Best Amazon Bins Near Me for Bargain Shopping ](https://lobinstores.com/blog/amazon-bin-store-near-me)
