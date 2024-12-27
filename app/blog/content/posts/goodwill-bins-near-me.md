@@ -1,5 +1,5 @@
 ---
-title: How to Score Goodwill Bins Close By – the Best Thrifting
+title: 'How to Score Goodwill Bins Store Near Me '
 author: MOe
 date: 2024-12-27T22:00:00.000Z
 image: /goodwill-bins-store4_converted.avif
