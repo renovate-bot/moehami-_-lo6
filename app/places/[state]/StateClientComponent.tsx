@@ -7,7 +7,6 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import SearchableStoreList from '@/components/SearchableStoreList';
 
-
 interface StoreData {
   business_id: string;
   google_id: string;
@@ -73,6 +72,7 @@ interface StoreData {
   };
   no: number;
 }
+
 export default function StateClientComponent({ state }: { state: string }) {
   const stateFormatted = state
     .split("-")
@@ -82,6 +82,17 @@ export default function StateClientComponent({ state }: { state: string }) {
   const [storeData, setStoreData] = useState<StoreData[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  // Custom state text mapping
+  const customStateTexts: Record<string, string> = {
+    "California": "California is home to some of the most iconic bin stores with unbeatable deals.",
+    "Texas": "In Texas, everything is bigger—including the savings at bin stores!",
+    "Florida": "Discover hidden treasures in Florida's top-rated bin stores.",
+    // Add more states and custom texts here
+  };
+
+  const customText = customStateTexts[stateFormatted] || 
+    `Explore great deals at bin stores across ${stateFormatted}.`;
 
   useEffect(() => {
     const fetchData = async () => {
@@ -114,6 +125,10 @@ export default function StateClientComponent({ state }: { state: string }) {
       <div className="container mx-auto px-4 py-20 flex justify-center items-center">
         <div className="text-center">
           <p className="text-lg">Loading stores in {stateFormatted}...</p>
+          
+          <Button type="button" className="bg-orange-800 " disabled>
+  Processing...
+</Button>
         </div>
       </div>
     );
@@ -145,8 +160,9 @@ export default function StateClientComponent({ state }: { state: string }) {
           Find the best bin stores and liquidation centers in {stateFormatted}
         </p>
       </div>
-      
+
       <div className="prose text-lg font-semibold prose-sm max-w-none">
+        <p>{customText}</p>
         <p>
           Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
         </p>
@@ -169,8 +185,8 @@ export default function StateClientComponent({ state }: { state: string }) {
         - Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
       </p>   
       {/* Search */}   
-      <SearchableStoreList initialStores={storeData} />
 
+      <SearchableStoreList initialStores={storeData} />
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -198,7 +214,7 @@ export default function StateClientComponent({ state }: { state: string }) {
             name="Sample Bin Store"
             location={stateFormatted}
             rating={4.5}
-            image="/images/states/notfound.png"
+            image="/images/states/notfound.webp"
             tags={["Wholesale", "Electronics"]}
             address="Sample Address"
             phone="000-000-0000"
