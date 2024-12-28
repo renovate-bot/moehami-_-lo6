@@ -178,6 +178,22 @@ Beauty fans should check out Cult Beauty with up to 50% off on brands like Hourg
 
 This year's boxing day sales are special because one in three Australians – almost 7 million people – plan to shop [\[4\]](https://www.msn.com/en-us/lifestyle/travel/best-boxing-day-sales-2024-a-complete-guide/ar-AA1wtb4Q). Gen Y shoppers will spend the most, averaging USD 673.00 [\[4\]](https://www.msn.com/en-us/lifestyle/travel/best-boxing-day-sales-2024-a-complete-guide/ar-AA1wtb4Q). Retailers have made sure their deals match these shoppers' priorities.
 
+FAQ
+
+is boxing day online too
+------------------------
+
+Educators have confirmed the drop will occur online on Tuesday, December 26th at noon PT, which aligns with when drops have occurred in previous years. Keep an eye on this post for when the drop begins. This is When will the sale start online
+
+### &#xA;&#xA;What items will go on sale? 
+
+There is no sitewide sale (ex. 10% off of everything) but it is essentially a bigger extension of WMTM. If you've been around for the weekly WMTM drops the last few weeks you'll notice we haven't had any because lululemon usually "saves up" stock for Boxing Day. 
+
+When will the sale start in store? 
+
+Boxing Day sale items will show in store starting on actual Boxing Day, Thursday December 26th. Check the lululemon app to see if your local store is opening earlier than normal that day.
+
+
 ## Conclusion
 
 Boxing Day sales in 2024 will give smart shoppers amazing deals. You now know how to get the best value both online and in stores. Smart deal stacking and perfect timing will help maximize your savings.
@@ -188,7 +204,7 @@ Leading stores like Nordstrom, Amazon, and Myer's discounts cover products of al
 
 Your Boxing Day shopping success depends on smart planning and informed choices. This detailed guide will help you confidently secure the best deals while staying within budget.
 
-### Related 
+### Related
 
 [How to Find the Best Amazon Bins Near Me for Bargain Shopping](https://lobinstores.com/blog/amazon-bin-store-near-me)
 
