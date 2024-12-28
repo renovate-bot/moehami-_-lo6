@@ -61,10 +61,10 @@ export default defineConfig({
             name: "date",
             required: true,
           },
-           {
-            type: 'image',
-            label: 'Image',
-            name: 'image',
+          {
+            type: "image",
+            label: "Image",
+            name: "image",
           },
           {
             type: "rich-text",
@@ -81,8 +81,39 @@ export default defineConfig({
               { name: "metaDescription", label: "Meta Description", type: "string" },
               { name: "canonicalUrl", label: "Canonical URL", type: "string" },
             ],
-          }
-          
+          },
+        ],
+      },
+      {
+        label: "State Texts",
+        name: "stateTexts",
+        path: "public/content/stateTexts",
+        format: "md",
+        ui: {
+          filename: {
+            // Use the state name as the filename
+            slugify: (values) => {
+              return slugify(values.state || "untitled", {
+                lower: true,
+                strict: true,
+              });
+            },
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            label: "State",
+            name: "state",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "rich-text",
+            label: "Custom Text",
+            name: "body",
+            isBody: true,
+          },
         ],
       },
     ],

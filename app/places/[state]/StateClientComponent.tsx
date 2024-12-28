@@ -1,8 +1,11 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
+import matter from "gray-matter";
+
 import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
+import ReactMarkdown from 'react-markdown';
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import SearchableStoreList from '@/components/SearchableStoreList';
@@ -82,33 +85,35 @@ export default function StateClientComponent({ state }: { state: string }) {
   const [storeData, setStoreData] = useState<StoreData[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-
-  // Custom state text mapping
-  const customStateTexts: Record<string, string> = {
-    "California": "California is home to some of the most iconic bin stores with unbeatable deals.",
-    "Texas": "In Texas, everything is bigger—including the savings at bin stores!",
-    "Florida": "Discover hidden treasures in Florida's top-rated bin stores.",
-    // Add more states and custom texts here
-  };
-
-  const customText = customStateTexts[stateFormatted] || 
-    `Explore great deals at bin stores across ${stateFormatted}.`;
+  const [customText, setCustomText] = useState<string>(
+    `Explore great deals at bin stores across ${stateFormatted}.`
+  );
 
   useEffect(() => {
     const fetchData = async () => {
       try {
         setLoading(true);
         setError(null);
-        const response = await fetch(`/data/${state}.json`);
 
-        if (!response.ok) {
-          throw new Error(`Failed to load data: ${response.statusText}`);
+        // Fetch store data
+        const storeResponse = await fetch(`/data/${state}.json`);
+        if (!storeResponse.ok) {
+          throw new Error(`Failed to load data: ${storeResponse.statusText}`);
         }
-        const data = await response.json();
+        const storeData = await storeResponse.json();
+        if (storeData?.data) {
+          setStoreData(storeData.data);
+        }
 
-        if (data?.data) {
-          setStoreData(data.data);
-        }
+           // Fetch custom state text from Markdown
+           const stateTextResponse = await fetch(`/content/stateTexts/${state}.md`);
+           if (stateTextResponse.ok) {
+             const stateText = await stateTextResponse.text();
+             const { content } = matter(stateText) || `Explore great deals at bin stores across ${stateFormatted}.`;// Parse frontmatter and content
+
+             setCustomText(content.trim());
+           }
+           
       } catch (err) {
         console.error('Error loading data:', err);
         setError('Failed to load store data. Please try again later.');
@@ -125,10 +130,9 @@ export default function StateClientComponent({ state }: { state: string }) {
       <div className="container mx-auto px-4 py-20 flex justify-center items-center">
         <div className="text-center">
           <p className="text-lg">Loading stores in {stateFormatted}...</p>
-          
-          <Button type="button" className="bg-orange-800 " disabled>
-  Processing...
-</Button>
+          <div className="fixed inset-0 bg-opacity-50 flex items-center justify-center z-50">
+            <div className="w-16 h-16 border-b-4 border-orange-500 border-solid rounded-full animate-spin"></div>
+          </div>
         </div>
       </div>
     );
@@ -139,10 +143,7 @@ export default function StateClientComponent({ state }: { state: string }) {
       <div className="container mx-auto px-4 py-20">
         <div className="text-center">
           <p className="text-red-500">{error}</p>
-          <Button
-            className="mt-4"
-            onClick={() => window.location.reload()}
-          >
+          <Button className="mt-4" onClick={() => window.location.reload()}>
             Try Again
           </Button>
         </div>
@@ -162,31 +163,31 @@ export default function StateClientComponent({ state }: { state: string }) {
       </div>
 
       <div className="prose text-lg font-semibold prose-sm max-w-none">
-        <p>{customText}</p>
+        <ReactMarkdown>{customText}</ReactMarkdown>
         <p>
           Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
         </p>
         <p>
-        We've created a list of every bin store we've been able to find in {stateFormatted} state.
-      </p>
-      <p>
-        As costs are starting to rise, some of the locations have started converting to a liquidation store; nevertheless, the popularity of the bin stores has become very high across the country.
-      </p>
-      <p>
-        Our comprehensive guide includes operating hours and current pricing for stores whose information was publicly available.
-      </p>
-      <p>
-        We've also included links to their social media pages, making it easy to stay updated on new inventory and special deals.
-      </p>
-      <blockquote className="blockquote bg-gray-100 rounded-lg p-4 italic text-gray-700">
-        Know of a bin store that's not on our list below?
-      </blockquote>
-      <p>
-        - Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
-      </p>   
-      {/* Search */}   
+          We've created a list of every bin store we've been able to find in {stateFormatted} state.
+        </p>
+        <p>
+          As costs are starting to rise, some of the locations have started converting to a liquidation store; nevertheless, the popularity of the bin stores has become very high across the country.
+        </p>
+        <p>
+          Our comprehensive guide includes operating hours and current pricing for stores whose information was publicly available.
+        </p>
+        <p>
+          We've also included links to their social media pages, making it easy to stay updated on new inventory and special deals.
+        </p>
+        <blockquote className="blockquote bg-gray-100 rounded-lg p-4 italic text-gray-700">
+          Know of a bin store that's not on our list below?
+        </blockquote>
+        <p>
+          - Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
+        </p>
+        {/* Search */}
 
-      <SearchableStoreList initialStores={storeData} />
+        <SearchableStoreList initialStores={storeData} />
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
