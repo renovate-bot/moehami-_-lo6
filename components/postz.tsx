@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { Button } from "./ui/button";
 export default function Postz() {
     return (
       <section className="bg-gradient-to-b from-[#0099ff] to-transparent dark:bg-gray-900 rounded-t-lg">
@@ -11,12 +13,14 @@ export default function Postz() {
           </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
         
-            <a
-              href="/blog/amazon-bin-store-near-me"
-              className="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
-            >
-Find Amazon Bins Now            </a>
+  
+
           </div>
+          <Link href="/blog/amazon-bin-store-near-me">
+<Button variant="outline" className="bg-golden shadow-md"> Find Amazon Bins Now </Button>
+</Link>
+
+
         </div>
 
         <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
@@ -26,15 +30,11 @@ Find Amazon Bins Now            </a>
           <p className="mb-8 text-lg font-normal text-black lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
           Come find one-of-a-kind treasures in your local treasure trove of a bin store! From second-hand clothing to antique furniture, from the rarest collectibles to the most unexpected treasures, anything can be found hiding in these oft-missed stores. You just never know what you will find by digging through those bins. It always is a fun adventure to take the time to relish the thrill of the hunt, finding one-of-a-kind items that add character and personality to your home or wardrobe.
           </p>
-          <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
-        
-            <a
-              href="blog/find-the-best-bargain-bins-near-me"
-              className="py-3 px-5 sm:ms-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
-            >
-              Discover The Bin Store
-            </a>
-          </div>
+         
+          <Link href="blog/find-the-best-bargain-bins-near-me">
+<Button variant="outline" className="bg-golden shadow-md">Discover The Bin Store
+</Button>
+</Link>
         </div>
       </section>
     );

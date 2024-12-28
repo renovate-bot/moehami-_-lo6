@@ -102,22 +102,18 @@ const states = [
             transition={{ duration: 0.6, delay: 0.4 }}
             className="flex gap-4"
           >
-            <Link href="/search">
-            <Button size="lg" className="bg-white text-primary hover:bg-white/90">
-              Find Stores <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-           </Link>
+            
             
         <Popover>
         {/* Trigger Button */}
         <PopoverTrigger asChild>
-        <Button size="lg" variant="outline" className="bg-transparent border-white text-white hover:bg-white/10">
+        <Button size="lg" variant="outline" className="bg-transparent border-black shadow-md hover:shadow-lg hover:border-golden text-black hover:bg-white/10">
               <MapPin className="mr-2 h-5 w-5" /> Browse by State
             </Button>
         </PopoverTrigger>
 
         {/* Popover Content */}
-        <PopoverContent className="bg-transparent border-white text-white">
+        <PopoverContent className="bg-transparent border-golden text-black">
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Select a State:</h3>
             <Select

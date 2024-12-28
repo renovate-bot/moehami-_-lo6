@@ -32,12 +32,12 @@ export function Navigation() {
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-4">
             <Link href="/">
-              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+              <Button variant="ghost" className="flex items-center bg-golden border border-black shadow-md hover:shadow-xl hover:border-golden">
                 <Home className="h-5 w-5 mr-2" />
 Home
               </Button></Link>
               <Link href="/blog">
-              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+              <Button variant="ghost" className="flex items-center bg-golden border border-black shadow-md hover:shadow-xl hover:border-golden">
                 <Newspaper className="h-5 w-5 mr-2" />
 
                Blog
@@ -46,14 +46,14 @@ Home
             </Link>
 
             <Link href="/about-us">
-              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+              <Button variant="ghost" className="flex items-center bg-golden border border-black shadow-md hover:shadow-xl hover:border-golden">
                 <Info className="h-5 w-5 mr-2" />
                 About
               </Button>
             </Link>
 
             <Link href="/contact-us">
-              <Button variant="ghost" className="flex items-center bg-white bg-opacity-60">
+              <Button variant="ghost" className="flex items-center bg-golden border border-black shadow-md hover:shadow-xl hover:border-golden">
                 <Phone className="h-5 w-5 mr-2" />
                 Contact Us
               </Button>
@@ -81,31 +81,31 @@ Home
 
       {/* Mobile Menu */}
       {isOpen && (
-        <div className="md:hidden bg-white bg-opacity-30 backdrop-blur-md border-t">
-          <div className="px-4 py-2 space-y-2">
+        <div className="md:hidden p-2 bg-opacity-30 backdrop-blur-md border-t">
+          <div className="px-4 py-2 space-y-2 ">
             <Link href="/" onClick={() => setIsOpen(false)}>
-              <Button variant="ghost" className="w-full flex items-center justify-start bg-orange bg-opacity-60">
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-golden border border-black">
                 <Home className="h-5 w-5 mr-2" />
-                Home
+                Home Page
               </Button>
             </Link>
 
             <Link href="/blog" onClick={() => setIsOpen(false)}>
-              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-golden border border-black">
                 <Newspaper className="h-5 w-5 mr-2" />
                 Blog
               </Button>
             </Link>
 
             <Link href="/about-us" onClick={() => setIsOpen(false)}>
-              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-golden border border-black">
                 <Info className="h-5 w-5 mr-2" />
                 About
               </Button>
             </Link>
 
             <Link href="/contact-us" onClick={() => setIsOpen(false)}>
-              <Button variant="ghost" className="w-full flex items-center justify-start bg-white bg-opacity-60">
+              <Button variant="ghost" className="w-full flex items-center justify-start bg-golden border border-black">
                 <Phone className="h-5 w-5 mr-2" />
                 Contact Us
               </Button>

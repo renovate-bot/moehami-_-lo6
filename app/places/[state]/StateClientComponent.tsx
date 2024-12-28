@@ -2,13 +2,14 @@
 
 import React, { useEffect, useState } from 'react';
 import matter from "gray-matter";
-
 import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
+
 import ReactMarkdown from 'react-markdown';
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import SearchableStoreList from '@/components/SearchableStoreList';
+
 
 interface StoreData {
   business_id: string;
@@ -127,6 +128,7 @@ export default function StateClientComponent({ state }: { state: string }) {
 
   if (loading) {
     return (
+
       <div className="container mx-auto px-4 py-20 flex justify-center items-center">
         <div className="text-center">
           <p className="text-lg">Loading stores in {stateFormatted}...</p>
@@ -140,6 +142,7 @@ export default function StateClientComponent({ state }: { state: string }) {
 
   if (error) {
     return (
+      
       <div className="container mx-auto px-4 py-20">
         <div className="text-center">
           <p className="text-red-500">{error}</p>
@@ -152,17 +155,23 @@ export default function StateClientComponent({ state }: { state: string }) {
   }
 
   return (
+
     <div className="container mx-auto px-4 py-20">
       <div>
         <h1 className="text-4xl font-bold flex items-center gap-2">
           Bin Stores in {stateFormatted}
         </h1>
-        <p className="text-muted-foreground mt-2">
+        <p className="text-muted-foreground mt-2 p-3">
           Find the best bin stores and liquidation centers in {stateFormatted}
         </p>
+        <Link href="#bstores">
+        <Button className="w-full md:w-2/6">Jump To Stores</Button>
+        </Link>
+        <div className="p-3"></div>
       </div>
 
       <div className="prose text-lg font-semibold prose-sm max-w-none">
+
         <ReactMarkdown>{customText}</ReactMarkdown>
         <p>
           Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
@@ -186,11 +195,12 @@ export default function StateClientComponent({ state }: { state: string }) {
           - Let fellow treasure hunters know about it! Just drop us a message, and we'll add it to our growing directory.
         </p>
         {/* Search */}
-
         <SearchableStoreList initialStores={storeData} />
-      </div>
+      </div>         
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+
+      <div id="bstores" className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {storeData.length > 0 ? (
           storeData.map((store, index) => (
             <Store
