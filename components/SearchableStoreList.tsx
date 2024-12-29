@@ -108,8 +108,16 @@ export default function SearchableStoreList({ initialStores }: SearchableStoreLi
               name={store.name}
               location={store.city}
               rating={store.rating}
-              image={store.photos_sample[0]?.photo_url_large || "/images/states/notfound.png"}
-              tags={store.subtypes}
+              image={
+                store.photos_sample &&
+                store.photos_sample.length > 0 &&
+                store.photos_sample[0].photo_url_large?.trim() // Check if string is non-empty
+                  ? store.photos_sample[0].photo_url_large
+                  : "/images/states/notfound.webp"
+              }
+              
+              
+                            tags={store.subtypes}
               address={store.address}
               phone={store.phone_number}
               reviewCount={store.review_count}
