@@ -16,6 +16,7 @@ interface PostMetadata {
   description?: string;
   date: string;
   author: string;
+  metaDescription: string;
 }
 
 interface Post {
