@@ -10,6 +10,7 @@ import Image from 'next/image';
 const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 
 interface PostMetadata {
+  seo: string;
   title: string;
   summary?: string;
   description?: string;
@@ -52,7 +53,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   return {
     title: post.data.title,
-    description: post.data.summary || post.data.description,
+    description: post.data.seo.metaDescription || post.data.description,
   };
 }
 
