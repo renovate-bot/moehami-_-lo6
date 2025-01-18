@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   return {
     title: post.data.title,
-    description: post.data.seo?.metaDescription || post.data.seo.metaDescription,
+    description: post.data.seo.metaDescription || 'bin stores',
   };
 }
 
