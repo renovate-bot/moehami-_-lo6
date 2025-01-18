@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import Image from 'next/image';
 
@@ -101,7 +102,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </figure>
         </div>
         <article className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:mb-4 prose-p:mb-4 prose-strong:font-bold prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
-          <ReactMarkdown>{post.content}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
         </article>
       </div>
 

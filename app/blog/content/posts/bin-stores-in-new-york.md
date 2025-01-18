@@ -2,8 +2,9 @@
 title: 'Bin Stores in New York: Your Complete Guide to Discount Shopping (2025)'
 author: MOe
 date: 2025-01-03T22:00:00.000Z
+image: /bin-stores-in-new-york.webp
 seo:
-  metaTitle: 'Bin Stores in New York'
+  metaTitle: Bin Stores in New York
   metaDescription: ''
   canonicalUrl: bin-stores-in-new-york
 ---

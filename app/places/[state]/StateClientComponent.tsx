@@ -6,6 +6,8 @@ import { Store } from "@/components/stores/store-card";
 import { Button } from "@/components/ui/button";
 
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import SearchableStoreList from '@/components/SearchableStoreList';
@@ -172,7 +174,7 @@ export default function StateClientComponent({ state }: { state: string }) {
 
       <div className="prose text-lg font-semibold prose-sm max-w-none">
 
-        <ReactMarkdown>{customText}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>{customText}</ReactMarkdown>
         <p>
           Looking for bin stores in <span className="font-bold">{stateFormatted}</span> or Amazon bin stores in <span className="font-bold">{stateFormatted}</span>? Look no further!
         </p>

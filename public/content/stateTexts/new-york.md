@@ -4,33 +4,20 @@ state: New York
 
 Here's a concise summary of the bin stores guide for New York:
 
-# Quick Guide: Bin Stores in New York
+# Bin Stores Price List and Hot Offers in New York
 
-## Best Locations by Borough:
+Check out these amazing bin stores in New York for unbeatable deals and weekly offers!
 
-**Manhattan**
+| Store Name            | City          | Price Per Bin    | **Hot Offers**              |
+| --------------------- | ------------- | ---------------- | --------------------------- |
+| Empire Bins           | New York City | $10 on Saturdays | $3 bins on Tuesdays         |
+| Big Apple Deals       | Brooklyn      | $8 on Thursdays  | Buy 2 bins, get 1 free      |
+| Hudson Finds          | Albany        | $7 on Wednesdays | 50% off tech accessories    |
+| **Bargain Warehouse** | Buffalo       | $6 all week      | $1 clothing bins on Fridays |
+| Upstate Treasures     | Syracuse      | $9 on weekends   | Mystery bin giveaways       |
+| Niagara Bin Outlet    | Niagara Falls | $5 on Mondays    | Free bin with $30 purchase  |
 
-* Lower East Side: Bin Store NYC ($1-$10)
-* Chelsea: Manhattan Bins ($5-$25)
-* Upper West Side: Discount Depot ($2-$15)
-
-**Brooklyn**
-
-* Williamsburg: Brooklyn Bargains ($1-$7)
-* Sunset Park: Sunset Bins ($3-$20)
-* Bushwick: Bushwick Bins ($1-$12)
-
-**Queens**
-
-* Astoria: Astoria Finds ($2-$15)
-* Flushing: Flushing Bins ($1-$10)
-* Long Island City: LIC Bargains ($5-$25)
-
-## Best Days to Shop
-
-* Monday: Fresh stock, higher prices ($7)
-* Mid-week: Good selection, moderate prices ($3-$5)
-* Saturday: Lowest prices ($0.50), limited selection
+> *Don't miss out on these deals! Prices and offers may vary—contact the stores for the latest updates.*
 
 ## Best Deals by Category
 
