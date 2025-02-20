@@ -1,5 +1,10 @@
 ---
 state: texas
+metaTitle: 'Texas Bin Stores: Wholesale Liquidation & Discount Shopping Near You'
+metaDescription: >-
+  Discover Texas bin stores offering deep discounts on retail returns &
+  overstock items. Find brand-name products at 50-90% off retail. Daily restocks
+  in Dallas, Houston & more.
 ---
 
 ## Texas Bin Stores: Treasure Hunting for Deals
