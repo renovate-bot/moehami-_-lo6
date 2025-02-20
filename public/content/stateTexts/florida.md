@@ -1,5 +1,10 @@
 ---
 state: florida
+metaTitle: 'Bin Stores in Florida : Discount Shopping & Liquidation Deals'
+metaDescription: >-
+  Shop Florida's best bin stores for amazing deals on retail returns and
+  overstock items. Find top brands at 50-90% off in Miami, Orlando, Tampa &
+  across the Sunshine State.
 ---
 
 # Bin Stores Price List and Hot Offers in Florida
