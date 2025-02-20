@@ -109,6 +109,16 @@ export default defineConfig({
             required: true,
           },
           {
+            label: "Meta Title",
+            name: "metaTitle",
+            type: "string",
+          },
+          {
+            label: "Meta Description",
+            name: "metaDescription",
+            type: "string",
+          },
+          {
             type: "rich-text",
             label: "Custom Text",
             name: "body",
