@@ -1,5 +1,10 @@
 ---
 state: New York
+metaTitle: 'Bin Stores in New York: Liquidation & Discount Shopping'
+metaDescription: >-
+  Find the best bin stores in New York offering deep discounts on retail
+  returns. Score brand-name items at 70-90% off in NYC, Brooklyn, Long Island &
+  across the state.
 ---
 
 Here's a concise summary of the bin stores guide for New York:
