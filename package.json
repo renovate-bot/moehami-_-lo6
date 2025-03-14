@@ -38,6 +38,7 @@
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.1",
     "@types/recharts": "^1.8.29",
+    "@udecode/plate": "^46.0.4",
     "@udecode/plate-common": "^42.0.0",
     "@udecode/plate-table": "^41.0.0",
     "@vweevers/length-prefixed-stream": "^1.0.0",
