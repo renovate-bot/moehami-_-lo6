@@ -92,6 +92,7 @@
   },
   "resolutions": {
     "react": "^18.3.1",
+    "better-sqlite3": "8.4.0",
     "react-dom": "^18.3.1"
   },
   "description": "bin stores project",
