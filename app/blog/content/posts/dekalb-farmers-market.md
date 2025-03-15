@@ -3,6 +3,12 @@ title: 'Discover the Abundant Dekalb Farmers Market: Fresh & Global Finds'
 author: Alaa M
 date: 2025-03-14T22:00:00.000Z
 image: /dekalb-farmers-market.webp
+seo:
+  metaTitle: 'Discover the Abundant Dekalb Farmers Market: Fresh & Global Finds'
+  metaDescription: >-
+    There's magic to entering a market filled with the scent of just-harvested
+    herbs, the hum of multiple languages ruling the air, and every corner
+    bursting with vibrant produce from around the globe.
 ---
 
 There's magic to entering a market filled with the scent of just-harvested herbs, the hum of multiple languages ruling the air, and every corner bursting with vibrant produce from around the globe. That's the atmosphere of Your DeKalb Farmers Market—a place that's as experience as it is store.
