@@ -1,6 +1,6 @@
 ---
 title: 'Discover the Abundant Dekalb Farmers Market: Fresh & Global Finds'
-author: Alaa M
+author: MOe
 date: 2025-03-14T22:00:00.000Z
 image: /dekalb-farmers-market.webp
 seo:
