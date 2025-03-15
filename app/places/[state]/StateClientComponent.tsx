@@ -113,14 +113,18 @@ export default function StateClientComponent({ state }: { state: string }) {
         }
 
            // Fetch custom state text from Markdown
-           const stateTextResponse = await fetch(`/content/stateTexts/${state}.md`);
-           if (stateTextResponse.ok) {
-             const stateText = await stateTextResponse.text();
-             const { content } = matter(stateText) || `Explore great deals at bin stores across ${stateFormatted}.`;// Parse frontmatter and content
-
-             setCustomText(content.trim());
-           }
-           
+try {
+  const stateTextResponse = await fetch(`/content/stateTexts/${state}.md`);
+  if (stateTextResponse.ok) {
+    const stateText = await stateTextResponse.text();
+    const { content } = matter(stateText);
+    setCustomText(content.trim());
+  } else {
+    // Handle non-200 responses
+    console.warn(`Failed to fetch state text for ${state}: ${stateTextResponse.status} ${stateTextResponse.statusText}`);
+    setCustomText(`Explore great deals at bin stores across ${stateFormatted}.`);
+  }
+}
       } catch (err) {
         console.error('Error loading data:', err);
         setError('Failed to load store data. Please try again later.');
