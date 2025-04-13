@@ -45,7 +45,7 @@ The customers in these stores are more varied than you'd imagine. You'll find:
 
 The common thread? Bargain hunting and the thrill of the hunt.
 
-![](/amazon-return-store-.webp)
+![Amazon Return Stores](/amazon-return-store-.webp)
 
 ## The Good, The Bad, The Slightly Weird
 
@@ -101,7 +101,7 @@ In a world of increasingly digital and impersonal shopping experiences, Amazon r
 
 So the next time you're driving by one, why not pop in? Your next great bargain might be just beyond the door.
 
-![](/amazon-return-store.webp)
+![Amazon Return Stores](/amazon-return-store.webp)
 
 ## Frequently Asked Questions About Amazon Return Stores
 
