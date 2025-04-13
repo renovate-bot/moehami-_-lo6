@@ -195,7 +195,7 @@ Some items require more scrutiny before purchasing:
 * Visit multiple stores
 * Track prices over time
 
-![](/bargain-bins-near-me.jpg)
+![bargain bin Amazon](/bargain-bins-near-me.jpg)
 
 ## bargain bin Amazon
 
