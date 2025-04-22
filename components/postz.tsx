@@ -28,7 +28,7 @@ export default function Postz() {
             The Bin Store
           </h1>
           <p className="mb-8 text-lg font-normal text-black lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">
-          Come find one-of-a-kind treasures in your local treasure trove of a bin store! From second-hand clothing to antique furniture, from the rarest collectibles to the most unexpected treasures, anything can be found hiding in these oft-missed stores. You just never know what you will find by digging through those bins. It always is a fun adventure to take the time to relish the thrill of the hunt, finding one-of-a-kind items that add character and personality to your home or wardrobe.
+          Come find one-of-a-kind deals outlet bin store and treasures in your local treasure trove of a bin store! From second-hand clothing to antique furniture, from the rarest collectibles to the most unexpected treasures, anything can be found hiding in these oft-missed stores. You just never know what you will find by digging through those bins. It always is a fun adventure to take the time to relish the thrill of the hunt, finding one-of-a-kind items that add character and personality to your home or wardrobe.
           </p>
          
           <Link href="blog/find-the-best-bargain-bins-near-me">
@@ -36,6 +36,10 @@ export default function Postz() {
 </Button>
 </Link>
         </div>
+
+
+
+
       </section>
     );
   };
