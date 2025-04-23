@@ -82,7 +82,7 @@ The absolute best thrift store shopping day can vary from store to store but doe
 
 Sure! Here's a **FAQ-style summary** with clear, concise answers to the questions — tailored to budget-minded consumers, deal seekers, resellers, and families who frequent thrift stores or Amazon return stores.
 
-![Cheap high end thrift stores near me](/cheap-high-end-thrift-stores-near-me.webp)
+
 
 ***
 
