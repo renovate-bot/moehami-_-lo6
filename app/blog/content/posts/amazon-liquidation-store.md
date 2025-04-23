@@ -93,7 +93,7 @@ Be careful with:
 
 For price-conscious consumers who can deal with some unknown and likely minor defects, Amazon liquidation stores are an incredible deal. The key is being an informed shopper who understands what they are buying and with realistic expectations.
 
-Whether you wish to stretch your household budget, buy items to resell, or just enjoy the excitement of treasure hunting, Amazon liquidation shops can prove to be a lucrative shopping adventure with the right knowledge and approach.
+Whether you wish to stretch your household budget, buy items to resell, or just enjoy the excitement of treasure hunting, Amazon liquidation store can prove to be a lucrative shopping adventure with the right knowledge and approach.
 
 Have you ever shopped at an Amazon liquidation shop? 
 
