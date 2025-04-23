@@ -42,7 +42,7 @@ Shop early on the restocking days for the greatest selection, typically Mondays 
 
 ### "Can you return items from Amazon liquidation stores?"
 
-Most retailers have no-return or limited-return policies, which is how they can offer such deep discounts. Always check the store's return policy before you purchase and consider this "final sale" unless you are otherwise informed. Test electronics in the store whenever possible.
+Most of the stores are no or limited return stores, and that is why they are able to provide such deep discounting. Always inspect the store return policy before a purchase and assume this "final sale" unless a different policy is noted.
 
 ## Shopping Smart: What to Know Before You Go
 
@@ -95,4 +95,6 @@ For price-conscious consumers who can deal with some unknown and likely minor de
 
 Whether you wish to stretch your household budget, buy items to resell, or just enjoy the excitement of treasure hunting, Amazon liquidation shops can prove to be a lucrative shopping adventure with the right knowledge and approach.
 
-Have you ever shopped at an Amazon liquidation shop? Share your experiences and advice in the comments below!
+Have you ever shopped at an Amazon liquidation shop? 
+
+> Share your experiences and advice in the comments below!
