@@ -4,8 +4,11 @@ author: MOe
 date: 2025-01-17T22:00:00.000Z
 image: /amazon-liquidation-store.webp
 seo:
-  metaTitle: 'Amazon Liquidation Store: Unlock 7 Incredible Deals You Can’t Miss Today!'
-  metaDescription: ''
+  metaTitle: Amazon Liquidation Store
+  metaDescription: >-
+    Find incredible deals at Amazon liquidation stores! Discover discounted
+    returns, overstock, and even unclaimed packages. Save big on electronics,
+    home goods, and more.
   canonicalUrl: amazon-liquidation-store
 ---
 
