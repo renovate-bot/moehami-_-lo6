@@ -2,7 +2,7 @@
 title: Cheap high end thrift stores near me
 author: MOe
 date: 2025-04-12T22:00:00.000Z
-image: /thrift-stores.webp
+image: /cheap-high-end-thrift-stores-near-me.webp
 seo:
   metaTitle: >-
     Finding Cheap High-End Thrift Stores in Your Area: The Ultimate Treasure
