@@ -87,7 +87,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "@tinacms/cli": "^1.5.53",
-    "@types/node": "^22.13.10",
+    "@types/node": "^22.14.1",
     "typescript": "5.7.2"
   },
   "resolutions": {
