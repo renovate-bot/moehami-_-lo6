@@ -67,10 +67,19 @@ export default defineConfig({
             name: "image",
           },
           {
-            type: "rich-text",
-            label: "Content",
-            name: "body",
-            isBody: true,
+            type: 'rich-text',
+            name: 'body',
+            label: 'Content',
+            templates: [
+              // Look for image templates defined here
+              {
+                name: 'img',
+                label: 'Image',
+                fields: [
+                  // Image field definitions
+                ]
+              }
+            ]
           },
           {
             name: "seo",
