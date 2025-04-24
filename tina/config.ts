@@ -69,14 +69,28 @@ export default defineConfig({
           {
             type: 'rich-text',
             name: 'body',
-            label: 'Content',
+            label: 'Body',
+            isBody: true,
             templates: [
-              // Look for image templates defined here
               {
                 name: 'img',
                 label: 'Image',
                 fields: [
-                  // Image field definitions
+                  {
+                    type: 'image',
+                    name: 'url',
+                    label: 'Image',
+                  },
+                  {
+                    type: 'string',
+                    name: 'alt',
+                    label: 'Alt Text',
+                  },
+                  {
+                    type: 'string',
+                    name: 'caption',
+                    label: 'Caption',
+                  }
                 ]
               }
             ]
