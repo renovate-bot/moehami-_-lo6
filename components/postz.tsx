@@ -18,8 +18,8 @@ Local Liquidation Stores
   
 
           </div>
-          <Link href="/blog/amazon-bin-store-near-me">
-<Button variant="outline" className="bg-golden shadow-md"> Find Amazon Bins Now </Button>
+          <Link href="/blog/amazon-liquidation-store">
+<Button variant="outline" className="bg-golden shadow-md"> Amazon Liquidation Stores </Button>
 </Link>
 
 
