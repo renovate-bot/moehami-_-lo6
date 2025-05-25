@@ -32,8 +32,8 @@ Local gardening-related organizations and environmental groups also have new com
 
 ## Starting Your Composting Journey Today
 
-Whether you've been a New Yorker for years or just landed in town, composting is an excellent method to lessen one's environmental footprint while also giving back. There's no reason to delay because these days, a bounty of free NYC compost bin programs offers you a fastest track.
+Whether you've been a New Yorker for years or just landed in town, composting is an excellent method to lessen one's environmental footprint while also giving back. There's no reason to delay because, these days, a bounty of free NYC compost [bin](https://lobinstores.com/blog/bin-store-near-me) programs offers you the fastest track.
 
 Start by looking up which programs your borough offers, sign up for a distribution day, and save your kitchen scraps. That step toward sustainable urban living will one day be thanked by your garden and the planet.
 
-Remember, it is the little things that all make a difference in a city of 8 million people. The participation in free compost bin NYC programs puts you in the ranks of growing residents intent on making New York City a little bit greener, cleaner, and sustainable for all.
+Remember, it is the little things that all make a difference in a city of 8 million people. Participation in free compost bin NYC programs puts you in the ranks of a growing number of residents intent on making New York City a little bit greener, cleaner, and sustainable for all.
