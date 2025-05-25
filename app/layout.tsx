@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ['latin'], display: 'swap', weight: ['400', '700'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Lo Bin Stores',
+    template: '%s ',
     default: 'Lo Bin Stores',
   },
   description: 'Discover local bin stores near me selling a wide variety of trash cans, recycling bins, compost bins, and more. Find the perfect bin for your home or business.',
