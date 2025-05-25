@@ -2,6 +2,11 @@
 title: 'Sunrise Surplus Bin Store: Amazing Deals & Treasure Hunts'
 author: MOe
 date: 2025-05-25T21:00:00.000Z
+seo:
+  metaTitle: 'Sunrise Surplus Bin Store: Amazing Deals & Treasure Hunts'
+  metaDescription: >-
+    Discover incredible savings at Sunrise Surplus Bin Store! Find brand-name
+    products at 70-90% off retail prices. Fresh inventory daily awaits you.
 ---
 
 # Grab Great Deals at Sunrise Surplus Bin Store
