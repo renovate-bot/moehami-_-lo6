@@ -196,7 +196,7 @@ Some items require more scrutiny before purchasing:
 ![bargain bin Amazon](/bargain-bins-near-me.jpg)
 
 
-# FAQ: Everything You Need to Know About Bargain Bin Store near me
+## FAQ: Everything You Need to Know About Bargain Bin Store near me
 
 ---
 
