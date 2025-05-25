@@ -7,8 +7,7 @@ seo:
   metaTitle: Amazon Liquidation Store
   metaDescription: >-
     Find incredible deals at Amazon liquidation stores! Discover discounted
-    returns, overstock, and even unclaimed packages. Save big on electronics,
-    home goods, and more.
+    returns, overstock, and even unclaimed packages.
   canonicalUrl: amazon-liquidation-store
 ---
 
