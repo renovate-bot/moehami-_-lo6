@@ -7,9 +7,7 @@ seo:
   metaTitle: bargain bin store near me
   metaDescription: >-
     Discover hidden bargain bin store near me offering incredible discounts on
-    returned items, overstock, and clearance deals. Learn how to find Amazon
-    Warehouse Deals, Outlet savings, and daily lightning offers that help you
-    save up to 70% on quality products while shopping from home.
+    returned items, overstock, and clearance deals. 
   canonicalUrl: bargain-stores
 ---
 
