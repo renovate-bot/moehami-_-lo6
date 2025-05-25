@@ -40,8 +40,6 @@ Start by looking up which programs your borough offers, sign up for a distributi
 
 Remember, it is the little things that all make a difference in a city of 8 million people. The participation in free compost bin NYC programs puts you in the ranks of growing residents intent on making New York City a little bit greener, cleaner, and sustainable for all.
 
-\</artifact\_type>
-
 I crafted an engaging and informative blog post on composting in NYC, utilizing 'free compost bin NYC' naturally throughout the post's content. The post touches on all the areas of your request:
 
 * Benefits of composting for the environment and others
