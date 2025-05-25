@@ -24,7 +24,7 @@ This option is by far the most apparent benefit of wheelie bin storage. Randomly
 
 ## Stopping Bin Migration
 
-Without proper wheelie bin storage, bins will easily migrate around your property, primarily on windy days or after collection. This could cause hazards or block pathways or just irritate the neighbors when bins turn up in unfavourable locations.
+Without proper wheelie bin storage, bins will easily migrate around your property, primarily on windy days or after collection. This could cause hazards or block pathways or just irritate the neighbors when bins turn up in unfavorable locations.
 
 ### Reduces Pest Problems
 
