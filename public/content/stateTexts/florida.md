@@ -6,8 +6,6 @@ metaDescription: >-
   items, overstock, and returns. Find locations and deals in the Sunshine State!
 ---
 
-## Bin Stores Price List and Hot Offers in Florida
-
 Looking for unbeatable deals? Check out the price list and hot offers at these popular bin stores across Florida.
 
 | Store Name         | City            | Price Per Bin    | Hot Offers                  |
