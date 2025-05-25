@@ -55,7 +55,9 @@ What should be added to compost bin at the start?
 At the start of filling a compost bin, you gather green materials and brown materials. Start with dry brown materials, such as shredded newspaper, dry leaves, or small cardboard pieces, as the initial base layer. Then put in your green materials, which can be vegetable scraps, fruit peels, or coffee grounds.
 Throw in a shovel full of finished compost or garden soil to bring in microorganisms that will speed up the process of decomposition. In the absence of finished compost, do not panic, the process will still work, but just slower. Add water to make sure that moisture levels are adequate.
 
-Whats' Not To Compost:
+## Whats' Not To Compost
+
+
 Meat and fish scraps - Attracts pests and causes odor
 Dairy products - Become rancid and attract undesired animals
 Oils and fats - Decomposition slows while pests are encouraged
@@ -69,8 +71,8 @@ Synthetic materials - Plastics, metals and synthetic fabrics won't decompose
 Large branches - Too slow to break down without shredding
 Citrus peels in large quantities - Too acidic and might hamper decomposition
 Onions and garlic scraps - Might inhibit useful organisms in your compost pile
-To compost list:
-Green Materials (Nitrogen-rich):
+
+### &#xA;To compost list:&#xA;Green Materials (Nitrogen-rich):
 
 Vegetable scraps and peels
 Fruit scraps and peels (less often)
@@ -92,7 +94,9 @@ Wood chips and sawdust (untreated)
 Straw and hay
 Corn stalks and husks
 
-How to Compost at Home
+## How to Compost at Home
+
+
 Home composting can be set up in many ways. The conventional manner entails making a pile or using a bin somewhere in your yard. Layer the brown and green materials, keep the pile moist, and turn it regularly for aeration.
 For apartments and other small spaces, try vermicomposting (worm composting) using a special bin with red worms. Tumblers work well if you want faster results and easier turning. Kitchen scrap collectors allow you to collect material before transferring them to a bigger system.
 Moisture: Like a wrung-out sponge. Airflow: Good air circulation. And be patient: It takes about 3-12 months, depending on your composting method, materials, and how well you maintain it. If you can, watch the temperature - active compost piles get hot when decomposing.
@@ -100,14 +104,26 @@ What else belongs in your compost bin, other than on your list? From a typical h
 
 Including some dirt in the form of scraps from the kitchen will do most of the work of composting household waste. Save potato peels, carrot tops, apple cores, banana peels, and other produce scraps. Don't forget about coffee grounds-who knows, free grounds might even be offered by a café near you.
 
-What cannot be composted?
+## What cannot be composted?
+
+
 Certain items should never go into any compost bin. Animal products must be avoided at all costs: meat, fish, bones, dairy, and eggs (shells are OK). Avoid oils, fats, and any greasy foods. Because of their health risk, it is against the rules to compost pet waste or cat litter.
 
 Diseased plants, seed-bearing weeds, and anything chemically treated should be avoided. Plastics, metals, and treated woods cannot be broken down and may leach harmful substances into the compost being made. Large objects that will not easily degrade should be avoided unless cut into smaller pieces.
+
+
 What do you throw in a compost bin?
+-----------------------------------
+
+
 Throw a balanced combination of organic matter in it. Daily additions may include vegetable peels left from cooking, coffee grounds scooped from the coffee pot in the morning, and fruit scraps from a snack. Throw in some used paper towels for cleaning purposes, so long as they're not contaminated and chemicals, some newspaper, and cardboard packaging.
 From lawn maintenance, have you thrown in some grass clippings, fallen leaves, or plant trimmings? Seasonal additions could vary from disposing of jack-o-lanterns after Halloween through disposing of Christmas tree needles to laying down spring garden cleanup debris. Chop any big items into smaller chunks to hasten the decay process.
+
+
 What do you not put into a compost bin?
+---------------------------------------
+
+
 Never throwing in meats, fish, dairy products, and oils in a composting bin is because those attract pests and cause terrible smells. On the other hand, avoid pet waste-soil has pathogens that are harmful. Skip diseased plants which could create further issues for your garden when you use the finished product.
 Don't add weeds gone to seed, as those seeds might survive the process and find their way to sprouting in your garden. Avoid anything chemically treated such as pressure-treated lumber or a glossy magazine. If you have anything very large or slow in breaking down, chop it up or just leave it out.
 Synthetic materials such as plastic bags, metal, and glass obviously don't go into the compost. Even biodegradable plastics should be avoided because they might not break down completely under home composting conditions.
