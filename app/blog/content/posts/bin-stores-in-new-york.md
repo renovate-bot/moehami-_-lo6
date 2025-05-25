@@ -1,11 +1,13 @@
 ---
-title: 'Bin Stores in New York: Your Complete Guide to Discount Shopping (2025)'
+title: 'Bin Stores in New York: Discount Deals & Liquidation Finds in NY'
 author: MOe
 date: 2025-01-03T22:00:00.000Z
 image: /bin-stores-in-new-york.webp
 seo:
   metaTitle: Bin Stores in New York
-  metaDescription: ''
+  metaDescription: >-
+    New York bin stores: Unbeatable deals on liquidation merchandise,
+    electronics, and more. Find your next treasure in NYC and across NY!
   canonicalUrl: bin-stores-in-new-york
 ---
 
