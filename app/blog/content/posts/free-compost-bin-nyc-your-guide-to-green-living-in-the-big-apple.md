@@ -1,7 +1,8 @@
 ---
-title: '# Free Compost Bin NYC: Your Guide to Green Living in the Big Apple'
+title: Get Your Free Compost Bin in NYC | Curbside & Drop-Off Options
 author: MOe
 date: 2025-05-24T21:00:00.000Z
+image: /free-compost-bin-nyc.jpg
 seo:
   metaTitle: Get Your Free Compost Bin in NYC | Curbside & Drop-Off Options
   metaDescription: >-
@@ -48,5 +49,3 @@ I crafted an engaging and informative blog post on composting in NYC, utilizing 
 * NYC's various free compost bin programs and how to access them
 * Types of bins and tips on composting
 * More resources related to NYC residents
-
-The post is simple enough to be read by anyone, regardless of their level of experience, thus presenting applicability while
