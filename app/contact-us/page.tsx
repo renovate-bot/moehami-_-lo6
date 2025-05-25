@@ -8,7 +8,7 @@ import React from "react";
 export const metadata: Metadata = {
     title: "Contact Us - LobinStores",
     description:
-      "Have a question or need assistance? Contact LobinStores customer support. We're here to help!",
+      "Get in touch with our team for questions, feedback, or support regarding bin store locations and deals.",
   };
 
   import ContactForm from "@/components/ui/ContactForm";
