@@ -1,5 +1,5 @@
 ---
-title: 'Bin Stores Near Me: Discount Deals & Liquidation Finds in FL'
+title: 'Bin Stores Near Me: Discount Deals & Liquidation Finds'
 author: MOe
 date: 2024-12-19T22:00:00.000Z
 image: /bin-store-near-me.png
