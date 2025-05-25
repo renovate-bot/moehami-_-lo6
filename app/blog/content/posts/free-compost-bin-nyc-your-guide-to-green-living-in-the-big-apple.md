@@ -8,6 +8,7 @@ seo:
   metaDescription: >-
     Learn how to get a free compost bin in NYC for curbside composting or
     community drop-off.
+  canonicalUrl: ' free-compost-bin-nyc'
 ---
 
 live in [NYC](https://lobinstores.com/blog/bin-stores-in-new-york) and may limit it to one bin for a particular household. Come prepared with questions regarding setup, maintenance, or any issues.
