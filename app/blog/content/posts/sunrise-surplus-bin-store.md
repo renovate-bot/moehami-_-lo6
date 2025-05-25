@@ -8,6 +8,7 @@ seo:
   metaDescription: >-
     Discover incredible savings at Sunrise Surplus Bin Store! Find brand-name
     products at 70-90% off retail prices. Fresh inventory daily awaits you.
+  canonicalUrl: sunrise-surplus-bin-store
 ---
 
 Have you ever wondered where brand-name merchandise could be bought at a steal? [Treasure hunting ](https://lobinstores.com/blog/overstock-bins-a-modern-day-treasure-hunt-for-amazon-returns)meets smart shopping at Sunrise Surplus Bin Store. This one-of-a-kind retail concept is changing people's notion about buying quality items for [cheap](https://lobinstores.com/blog/cheap-high-end-thrift-stores-near-me).
