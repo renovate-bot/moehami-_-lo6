@@ -37,3 +37,15 @@ Bin Storage Sheds
 Bin storage sheds offer total concealment and protection from the elements. Mostly these are fitted with hinged lids or front-opening doors allowing easy access to the bins for everyday use while keeping them fully hidden from view.
 DIY Enclosures
 Building your own wheelie bin storage enclosure allows you to tailor it to the style of your property as well as your specific needs. Some popular DIY variations include wooden pallet constructions, brick-built enclosures, or a combination of different materials.
+Designated Storage Areas
+Sometimes the best wheelie bin storage solution is simply designating a special area of your property for bins. This might include building a concrete pad, erecting some boundary markers, or implementing clear policies regarding where bins should be placed.
+Wheelie Bin Storage Tips
+Label Everything Clearly
+If you have multiple bins for different types of waste, clear labeling guarantees proper use and quick make collection time. Use weather-proof labels or paint directly onto your bins to ensure the marks will be visible over time.
+Create Systems for Collection Days
+Set up a system that requires moving the bins from the storage area to the collection point. Consider having a trolley for easy conveyance, or having a clear path to make this task quick. Some people also find it useful to have their phone set up with reminders for preparing on collection days.
+Establish Household Rules
+Ensure that everyone in the household knows the wheelie bin storage system: what goes in which bins, how to close the storage doors or lids correctly, and when they have to be moved for collection.
+Plan for Different Bin Sizes
+Most households typically have bins of different sizes for different types of waste. Make sure your wheelie bin storage can take into account these size differences without losing organization or ease of access.
+Maintenance of Wheelie Bin Storage Area
