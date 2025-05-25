@@ -10,7 +10,7 @@ seo:
     community drop-off.
 ---
 
-live in NYC and may limit it to one bin for a particular household. Come prepared with questions regarding setup, maintenance, or any issues.
+live in [NYC](https://lobinstores.com/blog/bin-stores-in-new-york) and may limit it to one bin for a particular household. Come prepared with questions regarding setup, maintenance, or any issues.
 
 ## Types of Bins Offered
 
