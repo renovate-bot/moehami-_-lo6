@@ -130,4 +130,17 @@ But let your first step to creating this change in your community and to the env
 
 Just think: those clothes, which have been gathering dust in your closet, can change somebody's life. Using the resources above, locate some of the nearest clothes donation bins and take immediate action. Your unwanted clothes may be exactly what someone needs to stay warm, to attend a job interview, or simply to feel better about themselves.
 
+##Donation bins near me
+
+A short online search will readily reveal donation bins in any given area. Many local charities and organizations properly set up bins in convenient locations, presenting a straightforward option for someone wishing to drop off items for which they no longer have a use. 
+
+
+At times, the bins are also hosted near your favorite community center or retail store; always keep an eye open. The clutter-free shortcut goes straight to aid while donating.
+
 Ready to donate? Start by searching for your nearest clothing donation bins now, and join the list of conscious consumers making it happen in their communities.
+
+##Clothing donation bins near me
+
+On the environmental side, this is very interesting. With fast fashion being such a huge contributor to textile waste, these donation bins stand as one of the important alternatives to garbage disposal. Sometimes, these clothes may need a slight bit of intervention before reuse, so they can go to be recycled into other products or materials or in-ways that extend recycling. 
+If you wish to maximize the impact of your donations, it might be worth figuring out the specific organizations operating your local bins. Some target job training programs; some serve the homeless; others provide international relief programs. Many bins will be those sponsored by familiar organizations, like Goodwill or the Salvation Army, or a local nonprofit. Each with a slightly different mission and way of utilizing the donated items.
+Are you currently looking for places to donate items, or was that just a general sharing of information about the donation process?
