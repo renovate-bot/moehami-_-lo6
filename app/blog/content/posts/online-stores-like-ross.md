@@ -18,7 +18,7 @@ While Ross itself doesn’t sell online, many other stores do—and they offer t
 
 ## What Is Ross Dress for Less?
 
-Ross is one of the largest off-price retailers in the U.S., offering a wide variety of apparel, shoes, home décor, and beauty products from top brands at up to 60% off department store prices. Unlike traditional stores, Ross doesn’t have an e-commerce site, which means shopping must be done in person—but that hasn’t stopped fans from loving the thrill of the hunt for designer finds on a dime.
+Ross is one of the largest off-price retailers in the U.S., offering a wide variety of apparel, shoes, home décor, and beauty products from top brands at up to 60% off department store prices. Unlike traditional stores, Ross doesn’t have an e-commerce site, which means shopping must be done in person, but that hasn’t stopped fans from loving the thrill of the hunt for designer finds on a dime.
 
 ***
 
