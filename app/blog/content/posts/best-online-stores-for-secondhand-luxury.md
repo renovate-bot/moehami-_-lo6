@@ -78,43 +78,43 @@ Here's something that should forever keep you grounded – the price might as we
 
 Know what the correct version should be.
 
-Gauge the Condition
+### Gauge the Condition
 
 Don't just glance at the photos. Look at them like a detective. Read every word in the description of the condition and look hard for any scratches or signs of use, such as stains, fading, and hardware that has dulled down.
 
 Most reputable sites will use ratings, so learn to always recognise what "excellent" versus "good" means on each of these platforms. Pro tip: Always ask a seller for more pictures or information about the item. If they refuse to provide you with them, walk away.
 
-Read the Return Policy Before Clicking "Buy"
+## Read the Return Policy Before Clicking "Buy"
 
 I've lost count of all the occasions that have saved me. Some sites are very generous with their return policies, and, well, they might let you off with a change of mind within 30 days. And on others, the minute you purchase it, it decides to stick to you for good.
 
 When buying expensive stuff, just be sure you are comfortable with the return policy before buying; it is worth a few extra bucks, believe me.
 
-Do Your Price Study
+### Conduct a price study
 
 Don't just look at one website and call it good. Shop around! Check what similar items are selling for on different platforms. And here's one thing most don't think about: look at what items sold for, not just what they're listed for.
 
 Sometimes a platform puts a higher price tag because it offers better authentication or customer service. In some other cases, you are shelling out a premium for no good reason.
 
-Know Your Body (Seriously!)
+### Know Your Body (Seriously!)
 
 For clothing and accessories, just forget about that size tag and focus on the measurements. Sometimes, a luxury brand is all over the place with sizing and vintage pieces. Well, they belong to a whole different realm.
 
 Measure yourself properly and compare those numbers to what the seller lists for the garment. A size 8 Chanel jacket from the 1990s may fit so differently from a modern-day size 8.
 
-Good Things Come to Those Who Wait
+## Good Things Come to Those Who Wait
 
 It's hard when you see something beautiful, but patience does pay off in the resale world. Set alerts for brands or specific pieces that you've been hunting for, and come back and check.
 
 The right piece at the right price may not show up today or tomorrow, but it will show up. Don't buy the first thing you come across! Waiting for a week can save you hundreds of dollars.
 
-Don't Forget About the Hidden Costs
+## Don't Forget About the Hidden Costs
 
 The shipping, taxes from your country, and authentication fees may make that so-called deal look not so good anymore. Some sites waive shipping fees if you spend enough, while others send a bill no matter what.
 
 Keep an eye on the total cost before falling for the "bargain". Sometimes, a bit more money on something else might just turn out to be the cheaper option after all.
 
-Final Word
+## The final word
 
 It is similar to treasure hunting for secondhand luxury online – excitement, gratification, and absolute addiction if you get into it. You eventually get to know well with beautiful, well-made pieces while being kind to your wallet and the environment.
 
