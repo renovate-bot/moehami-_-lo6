@@ -1,13 +1,12 @@
 # For all user-agents
 User-agent: *
 Allow: /
-Disallow: /_next/static/ # Disallow Next.js static build files (hashed, not for indexing)
-Disallow: /api/ # Disallow Next.js API routes (usually not meant for indexing)
-Disallow: /admin/ # Disallow TinaCMS admin/dashboard
-Disallow: /tinacms/ # Disallow TinaCMS internal paths (verify if applicable to your setup)
-Disallow: /preview/ # Disallow TinaCMS/Next.js preview routes (draft content)
-Disallow: /temp/ # Common temporary directories
-Disallow: /test/ # Common test directories
+Disallow: /_next/static/ # 
+Disallow: /api/ # 
+Disallow: /admin/ # 
+Disallow: /tinacms/ # 
+Disallow: /temp/ #   
+Disallow: /test/ # 
 
 # Specific directives for Bingbot (if you want to control its crawl rate)
 User-agent: Bingbot
@@ -19,6 +18,5 @@ Crawl-delay: 10 # Wait 10 seconds between requests for Bingbot
 
 # Point to your sitemaps (Crucial for SEO!)
 Sitemap: https://www.lobinstore.com/sitemap.xml
-# If you have multiple sitemaps (e.g., Next.js often generates sitemap-0.xml, etc.)
-# Sitemap: https://www.lobinstore.com/sitemap.xml
+# If you have multiple sitemaps 
 Sitemap: https://www.lobinstore.com/sitemap-0.xml
