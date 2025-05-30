@@ -6,7 +6,7 @@ image: /amazonreturnstore.webp
 seo:
   metaTitle: 'Amazon Return Stores: Discount Deals & Liquidation'
   metaDescription: >-
-Looking for Amazon return pallets & bins? Explore discount stores selling Amazon returns for huge savings on a wide range of products. Find your next bargain!
+    Looking for Amazon return pallets & bins? Explore discount stores selling Amazon returns for huge savings on a wide range of products. Find your next bargain!
 ---
 
 Ever walked into a store and felt like you were on the brink of discovering some buried treasure? That's what you feel when you enter an Amazon return store. The retail stores have been popping up everywhere, and they're changing how value shoppers think about finding deals.
