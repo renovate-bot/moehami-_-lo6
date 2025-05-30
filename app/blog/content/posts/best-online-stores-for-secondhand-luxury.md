@@ -18,59 +18,59 @@ The best thing? There's built-in durability in those luxury goods. An excellent 
 
 Before the online age, finding these rare treasures was a task. At present, you can search on your couch through thousands of authentic designer pieces, compare prices, and buy great deals without ever setting foot in a store.
 
-The Best Places to Hunt for Secondhand Luxury Online
+## The Best Places to Hunt for Secondhand Luxury Online
 
-The RealReal
+### The RealReal
 
 Think of The RealReal as your super-knowledgeable friend who happens to be an expert in luxury goods. They put every single item through a tough authentication process – we're talking teams of specialists who know their stuff inside and out.
 
 Whenever you hang out here, you will find lovely handbags, impeccable jewellery, and bold watches to tell your stories, plus some luxury home decor. What is cool is that they give you the full story on every piece – the condition it's in, any quirks it might present, and how they priced it. Plus, they have regular sales that your wallet will thank you for.
 
-Vestiaire Collective
+### Vestiaire Collective
 
 Here is the place where global shopping gets its magic. Imagine closets of Parisians, Tokyoites, New Yorkers, and everywhere in between – a little bit of everything for you: that is what Vestiaire Collective stands to offer.
 
 With more than 3,000 brands represented, you will find pieces that you did not even know existed. Perhaps a vintage Versace jacket that came from Milan or a pair of Balenciaga sneakers emerging from Seoul. Their authentication team ensures everything is real, and you can follow sellers whose style you find interesting. It's like having a personal shopper scattered across the world!
 
-Fashionphile
+### Fashionphile
 
 If handbags are your weakness, Fashionphile is about to become your new best friend. They have been in luxury resale for over 20 years – they practically wrote the book on it.
 
 They're obsessed with the big names: Chanel, Louis Vuitton, and Hermès. But here's what I love most about them: they show you everything. Every tiny scratch, every bit of wear, every beautiful detail. And if you fall in love with something a bit pricey? They'll let you pay it off over time with their layaway option. Pretty sweet, right?
 
-Rebag
+### Rebag
 
 Rebag is all about handbags, and they've taken it to an art. The "Infinity" technology could arguably be called amazing – an instant quote affords you knowledge of just what your bag is worth in cases where you want to trade up.
 
 What makes the place stand out is that everything is made simply. Their website works (revolutionary, I know!), and their "Rebag Refresh" lets you turn in your old bag as credit toward buying something new. Like upgrading your phone, but way more stylish.
 
-Yoox
+### Yoox
 
 The biggest difference from other sites is a part of the luxury fashion empire that also owns Net-A-Porter. While they're not just secondhand, their vintage category is one worth going through.
 
 Think of it as a place for end-of-season luxury to resell merchandise for someone else. You'll find items from the last century coupled with recent ones at prices that won't give you a heart attack. It's a perfect antidote for laying down a truly special wardrobe that very few people will have.
 
-TheOutnet
+### TheOutnet
 
 This is Net-A-Porter's outlet, and let me tell you, it's priceless. Yes, mostly it's discounted current season items, but with the added selling of select beautiful pre-owned pieces.
 
 The return policy is very generous, reducing the stress of online shopping for you even further. And another great thing? They're always running sales upon sales on their already discounted merchandise – truly a discount on a discount! My kind of math!
 
-1stDibs
+### 1stDibs
 
 When you are after the one-of-a-kind thing – museum-quality vintage – 1stDibs is the place for you. Their original emphasis was on antiques and art, but their fashion selection is packed with esoteric finds that could make any fashion lover's heart skip a beat.
 
 They're not exactly clothes or accessories, but rather fashion artefacts. Vendors here are established antique dealers familiar with the pieces that they sell. So, a buyer can shop here with confidence, knowing they are buying something authentic and special.
 
-Luxury Garage Sale
+### Luxury Garage Sale
 
 Here's something fun – an auction-style way of shopping for luxury goods. No fixed prices; simply bid and put the colours with their ideas for an amazing luxury bargain.
 
 The combination of auctions and verified luxury goods is a recipe for addiction. Just remember to set a budget and stick to it, as the thrill can cause you to go overboard.
 
-How to Shop Wisely and Avoid Getting Duped
+## How to Shop Wisely and Avoid Getting Duped
 
-Check and Make Sure the Item Is Authentic
+### Check and Make Sure the Item Is Authentic
 
 It's huge–huge for you to make sure the websites you shop from offer authentication services. I'm stressing on this so much! Look for details and close-up photos of serial numbers, date codes, and those little tiny details that form provenance.
 
