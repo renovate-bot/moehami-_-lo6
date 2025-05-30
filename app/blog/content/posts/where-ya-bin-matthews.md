@@ -1,5 +1,5 @@
 ---
-title: 'Your Complete Guide to Where ya Bin Matthews: Everything You Need to Know'
+title: 'Where ya Bin Matthews: Everything You Need to Know'
 author: MOe
 date: 2025-05-29T21:00:00.000Z
 image: /IMG_9426.webp
