@@ -78,7 +78,7 @@ export default defineConfig({
                 fields: [
                   {
                     type: 'image',
-                    name: 'url',
+                    name: 'src',
                     label: 'Image',
                   },
                   {
