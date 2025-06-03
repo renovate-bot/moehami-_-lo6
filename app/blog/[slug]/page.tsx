@@ -112,7 +112,7 @@ alt={`${post.data.title}`}
                 priority={true}
 src={`/authors/${post.data.author}.jpg`} 
 alt={`${post.data.title}`}
-className='w-16 lg:max-w-2l mx-auto h-91 rounded-lg sm:mx-0 sm:shrink-0'
+className='w-18 lg:max-w-2l mx-auto h-91 rounded-lg sm:mx-0 sm:shrink-0'
               /> 
           <div className="space-y-2 text-center sm:text-left">
     <div className="">
