@@ -66,13 +66,36 @@ export default defineConfig({
             label: "Image",
             name: "image",
           },
-          {
-            type: 'rich-text',
-            name: 'body',
-            label: 'Body',
-            isBody: true,
-          },
-          {
+        {
+  type: 'rich-text',
+  name: 'body',
+  label: 'Body',
+  isBody: true,
+  templates: [
+    {
+      name: 'img',
+      label: 'Image',
+      fields: [
+        {
+          type: 'string',
+          name: 'url',
+          label: 'Image URL',
+        },
+        {
+          type: 'string',
+          name: 'alt',
+          label: 'Alt Text',
+        },
+        {
+          type: 'string',
+          name: 'caption',
+          label: 'Caption',
+        }
+      ]
+    }
+  ]
+},
+  {
             name: "seo",
             label: "SEO",
             type: "object",
