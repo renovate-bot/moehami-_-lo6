@@ -1,0 +1,21 @@
+{
+  "name": "tina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"next dev\"",
+    "build": "tinacms build && next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.7.8"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.8",
+    "@types/node": "^22.15.29"
+  }
+}
