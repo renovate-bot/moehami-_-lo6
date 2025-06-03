@@ -13,6 +13,7 @@ interface Post {
   frontmatter: {
     title: string;
     date: string;
+    author: string;
     image?: string;
   };
   content: string;
@@ -56,6 +57,7 @@ const BlogImage = ({ src, alt }: { src: string; alt: string }) => {
   };
 const BlogCard = ({ post }: { post: Post }) => {
   const imageSource = post.frontmatter.image;
+  const author = post.frontmatter.author;
   const formattedDate = format(new Date(post.frontmatter.date), 'MMMM dd, yyyy');
   const { ref, isVisible } = useIntersectionObserver(); // Use intersection observer for summary
   // Debug post data
@@ -69,7 +71,7 @@ const BlogCard = ({ post }: { post: Post }) => {
         {imageSource && <BlogImage src={imageSource} alt={post.frontmatter.title} />}
         <CardHeader>
           <CardTitle className="line-clamp-2">{post.frontmatter.title}</CardTitle>
-          <p className="text-sm text-muted-foreground">{formattedDate}</p>
+          <p className="text-sm text-muted-foreground">{formattedDate} | By: {author}</p>
         </CardHeader>
         <CardContent ref={ref} className={`fade-in ${isVisible ? 'show' : ''}`}> 
 <div className="prose prose-sm dark:prose-invert line-clamp-3"> 
