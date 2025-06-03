@@ -13,9 +13,9 @@ interface Post {
   frontmatter: {
     title: string;
     date: string;
-    author: string;
-    image?: string;
+   image?: string;
   };
+  author: string;
   content: string;
   summary: string;
   image?: string;
@@ -57,7 +57,7 @@ const BlogImage = ({ src, alt }: { src: string; alt: string }) => {
   };
 const BlogCard = ({ post }: { post: Post }) => {
   const imageSource = post.frontmatter.image;
-  const author = post.frontmatter.author;
+  const author = post.author;
   const formattedDate = format(new Date(post.frontmatter.date), 'MMMM dd, yyyy');
   const { ref, isVisible } = useIntersectionObserver(); // Use intersection observer for summary
   // Debug post data
