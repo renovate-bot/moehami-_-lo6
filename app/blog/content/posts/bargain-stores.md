@@ -193,7 +193,7 @@ Some items require more scrutiny before purchasing:
 * Visit multiple stores
 * Track prices over time
 
-{"type":"img","url":"\[[https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg](https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg)"}
+{"type":"img","url":"[https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg"}](https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg%22%7D)
 
 ## FAQ: Everything You Need to Know About Bargain Bin Store near me
 
