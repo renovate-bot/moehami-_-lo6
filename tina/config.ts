@@ -41,6 +41,11 @@ export default defineConfig({
             },
           },
         },
+    initialValues: {
+      body: [{ type: "paragraph", children: [{ text: "" }] }]
+    }
+  },
+
         fields: [
           {
             type: "string",
