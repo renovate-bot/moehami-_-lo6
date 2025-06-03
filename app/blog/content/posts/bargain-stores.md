@@ -193,7 +193,9 @@ Some items require more scrutiny before purchasing:
 * Visit multiple stores
 * Track prices over time
 
-![bargain bin Amazon](https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg)
+
+
+{"type":"img","url":"https://assets.tina.io/fe3620ca-485a-4632-b4e1-13e9f71174dd/bargain-bins-near-me.jpg"}
 
 
 ## FAQ: Everything You Need to Know About Bargain Bin Store near me
