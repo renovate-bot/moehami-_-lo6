@@ -37,7 +37,7 @@ export async function getPosts() {
         slug: filename.replace(/\.md$/, ''),
         frontmatter, // Explicitly typed frontmatter
         content: markdownContent.toString(),
-        author: content.author,
+        author: data.author,
         summary: content.slice(0, 200) + '...', // Extract first 200 characters
       };
     })
