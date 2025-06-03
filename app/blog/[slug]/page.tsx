@@ -112,10 +112,10 @@ alt={`${post.data.title}`}
                 priority={true}
 src={`/authors/${post.data.author}.jpg`} 
 alt={`${post.data.title}`}
-className='w-15 lg:max-w-2l mx-auto h-91 rounded-full sm:mx-0 sm:shrink-0'
+className='w-14 lg:max-w-2l mx-auto h-91 rounded-full sm:mx-0 sm:shrink-0'
               /> 
           <div className="space-y-2 text-center sm:text-left">
-    <div className="space-y-0.5">
+    <div className="">
       <span className="text-lg font-semibold text-black">About the author: </span><p className="text-xl font-semibold text-blue-600">{post.data.author}</p>
 
       <p className="font-medium text-gray-500">Crafting engaging narratives that spotlight the unique shopping experience of bin stores.</p>
