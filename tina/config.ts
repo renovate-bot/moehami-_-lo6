@@ -19,7 +19,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "uploads",
       publicFolder: "public",
     },
   },
@@ -41,6 +41,8 @@ export default defineConfig({
             },
           },
         },
+    
+
         fields: [
           {
             type: "string",
@@ -66,36 +68,36 @@ export default defineConfig({
             label: "Image",
             name: "image",
           },
-          {
-            type: 'rich-text',
-            name: 'body',
-            label: 'Body',
-            isBody: true,
-            templates: [
-              {
-                name: 'img',
-                label: 'Image',
-                fields: [
-                  {
-                    type: 'image',
-                    name: 'src',
-                    label: 'Image',
-                  },
-                  {
-                    type: 'string',
-                    name: 'alt',
-                    label: 'Alt Text',
-                  },
-                  {
-                    type: 'string',
-                    name: 'caption',
-                    label: 'Caption',
-                  }
-                ]
-              }
-            ]
-          },
-          {
+        {
+  type: 'rich-text',
+  name: 'body',
+  label: 'Body',
+  isBody: true,
+  templates: [
+    {
+      name: 'img',
+      label: 'Image',
+      fields: [
+        {
+          type: 'string',
+          name: 'url',
+          label: 'Image URL',
+        },
+        {
+          type: 'string',
+          name: 'alt',
+          label: 'Alt Text',
+        },
+        {
+          type: 'string',
+          name: 'caption',
+          label: 'Caption',
+        }
+      ]
+    }
+  ]
+},
+  {
             name: "seo",
             label: "SEO",
             type: "object",
