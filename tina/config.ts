@@ -71,33 +71,6 @@ export default defineConfig({
             name: 'body',
             label: 'Body',
             isBody: true,
-            templates: [
-              {
-                name: 'img',
-                label: 'Image',
-                match: {
-                  start: '{% img',
-                  end: '%}',
-                },
-                fields: [
-                  {
-                    type: 'image',
-                    name: 'url',
-                    label: 'Image',
-                  },
-                  {
-                    type: 'string',
-                    name: 'alt',
-                    label: 'Alt Text',
-                  },
-                  {
-                    type: 'string',
-                    name: 'caption',
-                    label: 'Caption',
-                  }
-                ]
-              }
-            ]
           },
           {
             name: "seo",
