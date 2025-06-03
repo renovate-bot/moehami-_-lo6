@@ -9,6 +9,7 @@ const postsDirectory = path.join(process.cwd(), 'app/blog/content/posts');
 interface Frontmatter {
   title: string;
   date: string;
+  author: string;
   image?: string; // Optional image field
 }
 
@@ -26,6 +27,7 @@ export async function getPosts() {
       const frontmatter: Frontmatter = {
         title: data.title || 'Untitled', // Provide default title if missing
         date: data.date || '', // Provide empty string if date is missing
+        author: data.author || '',
         image: data.image || '', // Provide default empty string if image is missing
       };
 
