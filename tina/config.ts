@@ -75,6 +75,10 @@ export default defineConfig({
               {
                 name: 'img',
                 label: 'Image',
+                match: {
+                  start: '{% img',
+                  end: '%}',
+                },
                 fields: [
                   {
                     type: 'image',
