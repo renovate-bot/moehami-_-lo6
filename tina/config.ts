@@ -1,8 +1,17 @@
- // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-  // Get this from tina.io
-  token: process.env.TINA_TOKEN,
-  apiURL: process.env.NEXT_PUBLIC_APIURL,
+import { defineConfig } from "tinacms";
+import slugify from "slugify"; // For generating SEO-friendly filenames
+
+const branch =
+  process.env.GITHUB_BRANCH ||
+  process.env.VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD ||
+  "main";
+
+export default defineConfig({
+  branch,
+clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+ token: process.env.TINA_TOKEN, 
+   
   build: {
     outputFolder: "admin",
     publicFolder: "public",
