@@ -7,7 +7,8 @@
   base = "/"
   # Configure the local build plugin
 [[plugins]]
-  package = "./plugins/internal-link-builder"
+  package = "."
+
 
 
 
