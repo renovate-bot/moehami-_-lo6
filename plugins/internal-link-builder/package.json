@@ -1,0 +1,24 @@
+{
+  "name": "internal-link-builder",
+  "version": "1.0.0",
+  "description": "A Netlify Build Plugin to generate a search index for internal links.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "netlify",
+    "netlify-plugin"
+  ],
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "remark": "^15.0.1",
+    "strip-markdown": "^5.0.0"
+  },
+  "devDependencies": {
+    "ava": "^6.1.1"
+  },
+  "author": "MOe",
+  "license": "MIT"
+}
