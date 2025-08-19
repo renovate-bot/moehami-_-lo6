@@ -7,8 +7,5 @@
   publish = "out"
   base = "/"
 
-[build.lifecycle]
-  prebuild = "npm --prefix ./plugins/internal-link-builder install"
-
 [[plugins]]
   package = "./plugins/internal-link-builder"
