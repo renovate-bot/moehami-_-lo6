@@ -1,11 +1,24 @@
+[build]
+  command = "npm ci && npm --prefix ./plugins/internal-link-builder ci && npm run build"
+  publish = "out"
+  base = "/"
+
+# Explicit caching
 [build.environment]
   NODE_VERSION = "20.18.1"
   NEXT_VERBOSE = "true"
+  NPM_FLAGS = "--no-audit --no-fund"
 
-[build]
-  command = "npm --prefix ./plugins/internal-link-builder install && npm run build"
-  publish = "out"
-  base = "/"
+[build.processing]
+  skip_processing = true
+
+# Cache both root and plugin dependencies
+[build.cache]
+  paths = [
+    "node_modules",
+    "plugins/internal-link-builder/node_modules",
+    "~/.npm"
+  ]
 
 [[plugins]]
   package = "./plugins/internal-link-builder"
