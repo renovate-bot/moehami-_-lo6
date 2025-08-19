@@ -3,7 +3,7 @@
   NEXT_VERBOSE = "true"
 
 [build]
-  command = "npm run build"
+  command = "npm --prefix ./plugins/internal-link-builder install && npm run build"
   publish = "out"
   base = "/"
 
