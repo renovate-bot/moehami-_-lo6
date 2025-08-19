@@ -1,5 +1,5 @@
 [build.environment]
-  NODE_VERSION = "20.17.0"
+  NODE_VERSION = "20.18.1"
   NEXT_VERBOSE = "true"
 
 [build]
