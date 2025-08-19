@@ -108,6 +108,15 @@ clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
           },
         ],
       },
+          // The custom field for the internal linking assistant
+          {
+            type: "string", // Use 'string' since you're using it to trigger the UI
+            name: "internalLinksAssistant",
+            label: "Internal Links Assistant",
+            // This is the key part: linking the custom UI component
+            ui: {
+              component: LinkSuggestor,
+            },
       {
         label: "State Texts",
         name: "stateTexts",
