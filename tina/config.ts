@@ -1,3 +1,4 @@
+import LinkSuggestor from "../components/LinkSuggestor";
 import { defineConfig } from "tinacms";
 import slugify from "slugify"; // For generating SEO-friendly filenames
 
