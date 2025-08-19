@@ -117,6 +117,7 @@ clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
             ui: {
               component: LinkSuggestor,
             },
+          },
       {
         label: "State Texts",
         name: "stateTexts",
