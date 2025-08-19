@@ -1,0 +1,11 @@
+name: internal-link-builder
+inputs: []
+# The following build event hooks tell Netlify when to run your plugin.
+# `onPostBuild` is perfect for this as it happens after your site is generated.
+# For more info on hooks, see: https://docs.netlify.com/extend/develop-and-share/events-lifecycle/
+#
+# If you wanted to do something *before* the build, you could use `onPreBuild`
+# instead, for example.
+#
+# This file is also where you would specify any configuration inputs, but
+# this plugin doesn't need any.
