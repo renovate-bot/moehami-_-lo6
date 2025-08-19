@@ -3,12 +3,9 @@
   NEXT_VERBOSE = "true"
 
 [build]
-  command = "npm run build"
+  command = "npm --prefix ./plugins/internal-link-builder install && npm run build"
   publish = "out"
-  base = "."
-
-[build.lifecycle]
-  build_pre_script = "npm --prefix ./plugins/internal-link-builder install"
+  base = "/"
 
 [[plugins]]
   package = "./plugins/internal-link-builder"
