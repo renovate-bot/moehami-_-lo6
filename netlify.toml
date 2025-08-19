@@ -1,14 +1,12 @@
 [build.environment]
   NODE_VERSION = "20.17.0"
   NEXT_VERBOSE = "true"
-  [build]
+
+[build]
   command = "npm run build"
-  publish = "/out"
+  publish = "out"
   base = "/"
-  # Configure the local build plugin
+
+# Configure the local build plugin
 [[plugins]]
-  package = "."
-
-
-
-
+  package = "./plugins/internal-link-builder"
